@@ -1,0 +1,1134 @@
+{
+  "levelId": "en-c2",
+  "language": "en",
+  "code": "C2",
+  "order": 6,
+  "title": {
+    "vi": "Tinh thông C2 — Sắc thái văn chương và điều hành",
+    "en": "Mastery C2 — Literary & Executive Precision"
+  },
+  "subtitle": {
+    "vi": "Độ chính xác ngữ nghĩa, nói giảm hàm ý và tổng hợp chiến lược",
+    "en": "Literary precision, understated irony, and executive synthesis"
+  },
+  "estimatedMinutes": 60,
+  "lessons": [
+    {
+      "id": "en-c2-l1",
+      "levelId": "en-c2",
+      "order": 1,
+      "title": {
+        "native": "Literary Precision",
+        "vi": "Độ chính xác ngôn từ văn chương",
+        "en": "Literary Precision"
+      },
+      "topic": "literature",
+      "summary": {
+        "vi": "Làm chủ phép tỉnh lược (ellipsis), liên từ trang trọng và lựa chọn từ vựng giàu sức gợi.",
+        "en": "Master stylistic ellipsis, formal connectors, and evocative lexical precision."
+      },
+      "xpReward": 70,
+      "vocabulary": [
+        {
+          "id": "en-c2-l1-v1",
+          "term": "ephemeral",
+          "reading": "/ɪˈfemərəl/",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "phù du, chóng tàn",
+            "en": "ephemeral"
+          },
+          "example": {
+            "text": "Digital trends are notoriously ephemeral compared with enduring classics.",
+            "reading": "/ˈdɪdʒɪtəl trendz ɑːr noʊˈtɔːriəsli ɪˈfemərəl kəmˈperd wɪð ɪnˈdʊrɪŋ ˈklæsɪks/",
+            "meaning": {
+              "vi": "Xu hướng số vốn nổi tiếng chóng tàn khi đặt cạnh những tác phẩm kinh điển bền bỉ.",
+              "en": "Digital trends are notoriously ephemeral compared with enduring classics."
+            }
+          },
+          "note": {
+            "vi": "Gốc Hy Lạp 'epi + hemera' (kéo dài trong một ngày).",
+            "en": "Derived from Greek meaning 'lasting only a day'."
+          }
+        },
+        {
+          "id": "en-c2-l1-v2",
+          "term": "eloquent",
+          "reading": "/ˈeləkwənt/",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "hùng hồn, biểu cảm sâu sắc",
+            "en": "eloquent"
+          },
+          "example": {
+            "text": "Her silence proved more eloquent than any prepared speech.",
+            "reading": "/hɜːr ˈsaɪləns pruːvd mɔːr ˈeləkwənt ðæn ˈeni prɪˈperd spiːtʃ/",
+            "meaning": {
+              "vi": "Sự im lặng của bà còn giàu sức biểu cảm hơn mọi bài diễn văn soạn sẵn.",
+              "en": "Her silence proved more eloquent than any prepared speech."
+            }
+          },
+          "note": {
+            "vi": "Có thể miêu tả cả lời nói lẫn cử chỉ/hình ảnh ('an eloquent silence').",
+            "en": "Applies to both speech and expressive silence or imagery."
+          }
+        },
+        {
+          "id": "en-c2-l1-v3",
+          "term": "evoke",
+          "reading": "/ɪˈvoʊk/",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "gợi lên (ký ức, cảm xúc)",
+            "en": "to evoke"
+          },
+          "example": {
+            "text": "A single scent of rain can evoke childhood summers.",
+            "reading": "/ə ˈsɪŋɡəl sent əv reɪn kæn ɪˈvoʊk ˈtʃaɪldhʊd ˈsʌmərz/",
+            "meaning": {
+              "vi": "Chỉ một mùi mưa thoảng qua cũng có thể gợi lại những mùa hè thơ ấu.",
+              "en": "A single scent of rain can evoke childhood summers."
+            }
+          },
+          "note": {
+            "vi": "Phân biệt với 'invoke' (viện dẫn luật lệ, quyền lực hoặc thần linh).",
+            "en": "Contrast 'evoke' (bring feelings/memories to mind) with 'invoke' (cite a rule/authority)."
+          }
+        },
+        {
+          "id": "en-c2-l1-v4",
+          "term": "juxtapose",
+          "reading": "/ˌdʒʌkstəˈpoʊz/",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "đặt cạnh nhau để đối chiếu",
+            "en": "to juxtapose"
+          },
+          "example": {
+            "text": "The essay juxtaposes quiet rural routines with urban haste.",
+            "reading": "/ði ˈeseɪ ˌdʒʌkstəˈpoʊzɪz ˈkwaɪət ˈrʊrəl ruːˈtiːnz wɪð ˈɜːrbən heɪst/",
+            "meaning": {
+              "vi": "Bài tản văn đặt nhịp sống thôn quê tĩnh lặng cạnh sự vội vã nơi đô thị.",
+              "en": "The essay juxtaposes quiet rural routines with urban haste."
+            }
+          },
+          "note": {
+            "vi": "Danh từ là 'juxtaposition' (sự đặt kề đối lập).",
+            "en": "Noun form: 'juxtaposition'."
+          }
+        },
+        {
+          "id": "en-c2-l1-v5",
+          "term": "succinct",
+          "reading": "/səkˈsɪŋkt/",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "cô đọng, súc tích",
+            "en": "succinct"
+          },
+          "example": {
+            "text": "His closing paragraph was remarkably succinct yet resonant.",
+            "reading": "/hɪz ˈkloʊzɪŋ ˈperəɡræf wʌz rɪˈmɑːrkəbli səkˈsɪŋkt jet ˈrezənənt/",
+            "meaning": {
+              "vi": "Đoạn kết của ông cô đọng đến đáng kinh ngạc mà vẫn ngân vang.",
+              "en": "His closing paragraph was remarkably succinct yet resonant."
+            }
+          },
+          "note": {
+            "vi": "Âm /k/ trước /s/ vẫn được phát âm: /səkˈsɪŋkt/.",
+            "en": "Pronounce both consonants in '-cc-': /səkˈsɪŋkt/."
+          }
+        },
+        {
+          "id": "en-c2-l1-v6",
+          "term": "resonant",
+          "reading": "/ˈrezənənt/",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "vang vọng, tạo dư âm sâu",
+            "en": "resonant"
+          },
+          "example": {
+            "text": "Translators strive to preserve resonant idioms across languages.",
+            "reading": "/ˈtrænsleɪtərz straɪv tuː prɪˈzɜːrv ˈrezənənt ˈɪdiəmz əˈkrɔːs ˈlæŋɡwɪdʒɪz/",
+            "meaning": {
+              "vi": "Người dịch nỗ lực giữ lại những thành ngữ giàu dư âm giữa các ngôn ngữ.",
+              "en": "Translators strive to preserve resonant idioms across languages."
+            }
+          },
+          "note": {
+            "vi": "Động từ đi kèm: 'resonate with readers'.",
+            "en": "Verb form: 'resonate with'."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "en-c2-l1-g1",
+          "pattern": "Stylistic Ellipsis & Pro-forms ('so', 'such', 'those who')",
+          "title": {
+            "vi": "Phép tỉnh lược tinh tế và đại từ thay thế văn chương",
+            "en": "Stylistic Ellipsis & Pro-Forms"
+          },
+          "structure": "Subject + did so / if so / where necessary / ...than did earlier generations",
+          "explanation": {
+            "vi": "Tỉnh lược những thành phần lặp lại hoặc thay cả mệnh đề bằng 'so' / 'did so' giúp câu văn súc tích, nhịp nhàng như văn chương mẫu mực.",
+            "en": "Omit predictable elements or substitute whole clauses with 'so' / 'did so' to maintain crisp cadence."
+          },
+          "usageNote": {
+            "vi": "Cũng có thể đảo trợ động từ sau 'than' hoặc 'as' trong văn trang trọng ('more vividly than did his peers').",
+            "en": "Formal prose often inverts the auxiliary after 'than' or 'as'."
+          },
+          "examples": [
+            {
+              "text": "She revised the prologue carefully, and rightly so.",
+              "reading": "/ʃiː rɪˈvaɪzd ðə ˈproʊlɔːɡ ˈkerfəli ænd ˈraɪtli soʊ/",
+              "meaning": {
+                "vi": "Cô ấy chỉnh sửa lời mở đầu rất kỹ, và hoàn toàn xác đáng khi làm vậy.",
+                "en": "She revised the prologue carefully, and rightly so."
+              }
+            },
+            {
+              "text": "Poetry endures longer than does ephemeral commentary.",
+              "reading": "/ˈpoʊətri ɪnˈdʊrz ˈlɔːŋɡər ðæn dʌz ɪˈfemərəl ˈkɑːmənteri/",
+              "meaning": {
+                "vi": "Thơ ca trường tồn lâu hơn những lời bình luận chóng qua.",
+                "en": "Poetry endures longer than does ephemeral commentary."
+              }
+            }
+          ]
+        },
+        {
+          "id": "en-c2-l1-g2",
+          "pattern": "Formal Connectors: 'Inasmuch as', 'By the same token', 'Hitherto'",
+          "title": {
+            "vi": "Liên từ hàn lâm và mạch liên kết trang trọng",
+            "en": "Elevated Discourse Connectors"
+          },
+          "structure": "Inasmuch as + Clause | By the same token, + Clause",
+          "explanation": {
+            "vi": "'Inasmuch as' diễn đạt nghĩa 'xét đến khía cạnh rằng / bởi lẽ'; 'By the same token' dùng để đưa ra hệ quả song hành theo cùng logic.",
+            "en": "'Inasmuch as' means 'to the extent that / since'; 'By the same token' extends the same reasoning to a parallel point."
+          },
+          "usageNote": {
+            "vi": "Dùng trong tiểu luận, bài phê bình hoặc diễn văn trang trọng.",
+            "en": "Reserved for essays, literary criticism, and formal rhetoric."
+          },
+          "examples": [
+            {
+              "text": "Translation is creative inasmuch as every language carves reality differently.",
+              "reading": "/trænsˈleɪʃən ɪz kriˈeɪtɪv ˌɪnəzˈmʌtʃ æz ˈevri ˈlæŋɡwɪdʒ kɑːrvz riˈæləti ˈdɪfərəntli/",
+              "meaning": {
+                "vi": "Dịch thuật mang tính sáng tạo xét ở chỗ mỗi ngôn ngữ phân cắt thực tại theo cách riêng.",
+                "en": "Translation is creative inasmuch as every language carves reality differently."
+              }
+            },
+            {
+              "text": "By the same token, brevity should never sacrifice clarity.",
+              "reading": "/baɪ ðə seɪm ˈtoʊkən ˈbrevəti ʃʊd ˈnevər ˈsækrɪfaɪs ˈklærəti/",
+              "meaning": {
+                "vi": "Theo cùng lẽ đó, sự ngắn gọn không bao giờ nên đánh đổi lấy sự sáng rõ.",
+                "en": "By the same token, brevity should never sacrifice clarity."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Về nghệ thuật dịch và giữ dư âm ngôn từ",
+          "en": "On Literary Translation & Resonance"
+        },
+        "mode": "reading",
+        "context": {
+          "vi": "Đoạn tiểu luận về thách thức truyền tải sắc thái văn chương giữa Anh, Trung và Nhật.",
+          "en": "A literary essay excerpt on preserving tone across languages."
+        },
+        "lines": [
+          {
+            "speaker": "Essayist",
+            "text": "Good prose rarely shouts; instead, it juxtaposes ordinary images until a deeper truth emerges.",
+            "reading": "/ɡʊd proʊz ˈrerli ʃaʊts | ɪnˈsted ɪt ˌdʒʌkstəˈpoʊzɪz ˈɔːrdəneri ˈɪmɪdʒɪz ənˈtɪl ə ˈdiːpər truːθ ɪˈmɜːrdʒɪz/",
+            "meaning": {
+              "vi": "Văn xuôi hay hiếm khi gào thét; thay vào đó, nó đặt cạnh nhau những hình ảnh đời thường cho tới khi chân lý sâu xa tự hiển lộ.",
+              "en": "Good prose rarely shouts; instead, it juxtaposes ordinary images until a deeper truth emerges."
+            }
+          },
+          {
+            "speaker": "Essayist",
+            "text": "What renders a line eloquent is less ornament than restraint—knowing precisely what to leave unsaid.",
+            "reading": "/wʌt ˈrendərz ə laɪn ˈeləkwənt ɪz les ˈɔːrnəmənt ðæn rɪˈstreɪnt | ˈnoʊɪŋ prɪˈsaɪsli wʌt tuː liːv ʌnˈsed/",
+            "meaning": {
+              "vi": "Điều làm một câu văn giàu sức biểu cảm không nằm ở hoa mỹ mà ở sự tiết chế — biết chính xác điều gì nên giữ lại không nói hết.",
+              "en": "What renders a line eloquent is less ornament than restraint—knowing precisely what to leave unsaid."
+            }
+          },
+          {
+            "speaker": "Essayist",
+            "text": "A translator succeeds inasmuch as the target version can evoke the same hush as did the original.",
+            "reading": "/ə ˈtrænsleɪtər səkˈsiːdz ˌɪnəzˈmʌtʃ æz ðə ˈtɑːrɡɪt ˈvɜːrʒən kæn ɪˈvoʊk ðə seɪm hʌʃ æz dɪd ði əˈrɪdʒənəl/",
+            "meaning": {
+              "vi": "Người dịch thành công xét ở chỗ bản dịch có thể gợi lại đúng khoảng lặng như nguyên tác từng làm.",
+              "en": "A translator succeeds inasmuch as the target version can evoke the same hush as did the original."
+            }
+          },
+          {
+            "speaker": "Essayist",
+            "text": "Ephemeral slogans fade quickly; succinct, resonant phrasing outlives its era.",
+            "reading": "/ɪˈfemərəl ˈsloʊɡənz feɪd ˈkwɪkli | səkˈsɪŋkt ˈrezənənt ˈfreɪzɪŋ ˌaʊtˈlɪvz ɪts ˈɪrə/",
+            "meaning": {
+              "vi": "Những khẩu hiệu phù du chóng phai; lối diễn đạt súc tích, giàu dư âm sống lâu hơn thời đại của nó.",
+              "en": "Ephemeral slogans fade quickly; succinct, resonant phrasing outlives its era."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Ở trình độ C2, sự tinh tế không nằm ở dùng từ dài dòng mà ở 'restraint' (tiết chế) và chọn đúng một động từ chính xác.",
+          "en": "At C2 mastery, elegance comes from lexical precision and restraint rather than ornate complexity."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "en-c2-l1-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Tính từ nào miêu tả thứ gì đó 'chỉ tồn tại ngắn ngủi, phù du'?",
+            "en": "Which adjective describes something lasting only a brief time?"
+          },
+          "targetText": "___ popularity",
+          "options": [
+            "ephemeral",
+            "eloquent",
+            "succinct",
+            "resonant"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'ephemeral' mang nghĩa phù du, chóng tàn.",
+            "en": "'ephemeral' means short-lived or transitory."
+          }
+        },
+        {
+          "id": "en-c2-l1-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn phiên âm đúng của 'succinct'.",
+            "en": "Choose the accurate IPA for 'succinct'."
+          },
+          "targetText": "succinct",
+          "ttsText": "succinct",
+          "options": [
+            "/ˈsʌsɪnt/",
+            "/səkˈsɪŋkt/",
+            "/ˈeləkwənt/",
+            "/ɪˈvoʊk/"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "vi": "'succinct' phát âm đủ /k/ và /s/: /səkˈsɪŋkt/.",
+            "en": "'succinct' sounds both /k/ and /s/: /səkˈsɪŋkt/."
+          }
+        },
+        {
+          "id": "en-c2-l1-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn liên từ hàn lâm phù hợp với cấu trúc câu:",
+            "en": "Select the formal connector fitting this sentence:"
+          },
+          "targetText": "The policy is fair ___ it treats every applicant equally.",
+          "ttsText": "The policy is fair inasmuch as it treats every applicant equally.",
+          "options": [
+            "inasmuch as",
+            "albeit",
+            "by token",
+            "hitherto"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'inasmuch as' dẫn một mệnh đề đầy đủ với nghĩa 'xét ở khía cạnh rằng / bởi vì'.",
+            "en": "'inasmuch as' introduces a full clause meaning 'insofar as / because'."
+          }
+        },
+        {
+          "id": "en-c2-l1-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu văn sử dụng 'evoke' chuẩn xác.",
+            "en": "Order the words into an evocative literary sentence."
+          },
+          "targetMeaning": {
+            "vi": "Mùi hương ấy gợi lên những ký ức xa xưa.",
+            "en": "That scent evokes distant memories."
+          },
+          "tokens": [
+            "distant",
+            "That",
+            "memories.",
+            "evokes",
+            "scent"
+          ],
+          "correctOrder": [
+            "That",
+            "scent",
+            "evokes",
+            "distant",
+            "memories."
+          ],
+          "correctSentence": "That scent evokes distant memories.",
+          "explanation": {
+            "vi": "Trật tự chuẩn: That scent + evokes + distant memories.",
+            "en": "Standard clause order: That scent + evokes + distant memories."
+          }
+        }
+      ]
+    },
+    {
+      "id": "en-c2-l2",
+      "levelId": "en-c2",
+      "order": 2,
+      "title": {
+        "native": "Irony & Understatement",
+        "vi": "Châm biếm nhẹ và nói giảm hàm ý",
+        "en": "Irony & Understatement"
+      },
+      "topic": "pragmatics",
+      "summary": {
+        "vi": "Nhận diện và vận dụng nghệ thuật nói giảm (litotes / understatement) cùng sắc thái châm biếm lịch thiệp.",
+        "en": "Recognize and apply English understatement, litotes, and dry situational irony."
+      },
+      "xpReward": 70,
+      "vocabulary": [
+        {
+          "id": "en-c2-l2-v1",
+          "term": "understatement",
+          "reading": "/ˈʌndərsteɪtmənt/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "cách nói giảm nhẹ dưới mức thực tế",
+            "en": "understatement"
+          },
+          "example": {
+            "text": "Calling a blizzard 'a bit chilly' is a classic understatement.",
+            "reading": "/ˈkɔːlɪŋ ə ˈblɪzərd ə bɪt ˈtʃɪli ɪz ə ˈklæsɪk ˈʌndərsteɪtmənt/",
+            "meaning": {
+              "vi": "Gọi một trận bão tuyết là 'hơi se lạnh' là kiểu nói giảm kinh điển.",
+              "en": "Calling a blizzard 'a bit chilly' is a classic understatement."
+            }
+          },
+          "note": {
+            "vi": "Nét đặc trưng nổi tiếng trong giao tiếp Anh-Anh và hài hước thâm thúy.",
+            "en": "A hallmark of British dry humor and restrained critique."
+          }
+        },
+        {
+          "id": "en-c2-l2-v2",
+          "term": "wry",
+          "reading": "/raɪ/",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "dí dỏm pha chút châm biếm kín đáo",
+            "en": "wry"
+          },
+          "example": {
+            "text": "She offered a wry smile when the printer jammed before the board meeting.",
+            "reading": "/ʃiː ˈɔːfərd ə raɪ smaɪl wen ðə ˈprɪntər dʒæmd bɪˈfɔːr ðə bɔːrd ˈmiːtɪŋ/",
+            "meaning": {
+              "vi": "Cô ấy nở nụ cười hóm hỉnh bất đắc dĩ khi máy in kẹt ngay trước cuộc họp hội đồng.",
+              "en": "She offered a wry smile when the printer jammed before the board meeting."
+            }
+          },
+          "note": {
+            "vi": "Chữ 'w' câm, đọc giống từ 'rye' (/raɪ/).",
+            "en": "Silent 'w': pronounced identically to 'rye' (/raɪ/)."
+          }
+        },
+        {
+          "id": "en-c2-l2-v3",
+          "term": "subtext",
+          "reading": "/ˈsʌbtekst/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "hàm ý ngầm phía sau câu chữ",
+            "en": "subtext"
+          },
+          "example": {
+            "text": "Diplomatic phrasing often carries more subtext than explicit warnings.",
+            "reading": "/ˌdɪpləˈmætɪk ˈfreɪzɪŋ ˈɔːfən ˈkeriz mɔːr ˈsʌbtekst ðæn ɪkˈsplɪsɪt ˈwɔːrnɪŋz/",
+            "meaning": {
+              "vi": "Cách diễn đạt ngoại giao thường mang nhiều hàm ý ngầm hơn cả lời cảnh báo trực diện.",
+              "en": "Diplomatic phrasing often carries more subtext than explicit warnings."
+            }
+          },
+          "note": {
+            "vi": "Cụm hay gặp: 'read between the lines for the subtext'.",
+            "en": "Frequently paired with 'catch the subtext' or 'underlying subtext'."
+          }
+        },
+        {
+          "id": "en-c2-l2-v4",
+          "term": "facetious",
+          "reading": "/fəˈsiːʃəs/",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "bông đùa không đúng lúc, nói đùa cợt nhả",
+            "en": "facetious"
+          },
+          "example": {
+            "text": "I wasn't being facetious; the deadline genuinely needs revising.",
+            "reading": "/aɪ ˈwʌzənt ˈbiːɪŋ fəˈsiːʃəs | ðə ˈdedlaɪn ˈdʒenjuɪnli niːdz rɪˈvaɪzɪŋ/",
+            "meaning": {
+              "vi": "Tôi không nói đùa cợt đâu; hạn chót thực sự cần được điều chỉnh.",
+              "en": "I wasn't being facetious; the deadline genuinely needs revising."
+            }
+          },
+          "note": {
+            "vi": "Một trong số ít từ tiếng Anh chứa đủ 5 nguyên âm a-e-i-o-u theo đúng thứ tự!",
+            "en": "Famous spelling trivia: contains a, e, i, o, u in exact alphabetical order."
+          }
+        },
+        {
+          "id": "en-c2-l2-v5",
+          "term": "incongruous",
+          "reading": "/ɪnˈkɑːŋɡruəs/",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "lạc lõng, không ăn nhập với bối cảnh",
+            "en": "incongruous"
+          },
+          "example": {
+            "text": "His breezy tone felt incongruous with the gravity of the audit.",
+            "reading": "/hɪz ˈbriːzi toʊn felt ɪnˈkɑːŋɡruəs wɪð ðə ˈɡrævəti əv ði ˈɔːdɪt/",
+            "meaning": {
+              "vi": "Giọng điệu thản nhiên của anh ta trở nên lạc lõng trước tính nghiêm trọng của cuộc kiểm toán.",
+              "en": "His breezy tone felt incongruous with the gravity of the audit."
+            }
+          },
+          "note": {
+            "vi": "Đi với giới từ 'with'.",
+            "en": "Takes the preposition 'with'."
+          }
+        },
+        {
+          "id": "en-c2-l2-v6",
+          "term": "candid",
+          "reading": "/ˈkændɪd/",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "thẳng thắn, chân thành",
+            "en": "candid"
+          },
+          "example": {
+            "text": "Let me be candid: the prototype is not yet ready for release.",
+            "reading": "/let miː biː ˈkændɪd | ðə ˈproʊtətaɪp ɪz nɑːt jet ˈredi fɔːr rɪˈliːs/",
+            "meaning": {
+              "vi": "Nói thẳng nhé: bản thử nghiệm vẫn chưa sẵn sàng để phát hành.",
+              "en": "Let me be candid: the prototype is not yet ready for release."
+            }
+          },
+          "note": {
+            "vi": "Khác với 'blunt' (thẳng nhưng thô), 'candid' mang nghĩa thẳng thắn đáng trân trọng.",
+            "en": "Positive contrast to 'blunt': honest and direct without malice."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "en-c2-l2-g1",
+          "pattern": "Litotes: 'not un-' / 'hardly' / 'scarcely' + positive/negative",
+          "title": {
+            "vi": "Phép nói giảm bằng phủ định kép (Litotes)",
+            "en": "Litotes & Restrained Qualification"
+          },
+          "structure": "not insignificant / not unfamiliar / hardly ideal",
+          "explanation": {
+            "vi": "Phủ định của từ trái nghĩa (ví dụ 'not insignificant' = khá lớn, 'hardly ideal' = khá tệ) tạo giọng điệu điềm đạm, châm biếm nhẹ hoặc giữ thể diện.",
+            "en": "Negating the opposite ('not insignificant', 'hardly ideal') conveys emphasis or gentle criticism with cool restraint."
+          },
+          "usageNote": {
+            "vi": "Khi người Anh nói 'That's not entirely helpful', hàm ý thực sự là 'Điều đó đang gây rắc rối'.",
+            "en": "Decode cultural understatement: 'not entirely helpful' often means 'counterproductive'."
+          },
+          "examples": [
+            {
+              "text": "Launching without user testing is hardly an optimal strategy.",
+              "reading": "/ˈlɔːntʃɪŋ wɪˈðaʊt ˈjuːzər ˈtestɪŋ ɪz ˈhɑːrdli æn ˈɑːptɪməl ˈstrætədʒi/",
+              "meaning": {
+                "vi": "Ra mắt mà không kiểm thử người dùng hầu như chẳng phải chiến lược tối ưu đâu.",
+                "en": "Launching without user testing is hardly an optimal strategy."
+              }
+            },
+            {
+              "text": "The cost of delaying the migration was not insignificant.",
+              "reading": "/ðə kɔːst əv dɪˈleɪɪŋ ðə maɪˈɡreɪʃən wʌz nɑːt ˌɪnsɪɡˈnɪfɪkənt/",
+              "meaning": {
+                "vi": "Chi phí của việc trì hoãn chuyển đổi hệ thống là không hề nhỏ.",
+                "en": "The cost of delaying the migration was not insignificant."
+              }
+            }
+          ]
+        },
+        {
+          "id": "en-c2-l2-g2",
+          "pattern": "Pragmatic Hedging & Polite Irony Markers",
+          "title": {
+            "vi": "Dấu hiệu ngữ dụng rào đón và chuyển giọng",
+            "en": "Pragmatic Markers: 'With respect', 'To put it mildly'",
+            "en_note": "diplomatic"
+          },
+          "structure": "To put it mildly, ... | One might argue that... | As it happens, ...",
+          "explanation": {
+            "vi": "'To put it mildly' báo hiệu câu sắp tới đang nói giảm đi nhiều so với sự thật phũ phàng; 'One might argue' giữ khoảng cách khách quan lịch thiệp.",
+            "en": "'To put it mildly' signals deliberate understatement; 'One might argue' frames critique tactfully."
+          },
+          "usageNote": {
+            "vi": "Chú ý: 'With all due respect' đôi khi mang hàm ý phản bác rất gay gắt phía sau.",
+            "en": "Note that 'With all due respect' often precedes sharp disagreement."
+          },
+          "examples": [
+            {
+              "text": "To put it mildly, the rollout was less than seamless.",
+              "reading": "/tuː pʊt ɪt ˈmaɪldli ðə ˈroʊlaʊt wʌz les ðæn ˈsiːmləs/",
+              "meaning": {
+                "vi": "Nói nhẹ nhàng thì đợt triển khai vừa rồi chẳng êm ả chút nào.",
+                "en": "To put it mildly, the rollout was less than seamless."
+              }
+            },
+            {
+              "text": "As it happens, the 'urgent' bug had already been patched yesterday.",
+              "reading": "/æz ɪt ˈhæpənz ði ˈɜːrdʒənt bʌɡ hæd ɔːlˈredi biːn pætʃt ˈjestərdeɪ/",
+              "meaning": {
+                "vi": "Trùng hợp thay, cái lỗi 'khẩn cấp' ấy thật ra đã được vá từ hôm qua rồi.",
+                "en": "As it happens, the 'urgent' bug had already been patched yesterday."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Giải mã hàm ý trong cuộc họp điều hành",
+          "en": "Reading Between the Lines"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Hai đồng nghiệp trao đổi sau cuộc họp dự án có nhiều câu nói giảm hàm ý.",
+          "en": "Two colleagues unpack the polite understatement heard in an executive review."
+        },
+        "lines": [
+          {
+            "speaker": "Minh Anh",
+            "text": "When the director said the timeline was 'ambitious, to put it mildly,' did you catch the subtext?",
+            "reading": "/wen ðə dɪˈrektər sed ðə ˈtaɪmlaɪn wʌz æmˈbɪʃəs tuː pʊt ɪt ˈmaɪldli dɪd juː kætʃ ðə ˈsʌbtekst/",
+            "meaning": {
+              "vi": "Lúc giám đốc bảo tiến độ 'đầy tham vọng, nói nhẹ nhàng là vậy', bạn có bắt được hàm ý không?",
+              "en": "When the director said the timeline was 'ambitious, to put it mildly,' did you catch the subtext?"
+            }
+          },
+          {
+            "speaker": "David",
+            "text": "Oh yes—that was a classic understatement. He meant the schedule is barely realistic.",
+            "reading": "/oʊ jes | ðæt wʌz ə ˈklæsɪk ˈʌndərsteɪtmənt | hiː ment ðə ˈskedʒuːl ɪz ˈberli ˌriːəˈlɪstɪk/",
+            "meaning": {
+              "vi": "Có chứ — đó là kiểu nói giảm kinh điển. Ý ông ấy là lịch trình gần như không thực tế.",
+              "en": "Oh yes—that was a classic understatement. He meant the schedule is barely realistic."
+            }
+          },
+          {
+            "speaker": "Minh Anh",
+            "text": "And his wry remark about adding 'just three more committees' wasn't facetious—he finds our process bloated.",
+            "reading": "/ænd hɪz raɪ rɪˈmɑːrk əˈbaʊt ˈædɪŋ dʒʌst θriː mɔːr kəˈmɪtiz ˈwʌzənt fəˈsiːʃəs | hiː faɪndz ˈaʊər ˈprɑːses ˈbloʊtɪd/",
+            "meaning": {
+              "vi": "Và câu nói hóm hỉnh về việc thêm 'chỉ ba ủy ban nữa thôi' không phải đùa suông — ông ấy thấy quy trình của mình đang cồng kềnh.",
+              "en": "And his wry remark about adding 'just three more committees' wasn't facetious—he finds our process bloated."
+            }
+          },
+          {
+            "speaker": "David",
+            "text": "True. A candid simplification before Friday would be not insignificant for team morale.",
+            "reading": "/truː | ə ˈkændɪd ˌsɪmplɪfɪˈkeɪʃən bɪˈfɔːr ˈfraɪdeɪ wʊd biː nɑːt ˌɪnsɪɡˈnɪfɪkənt fɔːr tiːm məˈræl/",
+            "meaning": {
+              "vi": "Đúng vậy. Một sự tinh giản thẳng thắn trước thứ Sáu sẽ có ý nghĩa không nhỏ cho tinh thần cả nhóm.",
+              "en": "True. A candid simplification before Friday would be not insignificant for team morale."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Hiểu được 'subtext' trong tiếng Anh giúp người học tránh hiểu nhầm nghĩa đen khi người bản xứ khen nhẹ hay phê bình gián tiếp.",
+          "en": "Recognizing pragmatic subtext prevents taking polite English understatement at face value."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "en-c2-l2-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Câu nào thể hiện phép nói giảm (litotes) mang nghĩa 'rất đáng kể'?",
+            "en": "Which phrase uses litotes to mean 'quite considerable'?"
+          },
+          "targetText": "litotes",
+          "options": [
+            "not insignificant",
+            "completely trivial",
+            "overly loud",
+            "rather forgettable"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'not insignificant' dùng phủ định kép để nói một cách điềm đạm rằng điều đó rất đáng kể.",
+            "en": "'not insignificant' negates the negative to understate 'considerable'."
+          }
+        },
+        {
+          "id": "en-c2-l2-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn phiên âm đúng của 'wry'.",
+            "en": "Select the correct IPA for 'wry'."
+          },
+          "targetText": "wry",
+          "ttsText": "wry",
+          "options": [
+            "/wriː/",
+            "/raɪ/",
+            "/wrɪ/",
+            "/reɪ/"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "vi": "Chữ 'w' câm nên 'wry' đọc là /raɪ/.",
+            "en": "The 'w' is silent, so 'wry' is pronounced /raɪ/."
+          }
+        },
+        {
+          "id": "en-c2-l2-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn cụm từ rào đón chuẩn để báo hiệu cách nói giảm:",
+            "en": "Choose the natural marker signaling deliberate understatement:"
+          },
+          "targetText": "The migration hit a few snags, ___.",
+          "ttsText": "The migration hit a few snags, to put it mildly.",
+          "options": [
+            "to put it mildly",
+            "inasmuch as",
+            "by the token",
+            "for all intents"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'to put it mildly' nghĩa là 'nói một cách nhẹ nhàng nhất có thể'.",
+            "en": "'to put it mildly' signals that the reality was actually much stronger."
+          }
+        },
+        {
+          "id": "en-c2-l2-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu hoàn chỉnh với 'subtext'.",
+            "en": "Order the words into a complete sentence with 'subtext'."
+          },
+          "targetMeaning": {
+            "vi": "Bình luận lịch sự ấy ẩn chứa hàm ý ngầm.",
+            "en": "Her polite remark carried clear subtext."
+          },
+          "tokens": [
+            "remark",
+            "Her",
+            "subtext.",
+            "carried",
+            "polite",
+            "clear"
+          ],
+          "correctOrder": [
+            "Her",
+            "polite",
+            "remark",
+            "carried",
+            "clear",
+            "subtext."
+          ],
+          "correctSentence": "Her polite remark carried clear subtext.",
+          "explanation": {
+            "vi": "Trật tự chuẩn: Her polite remark + carried + clear subtext.",
+            "en": "Standard syntax: Her polite remark + carried + clear subtext."
+          }
+        }
+      ]
+    },
+    {
+      "id": "en-c2-l3",
+      "levelId": "en-c2",
+      "order": 3,
+      "title": {
+        "native": "Executive Synthesis",
+        "vi": "Tổng hợp chiến lược cấp điều hành",
+        "en": "Executive Synthesis"
+      },
+      "topic": "strategy",
+      "summary": {
+        "vi": "Tổng hợp đa luồng thông tin thành khuyến nghị chiến lược súc tích bằng liên kết tu từ cấp cao.",
+        "en": "Synthesize competing priorities into concise executive recommendations with high-level cohesion."
+      },
+      "xpReward": 70,
+      "vocabulary": [
+        {
+          "id": "en-c2-l3-v1",
+          "term": "distill",
+          "reading": "/dɪˈstɪl/",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "chắt lọc, cô đọng tinh hoa",
+            "en": "to distill"
+          },
+          "example": {
+            "text": "Great leaders distill sprawling reports into three decisive priorities.",
+            "reading": "/ɡreɪt ˈliːdərz dɪˈstɪl ˈsprɔːlɪŋ rɪˈpɔːrts ˈɪntuː θriː dɪˈsaɪsɪv praɪˈɔːrətiz/",
+            "meaning": {
+              "vi": "Lãnh đạo giỏi chắt lọc những báo cáo dài dòng thành ba ưu tiên quyết định.",
+              "en": "Great leaders distill sprawling reports into three decisive priorities."
+            }
+          },
+          "note": {
+            "vi": "Dùng giới từ 'into': 'distill X into Y'.",
+            "en": "Pattern: 'distill [complex material] into [essence]'."
+          }
+        },
+        {
+          "id": "en-c2-l3-v2",
+          "term": "imperative",
+          "reading": "/ɪmˈperətɪv/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "mệnh lệnh cấp thiết, yêu cầu sống còn",
+            "en": "imperative"
+          },
+          "example": {
+            "text": "Data privacy is no longer optional; it is a strategic imperative.",
+            "reading": "/ˈdeɪtə ˈpraɪvəsi ɪz noʊ ˈlɔːŋɡər ˈɑːpʃənəl | ɪt ɪz ə strəˈtiːdʒɪk ɪmˈperətɪv/",
+            "meaning": {
+              "vi": "Quyền riêng tư dữ liệu không còn là tùy chọn; đó là yêu cầu chiến lược cấp thiết.",
+              "en": "Data privacy is no longer optional; it is a strategic imperative."
+            }
+          },
+          "note": {
+            "vi": "Dùng làm cả danh từ ('a strategic imperative') và tính từ ('It is imperative that...').",
+            "en": "Functions as both a noun and an adjective."
+          }
+        },
+        {
+          "id": "en-c2-l3-v3",
+          "term": "ramification",
+          "reading": "/ˌræmɪfɪˈkeɪʃən/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "hệ lụy dây chuyền (thường phức tạp, gián tiếp)",
+            "en": "ramification"
+          },
+          "example": {
+            "text": "We weighed the long-term ramifications before altering pricing.",
+            "reading": "/wiː weɪd ðə ˈlɔːŋ tɜːrm ˌræmɪfɪˈkeɪʃənz bɪˈfɔːr ˈɔːltərɪŋ ˈpraɪsɪŋ/",
+            "meaning": {
+              "vi": "Chúng tôi cân nhắc các hệ lụy dài hạn trước khi điều chỉnh giá.",
+              "en": "We weighed the long-term ramifications before altering pricing."
+            }
+          },
+          "note": {
+            "vi": "Thường dùng ở số nhiều 'ramifications'.",
+            "en": "Almost always used in the plural: 'ramifications'."
+          }
+        },
+        {
+          "id": "en-c2-l3-v4",
+          "term": "trajectory",
+          "reading": "/trəˈdʒektəri/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "quỹ đạo phát triển, xu hướng dài hạn",
+            "en": "trajectory"
+          },
+          "example": {
+            "text": "Quarterly retention confirms an upward growth trajectory.",
+            "reading": "/ˈkwɔːrtərli rɪˈtenʃən kənˈfɜːrmz æn ˈʌpwərd ɡroʊθ trəˈdʒektəri/",
+            "meaning": {
+              "vi": "Tỷ lệ giữ chân theo quý xác nhận quỹ đạo tăng trưởng đi lên.",
+              "en": "Quarterly retention confirms an upward growth trajectory."
+            }
+          },
+          "note": {
+            "vi": "Cụm hay dùng: 'upward trajectory', 'alter the trajectory of'.",
+            "en": "Collocations: 'upward trajectory', 'growth trajectory'."
+          }
+        },
+        {
+          "id": "en-c2-l3-v5",
+          "term": "reconcile",
+          "reading": "/ˈrekənsaɪl/",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "dung hòa, hòa giải hai yêu cầu trái ngược",
+            "en": "to reconcile"
+          },
+          "example": {
+            "text": "The roadmap reconciles rapid iteration with rigorous reliability.",
+            "reading": "/ðə ˈroʊdmæp ˈrekənsaɪlz ˈræpɪd ˌɪtəˈreɪʃən wɪð ˈrɪɡərəs rɪˌlaɪəˈbɪləti/",
+            "meaning": {
+              "vi": "Lộ trình dung hòa giữa cải tiến nhanh với độ tin cậy nghiêm ngặt.",
+              "en": "The roadmap reconciles rapid iteration with rigorous reliability."
+            }
+          },
+          "note": {
+            "vi": "Mẫu câu chuẩn: 'reconcile A with B'.",
+            "en": "Preposition pattern: 'reconcile A with B'."
+          }
+        },
+        {
+          "id": "en-c2-l3-v6",
+          "term": "catalyst",
+          "reading": "/ˈkætəlɪst/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "chất xúc tác, nhân tố thúc đẩy chuyển biến",
+            "en": "catalyst"
+          },
+          "example": {
+            "text": "Shared daily goals acted as a catalyst for stronger study habits.",
+            "reading": "/ʃerd ˈdeɪli ɡoʊlz ˈæktɪd æz ə ˈkætəlɪst fɔːr ˈstrɔːŋɡər ˈstʌdi ˈhæbɪts/",
+            "meaning": {
+              "vi": "Mục tiêu chung hằng ngày đóng vai trò chất xúc tác cho thói quen học bền vững hơn.",
+              "en": "Shared daily goals acted as a catalyst for stronger study habits."
+            }
+          },
+          "note": {
+            "vi": "Dùng giới từ 'for': 'a catalyst for change'.",
+            "en": "Collocates with 'for': 'a catalyst for innovation'."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "en-c2-l3-g1",
+          "pattern": "Fronted Prepositional / Participial Synthesis + Colon/Dash Pivot",
+          "title": {
+            "vi": "Cấu trúc tổng hợp điều hành với dấu hai chấm/gạch ngang",
+            "en": "Executive Synthesis with Colon & Dash Pivots"
+          },
+          "structure": "Given [context], [Thesis]: [1st Pillar], [2nd Pillar], and [3rd Pillar].",
+          "explanation": {
+            "vi": "Đặt bối cảnh ở đầu câu rồi dùng dấu hai chấm (:) hoặc gạch ngang dài (—) để chốt nhận định sắc bén ở vế sau.",
+            "en": "Front-load constraints cleanly, then pivot with a colon or em-dash to deliver a crisp recommendation."
+          },
+          "usageNote": {
+            "vi": "Tránh câu nhiều tầng mệnh đề quan hệ rối rắm; ưu tiên song song cấu trúc (parallelism).",
+            "en": "Maintain strict grammatical parallelism in lists after a colon."
+          },
+          "examples": [
+            {
+              "text": "Our mandate is straightforward: simplify onboarding, sharpen feedback, and sustain daily engagement.",
+              "reading": "/ˈaʊər ˈmændeɪt ɪz ˌstreɪtˈfɔːrwərd | ˈsɪmplɪfaɪ ˈɑːnbɔːrdɪŋ ˈʃɑːrpən ˈfiːdbæk ænd səˈsteɪn ˈdeɪli ɪnˈɡeɪdʒmənt/",
+              "meaning": {
+                "vi": "Nhiệm vụ của chúng ta rất rõ ràng: đơn giản hóa bước làm quen, mài sắc phản hồi và duy trì gắn kết mỗi ngày.",
+                "en": "Our mandate is straightforward: simplify onboarding, sharpen feedback, and sustain daily engagement."
+              }
+            },
+            {
+              "text": "Far from slowing delivery, early testing accelerates our trajectory—provided standards stay clear.",
+              "reading": "/fɑːr frʌm ˈsloʊɪŋ dɪˈlɪvəri ˈɜːrli ˈtestɪŋ ækˈseləreɪts ˈaʊər trəˈdʒektəri prəˈvaɪdɪd ˈstændərdz steɪ klɪr/",
+              "meaning": {
+                "vi": "Không hề làm chậm bàn giao, kiểm thử sớm còn tăng tốc quỹ đạo phát triển — miễn là tiêu chuẩn luôn rõ ràng.",
+                "en": "Far from slowing delivery, early testing accelerates our trajectory—provided standards stay clear."
+              }
+            }
+          ]
+        },
+        {
+          "id": "en-c2-l3-g2",
+          "pattern": "Far from + V-ing, S + V | Were S + to V, S + would V",
+          "title": {
+            "vi": "Đảo ngược kỳ vọng ('Far from...') và giả định trang trọng ('Were ... to ...')",
+            "en": "Expectation Reversal & Inverted Conditionals"
+          },
+          "structure": "Far from + V-ing, S + V | Were + S + to V, S + would V",
+          "explanation": {
+            "vi": "'Far from + V-ing' bác bỏ nhận định sai lầm phổ biến ngay đầu câu; 'Were S to V' là dạng lược 'If' trang trọng cho kịch bản chiến lược.",
+            "en": "'Far from + V-ing' refutes a common misconception upfront; 'Were S to V' frames formal hypothetical scenarios without 'if'."
+          },
+          "usageNote": {
+            "vi": "Giữ dạng nguyên mẫu có 'to' sau 'Were + S': 'Were we to expand...'.",
+            "en": "Keep 'to + base verb' after 'Were + subject'."
+          },
+          "examples": [
+            {
+              "text": "Far from diluting rigor, bilingual glosses widen access for busy learners.",
+              "reading": "/fɑːr frʌm daɪˈluːtɪŋ ˈrɪɡər baɪˈlɪŋɡwəl ˈɡlɑːsɪz ˈwaɪdən ˈækses fɔːr ˈbɪzi ˈlɜːrnərz/",
+              "meaning": {
+                "vi": "Không hề làm giảm tính chặt chẽ, chú giải song ngữ giúp mở rộng cơ hội tiếp cận cho người học bận rộn.",
+                "en": "Far from diluting rigor, bilingual glosses widen access for busy learners."
+              }
+            },
+            {
+              "text": "Were the team to reconcile both schedules, launch readiness would double.",
+              "reading": "/wɜːr ðə tiːm tuː ˈrekənsaɪl boʊθ ˈskedʒuːlz lɔːntʃ ˈredinəs wʊd ˈdʌbəl/",
+              "meaning": {
+                "vi": "Nếu nhóm dung hòa được cả hai lịch trình, mức độ sẵn sàng ra mắt sẽ tăng gấp đôi.",
+                "en": "Were the team to reconcile both schedules, launch readiness would double."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Bản tóm tắt điều hành định hướng quý tới",
+          "en": "Executive Strategy Brief"
+        },
+        "mode": "reading",
+        "context": {
+          "vi": "Bản tổng hợp chiến lược gửi ban điều hành về định hướng mở rộng nền tảng học tập.",
+          "en": "An executive synthesis briefing leadership on platform growth and quality."
+        },
+        "lines": [
+          {
+            "speaker": "Briefing Lead",
+            "text": "Distilling forty pages of learner feedback into one imperative is straightforward: clarity drives retention.",
+            "reading": "/dɪˈstɪlɪŋ ˈfɔːrti ˈpeɪdʒɪz əv ˈlɜːrnər ˈfiːdbæk ˈɪntuː wʌn ɪmˈperətɪv ɪz ˌstreɪtˈfɔːrwərd | ˈklærəti draɪvz rɪˈtenʃən/",
+            "meaning": {
+              "vi": "Chắt lọc bốn mươi trang phản hồi người học thành một mệnh lệnh cốt lõi rất rõ: sự sáng rõ tạo nên độ gắn bó.",
+              "en": "Distilling forty pages of learner feedback into one imperative is straightforward: clarity drives retention."
+            }
+          },
+          {
+            "speaker": "Briefing Lead",
+            "text": "Far from competing with individual study, social leaderboards acted as a catalyst for steady habits.",
+            "reading": "/fɑːr frʌm kəmˈpiːtɪŋ wɪð ˌɪndɪˈvɪdʒuəl ˈstʌdi ˈsoʊʃəl ˈliːdərbɔːrdz ˈæktɪd æz ə ˈkætəlɪst fɔːr ˈstedi ˈhæbɪts/",
+            "meaning": {
+              "vi": "Không hề cạnh tranh với việc tự học cá nhân, bảng xếp hạng bạn bè đóng vai trò chất xúc tác cho thói quen đều đặn.",
+              "en": "Far from competing with individual study, social leaderboards acted as a catalyst for steady habits."
+            }
+          },
+          {
+            "speaker": "Briefing Lead",
+            "text": "We must nevertheless weigh the long-term ramifications of adding advanced levels without careful vetting.",
+            "reading": "/wiː mʌst ˌnevərðəˈles weɪ ðə ˈlɔːŋ tɜːrm ˌræmɪfɪˈkeɪʃənz əv ˈædɪŋ ədˈvænst ˈlevəlz wɪˈðaʊt ˈkerfəl ˈvetɪŋ/",
+            "meaning": {
+              "vi": "Tuy nhiên chúng ta phải cân nhắc các hệ lụy dài hạn nếu bổ sung cấp độ cao mà thiếu khâu thẩm định kỹ.",
+              "en": "We must nevertheless weigh the long-term ramifications of adding advanced levels without careful vetting."
+            }
+          },
+          {
+            "speaker": "Briefing Lead",
+            "text": "Were we to reconcile rapid content expansion with strict validation, our upward trajectory would remain secure.",
+            "reading": "/wɜːr wiː tuː ˈrekənsaɪl ˈræpɪd ˈkɑːntent ɪkˈspænʃən wɪð strɪkt ˌvælɪˈdeɪʃən ˈaʊər ˈʌpwərd trəˈdʒektəri wʊd rɪˈmeɪn sɪˈkjʊr/",
+            "meaning": {
+              "vi": "Nếu chúng ta dung hòa được mở rộng nội dung nhanh với kiểm định nghiêm ngặt, quỹ đạo đi lên sẽ luôn vững chắc.",
+              "en": "Were we to reconcile rapid content expansion with strict validation, our upward trajectory would remain secure."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Trong báo cáo điều hành cấp cao, câu mở đầu nêu thẳng kết luận ('BLUF: Bottom Line Up Front') trước khi phân tích rủi ro luôn được đánh giá cao.",
+          "en": "Executive writing prizes 'Bottom Line Up Front' (BLUF)—stating the core takeaway first before unpacking trade-offs."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "en-c2-l3-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Động từ nào nghĩa là 'chắt lọc thông tin phức tạp thành ý cốt lõi'?",
+            "en": "Which verb means 'to condense complex information into its essence'?"
+          },
+          "targetText": "___ a long report into three takeaways",
+          "options": [
+            "distill",
+            "reconcile",
+            "juxtapose",
+            "evoke"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'distill X into Y' nghĩa là chắt lọc điều phức tạp thành tinh hoa cô đọng.",
+            "en": "'distill X into Y' means extracting the core essence of complex material."
+          }
+        },
+        {
+          "id": "en-c2-l3-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn phiên âm đúng của 'trajectory'.",
+            "en": "Choose the accurate IPA for 'trajectory'."
+          },
+          "targetText": "trajectory",
+          "ttsText": "trajectory",
+          "options": [
+            "/trəˈdʒektəri/",
+            "/ˈkætəlɪst/",
+            "/ˈrekənsaɪl/",
+            "/ɪmˈperətɪv/"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'trajectory' nhấn âm hai: /trəˈdʒektəri/.",
+            "en": "'trajectory' is stressed on the second syllable: /trəˈdʒektəri/."
+          }
+        },
+        {
+          "id": "en-c2-l3-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Hoàn thành câu giả định đảo ngữ trang trọng:",
+            "en": "Complete the formal inverted conditional:"
+          },
+          "targetText": "Were we ___ reconcile both goals, growth would accelerate.",
+          "ttsText": "Were we to reconcile both goals, growth would accelerate.",
+          "options": [
+            "for",
+            "to",
+            "by",
+            "with"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "vi": "Cấu trúc chuẩn là 'Were + S + to + V(base)'.",
+            "en": "Inverted hypotheticals follow the pattern 'Were + subject + to + base verb'."
+          }
+        },
+        {
+          "id": "en-c2-l3-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu mở đầu bằng 'Far from...' chuẩn xác.",
+            "en": "Arrange the words into a 'Far from...' reversal sentence."
+          },
+          "targetMeaning": {
+            "vi": "Không hề gây chậm trễ, sự rõ ràng thúc đẩy tốc độ.",
+            "en": "Far from causing delay, clarity accelerates speed."
+          },
+          "tokens": [
+            "delay,",
+            "accelerates",
+            "from",
+            "clarity",
+            "Far",
+            "causing",
+            "speed."
+          ],
+          "correctOrder": [
+            "Far",
+            "from",
+            "causing",
+            "delay,",
+            "clarity",
+            "accelerates",
+            "speed."
+          ],
+          "correctSentence": "Far from causing delay, clarity accelerates speed.",
+          "explanation": {
+            "vi": "Cấu trúc: Far from + V-ing, Subject + Verb + Object.",
+            "en": "Pattern: Far from + gerund phrase, Subject + Verb + Object."
+          }
+        }
+      ]
+    }
+  ]
+}

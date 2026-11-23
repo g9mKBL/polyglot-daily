@@ -1,0 +1,1197 @@
+{
+  "levelId": "ja-n4",
+  "language": "ja",
+  "code": "N4",
+  "order": 2,
+  "title": {
+    "vi": "JLPT N4 — Kết nối câu và trải nghiệm",
+    "en": "JLPT N4 — Connected Clauses & Experiences"
+  },
+  "subtitle": {
+    "vi": "Chuỗi hành động thể て, trải nghiệm 〜たことがある và cho-nhận あげる/くれる/もらう",
+    "en": "て-form chains, past experiences, and giving/receiving verbs"
+  },
+  "estimatedMinutes": 45,
+  "lessons": [
+    {
+      "id": "ja-n4-l1",
+      "levelId": "ja-n4",
+      "order": 1,
+      "title": {
+        "native": "動作の連続と理由",
+        "vi": "Chuỗi hành động và nêu lý do",
+        "en": "Verb Chains & Reasons"
+      },
+      "topic": "sequences-reasons",
+      "summary": {
+        "vi": "Nối hành động theo trình tự với thể て, diễn tả trạng thái '〜ている' và phân biệt 'から' với 'ので'.",
+        "en": "Chain actions with て-form, describe ongoing states with 〜ている, and contrast から vs. ので."
+      },
+      "xpReward": 50,
+      "vocabulary": [
+        {
+          "id": "ja-n4-l1-v1",
+          "term": "約束",
+          "reading": "やくそく",
+          "romaji": "yakusoku",
+          "rubyText": "約束[やくそく]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "cuộc hẹn, lời hứa",
+            "en": "appointment / promise"
+          },
+          "example": {
+            "text": "友達と三時に会う約束があります。",
+            "rubyText": "友達[ともだち]と三時[さんじ]に会[あ]う約束[やくそく]があります。",
+            "reading": "tomodachi to san-ji ni au yakusoku ga arimasu.",
+            "meaning": {
+              "vi": "Tôi có hẹn gặp bạn lúc ba giờ.",
+              "en": "I have plans to meet a friend at three."
+            }
+          },
+          "note": {
+            "vi": "Động từ đi kèm: 約束を守る (giữ lời hứa), 約束をする (hẹn/hứa).",
+            "en": "Collocations: 約束を守る (keep a promise), 約束をする (make an appointment)."
+          }
+        },
+        {
+          "id": "ja-n4-l1-v2",
+          "term": "急ぐ",
+          "reading": "いそぐ",
+          "romaji": "isogu",
+          "rubyText": "急[いそ]ぐ",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "vội vàng, gấp rút",
+            "en": "to hurry"
+          },
+          "example": {
+            "text": "時間がないから、急いで駅へ向かいます。",
+            "rubyText": "時間[じかん]がないから、急[いそ]いで駅[えき]へ向[む]かいます。",
+            "reading": "jikan ga nai kara, isoide eki e mukaimasu.",
+            "meaning": {
+              "vi": "Vì không còn thời gian nên tôi vội vã hướng về nhà ga.",
+              "en": "Because there's no time, I hurry toward the station."
+            }
+          },
+          "note": {
+            "vi": "Động từ nhóm 1 đuôi ぐ chia thể て thành いで: 急ぐ -> 急いで.",
+            "en": "Godan '-gu' verb conjugates to '-ide' in て-form: 急ぐ -> 急いで."
+          }
+        },
+        {
+          "id": "ja-n4-l1-v3",
+          "term": "準備",
+          "reading": "じゅんび",
+          "romaji": "junbi",
+          "rubyText": "準備[じゅんび]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "sự chuẩn bị",
+            "en": "preparation"
+          },
+          "example": {
+            "text": "会議の準備をしているので、少し待ってください。",
+            "rubyText": "会議[かいぎ]の準備[じゅんび]をしているので、少[すこ]し待[ま]ってください。",
+            "reading": "kaigi no junbi o shite iru no de, sukoshi matte kudasai.",
+            "meaning": {
+              "vi": "Vì tôi đang chuẩn bị cho cuộc họp nên xin đợi một chút nhé.",
+              "en": "Since I'm preparing for the meeting, please wait a moment."
+            }
+          },
+          "note": {
+            "vi": "Ghép với する thành động từ '準備する (chuẩn bị)'.",
+            "en": "Pairs with する to form '準備する (to prepare)'."
+          }
+        },
+        {
+          "id": "ja-n4-l1-v4",
+          "term": "届ける",
+          "reading": "とどける",
+          "romaji": "todokeru",
+          "rubyText": "届[とど]ける",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "giao đến, chuyển tới (tha động từ)",
+            "en": "to deliver"
+          },
+          "example": {
+            "text": "資料を印刷して、先生の机に届けました。",
+            "rubyText": "資料[しりょう]を印刷[いんさつ]して、先生[せんせい]の机[つくえ]に届[とど]けました。",
+            "reading": "shiryō o insatsu shite, sensei no tsukue ni todokemashita.",
+            "meaning": {
+              "vi": "Tôi đã in tài liệu rồi mang đến đặt ở bàn thầy.",
+              "en": "I printed the handouts and delivered them to the teacher's desk."
+            }
+          },
+          "note": {
+            "vi": "Tự động từ tương ứng là '届く (とどく - được giao tới)'.",
+            "en": "Transitive counterpart to intransitive '届く (todoku - to arrive/be delivered)'."
+          }
+        },
+        {
+          "id": "ja-n4-l1-v5",
+          "term": "遅れる",
+          "reading": "おくれる",
+          "romaji": "okureru",
+          "rubyText": "遅[おく]れる",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "bị muộn, trễ giờ",
+            "en": "to be late / delayed"
+          },
+          "example": {
+            "text": "電車が遅れているので、十分ほど遅刻します。",
+            "rubyText": "電車[でんしゃ]が遅[おく]れているので、十分[じゅっぷん]ほど遅刻[ちこく]します。",
+            "reading": "densha ga okurete iru no de, juppun hodo chikoku shimasu.",
+            "meaning": {
+              "vi": "Vì tàu điện đang bị trễ nên tôi sẽ đến muộn khoảng mười phút.",
+              "en": "Because the train is delayed, I'll be about ten minutes late."
+            }
+          },
+          "note": {
+            "vi": "Trợ từ đi kèm là 'に': 授業に遅れる (trễ giờ học).",
+            "en": "Takes particle 'に' for what you are late to: '授業に遅れる'."
+          }
+        },
+        {
+          "id": "ja-n4-l1-v6",
+          "term": "確認",
+          "reading": "かくにん",
+          "romaji": "kakunin",
+          "rubyText": "確認[かくにん]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "sự xác nhận, kiểm tra lại",
+            "en": "confirmation / check"
+          },
+          "example": {
+            "text": "メールを読んで、スケジュールを確認しました。",
+            "rubyText": "メールを読[よ]んで、スケジュールを確認[かくにん]しました。",
+            "reading": "mēru o yonde, sukejūru o kakunin shimashita.",
+            "meaning": {
+              "vi": "Tôi đã đọc email và kiểm tra lại lịch trình.",
+              "en": "I read the email and confirmed the schedule."
+            }
+          },
+          "note": {
+            "vi": "Rất hay dùng nơi công sở: 確認します / 確認してください.",
+            "en": "Essential workplace verb: '確認する (to double-check/confirm)'."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "ja-n4-l1-g1",
+          "pattern": "V1-て、V2-て、V3-ます | V-ている",
+          "title": {
+            "vi": "Nối chuỗi hành động thể て và trạng thái 〜ている",
+            "en": "て-Form Verb Chains & 〜ている States"
+          },
+          "structure": "V1-て、V2-ます (làm V1 rồi làm V2) | V-ている (đang diễn ra / trạng thái kết quả)",
+          "explanation": {
+            "vi": "Thể て nối nhiều hành động liên tiếp theo thời gian; thời quá khứ/lịch sự chỉ chia ở động từ cuối câu. 'V-ている' diễn tả hành động đang xảy ra hoặc trạng thái duy trì.",
+            "en": "て-form chains sequential actions with tense marked only on the final verb; '〜ている' denotes ongoing action or resultant state."
+          },
+          "usageNote": {
+            "vi": "Với động từ tức thời như '着く (tới)', '結婚する (kết hôn)', '〜ている' chỉ kết quả hiện tại (đã kết hôn / đang ở trạng thái đó).",
+            "en": "With instantaneous verbs, '〜ている' indicates a resulting ongoing state."
+          },
+          "examples": [
+            {
+              "text": "朝起きて、顔を洗って、朝ごはんを食べます。",
+              "rubyText": "朝[あさ]起[お]きて、顔[かお]を洗[あら]って、朝[あさ]ごはんを食[た]べます。",
+              "reading": "asa okite, kao o aratte, asagohan o tabemasu.",
+              "meaning": {
+                "vi": "Sáng dậy, rửa mặt rồi ăn bữa sáng.",
+                "en": "I wake up in the morning, wash my face, and eat breakfast."
+              }
+            },
+            {
+              "text": "今、駅前で友達を待っています。",
+              "rubyText": "今[いま]、駅前[えきまえ]で友達[ともだち]を待[ま]っています。",
+              "reading": "ima, ekimae de tomodachi o matte imasu.",
+              "meaning": {
+                "vi": "Bây giờ tôi đang đợi bạn ở trước nhà ga.",
+                "en": "Right now I am waiting for a friend in front of the station."
+              }
+            }
+          ]
+        },
+        {
+          "id": "ja-n4-l1-g2",
+          "pattern": "Clause 1 から / ので、Clause 2",
+          "title": {
+            "vi": "Nêu nguyên nhân với 'から' và 'ので'",
+            "en": "Expressing Reasons: から vs. ので"
+          },
+          "structure": "Plain/Polite + から (chủ quan, trực tiếp) | Plain/Polite (+ な với N/な-adj) + ので (khách quan, lịch sự)",
+          "explanation": {
+            "vi": "Cả hai đều có nghĩa 'vì... nên...', nhưng 'ので' mềm mại, khách quan hơn và thường dùng khi xin lỗi hoặc nhờ vả người trên.",
+            "en": "Both mean 'because / so', while 'ので' sounds softer and more objective—preferred for apologies and polite requests."
+          },
+          "usageNote": {
+            "vi": "Trước 'ので', danh từ và tính từ đuôi な ở thể thông thường PHẢI thêm 'な': 雨なので (vì trời mưa).",
+            "en": "Before 'ので', plain nouns and な-adjectives require 'な': 静かなので, 雨なので."
+          },
+          "examples": [
+            {
+              "text": "雨が降っているので、傘を持っていきます。",
+              "rubyText": "雨[あめ]が降[ふ]っているので、傘[かさ]を持[も]っていきます。",
+              "reading": "ame ga futte iru no de, kasa o motte ikimasu.",
+              "meaning": {
+                "vi": "Vì trời đang mưa nên tôi mang theo ô.",
+                "en": "Since it is raining, I'll take an umbrella."
+              }
+            },
+            {
+              "text": "明日はテストがあるから、早く寝ます。",
+              "rubyText": "明日[あした]はテストがあるから、早[はや]く寝[ね]ます。",
+              "reading": "ashita wa tesuto ga aru kara, hayaku nemasu.",
+              "meaning": {
+                "vi": "Vì ngày mai có bài kiểm tra nên tôi đi ngủ sớm.",
+                "en": "Because there's a test tomorrow, I'm going to bed early."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Báo tin trễ giờ lịch sự",
+          "en": "Calling Ahead About a Delay"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Minh Anh nhắn báo Kenji khi tàu điện bị chậm do mưa lớn.",
+          "en": "Minh Anh lets Kenji know her train is delayed."
+        },
+        "lines": [
+          {
+            "speaker": "Minh Anh",
+            "text": "ケンジさん、すみません。今、電車が雨で遅れているので、十分ほど遅れます。",
+            "rubyText": "ケンジさん、すみません。今[いま]、電車[でんしゃ]が雨[あめ]で遅[おく]れているので、十分[じゅっぷん]ほど遅[おく]れます。",
+            "reading": "Kenji-san, sumimasen. Ima, densha ga ame de okurete iru no de, juppun hodo okuremasu.",
+            "meaning": {
+              "vi": "Kenji ơi xin lỗi nhé. Hiện tại tàu điện đang trễ vì mưa nên mình sẽ đến muộn khoảng 10 phút.",
+              "en": "Kenji, sorry—my train is delayed by rain right now, so I'll be about ten minutes late."
+            }
+          },
+          {
+            "speaker": "Kenji",
+            "text": "大丈夫ですよ。私もまだ資料の最終確認をしています。",
+            "rubyText": "大丈夫[だいじょうぶ]ですよ。私[わたし]もまだ資料[しりょう]の最終確認[さいしゅうかくにん]をしています。",
+            "reading": "Daijōbu desu yo. Watashi mo mada shiryō no saishū kakunin o shite imasu.",
+            "meaning": {
+              "vi": "Không sao đâu. Mình cũng vẫn đang kiểm tra lần cuối tài liệu đây.",
+              "en": "No problem at all! I'm still doing a final check on the handouts anyway."
+            }
+          },
+          {
+            "speaker": "Minh Anh",
+            "text": "ありがとうございます。駅に着いてから、急いで教室へ行きますね。",
+            "rubyText": "ありがとうございます。駅[えき]に着[つ]いてから、急[いそ]いで教室[きょうしつ]へ行[い]きますね。",
+            "reading": "Arigatō gozaimasu. Eki ni tsuite kara, isoide kyōshitsu e ikimasu ne.",
+            "meaning": {
+              "vi": "Cảm ơn bạn nhiều. Sau khi tới ga mình sẽ vội qua phòng học ngay.",
+              "en": "Thank you! Once I reach the station, I'll hurry straight to the classroom."
+            }
+          },
+          {
+            "speaker": "Kenji",
+            "text": "慌てないで、気をつけて来てください。",
+            "rubyText": "慌[あわ]てないで、気[き]をつけて来[き]てください。",
+            "reading": "Awatenaide, ki o tsukete kite kudasai.",
+            "meaning": {
+              "vi": "Đừng cuống nhé, cứ cẩn thận rồi tới thôi.",
+              "en": "Don't rush—take care on your way here."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Ở Nhật Bản, việc báo trước ngay khi biết mình có thể trễ dù chỉ 5–10 phút (dùng '〜ので' lịch sự) được xem là phép lịch sự căn bản.",
+          "en": "In Japan, messaging ahead as soon as a 5–10 minute delay occurs (softened with 'ので') is essential courtesy."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "ja-n4-l1-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Thể て đúng của động từ '急ぐ' (vội) là gì?",
+            "en": "What is the correct て-form of '急ぐ (to hurry)'?"
+          },
+          "targetText": "急ぐ -> ___",
+          "options": [
+            "急いで",
+            "急いて",
+            "急って",
+            "急んで"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Động từ kết thúc bằng 'ぐ' đổi thành 'いで': 急ぐ -> 急いで.",
+            "en": "Verbs ending in '-gu' conjugate to '-ide' in て-form."
+          }
+        },
+        {
+          "id": "ja-n4-l1-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn cách đọc Kana đúng cho '約束'.",
+            "en": "Select the Kana reading for '約束'."
+          },
+          "targetText": "約束",
+          "ttsText": "約束",
+          "options": [
+            "やくそく",
+            "じゅんび",
+            "かくにん",
+            "おくれる"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'約束' đọc là やくそく (yakusoku).",
+            "en": "'約束' is read やくそく (yakusoku)."
+          }
+        },
+        {
+          "id": "ja-n4-l1-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn dạng kết nối đúng trước 'ので' với tính từ đuôi な '静か':",
+            "en": "Select the correct connector before 'ので' after a な-adjective:"
+          },
+          "targetText": "ここは静か___ので、よく勉強できます。",
+          "ttsText": "ここは静かなので、よく勉強できます。",
+          "options": [
+            "な",
+            "に",
+            "の",
+            "だ"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Trước 'ので', tính từ đuôi な và danh từ phải thêm 'な': 静かなので.",
+            "en": "な-adjectives take 'な' before 'ので': 静かなので."
+          }
+        },
+        {
+          "id": "ja-n4-l1-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu chuỗi hành động thể て.",
+            "en": "Arrange the tokens into a て-form action chain."
+          },
+          "targetMeaning": {
+            "vi": "Tôi đọc email rồi xác nhận lịch.",
+            "en": "I read the email and confirmed the schedule."
+          },
+          "tokens": [
+            "確認しました。",
+            "メールを",
+            "予定を",
+            "読んで、"
+          ],
+          "correctOrder": [
+            "メールを",
+            "読んで、",
+            "予定を",
+            "確認しました。"
+          ],
+          "correctSentence": "メールを読んで、予定を確認しました。",
+          "explanation": {
+            "vi": "Hành động 1 chia thể て (メールを読んで、) rồi đến hành động 2 (予定を確認しました).",
+            "en": "First action in て-form (メールを読んで、) followed by the final verb."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ja-n4-l2",
+      "levelId": "ja-n4",
+      "order": 2,
+      "title": {
+        "native": "経験と可能・許可",
+        "vi": "Trải nghiệm, khả năng và xin phép",
+        "en": "Experiences & Permission"
+      },
+      "topic": "experiences-ability",
+      "summary": {
+        "vi": "Nói từng trải qua việc gì với '〜たことがある', chia động từ thể khả năng và xin phép '〜てもいいですか'.",
+        "en": "Share past experiences with 〜たことがある, potential verbs, and permission with 〜てもいい."
+      },
+      "xpReward": 50,
+      "vocabulary": [
+        {
+          "id": "ja-n4-l2-v1",
+          "term": "経験",
+          "reading": "けいけん",
+          "romaji": "keiken",
+          "rubyText": "経験[けいけん]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "kinh nghiệm, trải nghiệm",
+            "en": "experience"
+          },
+          "example": {
+            "text": "京都へ行った経験がとても印象に残っています。",
+            "rubyText": "京都[きょうと]へ行[い]った経験[けいけん]がとても印象[いんしょう]に残[のこ]っています。",
+            "reading": "Kyōto e itta keiken ga totemo inshō ni nokotte imasu.",
+            "meaning": {
+              "vi": "Trải nghiệm đi Kyoto đọng lại ấn tượng sâu sắc trong tôi.",
+              "en": "My experience visiting Kyoto left a deep impression."
+            }
+          },
+          "note": {
+            "vi": "Có thể kết hợp với する: 経験する (trải nghiệm).",
+            "en": "Forms a verb with する: 経験する."
+          }
+        },
+        {
+          "id": "ja-n4-l2-v2",
+          "term": "運転",
+          "reading": "うんてん",
+          "romaji": "unten",
+          "rubyText": "運転[うんてん]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "lái xe",
+            "en": "driving"
+          },
+          "example": {
+            "text": "私はまだ車を運転できません。",
+            "rubyText": "私[わたし]はまだ車[くるま]を運転[うんてん]できません。",
+            "reading": "watashi wa mada kuruma o unten dekimasen.",
+            "meaning": {
+              "vi": "Tôi vẫn chưa biết lái ô tô.",
+              "en": "I can't drive a car yet."
+            }
+          },
+          "note": {
+            "vi": "Thể khả năng của 運転する là 運転できる.",
+            "en": "Potential form of 運転する is 運転できる."
+          }
+        },
+        {
+          "id": "ja-n4-l2-v3",
+          "term": "修理",
+          "reading": "しゅうり",
+          "romaji": "shūri",
+          "rubyText": "修理[しゅうり]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "sửa chữa",
+            "en": "repair"
+          },
+          "example": {
+            "text": "壊れた自転車を自分で修理できました。",
+            "rubyText": "壊[こわ]れた自転車[じてんしゃ]を自分[じぶん]で修理[しゅうり]できました。",
+            "reading": "kowareta jitensha o jibun de shūri dekimashita.",
+            "meaning": {
+              "vi": "Tôi đã tự sửa được chiếc xe đạp bị hỏng.",
+              "en": "I was able to repair the broken bicycle myself."
+            }
+          },
+          "note": {
+            "vi": "Dùng cho đồ vật, máy móc, xe cộ.",
+            "en": "Used for fixing machines, bikes, or devices."
+          }
+        },
+        {
+          "id": "ja-n4-l2-v4",
+          "term": "温泉",
+          "reading": "おんせん",
+          "romaji": "onsen",
+          "rubyText": "温泉[おんせん]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "suối nước nóng",
+            "en": "hot spring"
+          },
+          "example": {
+            "text": "箱根の温泉に入ったことがありますか。",
+            "rubyText": "箱根[はこね]の温泉[おんせん]に入[はい]ったことがありますか。",
+            "reading": "Hakone no onsen ni haitta koto ga arimasu ka.",
+            "meaning": {
+              "vi": "Bạn đã từng tắm suối nước nóng ở Hakone chưa?",
+              "en": "Have you ever soaked in a hot spring in Hakone?"
+            }
+          },
+          "note": {
+            "vi": "Tắm suối nước nóng hay bồn tắm dùng động từ '入る (はいる)' với trợ từ 'に': 温泉に入る.",
+            "en": "Entering a bath or hot spring uses 'に入る': 温泉に入る."
+          }
+        },
+        {
+          "id": "ja-n4-l2-v5",
+          "term": "美術館",
+          "reading": "びじゅつかん",
+          "romaji": "bijutsukan",
+          "rubyText": "美術館[びじゅつかん]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "bảo tàng mỹ thuật",
+            "en": "art museum"
+          },
+          "example": {
+            "text": "美術館の中ではフラッシュを使ってはいけません。",
+            "rubyText": "美術館[びじゅつかん]の中[なか]ではフラッシュを使[つか]ってはいけません。",
+            "reading": "bijutsukan no naka de wa furasshu o tsukatte wa ikemasen.",
+            "meaning": {
+              "vi": "Bên trong bảo tàng mỹ thuật không được phép dùng đèn flash.",
+              "en": "You must not use flash inside the art museum."
+            }
+          },
+          "note": {
+            "vi": "Phân biệt: 美術館 (mỹ thuật) và 博物館 (はくぶつかん - bảo tàng lịch sử/tự nhiên).",
+            "en": "'美術館' is an art museum; '博物館' is a history/science museum."
+          }
+        },
+        {
+          "id": "ja-n4-l2-v6",
+          "term": "調べる",
+          "reading": "しらべる",
+          "romaji": "shiraberu",
+          "rubyText": "調[しら]べる",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "tra cứu, tìm hiểu",
+            "en": "to look up / investigate"
+          },
+          "example": {
+            "text": "分からない漢字をスマホで調べられます。",
+            "rubyText": "分[わ]からない漢字[かんじ]をスマホで調[しら]べられます。",
+            "reading": "wakaranai kanji o sumaho de shiraberaremasu.",
+            "meaning": {
+              "vi": "Có thể tra chữ Hán chưa biết bằng điện thoại thông minh.",
+              "en": "You can look up unfamiliar Kanji on a smartphone."
+            }
+          },
+          "note": {
+            "vi": "Động từ nhóm 2 nên thể khả năng chuẩn là 調べられる.",
+            "en": "Ichidan verb; potential form is 調べられる."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "ja-n4-l2-g1",
+          "pattern": "V-た + ことがあります / ことがありません",
+          "title": {
+            "vi": "Diễn tả trải nghiệm quá khứ '〜たことがある'",
+            "en": "Past Life Experience 〜たことがある"
+          },
+          "structure": "V (thể た quá khứ) + ことがあります (đã từng) / ことがありません (chưa từng)",
+          "explanation": {
+            "vi": "Nói về việc bạn đã từng trải qua ít nhất một lần trong đời (khác với hành động mới làm hôm qua).",
+            "en": "Describes life experiences ('have done before'); avoid using it for routine events from yesterday."
+          },
+          "usageNote": {
+            "vi": "Đừng nhầm với 'V-ることがある' (chia thể từ điển: 'thỉnh thoảng có khi làm gì').",
+            "en": "Do not confuse '〜たことがある' (past experience) with '〜ることがある' (sometimes happens)."
+          },
+          "examples": [
+            {
+              "text": "日本の新幹線に乗ったことがあります。",
+              "rubyText": "日本[にほん]の新幹線[しんかんせん]に乗[の]ったことがあります。",
+              "reading": "Nihon no Shinkansen ni notta koto ga arimasu.",
+              "meaning": {
+                "vi": "Tôi đã từng đi tàu cao tốc Shinkansen của Nhật rồi.",
+                "en": "I have ridden Japan's Shinkansen bullet train."
+              }
+            },
+            {
+              "text": "まだ富士山に登ったことがありません。",
+              "rubyText": "まだ富士山[ふじさん]に登[のぼ]ったことがありません。",
+              "reading": "mada Fujisan ni nobotta koto ga arimasen.",
+              "meaning": {
+                "vi": "Tôi vẫn chưa từng leo núi Phú Sĩ.",
+                "en": "I have never climbed Mount Fuji yet."
+              }
+            }
+          ]
+        },
+        {
+          "id": "ja-n4-l2-g2",
+          "pattern": "Potential Verbs (〜える / 〜られる) & 〜てもいい / 〜てはいけません",
+          "title": {
+            "vi": "Thể khả năng và xin phép / cấm đoán",
+            "en": "Potential Form & Permission / Prohibition"
+          },
+          "structure": "Nhóm 1: -u -> -eru (話す -> 話せる) | Nhóm 2: -ru -> -られる (食べる -> 食べられる) | Xin phép: V-てもいいですか",
+          "explanation": {
+            "vi": "Thể khả năng diễn đạt năng lực hoặc điều kiện làm được việc gì (tân ngữ thường đổi 'を' sang 'が'); '〜てもいいですか' xin phép làm gì và '〜てはいけません' diễn tả điều bị cấm.",
+            "en": "Potential verbs express ability/possibility (objects often take 'が'); '〜てもいい' grants permission while '〜てはいけない' forbids."
+          },
+          "usageNote": {
+            "vi": "Động từ bất quy tắc: する -> できる; 来る -> 来られる (こられる).",
+            "en": "Irregular potentials: する -> できる; 来る -> 来られる."
+          },
+          "examples": [
+            {
+              "text": "リンさんは日本語の新聞が読めます。",
+              "rubyText": "リンさんは日本語[にほんご]の新聞[しんぶん]が読[よ]めます。",
+              "reading": "Rin-san wa Nihongo no shinbun ga yomemasu.",
+              "meaning": {
+                "vi": "Bạn Linh đọc được báo tiếng Nhật.",
+                "en": "Linh can read Japanese newspapers."
+              }
+            },
+            {
+              "text": "ここでメモを取ってもいいですか。",
+              "rubyText": "ここでメモを取[と]ってもいいですか。",
+              "reading": "koko de memo o totte mo ii desu ka.",
+              "meaning": {
+                "vi": "Tôi ghi chú ở đây có được không ạ?",
+                "en": "May I take notes here?"
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Chia sẻ trải nghiệm du lịch Nhật Bản",
+          "en": "Sharing Travel Experiences"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Kenji và Linh trao đổi về trải nghiệm tắm onsen và tham quan bảo tàng mỹ thuật.",
+          "en": "Kenji and Linh chat about hot springs and museum etiquette."
+        },
+        "lines": [
+          {
+            "speaker": "Kenji",
+            "text": "リンさんは日本の温泉に入ったことがありますか。",
+            "rubyText": "リンさんは日本[にほん]の温泉[おんせん]に入[はい]ったことがありますか。",
+            "reading": "Rin-san wa Nihon no onsen ni haitta koto ga arimasu ka.",
+            "meaning": {
+              "vi": "Linh đã từng đi tắm suối nước nóng ở Nhật chưa?",
+              "en": "Linh, have you ever been to a Japanese hot spring?"
+            }
+          },
+          {
+            "speaker": "Linh",
+            "text": "はい、去年の冬、箱根で入ったことがあります。本当に気持ちよかったです。",
+            "rubyText": "はい、去年[きょねん]の冬[ふゆ]、箱根[はこね]で入[はい]ったことがあります。本当[ほんとう]に気持[きも]ちよかったです。",
+            "reading": "Hai, kyonen no fuyu, Hakone de haitta koto ga arimasu. Hontō ni kimochi yokatta desu.",
+            "meaning": {
+              "vi": "Rồi ạ, mùa đông năm ngoái mình từng tắm ở Hakone. Thực sự rất dễ chịu.",
+              "en": "Yes, last winter I went to one in Hakone. It felt wonderful."
+            }
+          },
+          {
+            "speaker": "Kenji",
+            "text": "いいですね！箱根の美術館でも英語や日本語の説明が読めますよ。",
+            "rubyText": "いいですね！箱根[はこね]の美術館[びじゅつかん]でも英語[えいご]や日本語[にほんご]の説明[せつめい]が読[よ]めますよ。",
+            "reading": "Ii desu ne! Hakone no bijutsukan demo Eigo ya Nihongo no setsumei ga yomemasu yo.",
+            "meaning": {
+              "vi": "Thích thật! Ở bảo tàng mỹ thuật Hakone cũng đọc được thuyết minh bằng cả tiếng Anh lẫn tiếng Nhật đấy.",
+              "en": "Nice! At Hakone's art museums you can read guides in both English and Japanese."
+            }
+          },
+          {
+            "speaker": "Linh",
+            "text": "そうなんですね。ただ、展示室の中では写真を撮ってはいけませんよね。",
+            "rubyText": "そうなんですね。ただ、展示室[てんじしつ]の中[なか]では写真[しゃしん]を撮[と]ってはいけませんよね。",
+            "reading": "Sō nan desu ne. Tada, tenjishitsu no naka de wa shashin o totte wa ikemasen yo ne.",
+            "meaning": {
+              "vi": "Vậy à. Chỉ có điều bên trong phòng trưng bày thì không được chụp ảnh đúng không nhỉ?",
+              "en": "Oh really! Though inside the exhibition rooms, taking photos isn't allowed, right?"
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Khi vào suối nước nóng (温泉) ở Nhật, có quy tắc bắt buộc là tắm rửa sạch sẽ bằng vòi sen trước khi bước vào bồn ngâm chung và không mang khăn tắm nhúng vào nước.",
+          "en": "At Japanese onsen, guests always wash thoroughly at the shower stations before soaking and keep towels out of the bathwater."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "ja-n4-l2-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Thể khả năng đúng của '読む (đọc)' là gì?",
+            "en": "What is the potential form of '読む (to read)'?"
+          },
+          "targetText": "読む -> ___",
+          "options": [
+            "読める",
+            "読られる",
+            "読れる",
+            "読できる"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Động từ nhóm 1 '読む' chuyển đuôi 'む' sang hàng 'え' thành '読める'.",
+            "en": "Godan '読む' shifts 'mu' to 'me' + る: '読める'."
+          }
+        },
+        {
+          "id": "ja-n4-l2-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn cách đọc Kana đúng cho '経験'.",
+            "en": "Select the Kana reading for '経験'."
+          },
+          "targetText": "経験",
+          "ttsText": "経験",
+          "options": [
+            "けいけん",
+            "しゅうり",
+            "うんてん",
+            "おんせん"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'経験' đọc là けいけん (keiken).",
+            "en": "'経験' is read けいけん (keiken)."
+          }
+        },
+        {
+          "id": "ja-n4-l2-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn dạng đúng để diễn tả 'đã từng leo núi Phú Sĩ':",
+            "en": "Choose the right form for 'have climbed Mount Fuji before':"
+          },
+          "targetText": "富士山に___ことがあります。",
+          "ttsText": "富士山に登ったことがあります。",
+          "options": [
+            "登った",
+            "登る",
+            "登って",
+            "登らない"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Mẫu trải nghiệm luôn dùng thể quá khứ thông thường 'V-た + ことがあります'.",
+            "en": "Past experience requires plain past 'V-た + ことがあります'."
+          }
+        },
+        {
+          "id": "ja-n4-l2-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu xin phép lịch sự hoàn chỉnh.",
+            "en": "Arrange the tokens into a polite permission question."
+          },
+          "targetMeaning": {
+            "vi": "Ở đây tôi tra từ điển có được không?",
+            "en": "May I look it up here?"
+          },
+          "tokens": [
+            "いいですか。",
+            "調べても",
+            "ここで"
+          ],
+          "correctOrder": [
+            "ここで",
+            "調べても",
+            "いいですか。"
+          ],
+          "correctSentence": "ここで調べてもいいですか。",
+          "explanation": {
+            "vi": "Trật tự: Địa điểm (ここで) + V-ても (調べても) + いいですか。",
+            "en": "Order: ここで + 調べても + いいですか。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ja-n4-l3",
+      "levelId": "ja-n4",
+      "order": 3,
+      "title": {
+        "native": "やりもらいと条件・予定",
+        "vi": "Cho - nhận (あげる/くれる/もらう) và điều kiện 〜たら",
+        "en": "Giving/Receiving & Plans"
+      },
+      "topic": "giving-plans",
+      "summary": {
+        "vi": "Phân biệt rõ góc nhìn trong hệ thống cho - nhận (あげる, くれる, もらう) và câu điều kiện thời gian '〜たら'.",
+        "en": "Master speaker perspective in あげる/くれる/もらう and conditional/temporal clauses with 〜たら."
+      },
+      "xpReward": 50,
+      "vocabulary": [
+        {
+          "id": "ja-n4-l3-v1",
+          "term": "教える",
+          "reading": "おしえる",
+          "romaji": "oshieru",
+          "rubyText": "教[おし]える",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "dạy, chỉ cho biết",
+            "en": "to teach / tell"
+          },
+          "example": {
+            "text": "ケンジさんが私に日本語のアクセントを教えてくれました。",
+            "rubyText": "ケンジさんが私[わたし]に日本語[にほんご]のアクセントを教[おし]えてくれました。",
+            "reading": "Kenji-san ga watashi ni Nihongo no akusento o oshiete kuremashita.",
+            "meaning": {
+              "vi": "Anh Kenji đã tận tình chỉ cho tôi trọng âm tiếng Nhật.",
+              "en": "Kenji kindly taught me Japanese pitch accent."
+            }
+          },
+          "note": {
+            "vi": "Ghép '〜てくれる' thể hiện lòng biết ơn khi ai đó làm giúp mình.",
+            "en": "Pairing with '〜てくれる' highlights gratitude for someone's kindness."
+          }
+        },
+        {
+          "id": "ja-n4-l3-v2",
+          "term": "お土産",
+          "reading": "おみやげ",
+          "romaji": "omiyage",
+          "rubyText": "お土産[みやげ]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "quà lưu niệm / quà đặc sản mang về sau chuyến đi",
+            "en": "souvenir / trip gift"
+          },
+          "example": {
+            "text": "友達に京都のお土産をあげました。",
+            "rubyText": "友達[ともだち]に京都[きょうと]のお土産[みやげ]をあげました。",
+            "reading": "tomodachi ni Kyōto no omiyage o agemashita.",
+            "meaning": {
+              "vi": "Tôi đã tặng bạn quà đặc sản Kyoto.",
+              "en": "I gave my friend a souvenir from Kyoto."
+            }
+          },
+          "note": {
+            "vi": "Cách đọc đặc biệt (jukujikun): '土産' đọc là みやげ.",
+            "en": "Special reading for '土産': みやげ (miyage)."
+          }
+        },
+        {
+          "id": "ja-n4-l3-v3",
+          "term": "卒業",
+          "reading": "そつぎょう",
+          "romaji": "sotsugyō",
+          "rubyText": "卒業[そつぎょう]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "tốt nghiệp",
+            "en": "graduation"
+          },
+          "example": {
+            "text": "大学を卒業したら、東京で働くつもりです。",
+            "rubyText": "大学[だいがく]を卒業[そつぎょう]したら、東京[とうきょう]で働[はたら]くつもりです。",
+            "reading": "daigaku o sotsugyō shitara, Tōkyō de hataraku tsumori desu.",
+            "meaning": {
+              "vi": "Sau khi tốt nghiệp đại học, tôi dự định làm việc ở Tokyo.",
+              "en": "Once I graduate from university, I plan to work in Tokyo."
+            }
+          },
+          "note": {
+            "vi": "Đi với trợ từ 'を': 大学を卒業する (tốt nghiệp đại học).",
+            "en": "Uses particle 'を' for the school graduated from."
+          }
+        },
+        {
+          "id": "ja-n4-l3-v4",
+          "term": "案内",
+          "reading": "あんない",
+          "romaji": "annai",
+          "rubyText": "案内[あんない]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "hướng dẫn, dẫn đường tham quan",
+            "en": "guidance / showing around"
+          },
+          "example": {
+            "text": "日本に来たら、私が町を案内してあげますよ。",
+            "rubyText": "日本[にほん]に来[く]たら、私[わたし]が町[まち]を案内[あんない]してあげますよ。",
+            "reading": "Nihon ni kitara, watashi ga machi o annai shite agemasu yo.",
+            "meaning": {
+              "vi": "Nếu bạn sang Nhật, mình sẽ dẫn bạn đi tham quan thành phố nhé.",
+              "en": "When you come to Japan, I'll show you around town."
+            }
+          },
+          "note": {
+            "vi": "Dùng '〜てあげます' nhẹ nhàng với bạn bè; với cấp trên tránh dùng 'あげる' mà dùng 'ましょうか'.",
+            "en": "Use '〜てあげます' among friends; offer help to superiors with '〜ましょうか'."
+          }
+        },
+        {
+          "id": "ja-n4-l3-v5",
+          "term": "親切",
+          "reading": "しんせつ",
+          "romaji": "shinsetsu",
+          "rubyText": "親切[しんせつ]",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "tốt bụng, ân cần",
+            "en": "kind / helpful"
+          },
+          "example": {
+            "text": "先輩はとても親切に仕事を教えてくれました。",
+            "rubyText": "先輩[せんぱい]はとても親切[しんせつ]に仕事[しごと]を教[おし]えてくれました。",
+            "reading": "senpai wa totemo shinsetsu ni shigoto o oshiete kuremashita.",
+            "meaning": {
+              "vi": "Tiền bối đã chỉ việc cho tôi vô cùng tận tình.",
+              "en": "My senior colleague kindly showed me the ropes at work."
+            }
+          },
+          "note": {
+            "vi": "Tính từ đuôi な: chia thành trạng từ bằng '親切に'.",
+            "en": "な-adjective: add 'に' to form the adverb 'kindly'."
+          }
+        },
+        {
+          "id": "ja-n4-l3-v6",
+          "term": "引っ越す",
+          "reading": "ひっこす",
+          "romaji": "hikkosu",
+          "rubyText": "引[ひ]っ越[こ]す",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "chuyển nhà",
+            "en": "to move house"
+          },
+          "example": {
+            "text": "新しい部屋に引っ越したら、友達を招待したいです。",
+            "rubyText": "新[あたら]しい部屋[へや]に引[ひ]っ越[こ]したら、友達[ともだち]を招待[しょうたい]したいです。",
+            "reading": "atarashii heya ni hikkoshitara, tomodachi o shōtai shitai desu.",
+            "meaning": {
+              "vi": "Khi nào chuyển sang căn hộ mới, tôi muốn mời bạn bè đến chơi.",
+              "en": "Once I move into the new apartment, I want to invite friends over."
+            }
+          },
+          "note": {
+            "vi": "Danh từ là '引っ越し (ひっこし - việc chuyển nhà)'.",
+            "en": "Noun form: 引っ越し (moving)."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "ja-n4-l3-g1",
+          "pattern": "あげる (cho đi) vs. くれる (cho tôi) vs. もらう (nhận từ ai)",
+          "title": {
+            "vi": "Hệ thống cho và nhận: あげる / くれる / もらう",
+            "en": "Giving & Receiving: あげる, くれる, もらう"
+          },
+          "structure": "Tôi/Người khác あげる Ai | Ai くれる Tôi | Tôi もらう (から/に) Ai",
+          "explanation": {
+            "vi": "Tiếng Nhật phân biệt hướng mũi tên về 'vòng trong (tôi/gia đình tôi)': cho ra ngoài dùng 'あげる', người khác cho mình dùng 'くれる', mình nhận từ người khác dùng 'もらう'.",
+            "en": "Japanese tracks direction relative to the speaker's in-group: giving outward = あげる, someone giving to you = くれる, receiving from someone = もらう."
+          },
+          "usageNote": {
+            "vi": "Không bao giờ nói '友達は私にあげました' — khi người khác tặng cho mình BẮT BUỘC dùng 'くれました'.",
+            "en": "Never use 'あげる' when someone gives something to you; always use 'くれる'."
+          },
+          "examples": [
+            {
+              "text": "母が誕生日に時計をくれました。",
+              "rubyText": "母[はは]が誕生日[たんじょうび]に時計[とけい]をくれました。",
+              "reading": "haha ga tanjōbi ni tokei o kuremashita.",
+              "meaning": {
+                "vi": "Mẹ đã tặng cho tôi một chiếc đồng hồ nhân dịp sinh nhật.",
+                "en": "My mother gave me a watch for my birthday."
+              }
+            },
+            {
+              "text": "私は先生に辞書をもらいました。",
+              "rubyText": "私[わたし]は先生[せんせい]に辞書[じしょ]をもらいました。",
+              "reading": "watashi wa sensei ni jisho o moraimashita.",
+              "meaning": {
+                "vi": "Tôi đã nhận được cuốn từ điển từ thầy giáo.",
+                "en": "I received a dictionary from my teacher."
+              }
+            }
+          ]
+        },
+        {
+          "id": "ja-n4-l3-g2",
+          "pattern": "V-た + ら / い-Adj(かった) + ら / N・な-Adj(だった) + ら",
+          "title": {
+            "vi": "Điều kiện và mốc 'sau khi' với '〜たら'",
+            "en": "Conditional & Temporal 'If / When' with 〜たら"
+          },
+          "structure": "Thể quá khứ thông thường + ら，Mệnh đề chính",
+          "explanation": {
+            "vi": "'〜たら' dùng được cho cả điều kiện giả định ('nếu...') lẫn sự việc chắc chắn sẽ xảy ra trong tương lai ('khi nào... xong thì...').",
+            "en": "'〜たら' covers both hypothetical 'if' conditions and future 'when / once completed' events."
+          },
+          "usageNote": {
+            "vi": "Mệnh đề sau '〜たら' có thể là ý định, rủ rê hoặc nhờ vả (〜ましょう, 〜てください).",
+            "en": "The result clause after 〜たら freely takes requests, invitations, or intentions."
+          },
+          "examples": [
+            {
+              "text": "家へ帰ったら、すぐ復習します。",
+              "rubyText": "家[いえ]へ帰[かえ]ったら、すぐ復習[ふくしゅう]します。",
+              "reading": "ie e kaettara, sugu fukushū shimasu.",
+              "meaning": {
+                "vi": "Về đến nhà là tôi ôn bài ngay.",
+                "en": "Once I get home, I'll review right away."
+              }
+            },
+            {
+              "text": "天気がよかったら、公園を散歩しましょう。",
+              "rubyText": "天気[てんき]がよかったら、公園[こうえん]を散歩[さんぽ]しましょう。",
+              "reading": "tenki ga yokattara, kōen o sanpo shimashō.",
+              "meaning": {
+                "vi": "Nếu thời tiết đẹp thì mình đi dạo công viên nhé.",
+                "en": "If the weather is nice, let's take a walk in the park."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Chuẩn bị chuyến thực tập ở Osaka",
+          "en": "Preparing for an Osaka Trip"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Minh Anh cảm ơn Kenji đã tặng sách hướng dẫn và hẹn gặp khi sang Osaka.",
+          "en": "Minh Anh thanks Kenji for a guidebook and makes plans for Osaka."
+        },
+        "lines": [
+          {
+            "speaker": "Minh Anh",
+            "text": "ケンジさん、この前大阪のガイドブックを貸してくれてありがとうございました。",
+            "rubyText": "ケンジさん、この前[まえ]大阪[おおさか]のガイドブックを貸[か]してくれてありがとうございました。",
+            "reading": "Kenji-san, kono mae Ōsaka no gaidobukku o kashite kurete arigatō gozaimashita.",
+            "meaning": {
+              "vi": "Kenji ơi, cảm ơn bạn hôm trước đã cho mình mượn sách hướng dẫn Osaka nhé.",
+              "en": "Kenji, thanks for lending me the Osaka guidebook the other day."
+            }
+          },
+          {
+            "speaker": "Kenji",
+            "text": "どういたしまして。来月大阪に来たら、私が駅まで迎えに行ってあげますよ。",
+            "rubyText": "どういたしまして。来月[らいげつ]大阪[おおさか]に来[き]たら、私[わたし]が駅[えき]まで迎[むか]えに行[い]ってあげますよ。",
+            "reading": "Dō itashimashite. Raigetsu Ōsaka ni kitara, watashi ga eki made mukae ni itte agemasu yo.",
+            "meaning": {
+              "vi": "Không có chi. Tháng sau bạn tới Osaka thì mình sẽ ra tận ga đón cho nhé.",
+              "en": "You're welcome! When you arrive in Osaka next month, I'll come pick you up at the station."
+            }
+          },
+          {
+            "speaker": "Minh Anh",
+            "text": "本当に親切ですね！ベトナムのお土産を持っていきますから、楽しみにしていてください。",
+            "rubyText": "本当[ほんとう]に親切[しんせつ]ですね！ベトナムのお土産[みやげ]を持[も]っていきますから、楽[たの]しみにしていてください。",
+            "reading": "Hontō ni shinsetsu desu ne! Betonamu no omiyage o motte ikimasu kara, tanoshimi ni shite ite kudasai.",
+            "meaning": {
+              "vi": "Bạn thật sự tốt bụng quá! Mình sẽ mang quà đặc sản Việt Nam sang nên hãy chờ nhé.",
+              "en": "You're so kind! I'll bring a souvenir from Vietnam, so please look forward to it."
+            }
+          },
+          {
+            "speaker": "Kenji",
+            "text": "わあ、うれしいです！着いたらすぐ連絡してくださいね。",
+            "rubyText": "わあ、うれしいです！着[つ]いたらすぐ連絡[れんらく]してくださいね。",
+            "reading": "Wā, ureshii desu! Tsuitara sugu renraku shite kudasai ne.",
+            "meaning": {
+              "vi": "Ôi vui quá! Tới nơi là nhắn ngay cho mình nhé.",
+              "en": "Awesome, I'm thrilled! Let me know as soon as you arrive."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Văn hóa tặng 'お土産 (omiyage)' ở Nhật rất coi trọng việc chia sẻ đặc sản vùng miền nhỏ gọn, gói đẹp mắt cho bạn bè và đồng nghiệp sau mỗi chuyến đi.",
+          "en": "Bringing neatly wrapped regional 'お土産' snacks back from trips for friends and coworkers is a cherished custom in Japan."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "ja-n4-l3-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Động từ nào ĐÚNG khi nói 'Bạn tôi đã cho tôi quyển sách'?",
+            "en": "Which verb correctly says 'My friend gave me a book'?"
+          },
+          "targetText": "友達が私に本を___。",
+          "options": [
+            "くれました",
+            "あげました",
+            "もらいました",
+            "やりました"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Người khác tặng vật cho bản thân người nói luôn dùng 'くれました'.",
+            "en": "When someone gives something to the speaker, always use 'くれる'."
+          }
+        },
+        {
+          "id": "ja-n4-l3-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn cách đọc Kana đúng cho 'お土産'.",
+            "en": "Select the Kana reading for 'お土産'."
+          },
+          "targetText": "お土産",
+          "ttsText": "お土産",
+          "options": [
+            "おみやげ",
+            "そつぎょう",
+            "あんない",
+            "しんせつ"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'お土産' đọc là おみやげ (omiyage).",
+            "en": "'お土産' has the special reading おみやげ (omiyage)."
+          }
+        },
+        {
+          "id": "ja-n4-l3-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Hoàn thành câu điều kiện với '〜たら':",
+            "en": "Complete the 〜たら conditional clause:"
+          },
+          "targetText": "駅に___、電話をしてください。",
+          "ttsText": "駅に着いたら、電話をしてください。",
+          "options": [
+            "着いたら",
+            "着くたら",
+            "着いたらば",
+            "着いてら"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Lấy thể quá khứ thông thường '着いた' cộng thêm 'ら' thành '着いたら'.",
+            "en": "Attach 'ら' to the plain past form '着いた' -> '着いたら'."
+          }
+        },
+        {
+          "id": "ja-n4-l3-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu cảm kích 'tiền bối đã chỉ giúp tôi'.",
+            "en": "Arrange the tokens into a sentence using '〜てくれました'."
+          },
+          "targetMeaning": {
+            "vi": "Thầy đã chỉ bảo cho tôi.",
+            "en": "The teacher kindly taught me."
+          },
+          "tokens": [
+            "教えて",
+            "先生が",
+            "くれました。",
+            "私に"
+          ],
+          "correctOrder": [
+            "先生が",
+            "私に",
+            "教えて",
+            "くれました。"
+          ],
+          "correctSentence": "先生が私に教えてくれました。",
+          "explanation": {
+            "vi": "Trật tự: Chủ ngữ (先生が) + Người nhận (私に) + 教えて + くれました。",
+            "en": "Order: 先生が + 私に + 教えて + くれました。"
+          }
+        }
+      ]
+    }
+  ]
+}

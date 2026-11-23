@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: polyglot-daily
+    runtime: docker
+    plan: starter
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: HOST
+        value: 0.0.0.0
+      - key: DB_PATH
+        value: /var/data/app.db
+      - key: AUTO_SEED
+        value: "true"
+    disk:
+      name: polyglot-data
+      mountPath: /var/data
+      sizeGB: 1

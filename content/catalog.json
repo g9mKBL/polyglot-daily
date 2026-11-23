@@ -1,0 +1,58 @@
+{
+  "version": "1.0.0",
+  "languages": [
+    {
+      "id": "en",
+      "name": {
+        "native": "English",
+        "vi": "Tiếng Anh",
+        "en": "English"
+      },
+      "ttsLocale": "en-US",
+      "levelSystem": "CEFR",
+      "levels": [
+        "en-a1",
+        "en-a2",
+        "en-b1",
+        "en-b2",
+        "en-c1",
+        "en-c2"
+      ]
+    },
+    {
+      "id": "zh",
+      "name": {
+        "native": "中文 (普通话)",
+        "vi": "Tiếng Trung (Phổ thông)",
+        "en": "Mandarin Chinese"
+      },
+      "ttsLocale": "zh-CN",
+      "levelSystem": "HSK",
+      "levels": [
+        "zh-hsk1",
+        "zh-hsk2",
+        "zh-hsk3",
+        "zh-hsk4",
+        "zh-hsk5",
+        "zh-hsk6"
+      ]
+    },
+    {
+      "id": "ja",
+      "name": {
+        "native": "日本語",
+        "vi": "Tiếng Nhật",
+        "en": "Japanese"
+      },
+      "ttsLocale": "ja-JP",
+      "levelSystem": "JLPT",
+      "levels": [
+        "ja-n5",
+        "ja-n4",
+        "ja-n3",
+        "ja-n2",
+        "ja-n1"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1141 @@
+{
+  "levelId": "en-c1",
+  "language": "en",
+  "code": "C1",
+  "order": 5,
+  "title": {
+    "vi": "Cao cấp C1 — Hùng biện và ngoại giao",
+    "en": "Advanced C1 — Rhetoric & Diplomacy"
+  },
+  "subtitle": {
+    "vi": "Đảo ngữ nhấn mạnh, câu chẻ, giả định thức và phân tích phản biện",
+    "en": "Negative inversion, cleft sentences, diplomacy, and critical analysis"
+  },
+  "estimatedMinutes": 55,
+  "lessons": [
+    {
+      "id": "en-c1-l1",
+      "levelId": "en-c1",
+      "order": 1,
+      "title": {
+        "native": "Rhetoric & Emphasis",
+        "vi": "Hùng biện và cấu trúc nhấn mạnh",
+        "en": "Rhetoric & Emphasis"
+      },
+      "topic": "rhetoric",
+      "summary": {
+        "vi": "Làm chủ đảo ngữ phủ định ('Not only...', 'Seldom...') và câu chẻ ('It is... that...', 'What... is...') để tạo trọng âm tu từ.",
+        "en": "Master negative inversion and cleft sentences to create crisp rhetorical focus."
+      },
+      "xpReward": 65,
+      "vocabulary": [
+        {
+          "id": "en-c1-l1-v1",
+          "term": "compelling",
+          "reading": "/kəmˈpelɪŋ/",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "thuyết phục mạnh mẽ, lôi cuốn",
+            "en": "compelling"
+          },
+          "example": {
+            "text": "She presented a compelling argument backed by longitudinal data.",
+            "reading": "/ʃiː prɪˈzentɪd ə kəmˈpelɪŋ ˈɑːrɡjumənt bækt baɪ ˌlɑːndʒɪˈtuːdənəl ˈdeɪtə/",
+            "meaning": {
+              "vi": "Cô ấy trình bày một lập luận đầy sức thuyết phục dựa trên dữ liệu dài hạn.",
+              "en": "She presented a compelling argument backed by longitudinal data."
+            }
+          },
+          "note": {
+            "vi": "Thường đi với 'argument', 'case', 'evidence', 'narrative'.",
+            "en": "Strong collocations: 'compelling case', 'compelling evidence'."
+          }
+        },
+        {
+          "id": "en-c1-l1-v2",
+          "term": "underscore",
+          "reading": "/ˌʌndərˈskɔːr/",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "nhấn mạnh, làm nổi bật",
+            "en": "to underscore"
+          },
+          "example": {
+            "text": "The findings underscore the need for early language exposure.",
+            "reading": "/ðə ˈfaɪndɪŋz ˌʌndərˈskɔːr ðə niːd fɔːr ˈɜːrli ˈlæŋɡwɪdʒ ɪkˈspoʊʒər/",
+            "meaning": {
+              "vi": "Các phát hiện nhấn mạnh nhu cầu tiếp xúc ngôn ngữ sớm.",
+              "en": "The findings underscore the need for early language exposure."
+            }
+          },
+          "note": {
+            "vi": "Đồng nghĩa trang trọng với 'emphasize' hay 'highlight'.",
+            "en": "Elevated synonym for 'emphasize' or 'highlight'."
+          }
+        },
+        {
+          "id": "en-c1-l1-v3",
+          "term": "coherent",
+          "reading": "/koʊˈhɪrənt/",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "mạch lạc, chặt chẽ",
+            "en": "coherent"
+          },
+          "example": {
+            "text": "A coherent thesis guides the reader effortlessly across paragraphs.",
+            "reading": "/ə koʊˈhɪrənt ˈθiːsɪs ɡaɪdz ðə ˈriːdər ˈefərtləsli əˈkrɔːs ˈperəɡræfs/",
+            "meaning": {
+              "vi": "Một luận điểm mạch lạc dẫn dắt người đọc trôi chảy qua từng đoạn văn.",
+              "en": "A coherent thesis guides the reader effortlessly across paragraphs."
+            }
+          },
+          "note": {
+            "vi": "Danh từ tương ứng là 'coherence'.",
+            "en": "Related noun: 'coherence'."
+          }
+        },
+        {
+          "id": "en-c1-l1-v4",
+          "term": "pivotal",
+          "reading": "/ˈpɪvətəl/",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "then chốt, mang tính bước ngoặt",
+            "en": "pivotal"
+          },
+          "example": {
+            "text": "Community feedback played a pivotal role in the redesign.",
+            "reading": "/kəˈmjuːnəti ˈfiːdbæk pleɪd ə ˈpɪvətəl roʊl ɪn ðə ˌriːdɪˈzaɪn/",
+            "meaning": {
+              "vi": "Phản hồi của cộng đồng đóng vai trò then chốt trong lần thiết kế lại.",
+              "en": "Community feedback played a pivotal role in the redesign."
+            }
+          },
+          "note": {
+            "vi": "Thường dùng trong cụm 'pivotal role' hoặc 'pivotal moment'.",
+            "en": "Most frequently appears in 'pivotal role' or 'pivotal shift'."
+          }
+        },
+        {
+          "id": "en-c1-l1-v5",
+          "term": "articulate",
+          "reading": "/ɑːrˈtɪkjəleɪt/",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "diễn đạt rõ ràng, mạch lạc",
+            "en": "to articulate"
+          },
+          "example": {
+            "text": "It takes practice to articulate abstract ideas concisely.",
+            "reading": "/ɪt teɪks ˈpræktɪs tuː ɑːrˈtɪkjəleɪt ˈæbstrækt aɪˈdiːəz kənˈsaɪsli/",
+            "meaning": {
+              "vi": "Cần luyện tập để diễn đạt các ý tưởng trừu tượng một cách súc tích.",
+              "en": "It takes practice to articulate abstract ideas concisely."
+            }
+          },
+          "note": {
+            "vi": "Khi là tính từ đọc /ɑːrˈtɪkjələt/ (nói năng lưu loát); động từ đọc /ɑːrˈtɪkjəleɪt/.",
+            "en": "Pronounced /-eɪt/ as a verb and /-ət/ as an adjective."
+          }
+        },
+        {
+          "id": "en-c1-l1-v6",
+          "term": "disparity",
+          "reading": "/dɪˈspærəti/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "sự chênh lệch, bất bình đẳng",
+            "en": "disparity"
+          },
+          "example": {
+            "text": "Seldom have we seen such a stark disparity between theory and practice.",
+            "reading": "/ˈseldəm hæv wiː siːn sʌtʃ ə stɑːrk dɪˈspærəti bɪˈtwiːn ˈθɪri ænd ˈpræktɪs/",
+            "meaning": {
+              "vi": "Hiếm khi chúng ta thấy sự chênh lệch rõ rệt đến vậy giữa lý thuyết và thực tiễn.",
+              "en": "Seldom have we seen such a stark disparity between theory and practice."
+            }
+          },
+          "note": {
+            "vi": "Trang trọng hơn 'difference', nhấn mạnh khoảng cách bất cân xứng.",
+            "en": "Stronger than 'difference', indicating an unfair or notable gap."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "en-c1-l1-g1",
+          "pattern": "Negative Adverbial + Auxiliary + Subject + Main Verb",
+          "title": {
+            "vi": "Đảo ngữ phủ định để nhấn mạnh",
+            "en": "Negative Inversion for Rhetorical Impact"
+          },
+          "structure": "Not only + aux + S + V, but also... | Seldom / Rarely / Never + aux + S + V",
+          "explanation": {
+            "vi": "Khi đưa trạng ngữ phủ định hoặc giới hạn ('Not only', 'Rarely', 'Seldom', 'Only then') lên đầu câu, ta đảo trợ động từ lên trước chủ ngữ như câu hỏi.",
+            "en": "Fronting negative or restrictive adverbials triggers subject-auxiliary inversion for formal emphasis."
+          },
+          "usageNote": {
+            "vi": "Với động từ thường ở hiện tại/quá khứ đơn, nhớ mượn trợ động từ 'do/does/did'.",
+            "en": "Remember to insert 'do/does/did' when no auxiliary is already present."
+          },
+          "examples": [
+            {
+              "text": "Not only does daily reading expand vocabulary, but it also sharpens intuition.",
+              "reading": "/nɑːt ˈoʊnli dʌz ˈdeɪli ˈriːdɪŋ ɪkˈspænd voʊˈkæbjəleri bʌt ɪt ˈɔːlsoʊ ˈʃɑːrpənz ˌɪntuˈɪʃən/",
+              "meaning": {
+                "vi": "Đọc sách hằng ngày không chỉ mở rộng vốn từ mà còn rèn giũa trực giác ngôn ngữ.",
+                "en": "Not only does daily reading expand vocabulary, but it also sharpens intuition."
+              }
+            },
+            {
+              "text": "Rarely have learners progressed so steadily without peer feedback.",
+              "reading": "/ˈrerli hæv ˈlɜːrnərz prəˈɡrest soʊ ˈstedəli wɪˈðaʊt pɪr ˈfiːdbæk/",
+              "meaning": {
+                "vi": "Hiếm khi người học tiến bộ đều đặn như vậy nếu thiếu góp ý từ bạn đồng hành.",
+                "en": "Rarely have learners progressed so steadily without peer feedback."
+              }
+            }
+          ]
+        },
+        {
+          "id": "en-c1-l1-g2",
+          "pattern": "It is X that... / What S + V + is...",
+          "title": {
+            "vi": "Câu chẻ (It-cleft & Wh-cleft)",
+            "en": "Cleft Sentences for Focal Contrast"
+          },
+          "structure": "It is [focused element] that + clause | What [clause] is [focused element]",
+          "explanation": {
+            "vi": "Câu chẻ tách một câu đơn thành hai phần để chiếu đèn rọi trực tiếp vào yếu tố quan trọng nhất.",
+            "en": "Cleft constructions spotlight a single element in a sentence to contrast or clarify a point."
+          },
+          "usageNote": {
+            "vi": "Rất hữu ích khi phản biện nhẹ nhàng trong thuyết trình hoặc bài luận.",
+            "en": "Effective for correcting misconceptions politely in presentations."
+          },
+          "examples": [
+            {
+              "text": "It is consistent exposure, not raw talent, that drives fluency.",
+              "reading": "/ɪt ɪz kənˈsɪstənt ɪkˈspoʊʒər nɑːt rɔː ˈtælənt ðæt draɪvz ˈfluːənsi/",
+              "meaning": {
+                "vi": "Chính sự tiếp xúc đều đặn, chứ không phải năng khiếu bẩm sinh, mới tạo nên sự trôi chảy.",
+                "en": "It is consistent exposure, not raw talent, that drives fluency."
+              }
+            },
+            {
+              "text": "What sets this curriculum apart is its bilingual phonetic scaffolding.",
+              "reading": "/wʌt sets ðɪs kəˈrɪkjələm əˈpɑːrt ɪz ɪts baɪˈlɪŋɡwəl fəˈnetɪk ˈskæfoʊldɪŋ/",
+              "meaning": {
+                "vi": "Điều làm chương trình này khác biệt là hệ thống phiên âm song ngữ nâng đỡ người học.",
+                "en": "What sets this curriculum apart is its bilingual phonetic scaffolding."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Trích đoạn bình luận về tính nhất quán trong học tập",
+          "en": "Editorial: The Myth of Overnight Fluency"
+        },
+        "mode": "reading",
+        "context": {
+          "vi": "Trích đoạn bài xã luận phân tích yếu tố cốt lõi giúp người trưởng thành làm chủ ngoại ngữ.",
+          "en": "An editorial excerpt examining what enables adult learners to achieve real fluency."
+        },
+        "lines": [
+          {
+            "speaker": "Narrator",
+            "text": "Rarely do quick-fix language apps address the disparity between passive recognition and active speech.",
+            "reading": "/ˈrerli duː kwɪk fɪks ˈlæŋɡwɪdʒ æps əˈdres ðə dɪˈspærəti bɪˈtwiːn ˈpæsɪv ˌrekəɡˈnɪʃən ænd ˈæktɪv spiːtʃ/",
+            "meaning": {
+              "vi": "Hiếm khi các ứng dụng học nhanh giải quyết được khoảng cách giữa nhận biết thụ động và nói chủ động.",
+              "en": "Rarely do quick-fix language apps address the disparity between passive recognition and active speech."
+            }
+          },
+          {
+            "speaker": "Narrator",
+            "text": "What learners truly require is a coherent routine that pairs listening with guided output.",
+            "reading": "/wʌt ˈlɜːrnərz ˈtruːli rɪˈkwaɪər ɪz ə koʊˈhɪrənt ruːˈtiːn ðæt perz ˈlɪsənɪŋ wɪð ˈɡaɪdɪd ˈaʊtpʊt/",
+            "meaning": {
+              "vi": "Điều người học thực sự cần là một lịch trình mạch lạc kết hợp giữa nghe hiểu và thực hành đầu ra có dẫn dắt.",
+              "en": "What learners truly require is a coherent routine that pairs listening with guided output."
+            }
+          },
+          {
+            "speaker": "Narrator",
+            "text": "Not only does peer accountability play a pivotal role, but it also sustains motivation across plateaus.",
+            "reading": "/nɑːt ˈoʊnli dʌz pɪr əˌkaʊntəˈbɪləti pleɪ ə ˈpɪvətəl roʊl bʌt ɪt ˈɔːlsoʊ səˈsteɪnz ˌmoʊtɪˈveɪʃən əˈkrɔːs plæˈtoʊz/",
+            "meaning": {
+              "vi": "Sự đồng hành của bạn học không chỉ đóng vai trò then chốt mà còn duy trì động lực qua những giai đoạn chững lại.",
+              "en": "Not only does peer accountability play a pivotal role, but it also sustains motivation across plateaus."
+            }
+          },
+          {
+            "speaker": "Narrator",
+            "text": "These observations underscore a compelling truth: fluency is built through deliberate daily habits.",
+            "reading": "/ðiːz ˌɑːbzərˈveɪʃənz ˌʌndərˈskɔːr ə kəmˈpelɪŋ truːθ | ˈfluːənsi ɪz bɪlt θruː dɪˈlɪbərət ˈdeɪli ˈhæbɪts/",
+            "meaning": {
+              "vi": "Những quan sát này nhấn mạnh một sự thật thuyết phục: sự trôi chảy được xây dựng qua thói quen rèn luyện có chủ đích mỗi ngày.",
+              "en": "These observations underscore a compelling truth: fluency is built through deliberate daily habits."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Văn phong xã luận tiếng Anh dùng đảo ngữ có tiết chế (1–2 lần mỗi bài) để tạo điểm nhấn mà không gây nặng nề.",
+          "en": "Quality English editorials use inversion sparingly—one or two instances per passage—so the emphasis stays sharp."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "en-c1-l1-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Động từ nào mang sắc thái trang trọng của 'nhấn mạnh / làm nổi bật'?",
+            "en": "Which verb formally means 'to emphasize or highlight'?"
+          },
+          "targetText": "The findings ___ the urgency of reform.",
+          "options": [
+            "underscore",
+            "overlook",
+            "disperse",
+            "assume"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'underscore' nghĩa là nhấn mạnh tầm quan trọng của điều gì đó.",
+            "en": "'underscore' means to underline or emphasize the importance of something."
+          }
+        },
+        {
+          "id": "en-c1-l1-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn phiên âm đúng cho động từ 'articulate'.",
+            "en": "Select the correct IPA for the verb 'articulate'."
+          },
+          "targetText": "articulate (verb)",
+          "ttsText": "articulate",
+          "options": [
+            "/ɑːrˈtɪkjəleɪt/",
+            "/ɑːrˈtɪkjələt/",
+            "/kəmˈpelɪŋ/",
+            "/dɪˈspærəti/"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Ở dạng động từ, 'articulate' kết thúc bằng /-eɪt/: /ɑːrˈtɪkjəleɪt/.",
+            "en": "As a verb, 'articulate' ends with /-eɪt/: /ɑːrˈtɪkjəleɪt/."
+          }
+        },
+        {
+          "id": "en-c1-l1-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn cấu trúc đảo ngữ đúng sau 'Not only':",
+            "en": "Choose the grammatical inversion after 'Not only':"
+          },
+          "targetText": "Not only ___ this method save time, but it also boosts accuracy.",
+          "ttsText": "Not only does this method save time, but it also boosts accuracy.",
+          "options": [
+            "this method does",
+            "does this method",
+            "saves this method",
+            "is this method"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "vi": "Sau 'Not only' ở đầu câu phải đảo trợ động từ 'does' lên trước chủ ngữ 'this method'.",
+            "en": "Fronted 'Not only' requires inverting 'does' before the subject 'this method'."
+          }
+        },
+        {
+          "id": "en-c1-l1-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu chẻ nhấn mạnh hoàn chỉnh.",
+            "en": "Arrange the words into a focused cleft sentence."
+          },
+          "targetMeaning": {
+            "vi": "Chính sự luyện tập đều đặn mới tạo nên tiến bộ.",
+            "en": "It is steady practice that drives progress."
+          },
+          "tokens": [
+            "practice",
+            "progress.",
+            "drives",
+            "is",
+            "that",
+            "steady",
+            "It"
+          ],
+          "correctOrder": [
+            "It",
+            "is",
+            "steady",
+            "practice",
+            "that",
+            "drives",
+            "progress."
+          ],
+          "correctSentence": "It is steady practice that drives progress.",
+          "explanation": {
+            "vi": "Cấu trúc câu chẻ: It is + [cụm nhấn mạnh] + that + động từ.",
+            "en": "It-cleft pattern: It is + [focused noun phrase] + that + verb."
+          }
+        }
+      ]
+    },
+    {
+      "id": "en-c1-l2",
+      "levelId": "en-c1",
+      "order": 2,
+      "title": {
+        "native": "Diplomacy & Negotiation",
+        "vi": "Ngoại giao và đàm phán",
+        "en": "Diplomacy & Negotiation"
+      },
+      "topic": "negotiation",
+      "summary": {
+        "vi": "Dùng thức giả định (subjunctive), ngôn ngữ rào đón (hedging) và điều kiện hỗn hợp trong thương lượng cấp cao.",
+        "en": "Apply the mandative subjunctive, hedging language, and mixed conditionals in negotiations."
+      },
+      "xpReward": 65,
+      "vocabulary": [
+        {
+          "id": "en-c1-l2-v1",
+          "term": "concession",
+          "reading": "/kənˈseʃən/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "sự nhượng bộ",
+            "en": "concession"
+          },
+          "example": {
+            "text": "Neither side was willing to make a major concession without guarantees.",
+            "reading": "/ˈniːðər saɪd wʌz ˈwɪlɪŋ tuː meɪk ə ˈmeɪdʒər kənˈseʃən wɪˈðaʊt ˌɡerənˈtiːz/",
+            "meaning": {
+              "vi": "Không bên nào sẵn sàng nhượng bộ lớn nếu thiếu cam kết bảo đảm.",
+              "en": "Neither side was willing to make a major concession without guarantees."
+            }
+          },
+          "note": {
+            "vi": "Động từ đi kèm: 'make a concession'.",
+            "en": "Collocates with 'make' or 'offer'."
+          }
+        },
+        {
+          "id": "en-c1-l2-v2",
+          "term": "stipulate",
+          "reading": "/ˈstɪpjəleɪt/",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "quy định rõ (trong hợp đồng/điều khoản)",
+            "en": "to stipulate"
+          },
+          "example": {
+            "text": "The agreement stipulates that both parties share audit logs.",
+            "reading": "/ði əˈɡriːmənt ˈstɪpjəleɪts ðæt boʊθ ˈpɑːrtiz ʃer ˈɔːdɪt lɑːɡz/",
+            "meaning": {
+              "vi": "Thỏa thuận quy định rõ rằng cả hai bên cùng chia sẻ nhật ký kiểm tra.",
+              "en": "The agreement stipulates that both parties share audit logs."
+            }
+          },
+          "note": {
+            "vi": "Thường theo sau bằng mệnh đề 'that' ở thức giả định.",
+            "en": "Often followed by a 'that' clause with the base subjunctive."
+          }
+        },
+        {
+          "id": "en-c1-l2-v3",
+          "term": "unilateral",
+          "reading": "/ˌjuːnɪˈlætərəl/",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "đơn phương (từ một phía)",
+            "en": "unilateral"
+          },
+          "example": {
+            "text": "Unilateral changes to the schedule could erode trust.",
+            "reading": "/ˌjuːnɪˈlætərəl ˈtʃeɪndʒɪz tuː ðə ˈskedʒuːl kʊd ɪˈroʊd trʌst/",
+            "meaning": {
+              "vi": "Những thay đổi đơn phương về lịch trình có thể làm xói mòn lòng tin.",
+              "en": "Unilateral changes to the schedule could erode trust."
+            }
+          },
+          "note": {
+            "vi": "Đối lập với 'bilateral' (song phương) và 'multilateral' (đa phương).",
+            "en": "Contrast with 'bilateral' (two-sided) and 'multilateral' (many-sided)."
+          }
+        },
+        {
+          "id": "en-c1-l2-v4",
+          "term": "pragmatic",
+          "reading": "/præɡˈmætɪk/",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "thực tế, thực dụng theo hướng giải quyết vấn đề",
+            "en": "pragmatic"
+          },
+          "example": {
+            "text": "Let's adopt a pragmatic approach to resolving the bottleneck.",
+            "reading": "/lets əˈdɑːpt ə præɡˈmætɪk əˈproʊtʃ tuː rɪˈzɑːlvɪŋ ðə ˈbɑːtəlnek/",
+            "meaning": {
+              "vi": "Hãy áp dụng cách tiếp cận thực tế để tháo gỡ điểm nghẽn.",
+              "en": "Let's adopt a pragmatic approach to resolving the bottleneck."
+            }
+          },
+          "note": {
+            "vi": "Mang sắc thái tích cực: linh hoạt, hướng tới kết quả thực tế.",
+            "en": "Positive connotation: focused on workable solutions over dogma."
+          }
+        },
+        {
+          "id": "en-c1-l2-v5",
+          "term": "mitigate",
+          "reading": "/ˈmɪtɪɡeɪt/",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "giảm nhẹ (rủi ro, tác động)",
+            "en": "to mitigate"
+          },
+          "example": {
+            "text": "Phased milestones help mitigate delivery risks.",
+            "reading": "/feɪzd ˈmaɪlstoʊnz help ˈmɪtɪɡeɪt dɪˈlɪvəri rɪsks/",
+            "meaning": {
+              "vi": "Các cột mốc chia giai đoạn giúp giảm nhẹ rủi ro bàn giao.",
+              "en": "Phased milestones help mitigate delivery risks."
+            }
+          },
+          "note": {
+            "vi": "Đừng nhầm với 'minimize' (giảm tối đa) — 'mitigate' là làm dịu bớt mức độ nghiêm trọng.",
+            "en": "'mitigate' means make less severe, typically paired with 'risk' or 'impact'."
+          }
+        },
+        {
+          "id": "en-c1-l2-v6",
+          "term": "consensus",
+          "reading": "/kənˈsensəs/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "sự đồng thuận",
+            "en": "consensus"
+          },
+          "example": {
+            "text": "After hours of dialogue, the committee reached a consensus.",
+            "reading": "/ˈæftər ˈaʊərz əv ˈdaɪəlɑːɡ ðə kəˈmɪti riːtʃt ə kənˈsensəs/",
+            "meaning": {
+              "vi": "Sau nhiều giờ trao đổi, ủy ban đã đạt được sự đồng thuận.",
+              "en": "After hours of dialogue, the committee reached a consensus."
+            }
+          },
+          "note": {
+            "vi": "Chú ý chính tả: chữ 's' ở giữa (consensus), không phải 'c'.",
+            "en": "Spelling tip: spelled with 's' in '-sensus', not 'c'."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "en-c1-l2-g1",
+          "pattern": "It is essential / recommend / stipulate + that + S + (should) + V(base)",
+          "title": {
+            "vi": "Thức giả định trang trọng (Mandative Subjunctive)",
+            "en": "The Mandative Subjunctive"
+          },
+          "structure": "recommend/insist/stipulate + that + S + V(bare infinitive) / be",
+          "explanation": {
+            "vi": "Sau các động từ hoặc tính từ mang tính yêu cầu/khuyến nghị, động từ trong mệnh đề 'that' giữ nguyên dạng gốc không chia '-s' và dùng 'be' thay cho 'is/are'.",
+            "en": "After verbs or adjectives of urgency/recommendation, the 'that'-clause takes the bare verb form (no '-s', 'be' instead of 'is/are')."
+          },
+          "usageNote": {
+            "vi": "Rất chuẩn mực trong văn bản hợp đồng, nghị quyết và email đối ngoại.",
+            "en": "Standard in legal contracts, board resolutions, and formal correspondence."
+          },
+          "examples": [
+            {
+              "text": "The board insisted that the vendor revise the clause immediately.",
+              "reading": "/ðə bɔːrd ɪnˈsɪstɪd ðæt ðə ˈvendər rɪˈvaɪz ðə klɔːz ɪˈmiːdiətli/",
+              "meaning": {
+                "vi": "Hội đồng kiên quyết yêu cầu nhà cung cấp sửa điều khoản ngay lập tức.",
+                "en": "The board insisted that the vendor revise the clause immediately."
+              }
+            },
+            {
+              "text": "It is imperative that every milestone be documented transparently.",
+              "reading": "/ɪt ɪz ɪmˈperətɪv ðæt ˈevri ˈmaɪlstoʊn biː ˈdɑːkjəmentɪd trænsˈperəntli/",
+              "meaning": {
+                "vi": "Điều bắt buộc là mọi cột mốc phải được ghi nhận minh bạch.",
+                "en": "It is imperative that every milestone be documented transparently."
+              }
+            }
+          ]
+        },
+        {
+          "id": "en-c1-l2-g2",
+          "pattern": "Mixed Conditionals: If + had + V3, S + would + V(now)",
+          "title": {
+            "vi": "Câu điều kiện hỗn hợp (Quá khứ ảnh hưởng hiện tại)",
+            "en": "Mixed Conditionals (Past Action -> Present State)"
+          },
+          "structure": "If + S + had + V3, S + would + V(base) + now/today",
+          "explanation": {
+            "vi": "Kết hợp mệnh đề 'If' loại 3 (giả định quá khứ) với mệnh đề chính loại 2 (kết quả ở hiện tại).",
+            "en": "Pair a 3rd-Conditional past cause with a 2nd-Conditional present consequence."
+          },
+          "usageNote": {
+            "vi": "Dùng rất đắt giá khi phân tích nguyên nhân quá khứ dẫn đến tình trạng hiện nay.",
+            "en": "Shows how a past decision continues to shape today's reality."
+          },
+          "examples": [
+            {
+              "text": "If we had signed the addendum last month, we would have full clarity today.",
+              "reading": "/ɪf wiː hæd saɪnd ði əˈdendəm læst mʌnθ wiː wʊd hæv fʊl ˈklærəti təˈdeɪ/",
+              "meaning": {
+                "vi": "Nếu tháng trước chúng ta đã ký phụ lục thì hôm nay mọi thứ đã rõ ràng rồi.",
+                "en": "If we had signed the addendum last month, we would have full clarity today."
+              }
+            },
+            {
+              "text": "Were they to accept this concession, both teams could launch next week.",
+              "reading": "/wɜːr ðeɪ tuː əkˈsept ðɪs kənˈseʃən boʊθ tiːmz kʊd lɔːntʃ nekst wiːk/",
+              "meaning": {
+                "vi": "Nếu họ chấp nhận sự nhượng bộ này, cả hai nhóm có thể khởi động vào tuần tới.",
+                "en": "Were they to accept this concession, both teams could launch next week."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Đàm phán điều khoản hợp tác",
+          "en": "Negotiating Partnership Terms"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Hai đại diện đối tác thảo luận cách điều chỉnh điều khoản giao hàng theo hướng đôi bên cùng có lợi.",
+          "en": "Two partnership leads negotiate revised delivery terms diplomatically."
+        },
+        "lines": [
+          {
+            "speaker": "Elena",
+            "text": "Thank you for joining. If we had aligned on timelines earlier, we wouldn't face this bottleneck today.",
+            "reading": "/θæŋk juː fɔːr ˈdʒɔɪnɪŋ | ɪf wiː hæd əˈlaɪnd ɑːn ˈtaɪmlaɪnz ˈɜːrliər wiː ˈwʊdənt feɪs ðɪs ˈbɑːtəlnek təˈdeɪ/",
+            "meaning": {
+              "vi": "Cảm ơn anh đã tham gia. Nếu trước đây mình thống nhất tiến độ sớm hơn thì hôm nay đã không vướng nút thắt này.",
+              "en": "Thank you for joining. If we had aligned on timelines earlier, we wouldn't face this bottleneck today."
+            }
+          },
+          {
+            "speaker": "Kenji",
+            "text": "Fair point. To mitigate risk, our legal team recommends that the contract stipulate a seven-day buffer.",
+            "reading": "/fer pɔɪnt | tuː ˈmɪtɪɡeɪt rɪsk ˈaʊər ˈliːɡəl tiːm ˌrekəˈmendz ðæt ðə ˈkɑːntrækt ˈstɪpjəleɪt ə ˈsevən deɪ ˈbʌfər/",
+            "meaning": {
+              "vi": "Ý xác đáng đấy. Để giảm nhẹ rủi ro, bộ phận pháp chế của chúng tôi đề nghị hợp đồng quy định rõ khoảng đệm bảy ngày.",
+              "en": "Fair point. To mitigate risk, our legal team recommends that the contract stipulate a seven-day buffer."
+            }
+          },
+          {
+            "speaker": "Elena",
+            "text": "That seems pragmatic, provided neither party makes unilateral scope edits after sign-off.",
+            "reading": "/ðæt siːmz præɡˈmætɪk prəˈvaɪdɪd ˈniːðər ˈpɑːrti meɪks ˌjuːnɪˈlætərəl skoʊp ˈedɪts ˈæftər saɪn ɔːf/",
+            "meaning": {
+              "vi": "Nghe rất thực tế, miễn là không bên nào tự ý sửa phạm vi công việc sau khi đã chốt ký.",
+              "en": "That seems pragmatic, provided neither party makes unilateral scope edits after sign-off."
+            }
+          },
+          {
+            "speaker": "Kenji",
+            "text": "We gladly make that concession. Let's draft the final summary so we lock in consensus today.",
+            "reading": "/wiː ˈɡlædli meɪk ðæt kənˈseʃən | lets dræft ðə ˈfaɪnəl ˈsʌməri soʊ wiː lɑːk ɪn kənˈsensəs təˈdeɪ/",
+            "meaning": {
+              "vi": "Chúng tôi sẵn sàng nhượng bộ điểm đó. Hãy soạn bản tóm tắt cuối cùng để chốt đồng thuận ngay hôm nay.",
+              "en": "We gladly make that concession. Let's draft the final summary so we lock in consensus today."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Trong đàm phán tiếng Anh, dùng 'provided that' (miễn là) và 'that seems pragmatic' giúp đưa ra điều kiện cứng rắn mà vẫn giữ bầu không khí hợp tác.",
+          "en": "Pairing 'that seems pragmatic' with 'provided that...' lets you set firm conditions while maintaining rapport."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "en-c1-l2-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Từ nào chỉ hành động được thực hiện từ một phía mà không hỏi ý kiến đối tác?",
+            "en": "Which adjective describes an action taken by one side without mutual agreement?"
+          },
+          "targetText": "___ decision",
+          "options": [
+            "unilateral",
+            "pragmatic",
+            "coherent",
+            "pivotal"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'unilateral' nghĩa là đơn phương.",
+            "en": "'unilateral' means done by or affecting only one side."
+          }
+        },
+        {
+          "id": "en-c1-l2-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn phiên âm đúng của 'consensus'.",
+            "en": "Choose the accurate IPA for 'consensus'."
+          },
+          "targetText": "consensus",
+          "ttsText": "consensus",
+          "options": [
+            "/kənˈsensəs/",
+            "/ˈkɑːnsɪkwens/",
+            "/kənˈseʃən/",
+            "/ˈstɪpjəleɪt/"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'consensus' đọc là /kənˈsensəs/.",
+            "en": "'consensus' is pronounced /kənˈsensəs/."
+          }
+        },
+        {
+          "id": "en-c1-l2-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn dạng động từ đúng theo thức giả định trang trọng:",
+            "en": "Select the correct mandative subjunctive verb form:"
+          },
+          "targetText": "The mediator proposed that the contract ___ updated today.",
+          "ttsText": "The mediator proposed that the contract be updated today.",
+          "options": [
+            "is",
+            "was",
+            "be",
+            "will be"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "vi": "Sau 'propose that...', thức giả định dùng dạng nguyên mẫu 'be'.",
+            "en": "The mandative subjunctive after 'propose that' uses the bare form 'be'."
+          }
+        },
+        {
+          "id": "en-c1-l2-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu điều kiện hỗn hợp chuẩn xác.",
+            "en": "Order the words into an accurate mixed conditional."
+          },
+          "targetMeaning": {
+            "vi": "Nếu chúng tôi đã lên kế hoạch sớm, hôm nay chúng tôi đã sẵn sàng.",
+            "en": "If we had planned early, we would be ready today."
+          },
+          "tokens": [
+            "ready",
+            "planned",
+            "would",
+            "early,",
+            "If",
+            "be",
+            "had",
+            "today.",
+            "we",
+            "we"
+          ],
+          "correctOrder": [
+            "If",
+            "we",
+            "had",
+            "planned",
+            "early,",
+            "we",
+            "would",
+            "be",
+            "ready",
+            "today."
+          ],
+          "correctSentence": "If we had planned early, we would be ready today.",
+          "explanation": {
+            "vi": "Mệnh đề 'If' quá khứ hoàn thành kết hợp mệnh đề chính hiện tại giả định 'would be ready today'.",
+            "en": "Combines a past hypothetical 'had planned' with a present result 'would be ready today'."
+          }
+        }
+      ]
+    },
+    {
+      "id": "en-c1-l3",
+      "levelId": "en-c1",
+      "order": 3,
+      "title": {
+        "native": "Critical Analysis",
+        "vi": "Phân tích phản biện",
+        "en": "Critical Analysis"
+      },
+      "topic": "analysis",
+      "summary": {
+        "vi": "Sử dụng danh từ hóa (nominalization) và ngôn ngữ đánh giá sắc bén để phản biện lập luận học thuật.",
+        "en": "Use nominalization and evaluative vocabulary to critique complex arguments."
+      },
+      "xpReward": 65,
+      "vocabulary": [
+        {
+          "id": "en-c1-l3-v1",
+          "term": "plausible",
+          "reading": "/ˈplɔːzəbəl/",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "có vẻ hợp lý, đáng tin về mặt lý thuyết",
+            "en": "plausible"
+          },
+          "example": {
+            "text": "The hypothesis sounds plausible, yet lacks empirical verification.",
+            "reading": "/ðə haɪˈpɑːθəsɪs saʊndz ˈplɔːzəbəl jet læks ɪmˈpɪrɪkəl ˌverɪfɪˈkeɪʃən/",
+            "meaning": {
+              "vi": "Giả thuyết nghe có vẻ hợp lý, nhưng lại thiếu kiểm chứng thực nghiệm.",
+              "en": "The hypothesis sounds plausible, yet lacks empirical verification."
+            }
+          },
+          "note": {
+            "vi": "Cẩn thận: 'plausible' nghĩa là có lý khả dĩ, chưa chắc đã là sự thật 100%.",
+            "en": "Implies believability on the surface, not yet proven certainty."
+          }
+        },
+        {
+          "id": "en-c1-l3-v2",
+          "term": "ambiguous",
+          "reading": "/æmˈbɪɡjuəs/",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "mơ hồ, có thể hiểu nhiều nghĩa",
+            "en": "ambiguous"
+          },
+          "example": {
+            "text": "Ambiguous survey wording skewed the final percentages.",
+            "reading": "/æmˈbɪɡjuəs ˈsɜːrveɪ ˈwɜːrdɪŋ skjuːd ðə ˈfaɪnəl pərˈsentɪdʒɪz/",
+            "meaning": {
+              "vi": "Cách diễn đạt mơ hồ trong khảo sát đã làm sai lệch tỷ lệ cuối cùng.",
+              "en": "Ambiguous survey wording skewed the final percentages."
+            }
+          },
+          "note": {
+            "vi": "Trái nghĩa: 'unambiguous' (rõ ràng tuyệt đối).",
+            "en": "Antonym: 'unambiguous'."
+          }
+        },
+        {
+          "id": "en-c1-l3-v3",
+          "term": "corroborate",
+          "reading": "/kəˈrɑːbəreɪt/",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "củng cố, chứng thực thêm (bằng nguồn độc lập)",
+            "en": "to corroborate"
+          },
+          "example": {
+            "text": "Independent interviews corroborated the researcher's claim.",
+            "reading": "/ˌɪndɪˈpendənt ˈɪntərvjuːz kəˈrɑːbəreɪtɪd ðə ˈriːsɜːrtʃərz kleɪm/",
+            "meaning": {
+              "vi": "Các cuộc phỏng vấn độc lập đã chứng thực thêm cho nhận định của nhà nghiên cứu.",
+              "en": "Independent interviews corroborated the researcher's claim."
+            }
+          },
+          "note": {
+            "vi": "Thường dùng trong pháp lý, báo chí điều tra và khoa học.",
+            "en": "Common in journalism, law, and academic verification."
+          }
+        },
+        {
+          "id": "en-c1-l3-v4",
+          "term": "assumption",
+          "reading": "/əˈsʌmpʃən/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "giả định ngầm",
+            "en": "assumption"
+          },
+          "example": {
+            "text": "Critics questioned the underlying assumption behind the model.",
+            "reading": "/ˈkrɪtɪks ˈkwestʃənd ði ˌʌndərˈlaɪɪŋ əˈsʌmpʃən bɪˈhaɪnd ðə ˈmɑːdəl/",
+            "meaning": {
+              "vi": "Giới phê bình đã đặt dấu hỏi về giả định ngầm phía sau mô hình đó.",
+              "en": "Critics questioned the underlying assumption behind the model."
+            }
+          },
+          "note": {
+            "vi": "Danh từ hóa của động từ 'assume'; cụm hay dùng: 'underlying assumption'.",
+            "en": "Nominalized form of 'assume'; pairs naturally with 'underlying' or 'flawed'."
+          }
+        },
+        {
+          "id": "en-c1-l3-v5",
+          "term": "nuance",
+          "reading": "/ˈnuːɑːns/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "sắc thái tinh tế",
+            "en": "nuance"
+          },
+          "example": {
+            "text": "Oversimplified headlines strip away essential nuance.",
+            "reading": "/ˌoʊvərˈsɪmplɪfaɪd ˈhedlaɪnz strɪp əˈweɪ ɪˈsenʃəl ˈnuːɑːns/",
+            "meaning": {
+              "vi": "Những tiêu đề đơn giản hóa quá mức làm mất đi sắc thái cốt lõi.",
+              "en": "Oversimplified headlines strip away essential nuance."
+            }
+          },
+          "note": {
+            "vi": "Tính từ là 'nuanced' (giàu sắc thái, tinh tế).",
+            "en": "Adjective form: 'nuanced'."
+          }
+        },
+        {
+          "id": "en-c1-l3-v6",
+          "term": "discrepancy",
+          "reading": "/dɪˈskrepənsi/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "sự bất nhất, sai lệch giữa hai nguồn số liệu",
+            "en": "discrepancy"
+          },
+          "example": {
+            "text": "Auditors flagged a minor discrepancy between the two ledgers.",
+            "reading": "/ˈɔːdɪtərz flæɡd ə ˈmaɪnər dɪˈskrepənsi bɪˈtwiːn ðə tuː ˈledʒərz/",
+            "meaning": {
+              "vi": "Kiểm toán viên đã đánh dấu một sự sai lệch nhỏ giữa hai sổ sách.",
+              "en": "Auditors flagged a minor discrepancy between the two ledgers."
+            }
+          },
+          "note": {
+            "vi": "Dùng cho sự không khớp nhau giữa hai bản ghi hoặc hai lời khai đáng lẽ phải giống nhau.",
+            "en": "Refers to an unexpected mismatch between figures or accounts that should agree."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "en-c1-l3-g1",
+          "pattern": "Nominalization: Verb/Adj -> Abstract Noun Subject",
+          "title": {
+            "vi": "Danh từ hóa trong văn bản phân tích (Nominalization)",
+            "en": "Nominalization for Analytical Density"
+          },
+          "structure": "Verb/Adjective clause -> Noun Phrase (e.g., 'The rapid adoption of...' / 'Their failure to...')",
+          "explanation": {
+            "vi": "Chuyển động từ hoặc tính từ thành cụm danh từ làm chủ ngữ giúp câu khách quan hơn và dễ bàn về nguyên nhân - hệ quả.",
+            "en": "Turning verbs or adjectives into noun phrases shifts focus from personal actors to abstract processes and causes."
+          },
+          "usageNote": {
+            "vi": "Dùng vừa phải để tránh câu quá khô cứng; kết hợp với động từ mạnh như 'highlights', 'triggers', 'exposes'.",
+            "en": "Pair nominalized subjects with active, precise verbs like 'exposes' or 'triggers'."
+          },
+          "examples": [
+            {
+              "text": "The lack of longitudinal testing undermines the report's conclusions.",
+              "reading": "/ðə læk əv ˌlɑːndʒɪˈtuːdənəl ˈtestɪŋ ˌʌndərˈmaɪnz ðə rɪˈpɔːrts kənˈkluːʒənz/",
+              "meaning": {
+                "vi": "Việc thiếu kiểm thử dài hạn làm suy yếu các kết luận của báo cáo.",
+                "en": "The lack of longitudinal testing undermines the report's conclusions."
+              }
+            },
+            {
+              "text": "Her careful verification of sources prevented a costly error.",
+              "reading": "/hɜːr ˈkerfəl ˌverɪfɪˈkeɪʃən əv ˈsɔːrsɪz prɪˈventɪd ə ˈkɔːstli ˈerər/",
+              "meaning": {
+                "vi": "Sự kiểm chứng nguồn tin cẩn thận của cô ấy đã ngăn được một sai sót đắt giá.",
+                "en": "Her careful verification of sources prevented a costly error."
+              }
+            }
+          ]
+        },
+        {
+          "id": "en-c1-l3-g2",
+          "pattern": "Concessive 'Albeit' & 'Notwithstanding'",
+          "title": {
+            "vi": "Nhượng bộ tinh tế với 'albeit' và 'notwithstanding'",
+            "en": "Refined Concession: 'albeit' & 'notwithstanding'"
+          },
+          "structure": "Main clause + albeit + adj/adv/phrase | Notwithstanding + Noun, Main clause",
+          "explanation": {
+            "vi": "'albeit' nghĩa là 'mặc dù vậy' và chỉ đi với cụm tính từ/trạng từ/giới từ (không đi với mệnh đề đầy đủ); 'notwithstanding' nghĩa là 'bất chấp'.",
+            "en": "'albeit' introduces a compact qualifying phrase (never a full finite clause); 'notwithstanding' means 'in spite of'."
+          },
+          "usageNote": {
+            "vi": "Không viết 'albeit it was brief'; viết 'albeit brief'.",
+            "en": "Never follow 'albeit' with a finite verb ('albeit brief', not 'albeit it was brief')."
+          },
+          "examples": [
+            {
+              "text": "The explanation is plausible, albeit slightly incomplete.",
+              "reading": "/ði ˌekspləˈneɪʃən ɪz ˈplɔːzəbəl ɔːlˈbiːɪt ˈslaɪtli ˌɪnkəmˈpliːt/",
+              "meaning": {
+                "vi": "Lời giải thích đó có vẻ hợp lý, dù còn hơi thiếu sót.",
+                "en": "The explanation is plausible, albeit slightly incomplete."
+              }
+            },
+            {
+              "text": "Notwithstanding minor discrepancies, the dataset remains insightful.",
+              "reading": "/ˌnɑːtwɪθˈstændɪŋ ˈmaɪnər dɪˈskrepənsiz ðə ˈdeɪtəset rɪˈmeɪnz ˈɪnsaɪtfəl/",
+              "meaning": {
+                "vi": "Bất chấp vài sai lệch nhỏ, bộ dữ liệu vẫn rất giàu giá trị gợi mở.",
+                "en": "Notwithstanding minor discrepancies, the dataset remains insightful."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Phản biện báo cáo đánh giá học thuật",
+          "en": "Critiquing a Policy White Paper"
+        },
+        "mode": "reading",
+        "context": {
+          "vi": "Nhận xét chuyên môn về một bản báo cáo giáo dục song ngữ.",
+          "en": "Peer-review commentary on a bilingual education white paper."
+        },
+        "lines": [
+          {
+            "speaker": "Reviewer",
+            "text": "While the paper offers a plausible framework for urban schools, its rural sampling remains ambiguous.",
+            "reading": "/waɪl ðə ˈpeɪpər ˈɔːfərz ə ˈplɔːzəbəl ˈfreɪmwɜːrk fɔːr ˈɜːrbən skuːlz ɪts ˈrʊrəl ˈsæmplɪŋ rɪˈmeɪnz æmˈbɪɡjuəs/",
+            "meaning": {
+              "vi": "Dù bài viết đưa ra khung phương pháp hợp lý cho trường đô thị, cách chọn mẫu ở nông thôn vẫn còn mơ hồ.",
+              "en": "While the paper offers a plausible framework for urban schools, its rural sampling remains ambiguous."
+            }
+          },
+          {
+            "speaker": "Reviewer",
+            "text": "The authors' reliance on self-reported scores overlooks a clear discrepancy in attendance records.",
+            "reading": "/ði ˈɔːθərz rɪˈlaɪəns ɑːn self rɪˈpɔːrtɪd skɔːrz ˌoʊvərˈlʊks ə klɪr dɪˈskrepənsi ɪn əˈtendəns ˈrekərdz/",
+            "meaning": {
+              "vi": "Việc tác giả dựa vào điểm tự khai đã bỏ sót một sự sai lệch rõ rệt trong hồ sơ chuyên cần.",
+              "en": "The authors' reliance on self-reported scores overlooks a clear discrepancy in attendance records."
+            }
+          },
+          {
+            "speaker": "Reviewer",
+            "text": "Independent classroom audits could corroborate the central assumption and restore necessary nuance.",
+            "reading": "/ˌɪndɪˈpendənt ˈklæsruːm ˈɔːdɪts kʊd kəˈrɑːbəreɪt ðə ˈsentrəl əˈsʌmpʃən ænd rɪˈstɔːr ˈnesəseri ˈnuːɑːns/",
+            "meaning": {
+              "vi": "Các đợt khảo sát lớp học độc lập có thể chứng thực giả định trung tâm và khôi phục sắc thái cần thiết.",
+              "en": "Independent classroom audits could corroborate the central assumption and restore necessary nuance."
+            }
+          },
+          {
+            "speaker": "Reviewer",
+            "text": "Notwithstanding those methodological gaps, the study makes a timely contribution, albeit modest in scope.",
+            "reading": "/ˌnɑːtwɪθˈstændɪŋ ðoʊz ˌmeθədəˈlɑːdʒɪkəl ɡæps ðə ˈstʌdi meɪks ə ˈtaɪmli ˌkɑːntrɪˈbjuːʃən ɔːlˈbiːɪt ˈmɑːdɪst ɪn skoʊp/",
+            "meaning": {
+              "vi": "Bất chấp những khoảng trống phương pháp đó, nghiên cứu vẫn có đóng góp kịp thời, dù phạm vi còn khiêm tốn.",
+              "en": "Notwithstanding those methodological gaps, the study makes a timely contribution, albeit modest in scope."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Trong bình duyệt học thuật tiếng Anh, phê bình chuyên nghiệp luôn cân bằng giữa chỉ ra lỗ hổng ('overlooks a discrepancy') và ghi nhận đóng góp ('timely contribution').",
+          "en": "Constructive peer review in English pairs pointed methodological critique with balanced recognition of the work's value."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "en-c1-l3-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Động từ nào nghĩa là 'củng cố bằng chứng bằng nguồn độc lập'?",
+            "en": "Which verb means 'to confirm or support a statement with independent evidence'?"
+          },
+          "targetText": "___ a witness account",
+          "options": [
+            "corroborate",
+            "mitigate",
+            "stipulate",
+            "overlook"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'corroborate' nghĩa là chứng thực thêm cho một nhận định hay báo cáo.",
+            "en": "'corroborate' means to back up a claim with confirming evidence."
+          }
+        },
+        {
+          "id": "en-c1-l3-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn từ ứng với phiên âm /dɪˈskrepənsi/.",
+            "en": "Which word matches /dɪˈskrepənsi/?"
+          },
+          "targetText": "/dɪˈskrepənsi/",
+          "ttsText": "discrepancy",
+          "options": [
+            "disparity",
+            "discrepancy",
+            "assumption",
+            "concession"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "vi": "'discrepancy' phát âm là /dɪˈskrepənsi/.",
+            "en": "'discrepancy' is pronounced /dɪˈskrepənsi/."
+          }
+        },
+        {
+          "id": "en-c1-l3-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn cụm dùng đúng ngữ pháp của 'albeit':",
+            "en": "Choose the grammatical phrase following 'albeit':"
+          },
+          "targetText": "The translation is accurate, albeit ___.",
+          "ttsText": "The translation is accurate, albeit somewhat formal.",
+          "options": [
+            "it is formal",
+            "somewhat formal",
+            "was formal",
+            "though formal is"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "vi": "'albeit' đi trực tiếp với cụm tính từ/trạng từ ('somewhat formal'), không đi kèm chủ vị.",
+            "en": "'albeit' takes a compact adjective or adverbial phrase rather than a finite clause."
+          }
+        },
+        {
+          "id": "en-c1-l3-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu danh từ hóa giàu tính phân tích.",
+            "en": "Arrange the words into a nominalized analytical sentence."
+          },
+          "targetMeaning": {
+            "vi": "Cách diễn đạt mơ hồ che khuất sắc thái.",
+            "en": "Ambiguous wording obscures essential nuance."
+          },
+          "tokens": [
+            "essential",
+            "Ambiguous",
+            "nuance.",
+            "wording",
+            "obscures"
+          ],
+          "correctOrder": [
+            "Ambiguous",
+            "wording",
+            "obscures",
+            "essential",
+            "nuance."
+          ],
+          "correctSentence": "Ambiguous wording obscures essential nuance.",
+          "explanation": {
+            "vi": "Cụm danh từ 'Ambiguous wording' làm chủ ngữ cho động từ 'obscures'.",
+            "en": "The noun phrase 'Ambiguous wording' serves as the subject of 'obscures'."
+          }
+        }
+      ]
+    }
+  ]
+}

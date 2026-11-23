@@ -1,0 +1,1195 @@
+{
+  "levelId": "ja-n2",
+  "language": "ja",
+  "code": "N2",
+  "order": 4,
+  "title": {
+    "vi": "JLPT N2 — Tiếng Nhật thương mại và xã hội",
+    "en": "JLPT N2 — Business & Social Discourse"
+  },
+  "subtitle": {
+    "vi": "Kính ngữ thương mại, tính tất yếu và đọc hiểu tin tức xã hội",
+    "en": "Formal business keigo, inevitability, and news commentary"
+  },
+  "estimatedMinutes": 55,
+  "lessons": [
+    {
+      "id": "ja-n2-l1",
+      "levelId": "ja-n2",
+      "order": 1,
+      "title": {
+        "native": "ビジネス敬語と根拠表現",
+        "vi": "Kính ngữ thương mại và căn cứ đề xuất",
+        "en": "Formal Business & Keigo"
+      },
+      "topic": "business-keigo",
+      "summary": {
+        "vi": "Sử dụng mẫu ngữ pháp công sở '〜に関して', '〜に基づいて' cùng tôn kính ngữ/khiêm nhường ngữ chuẩn xác.",
+        "en": "Apply formal connectors 〜に関して and 〜に基づいて alongside business keigo."
+      },
+      "xpReward": 65,
+      "vocabulary": [
+        {
+          "id": "ja-n2-l1-v1",
+          "term": "拝見",
+          "reading": "はいけん",
+          "romaji": "haiken",
+          "rubyText": "拝見[はいけん]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "kính xem (khiêm nhường ngữ của 見る)",
+            "en": "to humbly look at / read"
+          },
+          "example": {
+            "text": "お送りいただいた企画書を拝見いたしました。",
+            "rubyText": "お送[おく]りいただいた企画書[きかくしょ]を拝見[はいけん]いたしました。",
+            "reading": "o-okuri itadaita kikakusho o haiken itashimashita.",
+            "meaning": {
+              "vi": "Tôi đã kính cẩn xem bản đề xuất mà quý vị gửi tới.",
+              "en": "I have reviewed the proposal you kindly sent."
+            }
+          },
+          "note": {
+            "vi": "Không ghép thừa thành '拝見させていただく' ở mức cơ bản; '拝見いたしました' đã rất chuẩn mực.",
+            "en": "'拝見いたしました' is clean and idiomatic without stacking extra humble auxiliaries."
+          }
+        },
+        {
+          "id": "ja-n2-l1-v2",
+          "term": "承知",
+          "reading": "しょうち",
+          "romaji": "shōchi",
+          "rubyText": "承知[しょうち]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "đã hiểu rõ, xin vâng (lịch sự trong kinh doanh)",
+            "en": "acknowledgment / consent"
+          },
+          "example": {
+            "text": "日程の変更につきまして、承知いたしました。",
+            "rubyText": "日程[にってい]の変更[へんこう]につきまして、承知[しょうち]いたしました。",
+            "reading": "nittei no henkō ni tsukimashite, shōchi itashimashita.",
+            "meaning": {
+              "vi": "Về việc thay đổi lịch trình, tôi xin phép ghi nhận và rõ rồi ạ.",
+              "en": "Regarding the schedule change, I have understood and noted it."
+            }
+          },
+          "note": {
+            "vi": "Với cấp trên hoặc đối tác dùng '承知いたしました' (hoặc 'かしこまりました'), tránh dùng '了解しました'.",
+            "en": "Use '承知いたしました' rather than '了解' when replying to clients or superiors."
+          }
+        },
+        {
+          "id": "ja-n2-l1-v3",
+          "term": "検討",
+          "reading": "けんとう",
+          "romaji": "kentō",
+          "rubyText": "検討[けんとう]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "xem xét, cân nhắc kỹ lưỡng",
+            "en": "consideration / review"
+          },
+          "example": {
+            "text": "新しい契約条件に関して社内で検討しております。",
+            "rubyText": "新[あたら]しい契約条件[けいやくじょうけん]に関[かん]して社内[しゃない]で検討[けんとう]しております。",
+            "reading": "atarashii keiyaku jōken ni kanshite shanai de kentō shite orimasu.",
+            "meaning": {
+              "vi": "Về các điều khoản hợp đồng mới, chúng tôi đang xem xét trong nội bộ công ty ạ.",
+              "en": "We are reviewing the new contract terms internally."
+            }
+          },
+          "note": {
+            "vi": "Cụm hay dùng: 前向きに検討する (xem xét theo hướng tích cực).",
+            "en": "Classic phrase: 前向きに検討する (consider favorably)."
+          }
+        },
+        {
+          "id": "ja-n2-l1-v4",
+          "term": "調査",
+          "reading": "ちょうさ",
+          "romaji": "chōsa",
+          "rubyText": "調査[ちょうさ]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "khảo sát, điều tra dữ liệu",
+            "en": "survey / investigation"
+          },
+          "example": {
+            "text": "市場調査の結果に基づいて戦略を立てました。",
+            "rubyText": "市場調査[しじょうちょうさ]の結果[けっか]に基[もと]づいて戦略[せんりゃく]を立[た]てました。",
+            "reading": "shijō chōsa no kekka ni motozuite senryaku o tatemashita.",
+            "meaning": {
+              "vi": "Chúng tôi đã lập chiến lược dựa trên kết quả khảo sát thị trường.",
+              "en": "We formulated our strategy based on market survey results."
+            }
+          },
+          "note": {
+            "vi": "Thường đi kèm '〜に基づいて (dựa trên cơ sở...)'.",
+            "en": "Frequently pairs with '〜に基づいて (based on)'."
+          }
+        },
+        {
+          "id": "ja-n2-l1-v5",
+          "term": "方針",
+          "reading": "ほうしん",
+          "romaji": "hōshin",
+          "rubyText": "方針[ほうしん]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "phương châm, đường lối",
+            "en": "policy / guiding course"
+          },
+          "example": {
+            "text": "来期の事業方針について部長からお話がありました。",
+            "rubyText": "来期[らいき]の事業方針[じぎょうほうしん]について部長[ぶちょう]からお話[はなし]がありました。",
+            "reading": "raiki no jigyō hōshin ni tsuite buchō kara o-hanashi ga arimashita.",
+            "meaning": {
+              "vi": "Trưởng phòng đã phát biểu về phương châm kinh doanh kỳ tới.",
+              "en": "The department director spoke about next term's business direction."
+            }
+          },
+          "note": {
+            "vi": "Động từ đi kèm: 方針を定める / 方針を決める.",
+            "en": "Collocations: 方針を定める (set a policy), 基本方針."
+          }
+        },
+        {
+          "id": "ja-n2-l1-v6",
+          "term": "担当",
+          "reading": "たんとう",
+          "romaji": "tantō",
+          "rubyText": "担当[たんとう]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "phụ trách",
+            "en": "being in charge"
+          },
+          "example": {
+            "text": "本件を担当しております佐藤と申します。",
+            "rubyText": "本件[ほんけん]を担当[たんとう]しております佐藤[さとう]と申[もう]します。",
+            "reading": "honken o tantō shite orimasu Satō to mōshimasu.",
+            "meaning": {
+              "vi": "Tôi tên là Sato, người đang phụ trách vụ việc này ạ.",
+              "en": "My name is Sato, and I am in charge of this matter."
+            }
+          },
+          "note": {
+            "vi": "Người phụ trách là '担当者 (たんとうしゃ)'.",
+            "en": "Person in charge: 担当者 (tantōsha)."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "ja-n2-l1-g1",
+          "pattern": "N + に関して / に関しまして & N + に基づいて",
+          "title": {
+            "vi": "Cấu trúc chủ đề '〜に関して' và căn cứ '〜に基づいて'",
+            "en": "Formal Topic 〜に関して & Basis 〜に基づいて"
+          },
+          "structure": "N + に関して (về việc...) | N + に基づいて (dựa trên căn cứ...)",
+          "explanation": {
+            "vi": "'〜に関して' là dạng trang trọng của '〜について', dùng trong email và báo cáo; '〜に基づいて' chỉ việc hành động hay lập luận dựa trên dữ liệu, quy định hay kinh nghiệm thực tế.",
+            "en": "'〜に関して' elevates '〜について' in formal communication; '〜に基づいて' states that a decision rests on data, rules, or facts."
+          },
+          "usageNote": {
+            "vi": "Khi bổ nghĩa trực tiếp cho danh từ đứng sau, chia thành 'に関する + N' và 'に基づく + N'.",
+            "en": "Before a noun, use 'に関する + N' and 'に基づく + N'."
+          },
+          "examples": [
+            {
+              "text": "この件に関するご質問がございましたら、いつでもご連絡ください。",
+              "rubyText": "この件[けん]に関[かん]するご質問[しつもん]がございましたら、いつでもご連絡[れんらく]ください。",
+              "reading": "kono ken ni kansuru go-shitsumon ga gozaimashitara, itsudemo go-renraku kudasai.",
+              "meaning": {
+                "vi": "Nếu quý vị có thắc mắc liên quan đến vấn đề này, xin vui lòng liên hệ bất cứ lúc nào.",
+                "en": "Should you have any questions regarding this matter, please contact us anytime."
+              }
+            },
+            {
+              "text": "事実に基づいて正確な報告書を作成しました。",
+              "rubyText": "事実[じじつ]に基[もと]づいて正確[せいかく]な報告書[ほうこくしょ]を作成[さくせい]しました。",
+              "reading": "jijitsu ni motozuite seikaku na hōkokusho o sakusei shimashita.",
+              "meaning": {
+                "vi": "Tôi đã soạn bản báo cáo chính xác dựa trên sự thật.",
+                "en": "I compiled an accurate report based on the facts."
+              }
+            }
+          ]
+        },
+        {
+          "id": "ja-n2-l1-g2",
+          "pattern": "お + V-stem + になる (Tôn kính) vs. お + V-stem + いたす (Khiêm nhường)",
+          "title": {
+            "vi": "Mẫu kính ngữ thương mại với 'お〜になる' và 'お〜いたす'",
+            "en": "Business Keigo Frames: お〜になる & お〜いたす"
+          },
+          "structure": "Tôn kính: お + V-ます(bỏ ます) + になる | Khiêm nhường: お + V-ます(bỏ ます) + いたす / する",
+          "explanation": {
+            "vi": "Khung kính ngữ quy tắc áp dụng cho đa số động từ: dùng 'お〜になる' để tôn vinh hành động của khách hàng/sếp và 'お〜いたします' cho hành động phục vụ của bản thân.",
+            "en": "Productive keigo patterns: use 'お〜になる' for respected others' actions and 'お〜いたします' for your own humble actions."
+          },
+          "usageNote": {
+            "vi": "Với từ Hán-Nhật (する verb 2 chữ Hán), dùng 'ご + Từ + になる / いたす' (như ご確認になる, ご案内いたします).",
+            "en": "Two-Kanji する-verbs take 'ご' instead of 'お': ご確認, ご案内いたします."
+          },
+          "examples": [
+            {
+              "text": "お客様はもうお帰りになりましたか。",
+              "rubyText": "お客様[きゃくさま]はもうお帰[かえ]りになりましたか。",
+              "reading": "o-kyakusama wa mō o-kaeri ni narimashita ka.",
+              "meaning": {
+                "vi": "Quý khách đã ra về rồi ạ?",
+                "en": "Has the client already left?"
+              }
+            },
+            {
+              "text": "ただいま新しい資料をお送りいたします。",
+              "rubyText": "ただいま新[あたら]しい資料[しりょう]をお送[おく]りいたします。",
+              "reading": "tadaima atarashii shiryō o o-okuri itashimasu.",
+              "meaning": {
+                "vi": "Ngay bây giờ tôi xin phép gửi tài liệu mới ạ.",
+                "en": "I will send the updated materials right away."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Trao đổi lịch họp với đối tác bằng kính ngữ",
+          "en": "Confirming a Client Meeting in Keigo"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Nhân viên phụ trách Sato gọi điện xác nhận đề xuất với đối tác kinh doanh.",
+          "en": "Account lead Sato speaks politely with a client representative about a revised plan."
+        },
+        "lines": [
+          {
+            "speaker": "佐藤",
+            "text": "お忙しいところ恐れ入ります。企画を担当しております佐藤と申します。",
+            "rubyText": "お忙[いそが]しいところ恐[おそ]れ入[い]ります。企画[きかく]を担当[たんとう]しております佐藤[さとう]と申[もう]します。",
+            "reading": "O-isogashii tokoro osoreirimasu. Kikaku o tantō shite orimasu Satō to mōshimasu.",
+            "meaning": {
+              "vi": "Xin lỗi làm phiền anh/chị lúc đang bận. Tôi là Sato, phụ trách dự án ạ.",
+              "en": "Apologies for troubling you while you are busy. My name is Sato, in charge of planning."
+            }
+          },
+          {
+            "speaker": "取引先",
+            "text": "お世話になっております。昨日お送りいただいた案を拝見いたしました。",
+            "rubyText": "お世話[せわ]になっております。昨日[きのう]お送[おく]りいただいた案[あん]を拝見[はいけん]いたしました。",
+            "reading": "O-sewa ni natte orimasu. Kinō o-okuri itadaita an o haiken itashimashita.",
+            "meaning": {
+              "vi": "Cảm ơn quý công ty đã luôn hỗ trợ. Tôi đã xem bản đề xuất quý vị gửi hôm qua rồi ạ.",
+              "en": "Thank you for your continued support. I have reviewed the draft you sent yesterday."
+            }
+          },
+          {
+            "speaker": "佐藤",
+            "text": "ありがとうございます。ご指摘の調査データに基づいて修正した内容に関してはいかがでしょうか。",
+            "rubyText": "ありがとうございます。ご指摘[してき]の調査[ちょうさ]データに基[もと]づいて修正[しゅうせい]した内容[ないよう]に関[かん]してはいかがでしょうか。",
+            "reading": "Arigatō gozaimasu. Go-shiteki no chōsa dēta ni motozuite shūsei shita naiyō ni kanshite wa ikaga deshō ka.",
+            "meaning": {
+              "vi": "Xin cảm ơn ạ. Về phần nội dung đã chỉnh sửa dựa trên dữ liệu khảo sát anh/chị góp ý thì quý vị thấy thế nào ạ?",
+              "en": "Thank you. Regarding the section revised based on the survey data you pointed out, how does it look?"
+            }
+          },
+          {
+            "speaker": "取引先",
+            "text": "とても明確でした。社内で検討のうえ、今週中に方針をご連絡いたします。",
+            "rubyText": "とても明確[めいかく]でした。社内[しゃない]で検討[けんとう]のうえ、今週中[こんしゅうちゅう]に方針[ほうしん]をご連絡[れんらく]いたします。",
+            "reading": "Totemo meikaku deshita. Shanai de kentō no ue, konshūchū ni hōshin o go-renraku itashimasu.",
+            "meaning": {
+              "vi": "Rất rõ ràng rồi ạ. Sau khi xem xét nội bộ, trong tuần này chúng tôi sẽ liên hệ báo lại phương hướng nhé.",
+              "en": "It was very clear. After internal review, we will contact you with our decision this week."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Câu mở đầu 'お忙しいところ恐れ入ります (Xin phép làm phiền lúc anh/chị đang bận)' và 'お世話になっております' là bộ đôi câu đệm không thể thiếu trong mọi cuộc gọi công việc tại Nhật.",
+          "en": "Opening with 'お世話になっております' and 'お忙しいところ恐れ入ります' sets a respectful tone in Japanese business calls."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "ja-n2-l1-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Động từ khiêm nhường ngữ nào dùng thay cho '見る' (xem/đọc tài liệu của khách)?",
+            "en": "Which humble verb replaces '見る' when reading a client's document?"
+          },
+          "targetText": "資料を___いたしました。",
+          "options": [
+            "拝見",
+            "ご覧",
+            "承知",
+            "検討"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'拝見する' là khiêm nhường ngữ của '見る'; còn 'ご覧になる' là tôn kính ngữ.",
+            "en": "'拝見する' is humble ('I look at'); 'ご覧になる' is honorific ('you look at')."
+          }
+        },
+        {
+          "id": "ja-n2-l1-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn cách đọc Kana đúng cho '承知'.",
+            "en": "Select the Kana reading for '承知'."
+          },
+          "targetText": "承知",
+          "ttsText": "承知",
+          "options": [
+            "しょうち",
+            "はいけん",
+            "ちょうさ",
+            "ほうしん"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'承知' đọc là しょうち (shōchi).",
+            "en": "'承知' is read しょうち (shōchi)."
+          }
+        },
+        {
+          "id": "ja-n2-l1-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn cấu trúc mang nghĩa 'dựa trên cơ sở dữ liệu':",
+            "en": "Choose the grammar pattern meaning 'based on':"
+          },
+          "targetText": "正確なデータ___判断する必要があります。",
+          "ttsText": "正確なデータに基づいて判断する必要があります。",
+          "options": [
+            "に基づいて",
+            "に関して",
+            "にあたり",
+            "につれて"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'〜に基づいて' diễn đạt dựa trên căn cứ, số liệu hoặc nguyên tắc.",
+            "en": "'〜に基づいて' means 'based on [facts/data]'."
+          }
+        },
+        {
+          "id": "ja-n2-l1-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu kính ngữ gửi tài liệu hoàn chỉnh.",
+            "en": "Arrange the tokens into a polite business keigo sentence."
+          },
+          "targetMeaning": {
+            "vi": "Tôi xin phép gửi lại tài liệu ạ.",
+            "en": "I will send the materials."
+          },
+          "tokens": [
+            "お送り",
+            "資料を",
+            "いたします。"
+          ],
+          "correctOrder": [
+            "資料を",
+            "お送り",
+            "いたします。"
+          ],
+          "correctSentence": "資料をお送りいたします。",
+          "explanation": {
+            "vi": "Trật tự: 資料を + お送り + いたします。",
+            "en": "Order: 資料を + お送り + いたします。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ja-n2-l2",
+      "levelId": "ja-n2",
+      "order": 2,
+      "title": {
+        "native": "必然性と限界の表現",
+        "vi": "Tính tất yếu và giới hạn hoàn cảnh",
+        "en": "Inevitability & Limits"
+      },
+      "topic": "inevitability-limits",
+      "summary": {
+        "vi": "Diễn đạt tình huống bất đắc dĩ với '〜ざるを得ない', giới hạn '〜に限る' và nhấn mạnh nguyên nhân duy nhất '〜にほかならない'.",
+        "en": "Express unavoidable choices with 〜ざるを得ない and root causes with 〜にほかならない."
+      },
+      "xpReward": 65,
+      "vocabulary": [
+        {
+          "id": "ja-n2-l2-v1",
+          "term": "延期",
+          "reading": "えんき",
+          "romaji": "enki",
+          "rubyText": "延期[えんき]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "hoãn lại (dời ngày)",
+            "en": "postponement"
+          },
+          "example": {
+            "text": "台風が近づいているため、大会を延期せざるを得ない。",
+            "rubyText": "台風[たいふう]が近[ちか]づいているため、大会[たいかい]を延期[えんき]せざるを得[え]ない。",
+            "reading": "taifū ga chikazuite iru tame, taikai o enki sezaru o enai.",
+            "meaning": {
+              "vi": "Vì bão đang tiến gần nên đành phải hoãn giải đấu lại.",
+              "en": "Because a typhoon is approaching, we have no choice but to postpone the tournament."
+            }
+          },
+          "note": {
+            "vi": "Chú ý bất quy tắc: 'する' đi với 'ざるを得ない' biến thành 'せざるを得ない'.",
+            "en": "Irregular conjugation: する becomes せざるを得ない."
+          }
+        },
+        {
+          "id": "ja-n2-l2-v2",
+          "term": "見直す",
+          "reading": "みなおす",
+          "romaji": "minaosu",
+          "rubyText": "見直[みなお]す",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "xem xét lại, rà soát điều chỉnh",
+            "en": "to review / reconsider"
+          },
+          "example": {
+            "text": "コストが増えているので、予算計画を見直さざるを得ません。",
+            "rubyText": "コストが増[ふ]えているので、予算計画[よさんけいかく]を見直[みなお]さざるを得[え]ません。",
+            "reading": "kosuto ga fuete iru no de, yosan keikaku o minaosazaru o emasen.",
+            "meaning": {
+              "vi": "Do chi phí đang tăng nên chúng ta buộc phải rà soát lại kế hoạch ngân sách.",
+              "en": "With costs rising, we cannot help but revise the budget plan."
+            }
+          },
+          "note": {
+            "vi": "Cũng có nghĩa 'nhìn lại với con mắt đánh giá cao hơn'.",
+            "en": "Also means 'to gain a better opinion of someone/something'."
+          }
+        },
+        {
+          "id": "ja-n2-l2-v3",
+          "term": "工夫",
+          "reading": "くふう",
+          "romaji": "kufū",
+          "rubyText": "工夫[くふう]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "sự cải tiến khéo léo, tìm tòi cách làm hay",
+            "en": "ingenuity / creative adjustment"
+          },
+          "example": {
+            "text": "このアプリが伸びたのは、毎日の復習を楽しくする工夫にほかならない。",
+            "rubyText": "このアプリが伸[の]びたのは、毎日[まいにち]の復習[ふくしゅう]を楽[たの]しくする工夫[くふう]にほかならない。",
+            "reading": "kono apuri ga nobita no wa, mainichi no fukushū o tanoshiku suru kufū ni hoka naranai.",
+            "meaning": {
+              "vi": "Việc ứng dụng này phát triển không ngoài sự khéo léo biến việc ôn tập hằng ngày trở nên thú vị.",
+              "en": "This app's growth is nothing other than its thoughtful design making daily review enjoyable."
+            }
+          },
+          "note": {
+            "vi": "Từ cực kỳ đặc trưng trong văn hóa cải tiến Nhật Bản (Kaizen).",
+            "en": "A quintessential Japanese concept for thoughtful practical improvement."
+          }
+        },
+        {
+          "id": "ja-n2-l2-v4",
+          "term": "限界",
+          "reading": "げんかい",
+          "romaji": "genkai",
+          "rubyText": "限界[げんかい]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "giới hạn, ngưỡng cực hạn",
+            "en": "limit / boundary"
+          },
+          "example": {
+            "text": "手作業だけの管理にはもう限界があります。",
+            "rubyText": "手作業[てさぎょう]だけの管理[かんり]にはもう限界[げんかい]があります。",
+            "reading": "tesagyō dake no kanri ni wa mō genkai ga arimasu.",
+            "meaning": {
+              "vi": "Việc quản lý hoàn toàn thủ công đã chạm đến giới hạn rồi.",
+              "en": "Manual management alone has reached its limit."
+            }
+          },
+          "note": {
+            "vi": "Cụm hay gặp: 限界に達する (chạm ngưỡng giới hạn), 限界を超える (vượt giới hạn).",
+            "en": "Collocations: 限界に達する (reach the limit), 限界を感じる."
+          }
+        },
+        {
+          "id": "ja-n2-l2-v5",
+          "term": "維持",
+          "reading": "いじ",
+          "romaji": "iji",
+          "rubyText": "維持[いじ]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "duy trì, giữ vững",
+            "en": "maintenance / preservation"
+          },
+          "example": {
+            "text": "モチベーションを維持するには仲間と励まし合うに限ります。",
+            "rubyText": "モチベーションを維持[いじ]するには仲間[なかま]と励[はげ]まし合[あ]うに限[かぎ]ります。",
+            "reading": "mochibēshon o iji suru ni wa nakama to hagemashiau ni kagirimasu.",
+            "meaning": {
+              "vi": "Để duy trì động lực thì không gì bằng động viên lẫn nhau cùng bạn bè.",
+              "en": "To keep up motivation, nothing beats encouraging one another with peers."
+            }
+          },
+          "note": {
+            "vi": "Hay đi với 品質を維持する (duy trì chất lượng), 健康を維持する (giữ gìn sức khỏe).",
+            "en": "Pairs with 品質 (quality), 健康 (health), 関係 (relations)."
+          }
+        },
+        {
+          "id": "ja-n2-l2-v6",
+          "term": "やむを得ない",
+          "reading": "やむをえない",
+          "romaji": "yamu o enai",
+          "rubyText": "やむを得[え]ない",
+          "partOfSpeech": "expression",
+          "meaning": {
+            "vi": "bất khả kháng, không thể tránh khỏi",
+            "en": "unavoidable / inevitable"
+          },
+          "example": {
+            "text": "悪天候による変更はやむを得ない事情です。",
+            "rubyText": "悪天候[あくてんこう]による変更[へんこう]はやむを得[え]ない事情[じじょう]です。",
+            "reading": "akutenkō ni yoru henkō wa yamu o enai jijō desu.",
+            "meaning": {
+              "vi": "Việc thay đổi do thời tiết xấu là tình huống bất khả kháng.",
+              "en": "Changes caused by severe weather are unavoidable circumstances."
+            }
+          },
+          "note": {
+            "vi": "Cụm cố định trong thông báo chính thức: やむを得ない事情 (lý do bất khả kháng).",
+            "en": "Formal notice phrase: やむを得ない事情 (unavoidable circumstances)."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "ja-n2-l2-g1",
+          "pattern": "V-ない (bỏ ない) + ざるを得ない",
+          "title": {
+            "vi": "Bất đắc dĩ phải làm: 〜ざるを得ない",
+            "en": "No Choice But To 〜ざるを得ない"
+          },
+          "structure": "V-ない-stem + ざるを得ない (ngoại lệ: する -> せざるを得ない)",
+          "explanation": {
+            "vi": "Diễn đạt việc dù không muốn nhưng do hoàn cảnh khách quan ép buộc nên không còn lựa chọn nào khác ngoài làm việc đó.",
+            "en": "Expresses being forced by circumstances to take an action one would rather avoid ('cannot help but / forced to')."
+          },
+          "usageNote": {
+            "vi": "Văn phong khá trang trọng; tránh dùng cho cảm xúc tự nhiên như 'buồn cười không nhịn được'.",
+            "en": "Formal register for rational/practical necessity, not spontaneous emotions."
+          },
+          "examples": [
+            {
+              "text": "人手が足りないので、受付時間を短縮せざるを得ません。",
+              "rubyText": "人手[ひとで]が足[た]りないので、受付時間[うけつけじかん]を短縮[たんしゅく]せざるを得[え]ません。",
+              "reading": "hitode ga tarinai no de, uketsuke jikan o tanshuku sezaru o emasen.",
+              "meaning": {
+                "vi": "Vì thiếu nhân lực nên đành phải rút ngắn giờ tiếp nhận.",
+                "en": "Due to a staff shortage, we have no choice but to shorten reception hours."
+              }
+            },
+            {
+              "text": "証拠が揃っている以上、事実を認めざるを得ない。",
+              "rubyText": "証拠[しょうこ]が揃[そろ]っている以上[いじょう]、事実[じじつ]を認[みと]めざるを得[え]ない。",
+              "reading": "shōko ga sorotte iru ijō, jijitsu o mitomezaru o enai.",
+              "meaning": {
+                "vi": "Một khi chứng cứ đã đầy đủ như vậy thì không thể không thừa nhận sự thật.",
+                "en": "Given all the evidence, one is forced to acknowledge the facts."
+              }
+            }
+          ]
+        },
+        {
+          "id": "ja-n2-l2-g2",
+          "pattern": "N + にほかならない & V/N + に限る",
+          "title": {
+            "vi": "Chốt bản chất '〜にほかならない' và lựa chọn tối ưu '〜に限る'",
+            "en": "Root Cause 〜にほかならない & Best Choice 〜に限る"
+          },
+          "structure": "Kết quả は Nguyên nhân + にほかならない | Mục tiêu には + Phương án + に限る",
+          "explanation": {
+            "vi": "'〜にほかならない' khẳng định mạnh mẽ 'chính là do..., không thể nào khác được'; '〜に限る' đưa ra nhận định chủ quan rằng phương án đó là tốt nhất.",
+            "en": "'〜にほかならない' asserts 'is nothing other than [core cause]'; '〜に限る' recommends the single best option."
+          },
+          "usageNote": {
+            "vi": "'〜にほかならない' thường đi cùng '〜のは…からだ/にほかならない'.",
+            "en": "'〜にほかならない' often closes '〜のは…' cleft-like topic sentences."
+          },
+          "examples": [
+            {
+              "text": "チームが成功したのは、地道な努力の積み重ねにほかならない。",
+              "rubyText": "チームが成功[せいこう]したのは、地道[じみち]な努力[どりょく]の積[つ]み重[かさ]ねにほかならない。",
+              "reading": "chīmu ga seikō shita no wa, jimichi na doryoku no tsumikasane ni hoka naranai.",
+              "meaning": {
+                "vi": "Việc cả nhóm thành công không gì khác chính là nhờ tích lũy nỗ lực bền bỉ từng bước.",
+                "en": "The team's success is due to nothing other than steady accumulation of effort."
+              }
+            },
+            {
+              "text": "疲れた日は早めに休むに限ります。",
+              "rubyText": "疲[つか]れた日[ひ]は早[はや]めに休[やす]むに限[かぎ]ります。",
+              "reading": "tsukareta hi wa hayame ni yasumu ni kagirimasu.",
+              "meaning": {
+                "vi": "Những ngày mệt mỏi thì chẳng gì bằng đi nghỉ sớm.",
+                "en": "On exhausting days, resting early is the best policy."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Điều chỉnh kế hoạch vì giới hạn nguồn lực",
+          "en": "Adjusting Plans Under Constraints"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Sato và Minh Anh bàn về việc hoãn một phần tính năng để đảm bảo chất lượng phát hành.",
+          "en": "Sato and Minh Anh discuss postponing a secondary feature to protect release quality."
+        },
+        "lines": [
+          {
+            "speaker": "Minh Anh",
+            "text": "テストの結果を見ると、来週までに全機能を入れるのは少し限界がありそうですね。",
+            "rubyText": "テストの結果[けっか]を見[み]ると、来週[らいしゅう]までに全機能[ぜんきのう]を入[い]れるのは少[すこ]し限界[げんかい]がありそうですね。",
+            "reading": "Tesuto no kekka o miru to, raishū made ni zenkinō o ireru no wa sukoshi genkai ga arisō desu ne.",
+            "meaning": {
+              "vi": "Nhìn kết quả kiểm thử thì việc đưa toàn bộ tính năng vào trước tuần sau có vẻ hơi quá giới hạn rồi nhỉ.",
+              "en": "Looking at test results, shipping every feature by next week seems to hit a limit."
+            }
+          },
+          {
+            "speaker": "佐藤",
+            "text": "そうですね。品質を維持するためには、一部の公開を延期せざるを得ないかもしれません。",
+            "rubyText": "そうですね。品質[ひんしつ]を維持[いじ]するためには、一部[いちぶ]の公開[こうかい]を延期[えんき]せざるを得[え]ないかもしれません。",
+            "reading": "Sō desu ne. Hinshitsu o iji suru tame ni wa, ichibu no kōkai o enki sezaru o enai kamoshiremasen.",
+            "meaning": {
+              "vi": "Đúng vậy. Để duy trì chất lượng, có lẽ mình đành phải hoãn phát hành một phần lại thôi.",
+              "en": "Agreed. To preserve quality, we may have no choice but to postpone part of the rollout."
+            }
+          },
+          {
+            "speaker": "Minh Anh",
+            "text": "やむを得ない判断ですね。この段階で工程を見直すのは、ユーザーのためを思っての工夫にほかなりません。",
+            "rubyText": "やむを得[え]ない判断[はんだん]ですね。この段階[だんかい]で工程[こうてい]を見直[みなお]すのは、ユーザーのためを思[おも]っての工夫[くふう]にほかなりません。",
+            "reading": "Yamu o enai handan desu ne. Kono dankai de kōtei o minaosu no wa, yūzā no tame o omotte no kufū ni hoka narimasen.",
+            "meaning": {
+              "vi": "Là quyết định bất khả kháng nhỉ. Việc rà soát lại quy trình ở giai đoạn này chính là nỗ lực cải tiến vì người dùng chứ không gì khác.",
+              "en": "An unavoidable call. Revising the schedule at this stage is nothing less than a thoughtful safeguard for users."
+            }
+          },
+          {
+            "speaker": "佐藤",
+            "text": "まったくです。焦らず着実に仕上げるに限りますね。",
+            "rubyText": "まったくです。焦[あせ]らず着実[ちゃくじつ]に仕上[しあ]げるに限[かぎ]りますね。",
+            "reading": "Mattaku desu. Aserazu chakujitsu ni shiageru ni kagirimasu ne.",
+            "meaning": {
+              "vi": "Hoàn toàn đồng ý. Chẳng gì bằng bình tĩnh hoàn thiện từng bước chắc chắn.",
+              "en": "Exactly. Nothing beats finishing things steadily without rushing."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Từ '工夫 (くふう)' mang sắc thái tích cực rất đặc trưng của Nhật: xoay xở khéo léo, cải tiến thông minh trong giới hạn nguồn lực.",
+          "en": "'工夫 (kufū)' reflects the prized skill of devising clever improvements within real-world constraints."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "ja-n2-l2-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Cách chia ĐÚNG của 'する' với '〜ざるを得ない' là gì?",
+            "en": "What is the correct irregular form of 'する' before '〜ざるを得ない'?"
+          },
+          "targetText": "計画を変更___。",
+          "options": [
+            "せざるを得ない",
+            "しざるを得ない",
+            "すざるを得ない",
+            "さざるを得ない"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Động từ 'する' chia bất quy tắc thành 'せざるを得ない'.",
+            "en": "'する' irregularly becomes 'せざるを得ない'."
+          }
+        },
+        {
+          "id": "ja-n2-l2-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn cách đọc Kana đúng cho '維持'.",
+            "en": "Select the Kana reading for '維持'."
+          },
+          "targetText": "維持",
+          "ttsText": "維持",
+          "options": [
+            "いじ",
+            "えんき",
+            "くふう",
+            "げんかい"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'維持' đọc là いじ (iji).",
+            "en": "'維持' is read いじ (iji)."
+          }
+        },
+        {
+          "id": "ja-n2-l2-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn mẫu ngữ pháp chốt nguyên nhân bản chất 'không ngoài...':",
+            "en": "Choose the pattern meaning 'nothing other than':"
+          },
+          "targetText": "成功は日々の努力の結果___。",
+          "ttsText": "成功は日々の努力の結果にほかならない。",
+          "options": [
+            "にほかならない",
+            "に限らない",
+            "ざるを得ない",
+            "つつある"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'〜にほかならない' khẳng định chắc chắn bản chất nguyên nhân.",
+            "en": "'〜にほかならない' asserts 'is nothing other than'."
+          }
+        },
+        {
+          "id": "ja-n2-l2-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu dùng '〜に限る'.",
+            "en": "Order the tokens into a recommendation using '〜に限る'."
+          },
+          "targetMeaning": {
+            "vi": "Lúc mệt thì chẳng gì bằng việc nghỉ ngơi.",
+            "en": "When tired, resting is best."
+          },
+          "tokens": [
+            "休むに",
+            "疲れた時は",
+            "限ります。"
+          ],
+          "correctOrder": [
+            "疲れた時は",
+            "休むに",
+            "限ります。"
+          ],
+          "correctSentence": "疲れた時は休むに限ります。",
+          "explanation": {
+            "vi": "Trật tự: 疲れた時は + 休むに + 限ります。",
+            "en": "Order: 疲れた時は + 休むに + 限ります。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ja-n2-l3",
+      "levelId": "ja-n2",
+      "order": 3,
+      "title": {
+        "native": "ニュースと社会の動向",
+        "vi": "Tin tức và chuyển biến xã hội",
+        "en": "News & Social Stance"
+      },
+      "topic": "news-society",
+      "summary": {
+        "vi": "Đọc hiểu bài báo xã hội với '〜にもかかわらず' (bất chấp), '〜つつある' (đang dần chuyển biến) và '〜をめぐって' (xoay quanh vấn đề).",
+        "en": "Analyze news prose using 〜にもかかわらず, 〜つつある, and 〜をめぐって."
+      },
+      "xpReward": 65,
+      "vocabulary": [
+        {
+          "id": "ja-n2-l3-v1",
+          "term": "普及",
+          "reading": "ふきゅう",
+          "romaji": "fukyū",
+          "rubyText": "普及[ふきゅう]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "sự phổ cập, lan rộng",
+            "en": "spread / widespread adoption"
+          },
+          "example": {
+            "text": "オンライン学習が全国で急速に普及しつつあります。",
+            "rubyText": "オンライン学習[がくしゅう]が全国[ぜんこく]で急速[きゅうそく]に普及[ふきゅう]しつつあります。",
+            "reading": "onrain gakushū ga zenkoku de kyūsoku ni fukyū shitsutsu arimasu.",
+            "meaning": {
+              "vi": "Việc học trực tuyến đang nhanh chóng phổ cập trên toàn quốc.",
+              "en": "Online learning is rapidly becoming widespread nationwide."
+            }
+          },
+          "note": {
+            "vi": "Tự động từ: 普及する (lan rộng, trở nên phổ biến).",
+            "en": "Intransitive: 普及する (spread widely)."
+          }
+        },
+        {
+          "id": "ja-n2-l3-v2",
+          "term": "課題",
+          "reading": "かだい",
+          "romaji": "kadai",
+          "rubyText": "課題[かだい]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "bài toán cần giải quyết, vấn đề đặt ra",
+            "en": "challenge / issue to address"
+          },
+          "example": {
+            "text": "便利な社会になったにもかかわらず、高齢者の支援が課題として残っています。",
+            "rubyText": "便利[べんり]な社会[しゃかい]になったにもかかわらず、高齢者[こうれいしゃ]の支援[しえん]が課題[かだい]として残[のこ]っています。",
+            "reading": "benri na shakai ni natta ni mo kakawarazu, kōreisha no shien ga kadai to shite nokotte imasu.",
+            "meaning": {
+              "vi": "Dù xã hội đã trở nên tiện lợi, việc hỗ trợ người cao tuổi vẫn còn là bài toán đặt ra.",
+              "en": "Despite society becoming convenient, supporting seniors remains an ongoing challenge."
+            }
+          },
+          "note": {
+            "vi": "Phân biệt với '問題 (một sự cố/vấn đề)'; '課題' nhấn mạnh nhiệm vụ cần giải quyết.",
+            "en": "'課題' frames an issue constructively as a task to solve."
+          }
+        },
+        {
+          "id": "ja-n2-l3-v3",
+          "term": "議論",
+          "reading": "ぎろん",
+          "romaji": "giron",
+          "rubyText": "議論[ぎろん]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "cuộc thảo luận, tranh luận",
+            "en": "debate / discussion"
+          },
+          "example": {
+            "text": "働き方改革をめぐって活発な議論が続けられています。",
+            "rubyText": "働[はたら]き方改革[かたかいかく]をめぐって活発[かっぱつ]な議論[ぎろん]が続[つづ]けられています。",
+            "reading": "hatarakikata kaikaku o megutte kappatsu na giron ga tsuzukerarete imasu.",
+            "meaning": {
+              "vi": "Các cuộc thảo luận sôi nổi xoay quanh cải cách cách thức làm việc vẫn đang tiếp diễn.",
+              "en": "Lively debate continues surrounding work-style reform."
+            }
+          },
+          "note": {
+            "vi": "Thường đi với '〜をめぐって (xoay quanh chủ đề...)' và '活発な (sôi nổi)'.",
+            "en": "Collocates with '〜をめぐって' and '活発な議論'."
+          }
+        },
+        {
+          "id": "ja-n2-l3-v4",
+          "term": "意識",
+          "reading": "いしき",
+          "romaji": "ishiki",
+          "rubyText": "意識[いしき]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "ý thức, nhận thức",
+            "en": "awareness / consciousness"
+          },
+          "example": {
+            "text": "若者の間で防災に対する意識が高まりつつあります。",
+            "rubyText": "若者[わかもの]の間[あいだ]で防災[ぼうさい]に対[たい]する意識[いしき]が高[たか]まりつつあります。",
+            "reading": "wakamono no aida de bōsai ni taisuru ishiki ga takamaritsutsu arimasu.",
+            "meaning": {
+              "vi": "Ý thức phòng chống thiên tai trong giới trẻ đang dần được nâng cao.",
+              "en": "Awareness of disaster preparedness is steadily rising among young people."
+            }
+          },
+          "note": {
+            "vi": "Cụm hay dùng: 意識が高まる (ý thức nâng cao), 意識を持つ (có ý thức).",
+            "en": "Collocations: 意識が高まる (awareness rises), 意識を変える."
+          }
+        },
+        {
+          "id": "ja-n2-l3-v5",
+          "term": "傾向",
+          "reading": "けいこう",
+          "romaji": "keikō",
+          "rubyText": "傾向[けいこう]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "khuynh hướng, xu hướng",
+            "en": "tendency / trend"
+          },
+          "example": {
+            "text": "地方へ移住する人が増える傾向が見られます。",
+            "rubyText": "地方[ちほう]へ移住[いじゅう]する人[ひと]が増[ふ]える傾向[けいこう]が見[み]られます。",
+            "reading": "chihō e ijū suru hito ga fueru keikō ga miraremasu.",
+            "meaning": {
+              "vi": "Có thể thấy xu hướng người dân chuyển về sinh sống ở địa phương đang tăng lên.",
+              "en": "A trend toward relocating to regional areas is increasingly visible."
+            }
+          },
+          "note": {
+            "vi": "Mẫu hay gặp trong bài báo: 〜傾向がある / 傾向が見られる.",
+            "en": "News frame: '〜傾向が見られる (a trend is observed)'."
+          }
+        },
+        {
+          "id": "ja-n2-l3-v6",
+          "term": "多様",
+          "reading": "たよう",
+          "romaji": "tayō",
+          "rubyText": "多様[たよう]",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "đa dạng, phong phú nhiều dạng",
+            "en": "diverse / varied"
+          },
+          "example": {
+            "text": "多様な価値観を認め合う姿勢が求められています。",
+            "rubyText": "多様[たよう]な価値観[かちかん]を認[みと]め合[あ]う姿勢[しせい]が求[もと]められています。",
+            "reading": "tayō na kachikan o mitomeau shisei ga motomerarete imasu.",
+            "meaning": {
+              "vi": "Thái độ tôn trọng, công nhận các hệ giá trị đa dạng đang được đòi hỏi.",
+              "en": "An attitude that embraces diverse values is increasingly called for."
+            }
+          },
+          "note": {
+            "vi": "Danh từ hóa là '多様性 (たようせい - tính đa dạng)'.",
+            "en": "Noun form: 多様性 (diversity)."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "ja-n2-l3-g1",
+          "pattern": "Plain / N + にもかかわらず",
+          "title": {
+            "vi": "Nhượng bộ trang trọng '〜にもかかわらず' (Mặc dù / Bất chấp)",
+            "en": "Formal Concession 〜にもかかわらず"
+          },
+          "structure": "V/い-Adj (plain) / な-Adj / N + にもかかわらず",
+          "explanation": {
+            "vi": "Dạng trang trọng của '〜のに', dùng trong bản tin, thông cáo và bài luận để nhấn mạnh kết quả trái ngược bất chấp điều kiện đã nêu.",
+            "en": "Formal equivalent of '〜のに', emphasizing an unexpected outcome despite the stated condition."
+          },
+          "usageNote": {
+            "vi": "Danh từ và tính từ な gắn trực tiếp trước にもかかわらず (không thêm な hay の).",
+            "en": "Nouns and な-adjectives attach directly without 'な' or 'の' (e.g., 雨にもかかわらず)."
+          },
+          "examples": [
+            {
+              "text": "激しい雨にもかかわらず、会場は満席だった。",
+              "rubyText": "激[はげ]しい雨[あめ]にもかかわらず、会場[かいじょう]は満席[まんせき]だった。",
+              "reading": "hageshii ame ni mo kakawarazu, kaijō wa manseki datta.",
+              "meaning": {
+                "vi": "Bất chấp cơn mưa tầm tã, hội trường vẫn chật kín chỗ ngồi.",
+                "en": "Despite the heavy rain, the venue was packed."
+              }
+            },
+            {
+              "text": "何度も注意したにもかかわらず、同じミスが繰り返された。",
+              "rubyText": "何度[なんど]も注意[ちゅうい]したにもかかわらず、同[おな]じミスが繰[く]り返[かえ]された。",
+              "reading": "nando mo chūi shita ni mo kakawarazu, onaji misu ga kurikaesareta.",
+              "meaning": {
+                "vi": "Mặc dù đã nhắc nhở nhiều lần, lỗi tương tự vẫn lặp lại.",
+                "en": "Even though warnings were given repeatedly, the same mistake recurred."
+              }
+            }
+          ]
+        },
+        {
+          "id": "ja-n2-l3-g2",
+          "pattern": "V-ます (bỏ ます) + つつある & N + をめぐって",
+          "title": {
+            "vi": "Chuyển biến đang diễn ra '〜つつある' và '〜をめぐって'",
+            "en": "Ongoing Shift 〜つつある & Debate Focus 〜をめぐって"
+          },
+          "structure": "V-stem + つつある (đang dần...) | N + をめぐって (xoay quanh chủ đề N)",
+          "explanation": {
+            "vi": "'〜つつある' là dạng văn viết của '〜てきている', mô tả xu hướng đang chuyển biến từng bước; '〜をめぐって' đánh dấu vấn đề trung tâm gây tranh luận hoặc cạnh tranh.",
+            "en": "'〜つつある' describes a gradual ongoing shift in formal prose; '〜をめぐって' marks the central issue around which debate revolves."
+          },
+          "usageNote": {
+            "vi": "'〜つつある' đi với động từ chỉ biến đổi (変わる, 増える, 回復する), không dùng cho hành động tức thời hằng ngày (như ăn cơm).",
+            "en": "'〜つつある' pairs with change-over-time verbs (増える, 変わる, 回復する)."
+          },
+          "examples": [
+            {
+              "text": "観光業は少しずつ回復しつつあります。",
+              "rubyText": "観光業[かんこうぎょう]は少[すこ]しずつ回復[かいふく]しつつあります。",
+              "reading": "kankōgyō wa sukoshi zutsu kaifuku shitsutsu arimasu.",
+              "meaning": {
+                "vi": "Ngành du lịch đang từng bước phục hồi.",
+                "en": "The tourism sector is gradually recovering."
+              }
+            },
+            {
+              "text": "新制度の導入をめぐって様々な意見が出た。",
+              "rubyText": "新制度[しんせいど]の導入[どうにゅう]をめぐって様々[さまざま]な意見[いけん]が出[で]た。",
+              "reading": "shinseido no dōnyū o megutte samazama na iken ga deta.",
+              "meaning": {
+                "vi": "Nhiều ý kiến đa chiều đã xuất hiện xoay quanh việc áp dụng chế độ mới.",
+                "en": "Various opinions emerged around introducing the new system."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Bản tin về chuyển đổi làm việc từ xa",
+          "en": "News Brief: Shifting Work Culture"
+        },
+        "mode": "reading",
+        "context": {
+          "vi": "Đoạn bản tin phân tích xu hướng làm việc linh hoạt và các thách thức đi kèm.",
+          "en": "A news summary analyzing remote-work adoption and emerging social challenges."
+        },
+        "lines": [
+          {
+            "speaker": "キャスター",
+            "text": "近年、デジタルツールの普及に伴い、場所にとらわれない働き方が広がりつつあります。",
+            "rubyText": "近年[きんねん]、デジタルツールの普及[ふきゅう]に伴[ともな]い、場所[ばしょ]にとらわれない働[はたら]き方[かた]が広[ひろ]がりつつあります。",
+            "reading": "Kinnen, dejitaru tsūru no fukyū ni tomonai, basho ni torawarenai hatarakikata ga hirogaritsutsu arimasu.",
+            "meaning": {
+              "vi": "Những năm gần đây, cùng với sự phổ cập của công cụ số, cách làm việc không bị bó buộc địa điểm đang dần lan rộng.",
+              "en": "In recent years, alongside the spread of digital tools, location-flexible work has been expanding."
+            }
+          },
+          {
+            "speaker": "キャスター",
+            "text": "通勤時間が減ったにもかかわらず、社内のコミュニケーション不足が新たな課題として挙げられています。",
+            "rubyText": "通勤時間[つうきんじかん]が減[へ]ったにもかかわらず、社内[しゃない]のコミュニケーション不足[ぶそく]が新[あら]たな課題[かだい]として挙[あ]げられています。",
+            "reading": "Tsūkin jikan ga hetta ni mo kakawarazu, shanai no komyunikēshon busoku ga aratana kadai to shite agerarete imasu.",
+            "meaning": {
+              "vi": "Mặc dù thời gian đi lại giảm xuống, việc thiếu giao tiếp nội bộ đang được nêu lên như một thách thức mới.",
+              "en": "Despite reduced commute times, gaps in internal communication are cited as a fresh challenge."
+            }
+          },
+          {
+            "speaker": "キャスター",
+            "text": "この問題をめぐって、出社と在宅を組み合わせる企業が増える傾向にあります。",
+            "rubyText": "この問題[もんだい]をめぐって、出社[しゅっしゃ]と在宅[ざいたく]を組[く]み合[あ]わせる企業[きぎょう]が増[ふ]える傾向[けいこう]にあります。",
+            "reading": "Kono mondai o megutte, shussha to zaitaku o kumiawaseru kigyō ga fueru keikō ni arimasu.",
+            "meaning": {
+              "vi": "Xoay quanh vấn đề này, ngày càng nhiều doanh nghiệp có xu hướng kết hợp làm tại văn phòng và tại nhà.",
+              "en": "Around this issue, more companies are trending toward hybrid models combining office and home work."
+            }
+          },
+          {
+            "speaker": "キャスター",
+            "text": "多様な暮らし方を尊重しつつ、働きやすい環境を整える意識が今後ますます重要になります。",
+            "rubyText": "多様[たよう]な暮[く]らし方[かた]を尊重[そんちょう]しつつ、働[はたら]きやすい環境[かんきょう]を整[ととの]える意識[いしき]が今後[こんご]ますます重要[じゅうよう]になります。",
+            "reading": "Tayō na kurashikata o sonchō shitsutsu, hatarakiyasui kankyō o totonoeru ishiki ga kongo masumasu jūyō ni narimasu.",
+            "meaning": {
+              "vi": "Vừa tôn trọng lối sống đa dạng vừa xây dựng môi trường dễ làm việc là nhận thức ngày càng thiết yếu trong thời gian tới.",
+              "en": "Awareness of fostering supportive workplaces while respecting diverse lifestyles will grow ever more vital."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Trong bản tin tiếng Nhật, cấu trúc bị động khách quan như '挙げられています (được nêu ra)' giúp phát thanh viên giữ giọng trung lập chuyên nghiệp.",
+          "en": "Japanese news relies on passive reporting phrases like '挙げられています (is cited)' to maintain neutral tone."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "ja-n2-l3-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Mẫu ngữ pháp nào diễn tả xu hướng đang dần chuyển biến ('đang ngày càng...')?",
+            "en": "Which pattern expresses a gradual ongoing trend ('is steadily...')?"
+          },
+          "targetText": "変化し___。",
+          "options": [
+            "つつある",
+            "にほかならない",
+            "ざるを得ない",
+            "にもかかわらず"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'V-stem + つつある' diễn đạt quá trình chuyển biến đang diễn ra.",
+            "en": "'V-stem + つつある' describes a change currently unfolding."
+          }
+        },
+        {
+          "id": "ja-n2-l3-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn cách đọc Kana đúng cho '普及'.",
+            "en": "Select the Kana reading for '普及'."
+          },
+          "targetText": "普及",
+          "ttsText": "普及",
+          "options": [
+            "ふきゅう",
+            "けいこう",
+            "ぎろん",
+            "かだい"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'普及' đọc là ふきゅう (fukyū).",
+            "en": "'普及' is read ふきゅう (fukyū)."
+          }
+        },
+        {
+          "id": "ja-n2-l3-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn mẫu nối đúng cho danh từ trước 'bất chấp':",
+            "en": "Choose the formal concession connector after a noun:"
+          },
+          "targetText": "悪天候___、イベントは無事に開催された。",
+          "ttsText": "悪天候にもかかわらず、イベントは無事に開催された。",
+          "options": [
+            "にもかかわらず",
+            "をめぐって",
+            "に基づいて",
+            "つつあり"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Danh từ gắn trực tiếp với 'にもかかわらず' mang nghĩa 'bất chấp'.",
+            "en": "Nouns attach directly to 'にもかかわらず' ('despite')."
+          }
+        },
+        {
+          "id": "ja-n2-l3-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu bản tin dùng '〜をめぐって'.",
+            "en": "Order the tokens into a news sentence with '〜をめぐって'."
+          },
+          "targetMeaning": {
+            "vi": "Cuộc tranh luận tiếp tục xoay quanh chính sách mới.",
+            "en": "Debate continues surrounding the new policy."
+          },
+          "tokens": [
+            "議論が",
+            "新方針を",
+            "続いている。",
+            "めぐって"
+          ],
+          "correctOrder": [
+            "新方針を",
+            "めぐって",
+            "議論が",
+            "続いている。"
+          ],
+          "correctSentence": "新方針をめぐって議論が続いている。",
+          "explanation": {
+            "vi": "Trật tự: 新方針を + めぐって + 議論が + 続いている。",
+            "en": "Order: 新方針を + めぐって + 議論が + 続いている。"
+          }
+        }
+      ]
+    }
+  ]
+}

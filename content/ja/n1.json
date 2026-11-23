@@ -1,0 +1,1197 @@
+{
+  "levelId": "ja-n1",
+  "language": "ja",
+  "code": "N1",
+  "order": 5,
+  "title": {
+    "vi": "JLPT N1 — Tinh thông văn chương và học thuật",
+    "en": "JLPT N1 — Editorial & Literary Mastery"
+  },
+  "subtitle": {
+    "vi": "Văn phong xã luận, nhượng bộ tinh tế và ngữ dụng học thuật",
+    "en": "Editorial style, formal concessions, and academic pragmatics"
+  },
+  "estimatedMinutes": 60,
+  "lessons": [
+    {
+      "id": "ja-n1-l1",
+      "levelId": "ja-n1",
+      "order": 1,
+      "title": {
+        "native": "論説文の文体と表現",
+        "vi": "Văn phong xã luận và bản sắc độc đáo",
+        "en": "Literary & Editorial Style"
+      },
+      "topic": "editorial-style",
+      "summary": {
+        "vi": "Vận dụng mẫu văn viết N1 '〜ならではの' (đặc trưng chỉ có ở...), '〜を余儀なくされる' (bị buộc phải) và văn phong bình luận sắc bén.",
+        "en": "Master N1 editorial forms 〜ならではの and 〜を余儀なくされる in analytical reading."
+      },
+      "xpReward": 70,
+      "vocabulary": [
+        {
+          "id": "ja-n1-l1-v1",
+          "term": "風土",
+          "reading": "ふうど",
+          "romaji": "fūdo",
+          "rubyText": "風土[ふうど]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "phong thổ, khí hậu và truyền thống vùng đất",
+            "en": "local climate, geography, and cultural character"
+          },
+          "example": {
+            "text": "この町の祭りには土地の風土ならではの温もりがある。",
+            "rubyText": "この町[まち]の祭[まつ]りには土地[とち]の風土[ふうど]ならではの温[ぬく]もりがある。",
+            "reading": "kono machi no matsuri ni wa tochi no fūdo naradewa no nukumori ga aru.",
+            "meaning": {
+              "vi": "Lễ hội của thị trấn này mang hơi ấm đặc trưng chỉ phong thổ nơi đây mới có.",
+              "en": "This town's festival possesses a warmth unique to the local climate and culture."
+            }
+          },
+          "note": {
+            "vi": "Thường gắn với 'ならではの (độc đáo riêng có của)'.",
+            "en": "Often paired with 'ならではの'."
+          }
+        },
+        {
+          "id": "ja-n1-l1-v2",
+          "term": "抜本的",
+          "reading": "ばっぽんてき",
+          "romaji": "bapponteki",
+          "rubyText": "抜本的[ばっぽんてき]",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "tận gốc, triệt để (cải cách)",
+            "en": "fundamental / radical (reform)"
+          },
+          "example": {
+            "text": "人口減少により、交通網は抜本的な見直しを余儀なくされた。",
+            "rubyText": "人口減少[じんこうげんしょう]により、交通網[こうつうもう]は抜本的[ばっぽんてき]な見直[みなお]しを余儀[よぎ]なくされた。",
+            "reading": "jinkō genshō ni yori, kōtsūmō wa bapponteki na minaoshi o yoginaku sareta.",
+            "meaning": {
+              "vi": "Do dân số giảm, mạng lưới giao thông bị buộc phải rà soát lại một cách triệt để.",
+              "en": "Due to population decline, the transit network was forced to undergo a fundamental overhaul."
+            }
+          },
+          "note": {
+            "vi": "Chữ '抜本' nghĩa đen là nhổ tận gốc rễ; hay đi với 改革, 見直し.",
+            "en": "Literally 'pulling out from the root'; collocates with 改革 and 見直し."
+          }
+        },
+        {
+          "id": "ja-n1-l1-v3",
+          "term": "継承",
+          "reading": "けいしょう",
+          "romaji": "keishō",
+          "rubyText": "継承[けいしょう]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "kế thừa (di sản, tinh hoa văn hóa, vị trí)",
+            "en": "inheritance / succession (of culture or legacy)"
+          },
+          "example": {
+            "text": "伝統技術の継承は地域社会の存続に直結する。",
+            "rubyText": "伝統技術[でんとうぎじゅつ]の継承[けいしょう]は地域社会[ちいきしゃかい]の存続[そんぞく]に直結[ちょっけつ]する。",
+            "reading": "dentō gijutsu no keishō wa chiiki shakai no sonzoku ni chokketsu suru.",
+            "meaning": {
+              "vi": "Việc kế thừa kỹ nghệ truyền thống gắn liền trực tiếp với sự tồn tại của cộng đồng địa phương.",
+              "en": "Passing on traditional crafts is directly tied to the survival of local communities."
+            }
+          },
+          "note": {
+            "vi": "Trang trọng hơn '引き継ぐ', thường dùng trong bài xã luận văn hóa.",
+            "en": "Higher register than '引き継ぐ' for cultural and institutional succession."
+          }
+        },
+        {
+          "id": "ja-n1-l1-v4",
+          "term": "培う",
+          "reading": "つちかう",
+          "romaji": "tsuchikau",
+          "rubyText": "培[つちか]う",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "vun đắp, bồi dưỡng qua năm tháng",
+            "en": "to cultivate / foster over time"
+          },
+          "example": {
+            "text": "長い歳月をかけて培われた感性が作品に息づいている。",
+            "rubyText": "長[なが]い歳月[さいげつ]をかけて培[つちか]われた感性[かんせい]が作品[さくひん]に息[いき]づいている。",
+            "reading": "nagai saigetsu o kakete tsuchikawareta kansei ga sakuhin ni ikizuite iru.",
+            "meaning": {
+              "vi": "Nét cảm thụ được vun đắp qua năm tháng dài vẫn sống động trong từng tác phẩm.",
+              "en": "Sensibilities cultivated over long years breathe life into the work."
+            }
+          },
+          "note": {
+            "vi": "Tân ngữ trừu tượng hay gặp: 信頼を培う, 文化を培う, 実力を培う.",
+            "en": "Objects include 信頼 (trust), 感性 (sensibility), 実力 (competence)."
+          }
+        },
+        {
+          "id": "ja-n1-l1-v5",
+          "term": "顕著",
+          "reading": "けんちょ",
+          "romaji": "kencho",
+          "rubyText": "顕著[けんちょ]",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "rõ rệt, nổi bật (xu hướng, biến đổi)",
+            "en": "marked / conspicuous"
+          },
+          "example": {
+            "text": "都市部と地方の格差は近年いっそう顕著になりつつある。",
+            "rubyText": "都市部[としぶ]と地方[ちほう]の格差[かくさ]は近年[きんねん]いっそう顕著[けんちょ]になりつつある。",
+            "reading": "toshibu to chihō no kakusa wa kinnen issō kencho ni naritsutsu aru.",
+            "meaning": {
+              "vi": "Khoảng cách giữa đô thị và địa phương những năm gần đây đang trở nên rõ rệt hơn nữa.",
+              "en": "The gap between urban centers and rural regions is becoming ever more pronounced."
+            }
+          },
+          "note": {
+            "vi": "Tính từ đuôi な dùng trong văn bản phân tích số liệu/xã hội.",
+            "en": "な-adjective typical of demographic and economic commentary."
+          }
+        },
+        {
+          "id": "ja-n1-l1-v6",
+          "term": "模索",
+          "reading": "もさく",
+          "romaji": "mosaku",
+          "rubyText": "模索[もさく]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "dò tìm, tìm tòi hướng đi mới",
+            "en": "groping for / exploring a path forward"
+          },
+          "example": {
+            "text": "地域独自の再生モデルを模索する動きが広がっている。",
+            "rubyText": "地域独自[ちいきどくじ]の再生[さいせい]モデルを模索[もさく]する動[うご]きが広[ひろ]がっている。",
+            "reading": "chiiki dokuji no saisei moderu o mosaku suru ugoki ga hirogatte iru.",
+            "meaning": {
+              "vi": "Xu hướng tìm tòi mô hình phục hồi đặc thù của từng địa phương đang lan rộng.",
+              "en": "Efforts to explore locally tailored revitalization models are spreading."
+            }
+          },
+          "note": {
+            "vi": "Thường đi với 道 (con đường), 解決策 (giải pháp), あり方 (hình thái tồn tại).",
+            "en": "Collocates with 解決策 (solutions), 道 (path), あり方."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "ja-n1-l1-g1",
+          "pattern": "N + ならではの + N / N + ならではだ",
+          "title": {
+            "vi": "Nét độc đáo riêng có: 〜ならではの",
+            "en": "Unique Excellence 〜ならではの"
+          },
+          "structure": "Danh từ + ならではの + Danh từ (điều tuyệt vời chỉ có ở N mới có)",
+          "explanation": {
+            "vi": "Nhấn mạnh một đặc điểm, phẩm chất tích cực hoặc sức hấp dẫn đặc trưng mà không nơi nào hay đối tượng nào khác có được ngoài N.",
+            "en": "Highlights a distinctive merit or charm that only N possesses ('unique to / possible only with N')."
+          },
+          "usageNote": {
+            "vi": "Chỉ dùng cho nét tích cực hoặc đáng trân trọng, không dùng cho khuyết điểm.",
+            "en": "Used exclusively for positive or admirable qualities, never negative traits."
+          },
+          "examples": [
+            {
+              "text": "季節の食材を生かすのは、和食ならではの繊細さだ。",
+              "rubyText": "季節[きせつ]の食材[しょくざい]を生[い]かすのは、和食[わしょく]ならではの繊細[せんさい]さだ。",
+              "reading": "kisetsu no shokuzai o ikasu no wa, washoku naradewa no sensaisa da.",
+              "meaning": {
+                "vi": "Việc tôn vinh nguyên liệu theo mùa chính là nét tinh tế chỉ có ở ẩm thực Nhật.",
+                "en": "Highlighting seasonal ingredients is a delicacy unique to Japanese cuisine."
+              }
+            },
+            {
+              "text": "少人数クラスならではのきめ細かな指導が魅力である。",
+              "rubyText": "少人数[しょうにんずう]クラスならではのきめ細[こま]かな指導[しどう]が魅力[みりょく]である。",
+              "reading": "shōninzū kurasu naradewa no kimekomaka na shidō ga miryoku de aru.",
+              "meaning": {
+                "vi": "Điểm thu hút là sự hướng dẫn tỉ mỉ chỉ lớp học ít người mới có được.",
+                "en": "Attentive guidance unique to small-group classes is its appeal."
+              }
+            }
+          ]
+        },
+        {
+          "id": "ja-n1-l1-g2",
+          "pattern": "N (hành động) + を余儀なくされる",
+          "title": {
+            "vi": "Bị hoàn cảnh ép buộc phải...: 〜を余儀なくされる",
+            "en": "Forced by Circumstances 〜を余儀なくされる"
+          },
+          "structure": "Danh từ chỉ hành động/biến đổi + を余儀なくされる (hoặc sai khiến 〜を余儀なくさせる)",
+          "explanation": {
+            "vi": "Bậc cao và trang trọng hơn '〜ざるを得ない', dùng trong báo chí và luận văn khi mô tả một tổ chức hay xã hội buộc phải thay đổi ngoài ý muốn.",
+            "en": "Elevated written equivalent of 〜ざるを得ない, stating that an organization or community is compelled to act by external pressure."
+          },
+          "usageNote": {
+            "vi": "Trước 'を余儀なくされる' luôn là danh từ (中止, 撤退, 変更, 見直し), không gắn trực tiếp động từ thể từ điển.",
+            "en": "Must be preceded by a noun (中止, 変更, 見直し), never a plain verb."
+          },
+          "examples": [
+            {
+              "text": "長引く干ばつにより、農家は作付けの変更を余儀なくされた。",
+              "rubyText": "長引[ながび]く干[かん]ばつにより、農家[のうか]は作付[さくづ]けの変更[へんこう]を余儀[よぎ]なくされた。",
+              "reading": "nagabiku kanbatsu ni yori, nōka wa sakuzuke no henkō o yoginaku sareta.",
+              "meaning": {
+                "vi": "Do hạn hán kéo dài, nông dân buộc phải thay đổi cơ cấu cây trồng.",
+                "en": "Prolonged drought forced farmers to alter their crop plans."
+              }
+            },
+            {
+              "text": "老舗旅館も時代に合わせて経営方針の転換を余儀なくされている。",
+              "rubyText": "老舗旅館[しにせりょかん]も時代[じだい]に合[あ]わせて経営方針[けいえいほうしん]の転換[てんかん]を余儀[よぎ]なくされている。",
+              "reading": "shinise ryokan mo jidai ni awasete keiei hōshin no tenkan o yoginaku sarete iru.",
+              "meaning": {
+                "vi": "Ngay cả những lữ quán lâu đời cũng buộc phải chuyển hướng phương châm kinh doanh theo thời đại.",
+                "en": "Even long-established inns are being compelled to shift their management strategy."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Xã luận về sức sống của nghề thủ công địa phương",
+          "en": "Editorial: Reimagining Local Heritage"
+        },
+        "mode": "reading",
+        "context": {
+          "vi": "Trích đoạn xã luận bàn về cách các vùng quê Nhật Bản chuyển mình giữ gìn bản sắc.",
+          "en": "An editorial excerpt on how regional towns renew cultural heritage."
+        },
+        "lines": [
+          {
+            "speaker": "論説",
+            "text": "地方の人口減少が顕著になるなか、多くの伝統産業が事業規模の縮小を余儀なくされている。",
+            "rubyText": "地方[ちほう]の人口減少[じんこうげんしょう]が顕著[けんちょ]になるなか、多[おお]くの伝統産業[でんとうさんぎょう]が事業規模[じぎょうきぼ]の縮小[しゅくしょう]を余儀[よぎ]なくされている。",
+            "reading": "Chihō no jinkō genshō ga kencho ni naru naka, ōku no dentō sangyō ga jigyō kibo no shukushō o yoginaku sarete iru.",
+            "meaning": {
+              "vi": "Trong bối cảnh suy giảm dân số địa phương trở nên rõ rệt, nhiều ngành nghề truyền thống buộc phải thu hẹp quy mô.",
+              "en": "As regional depopulation grows pronounced, many traditional industries are forced to scale back."
+            }
+          },
+          {
+            "speaker": "論説",
+            "text": "しかし、単なる保存にとどまらず、現代の暮らしに合う形へと抜本的な発想の転換を模索する動きもある。",
+            "rubyText": "しかし、単[たん]なる保存[ほぞん]にとどまらず、現代[げんだい]の暮[く]らしに合[あ]う形[かたち]へと抜本的[ばっぽんてき]な発想[はっそう]の転換[てんかん]を模索[もさく]する動[うご]きもある。",
+            "reading": "Shikashi, tannaru hozon ni todomarazu, gendai no kurashi ni au katachi e to bapponteki na hassō no tenkan o mosaku suru ugoki mo aru.",
+            "meaning": {
+              "vi": "Tuy vậy, không chỉ dừng lại ở bảo tồn đơn thuần, cũng có những chuyển động tìm tòi đổi mới tư duy tận gốc cho phù hợp đời sống hiện đại.",
+              "en": "Yet rather than stopping at mere preservation, initiatives are emerging to explore a fundamental mindset shift for modern life."
+            }
+          },
+          {
+            "speaker": "論説",
+            "text": "何世代にもわたり培われてきた手仕事には、その土地の風土ならではの静かな力強さが宿る。",
+            "rubyText": "何世代[なんせだい]にもわたり培[つちか]われてきた手仕事[てしごと]には、その土地[とち]の風土[ふうど]ならではの静[しず]かな力強[ちからづよ]さが宿[やど]る。",
+            "reading": "Nan sedai ni mo watari tsuchikawarete kita teshigoto ni wa, sono tochi no fūdo naradewa no shizuka na chikarazuyosa ga yadoru.",
+            "meaning": {
+              "vi": "Trong nghề thủ công được vun đắp qua nhiều thế hệ ẩn chứa sức mạnh thầm lặng đặc trưng riêng có của phong thổ vùng đất ấy.",
+              "en": "Handicrafts cultivated across generations embody a quiet vitality unique to their local terrain and culture."
+            }
+          },
+          {
+            "speaker": "論説",
+            "text": "真の継承とは、過去の型をなぞることではなく、未来へ手渡す価値を問い直す営みにほかならない。",
+            "rubyText": "真[しん]の継承[けいしょう]とは、過去[かこ]の型[かた]をなぞることではなく、未来[みらい]へ手渡[てわた]す価値[かち]を問[と]い直[なお]す営[いとな]みにほかならない。",
+            "reading": "Shin no keishō to wa, kako no kata o nazoru koto de wa naku, mirai e tewatasu kachi o toinaosu itonami ni hoka naranai.",
+            "meaning": {
+              "vi": "Sự kế thừa đích thực không phải là sao chép khuôn mẫu quá khứ, mà chính là công cuộc tự vấn lại giá trị để trao truyền cho tương lai.",
+              "en": "True succession is not tracing past molds, but re-examining what worth we pass on to the future."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Văn phong xã luận N1 hay kết thúc câu bằng dạng thể thường '〜である / 〜にほかならない / 〜が宿る' thay cho '〜です・ます' để giữ sự súc tích hàn lâm.",
+          "en": "N1 editorials use plain/de-aru endings ('〜にほかならない', '〜が宿る') for crisp analytical authority."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "ja-n1-l1-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Mẫu ngữ pháp nào chỉ phẩm chất tích cực 'đặc trưng chỉ có ở N'?",
+            "en": "Which pattern highlights a positive quality 'unique to N'?"
+          },
+          "targetText": "京都___美しさ",
+          "options": [
+            "ならではの",
+            "を余儀なくされる",
+            "にもかかわらず",
+            "ざるを得ない"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'NならではのN' nghĩa là vẻ đẹp/nét riêng chỉ N mới có.",
+            "en": "'NならではのN' expresses a distinct quality exclusive to N."
+          }
+        },
+        {
+          "id": "ja-n1-l1-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn cách đọc Kana đúng cho '抜本的'.",
+            "en": "Select the Kana reading for '抜本的'."
+          },
+          "targetText": "抜本的",
+          "ttsText": "抜本的",
+          "options": [
+            "ばっぽんてき",
+            "けいしょう",
+            "けんちょ",
+            "もさく"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'抜本的' đọc là ばっぽんてき (bapponteki).",
+            "en": "'抜本的' is read ばっぽんてき (bapponteki)."
+          }
+        },
+        {
+          "id": "ja-n1-l1-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Hoàn thành câu với cấu trúc 'bị buộc phải thay đổi':",
+            "en": "Complete the sentence meaning 'forced to change':"
+          },
+          "targetText": "計画の大幅な変更___。",
+          "ttsText": "計画の大幅な変更を余儀なくされた。",
+          "options": [
+            "を余儀なくされた",
+            "ならではの",
+            "つつある",
+            "に限らない"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Danh từ '変更' đi với 'を余儀なくされた'.",
+            "en": "Nouns pair with 'を余儀なくされる'."
+          }
+        },
+        {
+          "id": "ja-n1-l1-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu hoàn chỉnh sử dụng '培う'.",
+            "en": "Order the tokens into a sentence using '培う'."
+          },
+          "targetMeaning": {
+            "vi": "Vun đắp niềm tin qua năm tháng.",
+            "en": "Foster trust over the years."
+          },
+          "tokens": [
+            "培う。",
+            "歳月をかけて",
+            "信頼を"
+          ],
+          "correctOrder": [
+            "歳月をかけて",
+            "信頼を",
+            "培う。"
+          ],
+          "correctSentence": "歳月をかけて信頼を培う。",
+          "explanation": {
+            "vi": "Trật tự: 歳月をかけて + 信頼を + 培う。",
+            "en": "Order: 歳月をかけて + 信頼を + 培う。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ja-n1-l2",
+      "levelId": "ja-n1",
+      "order": 2,
+      "title": {
+        "native": "譲歩と仮定の緻密な論理",
+        "vi": "Nhượng bộ và giả định chặt chẽ",
+        "en": "Formal Concession"
+      },
+      "topic": "concession-logic",
+      "summary": {
+        "vi": "Phân biệt sắc thái nhượng bộ trang trọng '〜とはいえ' và giả định cảnh báo/ước muốn '〜ものなら'.",
+        "en": "Nuance formal concession with 〜とはいえ and strong hypotheticals with 〜ものなら."
+      },
+      "xpReward": 70,
+      "vocabulary": [
+        {
+          "id": "ja-n1-l2-v1",
+          "term": "妥当",
+          "reading": "だとう",
+          "romaji": "datō",
+          "rubyText": "妥当[だとう]",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "xác đáng, hợp lý, thỏa đáng",
+            "en": "valid / appropriate / sound"
+          },
+          "example": {
+            "text": "暫定案とはいえ、現時点では最も妥当な結論と言える。",
+            "rubyText": "暫定案[ざんていあん]とはいえ、現時点[げんじてん]では最[もっと]も妥当[だとう]な結論[けつろん]と言[い]える。",
+            "reading": "zanteian to wa ie, genjiten de wa motto mo datō na ketsuron to ieru.",
+            "meaning": {
+              "vi": "Dù nói là phương án tạm thời, ở thời điểm hiện tại có thể coi đó là kết luận thỏa đáng nhất.",
+              "en": "Though an interim plan, it can be called the soundest conclusion at present."
+            }
+          },
+          "note": {
+            "vi": "Hay dùng trong phản biện: 妥当性 (tính hợp lý/xác đáng).",
+            "en": "Related noun: 妥当性 (validity/appropriateness)."
+          }
+        },
+        {
+          "id": "ja-n1-l2-v2",
+          "term": "懸念",
+          "reading": "けねん",
+          "romaji": "kenen",
+          "rubyText": "懸念[けねん]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "mối quan ngại, lo ngại",
+            "en": "concern / apprehension"
+          },
+          "example": {
+            "text": "安全確認を怠ろうものなら、深刻な懸念が再燃しかねない。",
+            "rubyText": "安全確認[あんぜんかくにん]を怠[おこた]ろうものなら、深刻[しんこく]な懸念[けねん]が再燃[さいねん]しかねない。",
+            "reading": "anzen kakunin o okotarō mono nara, shinkoku na kenen ga sainen shikanenai.",
+            "meaning": {
+              "vi": "Nếu mà lơ là kiểm tra an toàn, mối quan ngại nghiêm trọng rất có thể bùng phát trở lại.",
+              "en": "Were safety checks neglected, serious concerns could easily flare up again."
+            }
+          },
+          "note": {
+            "vi": "Trang trọng hơn '心配'; cụm hay dùng: 懸念を抱く, 懸念を払拭する.",
+            "en": "Formal equivalent of 心配; pairs with 抱く or 払拭する."
+          }
+        },
+        {
+          "id": "ja-n1-l2-v3",
+          "term": "裏付け",
+          "reading": "うらづけ",
+          "romaji": "urazuke",
+          "rubyText": "裏付[うらづ]け",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "bằng chứng hậu thuẫn, cơ sở chứng minh",
+            "en": "substantiation / backing evidence"
+          },
+          "example": {
+            "text": "直感も大切とはいえ、客観的な裏付けを欠いてはならない。",
+            "rubyText": "直感[ちょっかん]も大切[たいせつ]とはいえ、客観的[きゃっかんてき]な裏付[うらづ]けを欠[か]いてはならない。",
+            "reading": "chokkan mo taisetsu to wa ie, kyakkanteki na urazuke o kaite wa naranai.",
+            "meaning": {
+              "vi": "Dẫu trực giác cũng quan trọng, song không được phép thiếu cơ sở chứng minh khách quan.",
+              "en": "Although intuition matters, objective substantiation must not be lacking."
+            }
+          },
+          "note": {
+            "vi": "Động từ: 裏付ける (chứng thực, làm cơ sở cho).",
+            "en": "Verb form: 裏付ける (to corroborate)."
+          }
+        },
+        {
+          "id": "ja-n1-l2-v4",
+          "term": "撤回",
+          "reading": "てっかい",
+          "romaji": "tekkai",
+          "rubyText": "撤回[てっかい]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "rút lại (tuyên bố, đề xuất)",
+            "en": "retraction / withdrawal"
+          },
+          "example": {
+            "text": "一度公表した方針を安易に撤回しようものなら、信用を失う。",
+            "rubyText": "一度公表[いちどこうひょう]した方針[ほうしん]を安易[あんい]に撤回[てっかい]しようものなら、信用[しんよう]を失[うしな]う。",
+            "reading": "ichido kōhyō shita hōshin o an'i ni tekkai shiyō mono nara, shin'yō o ushinau.",
+            "meaning": {
+              "vi": "Nếu mà tùy tiện rút lại phương châm đã công bố một lần thì sẽ đánh mất uy tín.",
+              "en": "Were a published policy hastily retracted, credibility would be lost."
+            }
+          },
+          "note": {
+            "vi": "Thường đi với 発言を撤回する (rút lại phát ngôn), 計画を撤回する.",
+            "en": "Collocations: 発言を撤回する, 提案を撤回する."
+          }
+        },
+        {
+          "id": "ja-n1-l2-v5",
+          "term": "踏まえる",
+          "reading": "ふまえる",
+          "romaji": "fumaeru",
+          "rubyText": "踏[ふ]まえる",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "căn cứ vào, đặt nền trên (kinh nghiệm, bối cảnh)",
+            "en": "to take into account / build upon"
+          },
+          "example": {
+            "text": "過去の教訓を踏まえたうえで新たな制度を設計すべきだ。",
+            "rubyText": "過去[かこ]の教訓[きょうくん]を踏[ふ]まえたうえで新[あら]たな制度[せいど]を設計[せっけい]すべきだ。",
+            "reading": "kako no kyōkun o fumaeta ue de aratana seido o sekkei subeki da.",
+            "meaning": {
+              "vi": "Cần thiết kế chế độ mới trên cơ sở rút kinh nghiệm từ bài học quá khứ.",
+              "en": "New systems ought to be designed taking past lessons into account."
+            }
+          },
+          "note": {
+            "vi": "Cụm hay dùng: 〜を踏まえて / 〜を踏まえたうえで.",
+            "en": "Common business/academic frame: '〜を踏まえて'."
+          }
+        },
+        {
+          "id": "ja-n1-l2-v6",
+          "term": "齟齬",
+          "reading": "そご",
+          "romaji": "sogo",
+          "rubyText": "齟齬[そご]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "sự vênh nhau, bất nhất trong hiểu biết hoặc phối hợp",
+            "en": "discrepancy / mismatch in understanding"
+          },
+          "example": {
+            "text": "事前の合意と実務の間に齟齬が生じた。",
+            "rubyText": "事前[じぜん]の合意[ごうい]と実務[じつむ]の間[あいだ]に齟齬[そご]が生[しょう]じた。",
+            "reading": "jizen no gōi to jitsumu no aida ni sogo ga shōjita.",
+            "meaning": {
+              "vi": "Đã nảy sinh sự vênh nhau giữa thỏa thuận trước đó và thực tế triển khai.",
+              "en": "A discrepancy arose between prior agreement and actual execution."
+            }
+          },
+          "note": {
+            "vi": "Từ Hán-Nhật bậc N1 rất trang trọng; động từ đi kèm là 生じる / 来す.",
+            "en": "High-register N1 noun pairing with 生じる (arise)."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "ja-n1-l2-g1",
+          "pattern": "Plain / N + とはいえ",
+          "title": {
+            "vi": "Nhượng bộ công nhận sự thật: 〜とはいえ",
+            "en": "Formal Concession 〜とはいえ"
+          },
+          "structure": "V/い-Adj (plain) / N・な-Adj (không thêm だ) + とはいえ",
+          "explanation": {
+            "vi": "Nghĩa là 'tuy nói là... thật đấy, nhưng thực chất thì...'. Công nhận điều nêu trước là đúng ở bề mặt hoặc mức độ nhất định, rồi đưa ra thực tế trái chiều ở vế sau.",
+            "en": "Means 'even though one may say...'—acknowledging a surface truth before introducing a contrasting reality."
+          },
+          "usageNote": {
+            "vi": "Vế sau thường mang sắc thái 'tuy nhiên vẫn còn hạn chế / vẫn phải dè chừng'.",
+            "en": "The second clause typically points out a remaining limitation or caution."
+          },
+          "examples": [
+            {
+              "text": "春になったとはいえ、朝晩はまだ冷え込む。",
+              "rubyText": "春[はる]になったとはいえ、朝晩[あさばん]はまだ冷[ひ]え込[こ]む。",
+              "reading": "haru ni natta to wa ie, asaban wa mada hiekomu.",
+              "meaning": {
+                "vi": "Tuy nói là đã sang xuân rồi, nhưng sáng sớm và tối vẫn còn se lạnh.",
+                "en": "Although spring has arrived, mornings and evenings are still chilly."
+              }
+            },
+            {
+              "text": "小規模とはいえ、その研究の意義は大きい。",
+              "rubyText": "小規模[しょうきぼ]とはいえ、その研究[けんきゅう]の意義[いぎ]は大き[おお]い。",
+              "reading": "shōkibo to wa ie, sono kenkyū no igi wa ōkii.",
+              "meaning": {
+                "vi": "Dù nói là quy mô nhỏ, ý nghĩa của nghiên cứu đó lại rất lớn.",
+                "en": "Though small in scale, the study's significance is substantial."
+              }
+            }
+          ]
+        },
+        {
+          "id": "ja-n1-l2-g2",
+          "pattern": "V-意向形 (thể ý hướng) + ものなら & V-可能形 + ものなら",
+          "title": {
+            "vi": "Giả định cảnh báo / ước muốn mãnh liệt: 〜ものなら",
+            "en": "High-Stakes Hypothetical 〜ものなら"
+          },
+          "structure": "V-(よ)う + ものなら (nếu dám làm vậy thì hậu quả xấu) | V-khả năng + ものなら (nếu có thể thì rất muốn)",
+          "explanation": {
+            "vi": "Có hai nghĩa tùy động từ đi trước: (1) với thể ý hướng ('〜ようものなら'), cảnh báo hậu quả nghiêm trọng nếu lỡ làm điều đó; (2) với thể khả năng ('できるものなら'), bày tỏ mong ước điều khó thành hiện thực.",
+            "en": "With volitional verbs ('〜ようものなら'), warns of severe consequences; with potential verbs ('できるものなら'), expresses a wistful wish."
+          },
+          "usageNote": {
+            "vi": "Thường gặp trong phân tích rủi ro ('もし少しでも遅れようものなら…').",
+            "en": "Common in cautionary prose ('if one were to slip even slightly...')."
+          },
+          "examples": [
+            {
+              "text": "締め切りを一日でも過ぎようものなら、信頼を損ねる。",
+              "rubyText": "締[し]め切[き]りを一日[いちにち]でも過[す]ぎようものなら、信頼[しんよう]を損[そこ]ねる。",
+              "reading": "shimekiri o ichinichi demo sugiyō mono nara, shin'yō o sokoneru.",
+              "meaning": {
+                "vi": "Nếu mà trễ hạn chót dù chỉ một ngày thôi là tổn hại uy tín ngay.",
+                "en": "Should one miss the deadline by even a single day, trust will suffer."
+              }
+            },
+            {
+              "text": "時間を戻せるものなら、もう一度あの議論をやり直したい。",
+              "rubyText": "時間[じかん]を戻[もど]せるものなら、もう一度[いちど]あの議論[ぎろん]をやり直[なお]したい。",
+              "reading": "jikan o modoseru mono nara, mō ichido ano giron o yarinaoshitai.",
+              "meaning": {
+                "vi": "Nếu có thể quay ngược thời gian, tôi muốn làm lại cuộc thảo luận ấy một lần nữa.",
+                "en": "If I could turn back time, I would redo that discussion."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Đánh giá rủi ro trước khi phê duyệt dự thảo",
+          "en": "Risk Review Before Policy Sign-Off"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Hai thành viên hội đồng thẩm định trao đổi thận trọng về một dự thảo quy chế mới.",
+          "en": "Two committee members weigh risks before approving a draft regulation."
+        },
+        "lines": [
+          {
+            "speaker": "高橋",
+            "text": "今回の素案は方向性として妥当とはいえ、現場への移行手順にまだ齟齬が見られます。",
+            "rubyText": "今回[こんかい]の素案[そあん]は方向性[ほうこうせい]として妥当[だとう]とはいえ、現場[げんば]への移行手順[いこうてじゅん]にまだ齟齬[そご]が見[み]られます。",
+            "reading": "Konkai no soan wa hōkōsei to shite datō to wa ie, genba e no ikō tejun ni mada sogo ga miraremasu.",
+            "meaning": {
+              "vi": "Dù bản dự thảo lần này hợp lý về mặt định hướng, vẫn thấy sự vênh nhau trong quy trình chuyển giao xuống cơ sở.",
+              "en": "While the draft is sound in direction, discrepancies remain in the rollout steps for frontline teams."
+            }
+          },
+          {
+            "speaker": "林",
+            "text": "おっしゃる通りです。曖昧なまま施行しようものなら、現場から強い懸念が噴出しかねません。",
+            "rubyText": "おっしゃる通[とお]りです。曖昧[あいまい]なまま施行[しこう]しようものなら、現場[げんば]から強[つよ]い懸念[けねん]が噴出[ふんしゅつ]しかねません。",
+            "reading": "Ossharu tōri desu. Aimai na mama shikō shiyō mono nara, genba kara tsuyoi kenen ga funshutsu shikanemasen.",
+            "meaning": {
+              "vi": "Đúng như anh nói. Nếu mà cứ ban hành khi còn mơ hồ, sự quan ngại gay gắt từ cơ sở rất dễ bùng lên.",
+              "en": "You are right. Were we to enforce it while still vague, sharp concerns could erupt from staff."
+            }
+          },
+          {
+            "speaker": "高橋",
+            "text": "ええ。実態調査の裏付けを踏まえたうえで条文を整理すれば、後から撤回する事態も防げます。",
+            "rubyText": "ええ。実態調査[じったいちょうさ]の裏付[うらづ]けを踏[ふ]まえたうえで条文[じょうぶん]を整理[せいり]すれば、後[あと]から撤回[てっかい]する事態[じたい]も防[ふせ]げます。",
+            "reading": "Ee. Jittai chōsa no urazuke o fumaeta ue de jōbun o seiri sureba, ato kara tekkai suru jitai mo fusegemasu.",
+            "meaning": {
+              "vi": "Vâng. Nếu chỉnh lý điều khoản trên cơ sở bằng chứng khảo sát thực tế, ta cũng tránh được cảnh phải rút lại về sau.",
+              "en": "Yes. Refining the clauses on the backing of field data will prevent having to retract them later."
+            }
+          },
+          {
+            "speaker": "林",
+            "text": "では、修正期限を延ばせるものなら一週間延ばし、合意形成を徹底しましょう。",
+            "rubyText": "では、修正期限[しゅうせいきげん]を延[の]ばせるものなら一週間[いっしゅうかん]延[の]ばし、合意形成[ごういけいせい]を徹底[てってい]しましょう。",
+            "reading": "Dewa, shūsei kigen o nobaseru mono nara isshūkan nobashi, gōi keisei o tettei shimashō.",
+            "meaning": {
+              "vi": "Vậy nếu có thể gia hạn thời hạn chỉnh sửa thì ta lùi thêm một tuần và làm thật triệt để khâu tạo đồng thuận nhé.",
+              "en": "Then if we can extend the revision window by a week, let's ensure thorough consensus."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "'合意形成 (ごういけいせい - xây dựng đồng thuận)' là quy trình cốt lõi trong ra quyết định ở Nhật Bản (根回し - tham vấn trước), giúp việc thực thi sau đó ít gặp phản đối.",
+          "en": "Thorough '合意形成 (consensus-building)' prior to rollout prevents friction during implementation in Japan."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "ja-n1-l2-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Từ '齟齬' có nghĩa là gì?",
+            "en": "What does '齟齬' mean?"
+          },
+          "targetText": "意見の齟齬",
+          "targetReading": "そご (sogo)",
+          "ttsText": "齟齬",
+          "options": [
+            "Sự vênh nhau, không khớp giữa hai bên",
+            "Sự đồng thuận tuyệt đối",
+            "Phần mở đầu tài liệu",
+            "Bản tóm tắt ngân sách"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'齟齬 (そご)' nghĩa là sự lệch pha, bất nhất trong hiểu biết hoặc kế hoạch.",
+            "en": "'齟齬' means a mismatch or discrepancy."
+          }
+        },
+        {
+          "id": "ja-n1-l2-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn cách đọc Kana đúng cho '懸念'.",
+            "en": "Select the Kana reading for '懸念'."
+          },
+          "targetText": "懸念",
+          "ttsText": "懸念",
+          "options": [
+            "けねん",
+            "だとう",
+            "てっかい",
+            "そご"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'懸念' đọc là けねん (kenen).",
+            "en": "'懸念' is read けねん (kenen)."
+          }
+        },
+        {
+          "id": "ja-n1-l2-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Hoàn thành câu giả định cảnh báo hậu quả xấu với '〜ものなら':",
+            "en": "Complete the cautionary hypothetical with 〜ものなら:"
+          },
+          "targetText": "約束を破ろう___、二度と信じてもらえない。",
+          "ttsText": "約束を破ろうものなら、二度と信じてもらえない。",
+          "options": [
+            "ものなら",
+            "とはいえ",
+            "ならではの",
+            "ばかりに"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Thể ý hướng '破ろう' + 'ものなら' cảnh báo hậu quả nghiêm trọng nếu làm vậy.",
+            "en": "Volitional verb + 'ものなら' warns of serious fallout."
+          }
+        },
+        {
+          "id": "ja-n1-l2-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu nhượng bộ dùng '〜とはいえ'.",
+            "en": "Order the tokens into a 〜とはいえ concessive sentence."
+          },
+          "targetMeaning": {
+            "vi": "Dù nói là mùa xuân, sáng sớm vẫn lạnh.",
+            "en": "Though it is spring, mornings remain cold."
+          },
+          "tokens": [
+            "とはいえ、",
+            "まだ寒い。",
+            "春だ",
+            "朝は"
+          ],
+          "correctOrder": [
+            "春だ",
+            "とはいえ、",
+            "朝は",
+            "まだ寒い。"
+          ],
+          "correctSentence": "春だとはいえ、朝はまだ寒い。",
+          "explanation": {
+            "vi": "Trật tự: 春だ + とはいえ、+ 朝は + まだ寒い。",
+            "en": "Order: 春だ + とはいえ、+ 朝は + まだ寒い。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ja-n1-l3",
+      "levelId": "ja-n1",
+      "order": 3,
+      "title": {
+        "native": "学術的表現と論考",
+        "vi": "Ngữ dụng học thuật và tổng hợp luận điểm",
+        "en": "Academic Pragmatics"
+      },
+      "topic": "academic-pragmatics",
+      "summary": {
+        "vi": "Sử dụng cấu trúc học thuật '〜と相まって' (cộng hưởng cùng với...) và '〜べく' (nhằm mục đích...) trong tiểu luận nghiên cứu.",
+        "en": "Use academic connectors 〜と相まって (combined with) and 〜べく (in order to) in scholarly prose."
+      },
+      "xpReward": 70,
+      "vocabulary": [
+        {
+          "id": "ja-n1-l3-v1",
+          "term": "相乗効果",
+          "reading": "そうじょうこうか",
+          "romaji": "sōjō kōka",
+          "rubyText": "相乗効果[そうじょうこうか]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "hiệu ứng cộng hưởng",
+            "en": "synergy / synergistic effect"
+          },
+          "example": {
+            "text": "音声練習と文字学習が相まって高い相乗効果を生む。",
+            "rubyText": "音声練習[おんせいれんしゅう]と文字学習[もじがくしゅう]が相[あい]まって高[たか]い相乗効果[そうじょうこうか]を生[う]む。",
+            "reading": "onsei renshū to moji gakushū ga aimatte takai sōjō kōka o umu.",
+            "meaning": {
+              "vi": "Luyện nghe nói và học chữ viết cộng hưởng cùng nhau tạo ra hiệu ứng nhân đôi vượt trội.",
+              "en": "Audio practice and character study combine to generate strong synergy."
+            }
+          },
+          "note": {
+            "vi": "Động từ đi kèm: 相乗効果を生む / 発揮する.",
+            "en": "Collocates with 生む (produce) or 発揮する (demonstrate)."
+          }
+        },
+        {
+          "id": "ja-n1-l3-v2",
+          "term": "解明",
+          "reading": "かいめい",
+          "romaji": "kaimei",
+          "rubyText": "解明[かいめい]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "làm sáng tỏ, giải mã (cơ chế, nguyên nhân)",
+            "en": "elucidation / uncovering (a mechanism)"
+          },
+          "example": {
+            "text": "記憶定着の仕組みを解明すべく長期実験が行われた。",
+            "rubyText": "記憶定着[きおくていちゃく]の仕組[しく]みを解明[かいめい]すべく長期実験[ちょうきじっけん]が行[おこな]われた。",
+            "reading": "kioku teichaku no shikumi o kaimei subeku chōki jikken ga okonawareta.",
+            "meaning": {
+              "vi": "Một thí nghiệm dài hạn đã được tiến hành nhằm làm sáng tỏ cơ chế ghi nhớ bền vững.",
+              "en": "A long-term experiment was conducted to elucidate how memory consolidates."
+            }
+          },
+          "note": {
+            "vi": "Chú ý bất quy tắc: 'する' trước 'べく' trở thành 'すべく' (hoặc 'するべく').",
+            "en": "With 'べく', 'する' classically contracts to 'すべく'."
+          }
+        },
+        {
+          "id": "ja-n1-l3-v3",
+          "term": "顕在化",
+          "reading": "けんざいか",
+          "romaji": "kenzaika",
+          "rubyText": "顕在化[けんざいか]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "sự bộc lộ rõ ra bề mặt (vấn đề tiềm ẩn)",
+            "en": "surfacing / becoming overt"
+          },
+          "example": {
+            "text": "制度疲労が景気停滞と相まって一気に顕在化した。",
+            "rubyText": "制度疲労[せいどひろう]が景気停滞[けいきていたい]と相[あい]まって一気[いっき]に顕在化[けんざいか]した。",
+            "reading": "seido hirō ga keiki teitai to aimatte ikki ni kenzaika shita.",
+            "meaning": {
+              "vi": "Sự xơ cứng của thể chế cộng hưởng với kinh tế trì trệ đã bộc lộ rõ cùng lúc.",
+              "en": "Institutional fatigue, combined with economic stagnation, surfaced all at once."
+            }
+          },
+          "note": {
+            "vi": "Đối lập với '潜在化 (tiềm ẩn bên dưới)'.",
+            "en": "Antonym: 潜在化 (becoming latent)."
+          }
+        },
+        {
+          "id": "ja-n1-l3-v4",
+          "term": "検証",
+          "reading": "けんしょう",
+          "romaji": "kenshō",
+          "rubyText": "検証[けんしょう]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "kiểm chứng thực nghiệm",
+            "en": "empirical verification"
+          },
+          "example": {
+            "text": "仮説の妥当性を検証すべく、多様な群を対象に測定した。",
+            "rubyText": "仮説[かせつ]の妥当性[だとうせい]を検証[けんしょう]すべく、多様[たよう]な群[ぐん]を対象[たいしょう]に測定[そくてい]した。",
+            "reading": "kasetsu no datōsei o kenshō subeku, tayō na gun o taishō ni sokutei shita.",
+            "meaning": {
+              "vi": "Nhằm kiểm chứng tính xác đáng của giả thuyết, nhóm đã đo đạc trên nhiều nhóm đối tượng đa dạng.",
+              "en": "To verify the hypothesis's validity, measurements were taken across diverse groups."
+            }
+          },
+          "note": {
+            "vi": "Thuật ngữ cốt lõi trong nghiên cứu khoa học và kỹ thuật phần mềm.",
+            "en": "Core term in scientific trials and software validation."
+          }
+        },
+        {
+          "id": "ja-n1-l3-v5",
+          "term": "多角",
+          "reading": "たかく",
+          "romaji": "takaku",
+          "rubyText": "多角[たかく]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "đa góc độ, đa chiều",
+            "en": "multi-angled / multifaceted"
+          },
+          "example": {
+            "text": "複雑な社会現象は多角的な視点から捉える必要がある。",
+            "rubyText": "複雑[ふくざつ]な社会現象[しゃかいげんしょう]は多角的[たかくてき]な視点[してん]から捉[とら]える必要[ひつよう]がある。",
+            "reading": "fukuzatsu na shakai genshō wa takakuteki na shiten kara toraeru hitsuyō ga aru.",
+            "meaning": {
+              "vi": "Các hiện tượng xã hội phức tạp cần được nhìn nhận từ góc độ đa chiều.",
+              "en": "Complex social phenomena must be examined from multifaceted perspectives."
+            }
+          },
+          "note": {
+            "vi": "Thường dùng ở dạng tính từ な: 多角的な分析 / 多角的な視点.",
+            "en": "Typically appears as 多角的な (multifaceted)."
+          }
+        },
+        {
+          "id": "ja-n1-l3-v6",
+          "term": "示唆",
+          "reading": "しさ",
+          "romaji": "shisa",
+          "rubyText": "示唆[しさ]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "sự gợi mở, hàm ý chỉ ra (trong nghiên cứu)",
+            "en": "implication / suggestion (of findings)"
+          },
+          "example": {
+            "text": "本研究の知見は今後の教育設計に重要な示唆を与える。",
+            "rubyText": "本研究[ほんけんきゅう]の知見[ちけん]は今後[こんご]の教育設計[きょういくせっけい]に重要[じゅうよう]な示唆[しさ]を与[あた]える。",
+            "reading": "hon kenkyū no chiken wa kongo no kyōiku sekkei ni jūyō na shisa o ataeru.",
+            "meaning": {
+              "vi": "Những phát hiện của nghiên cứu này đem lại gợi ý quan trọng cho thiết kế giáo dục tương lai.",
+              "en": "This study's findings offer crucial implications for future educational design."
+            }
+          },
+          "note": {
+            "vi": "Cụm kết luận kinh điển trong luận văn tiếng Nhật: '〜に示唆を与える' hoặc '〜を示唆している'.",
+            "en": "Standard academic conclusion phrasing: '〜に示唆を与える'."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "ja-n1-l3-g1",
+          "pattern": "A が B と相まって + Result",
+          "title": {
+            "vi": "Tác động cộng hưởng '〜と相まって'",
+            "en": "Synergistic Conjunction 〜と相まって"
+          },
+          "structure": "Yếu tố A + が/は + Yếu tố B + と相まって，[kết quả tăng cường]",
+          "explanation": {
+            "vi": "Diễn tả hai yếu tố kết hợp, cộng hưởng cùng nhau tạo nên một tác động mạnh mẽ hơn hẳn từng yếu tố riêng lẻ.",
+            "en": "Describes two factors combining and reinforcing each other to produce a magnified outcome."
+          },
+          "usageNote": {
+            "vi": "Dùng được cho cả kết quả tích cực (hiệu ứng cộng hưởng) lẫn khủng hoảng trầm trọng hơn.",
+            "en": "Works for both positive synergy and compounding crises."
+          },
+          "examples": [
+            {
+              "text": "丁寧な解説が豊富な音声教材と相まって、学習効率が飛躍的に上がった。",
+              "rubyText": "丁寧[ていねい]な解説[かいせつ]が豊富[ほうふ]な音声教材[おんせいきょうざい]と相[あい]まって、学習効率[がくしゅうこうりつ]が飛躍的[ひやくてき]に上[あ]がった。",
+              "reading": "teinei na kaisetsu ga hōfu na onsei kyōzai to aimatte, gakushū kōritsu ga hiyakuteki ni agatta.",
+              "meaning": {
+                "vi": "Phần giải thích cặn kẽ cộng hưởng với nguồn âm thanh phong phú đã giúp hiệu quả học tăng vọt.",
+                "en": "Clear explanations combined with rich audio materials dramatically boosted learning efficiency."
+              }
+            },
+            {
+              "text": "円安が物価高と相まって、家計への負担が重くなっている。",
+              "rubyText": "円安[えんやす]が物価高[ぶっかだか]と相[あい]まって、家計[かけい]への負担[ふたん]が重[おも]くなっている。",
+              "reading": "en'yasu ga bukkadaka to aimatte, kakei e no futan ga omoku natte iru.",
+              "meaning": {
+                "vi": "Đồng yên yếu cộng với vật giá leo thang khiến gánh nặng chi tiêu hộ gia đình thêm nặng nề.",
+                "en": "A weak yen, coupled with rising prices, is weighing heavily on household budgets."
+              }
+            }
+          ]
+        },
+        {
+          "id": "ja-n1-l3-g2",
+          "pattern": "V-る + べく (する -> すべく)",
+          "title": {
+            "vi": "Mục đích văn viết trang trọng '〜べく'",
+            "en": "Formal Purpose 〜べく (In Order To)"
+          },
+          "structure": "V (thể từ điển) + べく (đặc biệt: する -> すべく)，Hành động có chủ đích",
+          "explanation": {
+            "vi": "Dạng văn viết cổ điển nhưng rất thông dụng trong báo chí và luận văn, mang nghĩa 'để đạt mục tiêu / nhằm thực hiện...'.",
+            "en": "Literary yet common in journalism and research, expressing deliberate purpose ('in order to / striving to')."
+          },
+          "usageNote": {
+            "vi": "Chủ ngữ của hai vế phải là một và mang ý chí chủ động; không dùng cho hiện tượng tự nhiên vô tri.",
+            "en": "Both clauses share an intentional agent; avoid inanimate natural phenomena."
+          },
+          "examples": [
+            {
+              "text": "地域の課題を解決すべく、若手の研究者たちが集まった。",
+              "rubyText": "地域[ちいき]の課題[かだい]を解決[かいけつ]すべく、若手[わかて]の研究者[けんきゅうしゃ]たちが集[あつ]まった。",
+              "reading": "chiiki no kadai o kaiketsu subeku, wakate no kenkyūshatachi ga atsumatta.",
+              "meaning": {
+                "vi": "Nhằm giải quyết các bài toán của địa phương, các nhà nghiên cứu trẻ đã quy tụ lại.",
+                "en": "Young researchers gathered in order to tackle regional challenges."
+              }
+            },
+            {
+              "text": "彼女は国際学会で発表すべく、一年間準備を重ねてきた。",
+              "rubyText": "彼女[かのじょ]は国際学会[こくさいがっかい]で発表[はっぴょう]すべく、一年間[いちねんかん]準備[じゅんび]を重[かさ]ねてきた。",
+              "reading": "kanojo wa kokusai gakkai de happyō subeku, ichinenkan junbi o kasanete kita.",
+              "meaning": {
+                "vi": "Để thuyết trình tại hội nghị quốc tế, cô ấy đã chuẩn bị miệt mài suốt một năm.",
+                "en": "She prepared diligently for a full year to present at the international symposium."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Tóm tắt luận văn về học đa ngôn ngữ",
+          "en": "Research Abstract: Multilingual Synergy"
+        },
+        "mode": "reading",
+        "context": {
+          "vi": "Đoạn tóm tắt báo cáo nghiên cứu về tác động của cộng đồng bạn học đến việc ghi nhớ từ vựng.",
+          "en": "An academic abstract summarizing how peer communities reinforce vocabulary retention."
+        },
+        "lines": [
+          {
+            "speaker": "論文要旨",
+            "text": "本研究は、継続的な語学学習を支える要因を多角的に解明すべく実施されたものである。",
+            "rubyText": "本研究[ほんけんきゅう]は、継続的[けいぞくてき]な語学学習[ごがくがくしゅう]を支[ささ]える要因[よういん]を多角的[たかくてき]に解明[かいめい]すべく実施[じっし]されたものである。",
+            "reading": "Hon kenkyū wa, keizokuteki na gogaku gakushū o sasaeru yōin o takakuteki ni kaimei subeku jisshi sareta mono de aru.",
+            "meaning": {
+              "vi": "Nghiên cứu này được thực hiện nhằm làm sáng tỏ đa chiều các nhân tố nâng đỡ việc học ngoại ngữ bền bỉ.",
+              "en": "This study was conducted to elucidate from multiple angles the factors sustaining consistent language learning."
+            }
+          },
+          {
+            "speaker": "論文要旨",
+            "text": "分析の結果、間隔反復法が友人同士の進捗共有と相まって、顕著な相乗効果を生むことが確認された。",
+            "rubyText": "分析[ぶんせき]の結果[けっか]、間隔反復法[かんかくはんぷくほう]が友人同士[ゆうじんどうし]の進捗共有[しんちょくきょうゆう]と相[あい]まって、顕著[けんちょ]な相乗効果[そうじょうこうか]を生[う]むことが確認[かくにん]された。",
+            "reading": "Bunseki no kekka, kankaku hanpukuhō ga yūjindōshi no shinchoku kyōyū to aimatte, kencho na sōjō kōka o umu koto ga kakunin sareta.",
+            "meaning": {
+              "vi": "Kết quả phân tích xác nhận phương pháp lặp lại ngắt quãng cộng hưởng với việc chia sẻ tiến độ giữa bạn bè đã tạo ra hiệu ứng cộng hưởng rõ rệt.",
+              "en": "Analysis confirmed that spaced repetition, combined with peer progress-sharing, generates marked synergy."
+            }
+          },
+          {
+            "speaker": "論文要旨",
+            "text": "一方、過度な競争意識は学習疲労を顕在化させ得る点も、対照実験により検証された。",
+            "rubyText": "一方[いっぽう]、過度[かど]な競争意識[きょうそういしき]は学習疲労[がくしゅうひろう]を顕在化[けんざいか]させ得[う]る点[てん]も、対照実験[たいしょうじっけん]により検証[けんしょう]された。",
+            "reading": "Ippō, kado na kyōsō ishiki wa gakushū hirō o kenzaika saseuru ten mo, taishō jikken ni yori kenshō sareta.",
+            "meaning": {
+              "vi": "Mặt khác, thí nghiệm đối chứng cũng kiểm chứng được rằng tâm lý cạnh tranh thái quá có thể làm bộc lộ sự kiệt sức trong học tập.",
+              "en": "Meanwhile, controlled trials also verified that excessive rivalry can surface study fatigue."
+            }
+          },
+          {
+            "speaker": "論文要旨",
+            "text": "以上の知見は、無理のない協働環境を設計するうえで有益な示唆を与えると言えよう。",
+            "rubyText": "以上[いじょう]の知見[ちけん]は、無理[むり]のない協働環境[きょうどうかんきょう]を設計[せっけい]するうえで有益[ゆうえき]な示唆[しさ]を与[あた]えると言[い]えよう。",
+            "reading": "Ijō no chiken wa, muri no nai kyōdō kankyō o sekkei suru ue de yūeki na shisa o ataeru to ieyō.",
+            "meaning": {
+              "vi": "Có thể nói những phát hiện trên đem lại gợi mở hữu ích trong việc thiết kế môi trường học tập cộng tác nhẹ nhàng, bền vững.",
+              "en": "These findings offer valuable implications for designing sustainable, collaborative learning environments."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Đuôi kết '〜と言えよう' (có thể nói rằng...) là cách kết luận mềm mại, chuẩn mực học thuật trong tiếng Nhật thay vì khẳng định cứng nhắc.",
+          "en": "Closing with '〜と言えよう (one might say...)' exemplifies measured scholarly modesty in Japanese academic writing."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "ja-n1-l3-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Mẫu '〜と相まって' diễn đạt ý nghĩa nào?",
+            "en": "What does '〜と相まって' express?"
+          },
+          "targetText": "AがBと相まって",
+          "options": [
+            "Hai yếu tố kết hợp, cộng hưởng làm tăng tác động",
+            "Một yếu tố phủ định hoàn toàn yếu tố kia",
+            "Hành động xảy ra ngay trước khi ngủ",
+            "Giả định trái ngược với thực tế"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'AがBと相まって' chỉ A và B cộng hưởng cùng nhau tạo kết quả mạnh hơn.",
+            "en": "'〜と相まって' means two factors combine synergistically."
+          }
+        },
+        {
+          "id": "ja-n1-l3-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn cách đọc Kana đúng cho '示唆'.",
+            "en": "Select the Kana reading for '示唆'."
+          },
+          "targetText": "示唆",
+          "ttsText": "示唆",
+          "options": [
+            "しさ",
+            "かいめい",
+            "けんしょう",
+            "たかく"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'示唆' đọc là しさ (shisa).",
+            "en": "'示唆' is read しさ (shisa)."
+          }
+        },
+        {
+          "id": "ja-n1-l3-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn dạng đúng của '解決する' trước 'べく' (nhằm giải quyết):",
+            "en": "Choose the right form before 'べく' ('in order to resolve'):"
+          },
+          "targetText": "課題を解決___、調査を開始した。",
+          "ttsText": "課題を解決すべく、調査を開始した。",
+          "options": [
+            "すべく",
+            "しべく",
+            "したべく",
+            "させてべく"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Trong văn viết N1, '〜する' ghép với 'べく' thành '〜すべく'.",
+            "en": "With 'べく', 'する' contracts to 'すべく'."
+          }
+        },
+        {
+          "id": "ja-n1-l3-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu kết luận học thuật chuẩn xác.",
+            "en": "Arrange the tokens into an academic conclusion sentence."
+          },
+          "targetMeaning": {
+            "vi": "Nghiên cứu mang lại gợi mở quan trọng.",
+            "en": "The study offers important implications."
+          },
+          "tokens": [
+            "重要な示唆を",
+            "研究は",
+            "与える。"
+          ],
+          "correctOrder": [
+            "研究は",
+            "重要な示唆を",
+            "与える。"
+          ],
+          "correctSentence": "研究は重要な示唆を与える。",
+          "explanation": {
+            "vi": "Trật tự: 研究は + 重要な示唆を + 与える。",
+            "en": "Order: 研究は + 重要な示唆を + 与える。"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1125 @@
+{
+  "levelId": "zh-hsk3",
+  "language": "zh",
+  "code": "HSK3",
+  "order": 3,
+  "title": {
+    "vi": "HSK 3 — Diễn đạt mạch lạc và câu phức",
+    "en": "HSK 3 — Connected Ideas & Complements"
+  },
+  "subtitle": {
+    "vi": "Kế hoạch thành phố, bổ ngữ kết quả và câu chữ 把/被 cơ bản",
+    "en": "City plans, resultative complements, and basic 把/被 structures"
+  },
+  "estimatedMinutes": 45,
+  "lessons": [
+    {
+      "id": "zh-hsk3-l1",
+      "levelId": "zh-hsk3",
+      "order": 1,
+      "title": {
+        "native": "城市计划与顺序",
+        "vi": "Kế hoạch cuối tuần và trình tự hành động",
+        "en": "City Plans & Sequence"
+      },
+      "topic": "plans-sequence",
+      "summary": {
+        "vi": "Dùng '如果…就…', '先…然后…' và bổ ngữ xu hướng (进去, 出来) để mô tả kế hoạch.",
+        "en": "Combine 如果…就…, 先…然后…, and directional complements in city plans."
+      },
+      "xpReward": 55,
+      "vocabulary": [
+        {
+          "id": "zh-hsk3-l1-v1",
+          "term": "打算",
+          "reading": "dǎsuàn",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "dự định",
+            "en": "to plan / intend"
+          },
+          "example": {
+            "text": "这个周末我打算先去图书馆，然后再逛公园。",
+            "reading": "Zhège zhōumò wǒ dǎsuàn xiān qù túshūguǎn, ránhòu zài guàng gōngyuán.",
+            "meaning": {
+              "vi": "Cuối tuần này tôi định đi thư viện trước, sau đó đi dạo công viên.",
+              "en": "This weekend I plan to visit the library first, then stroll in the park."
+            }
+          },
+          "note": {
+            "vi": "Vừa là động từ (dự định) vừa là danh từ (kế hoạch).",
+            "en": "Functions as both verb ('plan to') and noun ('a plan')."
+          }
+        },
+        {
+          "id": "zh-hsk3-l1-v2",
+          "term": "图书馆",
+          "reading": "túshūguǎn",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "thư viện",
+            "en": "library"
+          },
+          "example": {
+            "text": "图书馆离地铁站只有五分钟路程。",
+            "reading": "Túshūguǎn lí dìtiězhàn zhǐ yǒu wǔ fēnzhōng lùchéng.",
+            "meaning": {
+              "vi": "Thư viện chỉ cách ga tàu điện ngầm năm phút đi bộ.",
+              "en": "The library is only five minutes from the subway station."
+            }
+          },
+          "note": {
+            "vi": "Chữ '馆 (guǎn)' chỉ tòa nhà công cộng như 饭馆, 博物馆.",
+            "en": "'馆 (guǎn)' marks public venues such as 博物馆 (museum)."
+          }
+        },
+        {
+          "id": "zh-hsk3-l1-v3",
+          "term": "如果",
+          "reading": "rúguǒ",
+          "partOfSpeech": "conjunction",
+          "meaning": {
+            "vi": "nếu",
+            "en": "if"
+          },
+          "example": {
+            "text": "如果明天天气好，我们就去爬山。",
+            "reading": "Rúguǒ míngtiān tiānqì hǎo, wǒmen jiù qù páshān.",
+            "meaning": {
+              "vi": "Nếu ngày mai thời tiết đẹp, chúng ta sẽ đi leo núi.",
+              "en": "If the weather is nice tomorrow, we'll go hiking."
+            }
+          },
+          "note": {
+            "vi": "Thường phối hợp với '就 (jiù)' đặt trước động từ ở vế sau.",
+            "en": "Typically pairs with '就 (jiù)' placed after the subject of the result clause."
+          }
+        },
+        {
+          "id": "zh-hsk3-l1-v4",
+          "term": "方便",
+          "reading": "fāngbiàn",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "thuận tiện, tiện lợi",
+            "en": "convenient"
+          },
+          "example": {
+            "text": "手机支付让坐公交变得非常方便。",
+            "reading": "Shǒujī zhīfù ràng zuò gōngjiāo biànde fēicháng fāngbiàn.",
+            "meaning": {
+              "vi": "Thanh toán qua điện thoại giúp việc đi xe buýt trở nên rất tiện lợi.",
+              "en": "Mobile payment makes riding the bus very convenient."
+            }
+          },
+          "note": {
+            "vi": "Cẩn thận: '我现在方便' nghĩa là 'giờ tôi rảnh/tiện', nhưng không dùng cho 'tiện chỗ nào' (phải nói '交通很方便').",
+            "en": "Say '交通很方便' (transit is convenient) rather than applying it as a personal trait."
+          }
+        },
+        {
+          "id": "zh-hsk3-l1-v5",
+          "term": "决定",
+          "reading": "juédìng",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "quyết định",
+            "en": "to decide / decision"
+          },
+          "example": {
+            "text": "大家决定星期六早上九点集合。",
+            "reading": "Dàjiā juédìng xīngqīliù zǎoshang jiǔ diǎn jíhé.",
+            "meaning": {
+              "vi": "Mọi người quyết định tập trung lúc 9 giờ sáng thứ Bảy.",
+              "en": "Everyone decided to meet at 9 a.m. on Saturday."
+            }
+          },
+          "note": {
+            "vi": "Chữ '决' thanh 2, '定' thanh 4: jué-dìng.",
+            "en": "2nd tone + 4th tone: jué-dìng."
+          }
+        },
+        {
+          "id": "zh-hsk3-l1-v6",
+          "term": "环境",
+          "reading": "huánjìng",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "môi trường, không gian xung quanh",
+            "en": "environment / surroundings"
+          },
+          "example": {
+            "text": "这家书店的环境很安静。",
+            "reading": "Zhè jiā shūdiàn de huánjìng hěn ānjìng.",
+            "meaning": {
+              "vi": "Không gian của hiệu sách này rất yên tĩnh.",
+              "en": "The atmosphere of this bookstore is very quiet."
+            }
+          },
+          "note": {
+            "vi": "Dùng cho cả môi trường tự nhiên lẫn không gian học tập/làm việc.",
+            "en": "Refers both to the natural environment and the ambiance of a place."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "zh-hsk3-l1-g1",
+          "pattern": "如果 + Condition，(Subject +) 就 + Result",
+          "title": {
+            "vi": "Câu điều kiện '如果…就…'",
+            "en": "Conditional Clauses with 如果…就…"
+          },
+          "structure": "如果 + A，S + 就 + B",
+          "explanation": {
+            "vi": "'如果' mở đầu mệnh đề giả thiết, còn '就' đứng sau chủ ngữ (trước động từ) ở vế kết quả.",
+            "en": "'如果' introduces the condition, and '就' stands right before the verb in the main clause."
+          },
+          "usageNote": {
+            "vi": "'就' không bao giờ đứng trước chủ ngữ (nói '我们就去', không nói '就我们去').",
+            "en": "Always place '就' after the subject, never before it."
+          },
+          "examples": [
+            {
+              "text": "如果你有时间，我们就一起去图书馆。",
+              "reading": "Rúguǒ nǐ yǒu shíjiān, wǒmen jiù yìqǐ qù túshūguǎn.",
+              "meaning": {
+                "vi": "Nếu bạn có thời gian, chúng ta sẽ cùng đi thư viện.",
+                "en": "If you have time, we'll go to the library together."
+              }
+            },
+            {
+              "text": "如果不下雨，我们就骑自行车去。",
+              "reading": "Rúguǒ bú xiàyǔ, wǒmen jiù qí zìxíngchē qù.",
+              "meaning": {
+                "vi": "Nếu trời không mưa, chúng ta sẽ đạp xe đi.",
+                "en": "If it doesn't rain, we'll ride bicycles there."
+              }
+            }
+          ]
+        },
+        {
+          "id": "zh-hsk3-l1-g2",
+          "pattern": "Verb + 来 / 去 (Bổ ngữ xu hướng đơn giản)",
+          "title": {
+            "vi": "Bổ ngữ xu hướng với '来' và '去'",
+            "en": "Directional Complements with 来 & 去"
+          },
+          "structure": "进/出/上/下/回 + 来 (hướng về người nói) hoặc 去 (rời xa người nói)",
+          "explanation": {
+            "vi": "Ghép động từ di chuyển với '来' khi tiến lại gần vị trí người nói và với '去' khi đi xa khỏi người nói.",
+            "en": "Attach '来' for movement toward the speaker and '去' for movement away from the speaker."
+          },
+          "usageNote": {
+            "vi": "Ví dụ đứng trong phòng gọi bạn vào nói '请进来！'; đứng ngoài chỉ vào trong nói '进去吧'.",
+            "en": "Inside a room, say '进来 (come in)'; outside looking in, say '进去 (go in)'."
+          },
+          "examples": [
+            {
+              "text": "外面冷，快进来喝杯热茶吧。",
+              "reading": "Wàimiàn lěng, kuài jìnlái hē bēi rè chá ba.",
+              "meaning": {
+                "vi": "Ngoài trời lạnh đấy, mau vào trong uống tách trà nóng đi.",
+                "en": "It's cold outside—hurry and come inside for hot tea."
+              }
+            },
+            {
+              "text": "我买完书就马上回去。",
+              "reading": "Wǒ mǎi wán shū jiù mǎshàng huíqù.",
+              "meaning": {
+                "vi": "Tôi mua sách xong sẽ quay về ngay.",
+                "en": "I'll head right back as soon as I buy the book."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Lên kế hoạch học nhóm cuối tuần",
+          "en": "Planning a Weekend Study Meetup"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Linh Đan và Minh Anh thống nhất điểm hẹn và lịch trình thứ Bảy.",
+          "en": "Linh Dan and Minh Anh coordinate their Saturday study schedule."
+        },
+        "lines": [
+          {
+            "speaker": "Linh Dan",
+            "text": "明安，这个星期六你有什么打算？",
+            "reading": "Míng'ān, zhège xīngqīliù nǐ yǒu shénme dǎsuàn?",
+            "meaning": {
+              "vi": "Minh Anh ơi, thứ Bảy này bạn có dự định gì chưa?",
+              "en": "Minh Anh, what are your plans for this Saturday?"
+            }
+          },
+          {
+            "speaker": "Minh Anh",
+            "text": "如果早上不下雨，我打算先去市图书馆复习语法。",
+            "reading": "Rúguǒ zǎoshang bú xiàyǔ, wǒ dǎsuàn xiān qù shì túshūguǎn fùxí yǔfǎ.",
+            "meaning": {
+              "vi": "Nếu sáng không mưa, mình định qua thư viện thành phố ôn ngữ pháp trước.",
+              "en": "If it doesn't rain in the morning, I plan to review grammar at the city library first."
+            }
+          },
+          {
+            "speaker": "Linh Dan",
+            "text": "太好了，那里的环境安静，交通也很方便。我十点进去找你！",
+            "reading": "Tài hǎo le, nàlǐ de huánjìng ānjìng, jiāotōng yě hěn fāngbiàn. Wǒ shí diǎn jìnqù zhǎo nǐ!",
+            "meaning": {
+              "vi": "Tuyệt quá, không gian ở đó yên tĩnh mà đi lại cũng rất tiện. 10 giờ mình vào tìm bạn nhé!",
+              "en": "Awesome—the atmosphere is quiet and transit is convenient. I'll come inside at ten!"
+            }
+          },
+          {
+            "speaker": "Minh Anh",
+            "text": "好呀，我们就这样决定，然后中午一起吃午饭。",
+            "reading": "Hǎo ya, wǒmen jiù zhèyàng juédìng, ránhòu zhōngwǔ yìqǐ chī wǔfàn.",
+            "meaning": {
+              "vi": "Nhất trí nhé, tụi mình quyết định vậy đi, rồi trưa cùng ăn cơm trưa.",
+              "en": "Sounds great—it's settled, and then we'll grab lunch together at noon."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Cụm '就这样决定 (chốt vậy nhé)' hay '一言为定 (một lời đã định)' dùng rất tự nhiên khi hẹn bạn bè.",
+          "en": "'就这样决定 (let's settle on that)' is an everyday way to confirm meetup plans."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "zh-hsk3-l1-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Bạn đang đứng TRONG phòng và mời khách bước vào. Câu nào đúng?",
+            "en": "You are inside a room inviting a guest in. Which phrase is right?"
+          },
+          "targetText": "Come in, please!",
+          "options": [
+            "请进来！",
+            "请进去！",
+            "请出来！",
+            "请回去！"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Hướng tiến về phía người nói dùng '来': '进来 (vào đây)'.",
+            "en": "Movement toward the speaker takes '来': '进来'."
+          }
+        },
+        {
+          "id": "zh-hsk3-l1-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn Pinyin đúng cho '环境'.",
+            "en": "Select the matching Pinyin for '环境'."
+          },
+          "targetText": "环境",
+          "ttsText": "环境",
+          "options": [
+            "huánjìng",
+            "fāngbiàn",
+            "juédìng",
+            "dǎsuàn"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'环境' đọc là huánjìng (thanh 2 + thanh 4).",
+            "en": "'环境' is pronounced huánjìng."
+          }
+        },
+        {
+          "id": "zh-hsk3-l1-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn từ nối kết quả trong câu điều kiện:",
+            "en": "Choose the result-clause adverb for this conditional:"
+          },
+          "targetText": "如果方便，我们明天___去。",
+          "ttsText": "如果方便，我们明天就去。",
+          "options": [
+            "就",
+            "把",
+            "被",
+            "也"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Cấu trúc chuẩn là '如果…, …就…'.",
+            "en": "Standard pair: '如果…就…'."
+          }
+        },
+        {
+          "id": "zh-hsk3-l1-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu nêu dự định cuối tuần.",
+            "en": "Arrange the tokens into a weekend-plan sentence."
+          },
+          "targetMeaning": {
+            "vi": "Tôi dự định đi thư viện.",
+            "en": "I plan to go to the library."
+          },
+          "tokens": [
+            "图书馆。",
+            "打算",
+            "去",
+            "我"
+          ],
+          "correctOrder": [
+            "我",
+            "打算",
+            "去",
+            "图书馆。"
+          ],
+          "correctSentence": "我打算去图书馆。",
+          "explanation": {
+            "vi": "Trật tự: 我 + 打算 + 去 + 图书馆。",
+            "en": "Order: 我 + 打算 + 去 + 图书馆。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "zh-hsk3-l2",
+      "levelId": "zh-hsk3",
+      "order": 2,
+      "title": {
+        "native": "学习、工作与因果",
+        "vi": "Học tập, công việc và kết quả",
+        "en": "Study, Work & Cause-Effect"
+      },
+      "topic": "study-work",
+      "summary": {
+        "vi": "Dùng '不但…而且…' mở rộng ý và bổ ngữ kết quả (完, 懂, 对) để báo cáo tiến độ công việc.",
+        "en": "Expand ideas with 不但…而且… and use resultative complements (完, 懂, 对)."
+      },
+      "xpReward": 55,
+      "vocabulary": [
+        {
+          "id": "zh-hsk3-l2-v1",
+          "term": "认真",
+          "reading": "rènzhēn",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "nghiêm túc, chăm chỉ, cẩn thận",
+            "en": "serious / conscientious"
+          },
+          "example": {
+            "text": "她学习非常认真，笔记写得很清楚。",
+            "reading": "Tā xuéxí fēicháng rènzhēn, bǐjì xiě de hěn qīngchu.",
+            "meaning": {
+              "vi": "Cô ấy học rất nghiêm túc, ghi chép viết vô cùng rõ ràng.",
+              "en": "She studies very conscientiously and writes clear notes."
+            }
+          },
+          "note": {
+            "vi": "Dùng làm trạng ngữ: '认真地复习' (ôn tập một cách nghiêm túc).",
+            "en": "Frequently serves as an adverb before study/work verbs."
+          }
+        },
+        {
+          "id": "zh-hsk3-l2-v2",
+          "term": "提高",
+          "reading": "tígāo",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "nâng cao, cải thiện",
+            "en": "to improve / raise"
+          },
+          "example": {
+            "text": "每天朗读不但能练发音，而且能提高语感。",
+            "reading": "Měitiān lǎngdú búdàn néng liàn fāyīn, érqiě néng tígāo yǔgǎn.",
+            "meaning": {
+              "vi": "Đọc to mỗi ngày không chỉ luyện phát âm mà còn nâng cao cảm giác ngôn ngữ.",
+              "en": "Reading aloud daily not only trains pronunciation, but also improves language intuition."
+            }
+          },
+          "note": {
+            "vi": "Tân ngữ đi kèm: 提高水平 (trình độ), 提高效率 (hiệu suất).",
+            "en": "Common objects: 水平 (proficiency), 效率 (efficiency), 能力 (ability)."
+          }
+        },
+        {
+          "id": "zh-hsk3-l2-v3",
+          "term": "清楚",
+          "reading": "qīngchu",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "rõ ràng, rành mạch",
+            "en": "clear"
+          },
+          "example": {
+            "text": "老师讲得很清楚，我听懂了。",
+            "reading": "Lǎoshī jiǎng de hěn qīngchu, wǒ tīngdǒng le.",
+            "meaning": {
+              "vi": "Thầy giảng rất rõ ràng, tôi đã nghe hiểu rồi.",
+              "en": "The teacher explained clearly, and I understood."
+            }
+          },
+          "note": {
+            "vi": "Cũng hay làm bổ ngữ kết quả: 看清楚 (nhìn rõ), 听清楚 (nghe rõ).",
+            "en": "Also works as a resultative complement: 看清楚, 听清楚."
+          }
+        },
+        {
+          "id": "zh-hsk3-l2-v4",
+          "term": "完成",
+          "reading": "wánchéng",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "hoàn thành",
+            "en": "to complete / accomplish"
+          },
+          "example": {
+            "text": "我已经完成了今天的复习任务。",
+            "reading": "Wǒ yǐjīng wánchéng le jīntiān de fùxí rènwu.",
+            "meaning": {
+              "vi": "Tôi đã hoàn thành nhiệm vụ ôn tập hôm nay rồi.",
+              "en": "I have already completed today's review task."
+            }
+          },
+          "note": {
+            "vi": "Trang trọng hơn '做完', hay đi với 任务 (nhiệm vụ) hoặc 报告 (báo cáo).",
+            "en": "More formal than '做完', often paired with 任务 or 项目."
+          }
+        },
+        {
+          "id": "zh-hsk3-l2-v5",
+          "term": "水平",
+          "reading": "shuǐpíng",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "trình độ, mức độ",
+            "en": "level / standard"
+          },
+          "example": {
+            "text": "他的汉语水平最近进步很大。",
+            "reading": "Tā de Hànyǔ shuǐpíng zuìjìn jìnbù hěn dà.",
+            "meaning": {
+              "vi": "Trình độ tiếng Trung của anh ấy gần đây tiến bộ rất nhiều.",
+              "en": "His Mandarin level has progressed greatly lately."
+            }
+          },
+          "note": {
+            "vi": "Thanh 3 + thanh 2: shuǐ-píng.",
+            "en": "3rd tone + 2nd tone: shuǐ-píng."
+          }
+        },
+        {
+          "id": "zh-hsk3-l2-v6",
+          "term": "检查",
+          "reading": "jiǎnchá",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "kiểm tra, rà soát",
+            "en": "to check / inspect"
+          },
+          "example": {
+            "text": "写完作业以后再仔细检查一遍。",
+            "reading": "Xiě wán zuòyè yǐhòu zài zǐxì jiǎnchá yíbiàn.",
+            "meaning": {
+              "vi": "Làm xong bài tập rồi hãy kiểm tra kỹ lại một lượt.",
+              "en": "After finishing homework, check it carefully once more."
+            }
+          },
+          "note": {
+            "vi": "Dùng cho cả kiểm tra bài vở lẫn kiểm tra sức khỏe (身体检查).",
+            "en": "Covers reviewing work as well as medical checkups."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "zh-hsk3-l2-g1",
+          "pattern": "不但…，而且…",
+          "title": {
+            "vi": "Cấu trúc tăng tiến '不但…而且…' (Không những... mà còn...)",
+            "en": "Cumulative Conjunction 不但…而且…"
+          },
+          "structure": "Cùng chủ ngữ: S + 不但…, 而且… | Khác chủ ngữ: 不但 + S1…, 而且 + S2…",
+          "explanation": {
+            "vi": "Dùng để nối hai đặc điểm hoặc hai ý theo hướng tăng tiến.",
+            "en": "Connects two qualities or actions with progressive emphasis ('not only..., but also...')."
+          },
+          "usageNote": {
+            "vi": "Biến điệu '不': trong '不但 (búdàn)', '不' đổi sang thanh 2 vì '但' là thanh 4.",
+            "en": "Tone sandhi: '不但' is pronounced 'búdàn' before 4th-tone 'dàn'."
+          },
+          "examples": [
+            {
+              "text": "这个词典不但例句多，而且有拼音。",
+              "reading": "Zhège cídiǎn búdàn lìjù duō, érqiě yǒu pīnyīn.",
+              "meaning": {
+                "vi": "Cuốn từ điển này không chỉ nhiều câu ví dụ mà còn có phiên âm Pinyin.",
+                "en": "This dictionary not only has many examples, but also includes Pinyin."
+              }
+            },
+            {
+              "text": "小组学习不但有趣，而且能互相提醒。",
+              "reading": "Xiǎozǔ xuéxí búdàn yǒuqù, érqiě néng hùxiāng tíxǐng.",
+              "meaning": {
+                "vi": "Học nhóm không chỉ thú vị mà còn nhắc nhở được lẫn nhau.",
+                "en": "Group study is not only fun, but also helps members keep each other on track."
+              }
+            }
+          ]
+        },
+        {
+          "id": "zh-hsk3-l2-g2",
+          "pattern": "Verb + 完 / 懂 / 错 / 对 (Bổ ngữ kết quả)",
+          "title": {
+            "vi": "Bổ ngữ kết quả: 完, 懂, 错, 对",
+            "en": "Resultative Complements: 完, 懂, 错, 对"
+          },
+          "structure": "V + 完/懂/对/错 (+ 了) | Phủ định: 没 + V + 完/懂",
+          "explanation": {
+            "vi": "Đặt trực tiếp sau động từ chính để nêu rõ kết quả của hành động: 看完 (đọc xong), 听懂 (nghe hiểu), 写对 (viết đúng), 记错 (nhớ nhầm).",
+            "en": "Attach immediately after the verb to specify the outcome: 看完 (finish reading), 听懂 (understand by listening), 写对 (write correctly)."
+          },
+          "usageNote": {
+            "vi": "Không chèn '了' vào giữa động từ và bổ ngữ kết quả (nói '写完了', không nói '写了完').",
+            "en": "Place '了' after the complement ('写完了'), never between verb and complement."
+          },
+          "examples": [
+            {
+              "text": "我终于看懂这篇短文了！",
+              "reading": "Wǒ zhōngyú kàndǒng zhè piān duǎnwén le!",
+              "meaning": {
+                "vi": "Cuối cùng tôi cũng đọc hiểu đoạn văn ngắn này rồi!",
+                "en": "I finally understood this short passage!"
+              }
+            },
+            {
+              "text": "他还没有做完今天的测验。",
+              "reading": "Tā hái méiyǒu zuòwán jīntiān de cèyàn.",
+              "meaning": {
+                "vi": "Anh ấy vẫn chưa làm xong bài kiểm tra hôm nay.",
+                "en": "He hasn't finished today's quiz yet."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Tổng kết tiến độ học tập tuần",
+          "en": "Weekly Study Progress Review"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Wei Chen và Linh Đan chia sẻ mẹo cải thiện kỹ năng nghe và đọc hiểu.",
+          "en": "Wei Chen and Linh Dan compare notes on improving listening and reading."
+        },
+        "lines": [
+          {
+            "speaker": "Wei Chen",
+            "text": "灵丹，你已经完成这周的五篇阅读了吗？",
+            "reading": "Língdān, nǐ yǐjīng wánchéng zhè zhōu de wǔ piān yuèdú le ma?",
+            "meaning": {
+              "vi": "Linh Đan, bạn đã hoàn thành năm bài đọc tuần này chưa?",
+              "en": "Linh Dan, have you finished this week's five readings?"
+            }
+          },
+          {
+            "speaker": "Linh Dan",
+            "text": "刚看完！多亏你帮我检查生词，我才全部看懂了。",
+            "reading": "Gāng kànwán! Duōkuī nǐ bāng wǒ jiǎnchá shēngcí, wǒ cái quánbù kàndǒng le.",
+            "meaning": {
+              "vi": "Vừa đọc xong luôn! Nhờ bạn giúp mình kiểm tra từ mới nên mình mới hiểu hết được đấy.",
+              "en": "Just finished! Thanks to you helping me review new words, I understood all of them."
+            }
+          },
+          {
+            "speaker": "Wei Chen",
+            "text": "你每天学习这么认真，汉语水平不但提高了，而且发音也更清楚了。",
+            "reading": "Nǐ měitiān xuéxí zhème rènzhēn, Hànyǔ shuǐpíng búdàn tígāo le, érqiě fāyīn yě gèng qīngchu le.",
+            "meaning": {
+              "vi": "Bạn học nghiêm túc thế mỗi ngày, trình độ tiếng Trung không những nâng cao mà phát âm cũng rõ ràng hơn nữa.",
+              "en": "Studying so diligently every day, your Mandarin hasn't only improved—your pronunciation is clearer too."
+            }
+          },
+          {
+            "speaker": "Linh Dan",
+            "text": "谢谢鼓励！下周我们继续一起练习吧。",
+            "reading": "Xièxie gǔlì! Xià zhōu wǒmen jìxù yìqǐ liànxí ba.",
+            "meaning": {
+              "vi": "Cảm ơn bạn đã động viên! Tuần sau mình tiếp tục luyện cùng nhau nhé.",
+              "en": "Thanks for the encouragement! Let's keep practicing together next week."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Khi được khen ngợi trong tiếng Trung, ngoài '谢谢', người bản xứ cũng hay đáp khiêm tốn bằng '哪里哪里' hoặc '还要继续努力 (vẫn cần cố gắng thêm)'.",
+          "en": "Accepting praise with '谢谢' paired with '还要继续努力 (still working hard)' feels warm and modest."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "zh-hsk3-l2-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Từ nào có nghĩa là 'nâng cao, cải thiện'?",
+            "en": "Which verb means 'to improve or raise'?"
+          },
+          "targetText": "___汉语水平",
+          "options": [
+            "提高",
+            "检查",
+            "打算",
+            "休息"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'提高 (tígāo)' đi với '水平' thành cụm '提高水平 (nâng cao trình độ)'.",
+            "en": "'提高' collocates with '水平' ('raise one's proficiency')."
+          }
+        },
+        {
+          "id": "zh-hsk3-l2-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn Pinyin đúng cho '认真'.",
+            "en": "Choose the matching Pinyin for '认真'."
+          },
+          "targetText": "认真",
+          "ttsText": "认真",
+          "options": [
+            "rènzhēn",
+            "wánchéng",
+            "qīngchu",
+            "jiǎnchá"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'认真' đọc là rènzhēn.",
+            "en": "'认真' is pronounced rènzhēn."
+          }
+        },
+        {
+          "id": "zh-hsk3-l2-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn bổ ngữ kết quả đúng cho 'nghe hiểu':",
+            "en": "Select the resultative complement meaning 'understand by listening':"
+          },
+          "targetText": "她说得很快，我没听___。",
+          "ttsText": "她说得很快，我没听懂。",
+          "options": [
+            "完",
+            "懂",
+            "吃",
+            "去"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "vi": "'听懂 (tīngdǒng)' nghĩa là nghe hiểu.",
+            "en": "'听懂' means to understand what one hears."
+          }
+        },
+        {
+          "id": "zh-hsk3-l2-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu dùng cấu trúc '不但…而且…'.",
+            "en": "Arrange the tokens using '不但…而且…'."
+          },
+          "targetMeaning": {
+            "vi": "Cô ấy không những chăm chỉ mà còn rất rõ ràng.",
+            "en": "She is not only diligent, but also very clear."
+          },
+          "tokens": [
+            "而且",
+            "认真，",
+            "她",
+            "很清楚。",
+            "不但"
+          ],
+          "correctOrder": [
+            "她",
+            "不但",
+            "认真，",
+            "而且",
+            "很清楚。"
+          ],
+          "correctSentence": "她不但认真，而且很清楚。",
+          "explanation": {
+            "vi": "Chủ ngữ chung '她' đứng trước '不但'.",
+            "en": "Shared subject '她' precedes '不但'."
+          }
+        }
+      ]
+    },
+    {
+      "id": "zh-hsk3-l3",
+      "levelId": "zh-hsk3",
+      "order": 3,
+      "title": {
+        "native": "把字句与礼貌请求",
+        "vi": "Câu chữ 把/被 và yêu cầu lịch sự",
+        "en": "Stories & Polite Requests (把 / 被)"
+      },
+      "topic": "grammar-requests",
+      "summary": {
+        "vi": "Làm chủ câu chữ 把 (xử lý đối tượng) và câu bị động 被 cơ bản trong giao tiếp hằng ngày.",
+        "en": "Master basic 把 disposal sentences and 被 passive sentences in everyday scenarios."
+      },
+      "xpReward": 55,
+      "vocabulary": [
+        {
+          "id": "zh-hsk3-l3-v1",
+          "term": "整理",
+          "reading": "zhěnglǐ",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "sắp xếp, thu dọn gọn gàng",
+            "en": "to tidy / organize"
+          },
+          "example": {
+            "text": "我已经把复习资料整理好了。",
+            "reading": "Wǒ yǐjīng bǎ fùxí zīliào zhěnglǐ hǎo le.",
+            "meaning": {
+              "vi": "Tôi đã sắp xếp gọn tài liệu ôn tập xong rồi.",
+              "en": "I have already organized the review materials."
+            }
+          },
+          "note": {
+            "vi": "Biến điệu thanh 3: zhěnglǐ đọc thành zhénglǐ.",
+            "en": "3rd-tone sandhi shifts zhěng to zhéng before lǐ."
+          }
+        },
+        {
+          "id": "zh-hsk3-l3-v2",
+          "term": "忘记",
+          "reading": "wàngjì",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "quên",
+            "en": "to forget"
+          },
+          "example": {
+            "text": "请别忘记把门锁好。",
+            "reading": "Qǐng bié wàngjì bǎ mén suǒ hǎo.",
+            "meaning": {
+              "vi": "Xin đừng quên khóa cửa cẩn thận nhé.",
+              "en": "Please don't forget to lock the door properly."
+            }
+          },
+          "note": {
+            "vi": "Đồng nghĩa ngắn gọn trong khẩu ngữ là '忘 (wàng)'.",
+            "en": "Often shortened to '忘' in casual speech."
+          }
+        },
+        {
+          "id": "zh-hsk3-l3-v3",
+          "term": "借",
+          "reading": "jiè",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "mượn / cho mượn",
+            "en": "to borrow / lend"
+          },
+          "example": {
+            "text": "我的词典被朋友借走了。",
+            "reading": "Wǒ de cídiǎn bèi péngyou jièzǒu le.",
+            "meaning": {
+              "vi": "Từ điển của tôi bị bạn mượn đi mất rồi.",
+              "en": "My dictionary was borrowed by a friend."
+            }
+          },
+          "note": {
+            "vi": "Chú ý giới từ: '向某人借' là mượn từ ai; '借给某人' là cho ai mượn.",
+            "en": "'向某人借' = borrow from; '借给某人' = lend to."
+          }
+        },
+        {
+          "id": "zh-hsk3-l3-v4",
+          "term": "帮忙",
+          "reading": "bāngmáng",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "giúp một tay",
+            "en": "to help out"
+          },
+          "example": {
+            "text": "你能帮忙把这箱书搬进去吗？",
+            "reading": "Nǐ néng bāngmáng bǎ zhè xiāng shū bān jìnqù ma?",
+            "meaning": {
+              "vi": "Bạn có thể giúp khiêng thùng sách này vào trong được không?",
+              "en": "Could you help carry this box of books inside?"
+            }
+          },
+          "note": {
+            "vi": "'帮忙' không mang tân ngữ trực tiếp (nói '帮我的忙', không nói '帮忙我').",
+            "en": "'帮忙' is separable and takes no direct object after 忙 (say '帮我')."
+          }
+        },
+        {
+          "id": "zh-hsk3-l3-v5",
+          "term": "小心",
+          "reading": "xiǎoxīn",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "cẩn thận",
+            "en": "to be careful"
+          },
+          "example": {
+            "text": "路上小心，别把雨伞弄丢了。",
+            "reading": "Lùshang xiǎoxīn, bié bǎ yǔsǎn nòngdiū le.",
+            "meaning": {
+              "vi": "Đi đường cẩn thận, đừng làm mất ô nhé.",
+              "en": "Be careful on the way; don't lose the umbrella."
+            }
+          },
+          "note": {
+            "vi": "Dùng một mình '小心！' như lời nhắc nhở 'Cẩn thận đấy!'.",
+            "en": "Can stand alone as a friendly warning: '小心！'."
+          }
+        },
+        {
+          "id": "zh-hsk3-l3-v6",
+          "term": "发现",
+          "reading": "fāxiàn",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "phát hiện ra",
+            "en": "to discover / notice"
+          },
+          "example": {
+            "text": "我回到家才发现钥匙被忘在桌上了。",
+            "reading": "Wǒ huí dào jiā cái fāxiàn yàoshi bèi wàng zài zhuōshang le.",
+            "meaning": {
+              "vi": "Tôi về đến nhà mới phát hiện chìa khóa bị bỏ quên trên bàn.",
+              "en": "Only after getting home did I realize the keys had been left on the table."
+            }
+          },
+          "note": {
+            "vi": "Dùng cho cả phát hiện tình huống lẫn phát minh/khám phá.",
+            "en": "Means noticing something or making a discovery."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "zh-hsk3-l3-g1",
+          "pattern": "Subject + 把 + Object + Verb + Result / Direction",
+          "title": {
+            "vi": "Câu chữ '把' (Xử lý đối tượng cụ thể)",
+            "en": "The 把 (bǎ) Disposal Construction"
+          },
+          "structure": "S + 把 + Tân ngữ xác định + Động từ + Thành phần khác (了/好/完/在...)",
+          "explanation": {
+            "vi": "Dùng '把' để đưa tân ngữ xác định lên trước động từ nhằm nhấn mạnh đối tượng đó bị tác động hoặc di chuyển thế nào.",
+            "en": "Front a specific object with '把' before the verb to emphasize how it is handled, changed, or moved."
+          },
+          "usageNote": {
+            "vi": "Sau động từ trong câu '把' KHÔNG được đứng trơ trọi một chữ — bắt buộc có kết quả, hướng hoặc '了/着'.",
+            "en": "Never leave a bare verb at the end of a '把' sentence; include a result, direction, or '了'."
+          },
+          "examples": [
+            {
+              "text": "请把你的名字写在这里。",
+              "reading": "Qǐng bǎ nǐ de míngzi xiě zài zhèlǐ.",
+              "meaning": {
+                "vi": "Xin hãy viết tên của bạn vào đây.",
+                "en": "Please write your name right here."
+              }
+            },
+            {
+              "text": "我把今天的新词都背会了。",
+              "reading": "Wǒ bǎ jīntiān de xīncí dōu bèihuì le.",
+              "meaning": {
+                "vi": "Tôi đã học thuộc hết từ mới hôm nay rồi.",
+                "en": "I have memorized all of today's new words."
+              }
+            }
+          ]
+        },
+        {
+          "id": "zh-hsk3-l3-g2",
+          "pattern": "Subject + 被 (+ Agent) + Verb + Result",
+          "title": {
+            "vi": "Câu bị động cơ bản với '被'",
+            "en": "Basic Passive with 被 (bèi)"
+          },
+          "structure": "Đối tượng chịu tác động + 被 (+ Tác nhân) + Động từ + Kết quả",
+          "explanation": {
+            "vi": "Dùng '被' khi chủ ngữ là vật/người chịu tác động của hành động (thường mang sắc thái bất ngờ hoặc không mong muốn ở HSK 3).",
+            "en": "Use '被' when the subject receives an action, often highlighting an unexpected or unfortunate outcome."
+          },
+          "usageNote": {
+            "vi": "Nếu không rõ hoặc không cần nêu ai làm, vẫn phải giữ lại chữ '被' ngay trước động từ ('杯子被打破了').",
+            "en": "Even if the agent is omitted, keep '被' directly before the verb."
+          },
+          "examples": [
+            {
+              "text": "笔记本电脑被妹妹拿去上课了。",
+              "reading": "Bǐjìběn diànnǎo bèi mèimei ná qù shàngkè le.",
+              "meaning": {
+                "vi": "Máy tính xách tay bị em gái mang đi học mất rồi.",
+                "en": "The laptop was taken to class by my younger sister."
+              }
+            },
+            {
+              "text": "房间已经被整理得很干净了。",
+              "reading": "Fángjiān yǐjīng bèi zhěnglǐ de hěn gānjìng le.",
+              "meaning": {
+                "vi": "Căn phòng đã được dọn dẹp rất sạch sẽ rồi.",
+                "en": "The room has already been tidied up cleanly."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Tìm cuốn sổ ghi chú bị thất lạc",
+          "en": "Tracking Down a Missing Notebook"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Kenji nhờ Wei Chen giúp tìm cuốn sổ ghi chú ngữ pháp trước buổi học.",
+          "en": "Kenji asks Wei Chen about a misplaced grammar notebook before class."
+        },
+        "lines": [
+          {
+            "speaker": "Kenji",
+            "text": "陈伟，我发现我的语法笔记本不见了，你能帮忙找找吗？",
+            "reading": "Chén Wěi, wǒ fāxiàn wǒ de yǔfǎ bǐjìběn bújiàn le, nǐ néng bāngmáng zhǎozhao ma?",
+            "meaning": {
+              "vi": "Trần Vĩ ơi, mình phát hiện sổ ngữ pháp của mình mất rồi, bạn giúp tìm chút được không?",
+              "en": "Chen Wei, I noticed my grammar notebook is missing—could you help look for it?"
+            }
+          },
+          {
+            "speaker": "Wei Chen",
+            "text": "别着急！我刚才把书桌整理好了，是不是被灵丹借走了？",
+            "reading": "Bié zháojí! Wǒ gāngcái bǎ shūzhuō zhěnglǐ hǎo le, shìbushì bèi Língdān jièzǒu le?",
+            "meaning": {
+              "vi": "Đừng lo! Lúc nãy mình vừa dọn bàn học xong, hay là bị Linh Đan mượn đi rồi?",
+              "en": "Don't worry! I just tidied the desk—could Linh Dan have borrowed it?"
+            }
+          },
+          {
+            "speaker": "Kenji",
+            "text": "对了！她昨天说想借去抄笔记，我忘记了。",
+            "reading": "Duìle! Tā zuótiān shuō xiǎng jiè qù chāo bǐjì, wǒ wàngjì le.",
+            "meaning": {
+              "vi": "Đúng rồi! Hôm qua bạn ấy bảo muốn mượn chép bài, mình quên khuấy mất.",
+              "en": "Right! Yesterday she asked to borrow it to copy notes, and I forgot."
+            }
+          },
+          {
+            "speaker": "Wei Chen",
+            "text": "哈哈，下次记得把重要东西放回书包里，小心又找不到。",
+            "reading": "Hāhā, xià cì jìde bǎ zhòngyào dōngxi fàng huí shūbāo lǐ, xiǎoxīn yòu zhǎobudào.",
+            "meaning": {
+              "vi": "Haha, lần sau nhớ cất đồ quan trọng vào cặp nhé, kẻo lại tìm không ra.",
+              "en": "Haha, remember to put important things back in your bag next time so you don't lose track."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Dùng '别着急 (bié zháojí - đừng vội/đừng lo)' để trấn an bạn bè rất ấm áp và tự nhiên.",
+          "en": "'别着急 (don't worry / take it easy)' is a reassuring phrase used immediately when a friend is flustered."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "zh-hsk3-l3-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Câu chữ '把' nào ĐÚNG ngữ pháp (có bổ ngữ sau động từ)?",
+            "en": "Which 把 sentence is grammatically complete?"
+          },
+          "targetText": "Tidy the books!",
+          "options": [
+            "请把书整理好。",
+            "请把书整理。",
+            "请整理把书。",
+            "把请书整理。"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Động từ trong câu '把' cần có thành phần kết quả theo sau, như '整理好'.",
+            "en": "A '把' sentence cannot end in a bare verb; '好' supplies the needed result."
+          }
+        },
+        {
+          "id": "zh-hsk3-l3-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn Pinyin đúng cho '整理'.",
+            "en": "Choose the matching Pinyin for '整理'."
+          },
+          "targetText": "整理",
+          "ttsText": "整理",
+          "options": [
+            "zhěnglǐ",
+            "wàngjì",
+            "fāxiàn",
+            "xiǎoxīn"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'整理' viết Pinyin gốc là zhěnglǐ (khi nói biến điệu thành zhénglǐ).",
+            "en": "'整理' has dictionary Pinyin zhěnglǐ."
+          }
+        },
+        {
+          "id": "zh-hsk3-l3-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn giới từ bị động phù hợp:",
+            "en": "Choose the passive marker for this sentence:"
+          },
+          "targetText": "我的伞___风吹走了。",
+          "ttsText": "我的伞被风吹走了。",
+          "options": [
+            "把",
+            "被",
+            "向",
+            "比"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "vi": "Chủ ngữ '我的伞' chịu tác động của gió nên dùng '被'.",
+            "en": "The umbrella receives the action of the wind, requiring '被'."
+          }
+        },
+        {
+          "id": "zh-hsk3-l3-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu chữ '把' chuẩn xác.",
+            "en": "Order the tokens into a valid 把 sentence."
+          },
+          "targetMeaning": {
+            "vi": "Xin đừng quên đóng cửa.",
+            "en": "Please don't forget to close the door."
+          },
+          "tokens": [
+            "门",
+            "把",
+            "请别",
+            "关上。",
+            "忘记"
+          ],
+          "correctOrder": [
+            "请别",
+            "忘记",
+            "把",
+            "门",
+            "关上。"
+          ],
+          "correctSentence": "请别忘记把门关上。",
+          "explanation": {
+            "vi": "Trật tự: 请别 + 忘记 + 把 + 门 + 关上。",
+            "en": "Order: 请别 + 忘记 + 把 + 门 + 关上。"
+          }
+        }
+      ]
+    }
+  ]
+}

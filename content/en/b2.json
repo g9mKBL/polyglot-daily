@@ -1,0 +1,1137 @@
+{
+  "levelId": "en-b2",
+  "language": "en",
+  "code": "B2",
+  "order": 4,
+  "title": {
+    "vi": "Trung cao cấp B2 — Lập luận và sắc thái",
+    "en": "Upper-Intermediate B2 — Persuasion & Nuance"
+  },
+  "subtitle": {
+    "vi": "Thuyết phục nơi công sở, suy đoán quá khứ và văn phong học thuật",
+    "en": "Workplace persuasion, past speculation, and technical clarity"
+  },
+  "estimatedMinutes": 50,
+  "lessons": [
+    {
+      "id": "en-b2-l1",
+      "levelId": "en-b2",
+      "order": 1,
+      "title": {
+        "native": "Workplace Persuasion",
+        "vi": "Thuyết phục trong công việc",
+        "en": "Workplace Persuasion"
+      },
+      "topic": "workplace",
+      "summary": {
+        "vi": "Dùng từ nối tương phản ('whereas', 'nevertheless') và cấu trúc đề xuất thuyết phục trong cuộc họp.",
+        "en": "Use contrast discourse markers ('whereas', 'nevertheless') and persuasive framing in meetings."
+      },
+      "xpReward": 60,
+      "vocabulary": [
+        {
+          "id": "en-b2-l1-v1",
+          "term": "proposal",
+          "reading": "/prəˈpoʊzəl/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "đề xuất, bản kiến nghị",
+            "en": "proposal"
+          },
+          "example": {
+            "text": "Our team submitted a clear proposal for flexible hours.",
+            "reading": "/ˈaʊər tiːm səbˈmɪtɪd ə klɪr prəˈpoʊzəl fɔːr ˈfleksəbəl ˈaʊərz/",
+            "meaning": {
+              "vi": "Nhóm chúng tôi đã nộp đề xuất rõ ràng về giờ làm linh hoạt.",
+              "en": "Our team submitted a clear proposal for flexible hours."
+            }
+          },
+          "note": {
+            "vi": "Dùng 'submit a proposal' hoặc 'put forward a proposal'.",
+            "en": "Collocations: 'submit a proposal', 'approve a proposal'."
+          }
+        },
+        {
+          "id": "en-b2-l1-v2",
+          "term": "feasible",
+          "reading": "/ˈfiːzəbəl/",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "khả thi",
+            "en": "feasible"
+          },
+          "example": {
+            "text": "Launching a pilot version this quarter is feasible.",
+            "reading": "/ˈlɔːntʃɪŋ ə ˈpaɪlət ˈvɜːrʒən ðɪs ˈkwɔːrtər ɪz ˈfiːzəbəl/",
+            "meaning": {
+              "vi": "Triển khai phiên bản thử nghiệm trong quý này là khả thi.",
+              "en": "Launching a pilot version this quarter is feasible."
+            }
+          },
+          "note": {
+            "vi": "Trang trọng hơn 'possible', thường nói về ngân sách hoặc thời gian.",
+            "en": "More formal than 'possible', often applied to plans or budgets."
+          }
+        },
+        {
+          "id": "en-b2-l1-v3",
+          "term": "compromise",
+          "reading": "/ˈkɑːmprəmaɪz/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "sự thỏa hiệp, phương án dung hòa",
+            "en": "compromise"
+          },
+          "example": {
+            "text": "Both departments reached a fair compromise.",
+            "reading": "/boʊθ dɪˈpɑːrtmənts riːtʃt ə fer ˈkɑːmprəmaɪz/",
+            "meaning": {
+              "vi": "Cả hai phòng ban đã đạt được thỏa hiệp công bằng.",
+              "en": "Both departments reached a fair compromise."
+            }
+          },
+          "note": {
+            "vi": "Động từ đi kèm tự nhiên: 'reach a compromise'.",
+            "en": "Natural collocation: 'reach a compromise'."
+          }
+        },
+        {
+          "id": "en-b2-l1-v4",
+          "term": "priority",
+          "reading": "/praɪˈɔːrəti/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "sự ưu tiên",
+            "en": "priority"
+          },
+          "example": {
+            "text": "Customer safety remains our top priority.",
+            "reading": "/ˈkʌstəmər ˈseɪfti rɪˈmeɪnz ˈaʊər tɑːp praɪˈɔːrəti/",
+            "meaning": {
+              "vi": "Sự an toàn của khách hàng vẫn là ưu tiên hàng đầu.",
+              "en": "Customer safety remains our top priority."
+            }
+          },
+          "note": {
+            "vi": "Cụm hay dùng: 'top priority', 'set priorities'.",
+            "en": "Common phrases: 'top priority', 'take priority over'."
+          }
+        },
+        {
+          "id": "en-b2-l1-v5",
+          "term": "persuade",
+          "reading": "/pərˈsweɪd/",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "thuyết phục",
+            "en": "to persuade"
+          },
+          "example": {
+            "text": "The data persuaded the board to fund the project.",
+            "reading": "/ðə ˈdeɪtə pərˈsweɪdɪd ðə bɔːrd tuː fʌnd ðə ˈprɑːdʒekt/",
+            "meaning": {
+              "vi": "Số liệu đã thuyết phục hội đồng cấp vốn cho dự án.",
+              "en": "The data persuaded the board to fund the project."
+            }
+          },
+          "note": {
+            "vi": "Cấu trúc: 'persuade someone to do something'.",
+            "en": "Pattern: 'persuade someone to do something'."
+          }
+        },
+        {
+          "id": "en-b2-l1-v6",
+          "term": "outcome",
+          "reading": "/ˈaʊtkʌm/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "kết quả đầu ra",
+            "en": "outcome"
+          },
+          "example": {
+            "text": "We measured the outcome after six weeks.",
+            "reading": "/wiː ˈmeʒərd ði ˈaʊtkʌm ˈæftər sɪks wiːks/",
+            "meaning": {
+              "vi": "Chúng tôi đo lường kết quả sau sáu tuần.",
+              "en": "We measured the outcome after six weeks."
+            }
+          },
+          "note": {
+            "vi": "Nhấn mạnh kết quả cuối cùng của một quá trình hoặc quyết định.",
+            "en": "Focuses on the end result of a process or decision."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "en-b2-l1-g1",
+          "pattern": "whereas / while vs. however / nevertheless",
+          "title": {
+            "vi": "Từ nối tương phản trong lập luận",
+            "en": "Contrast Discourse Markers"
+          },
+          "structure": "Clause A, whereas Clause B. | Sentence A. Nevertheless, Sentence B.",
+          "explanation": {
+            "vi": "'whereas/while' nối hai mệnh đề trong cùng một câu để đối chiếu; 'however/nevertheless' bắt đầu câu mới (hoặc sau dấu chấm phẩy) để chuyển ý.",
+            "en": "'whereas/while' contrast two clauses in one sentence; 'however/nevertheless' introduce a contrasting sentence."
+          },
+          "usageNote": {
+            "vi": "Không đặt 'whereas' một mình ở đầu câu ngắn rồi phẩy như 'However,'.",
+            "en": "'whereas' joins two clauses; it does not stand alone as a sentence adverb like 'However,'."
+          },
+          "examples": [
+            {
+              "text": "Option A lowers costs, whereas Option B speeds up delivery.",
+              "reading": "/ˈɑːpʃən eɪ ˈloʊərz kɔːsts werˈæz ˈɑːpʃən biː spiːdz ʌp dɪˈlɪvəri/",
+              "meaning": {
+                "vi": "Phương án A giảm chi phí, trong khi Phương án B đẩy nhanh giao hàng.",
+                "en": "Option A lowers costs, whereas Option B speeds up delivery."
+              }
+            },
+            {
+              "text": "The timeline is tight; nevertheless, the plan remains feasible.",
+              "reading": "/ðə ˈtaɪmlaɪn ɪz taɪt | ˌnevərðəˈles ðə plæn rɪˈmeɪnz ˈfiːzəbəl/",
+              "meaning": {
+                "vi": "Lịch trình khá gấp; tuy nhiên kế hoạch vẫn khả thi.",
+                "en": "The timeline is tight; nevertheless, the plan remains feasible."
+              }
+            }
+          ]
+        },
+        {
+          "id": "en-b2-l1-g2",
+          "pattern": "It is worth + V-ing / I would suggest + V-ing",
+          "title": {
+            "vi": "Cấu trúc đề xuất lịch sự nơi công sở",
+            "en": "Diplomatic Workplace Proposals"
+          },
+          "structure": "It is worth considering... / We might consider + V-ing",
+          "explanation": {
+            "vi": "Dùng 'It is worth + V-ing' và 'We might consider + V-ing' để nêu sáng kiến mà không gây cảm giác áp đặt đồng nghiệp.",
+            "en": "Soften proposals with 'It is worth + V-ing' or 'We might consider + V-ing' to invite collaboration."
+          },
+          "usageNote": {
+            "vi": "Sau 'worth' dùng V-ing, không dùng 'to V'.",
+            "en": "Always follow 'worth' with a gerund (-ing), never an infinitive."
+          },
+          "examples": [
+            {
+              "text": "It is worth testing the feature with a small group first.",
+              "reading": "/ɪt ɪz wɜːrθ ˈtestɪŋ ðə ˈfiːtʃər wɪð ə smɔːl ɡruːp fɜːrst/",
+              "meaning": {
+                "vi": "Rất đáng thử nghiệm tính năng này với một nhóm nhỏ trước.",
+                "en": "It is worth testing the feature with a small group first."
+              }
+            },
+            {
+              "text": "We might consider revising the budget before Friday.",
+              "reading": "/wiː maɪt kənˈsɪdər rɪˈvaɪzɪŋ ðə ˈbʌdʒɪt bɪˈfɔːr ˈfraɪdeɪ/",
+              "meaning": {
+                "vi": "Chúng ta có thể cân nhắc điều chỉnh lại ngân sách trước thứ Sáu.",
+                "en": "We might consider revising the budget before Friday."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Thảo luận đề xuất làm việc kết hợp",
+          "en": "Pitching a Hybrid Schedule"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Minh Anh trình bày đề xuất lịch làm việc kết hợp với quản lý David.",
+          "en": "Minh Anh presents a hybrid-schedule proposal to her manager, David."
+        },
+        "lines": [
+          {
+            "speaker": "Minh Anh",
+            "text": "Thanks for reviewing my proposal, David. Our top priority was keeping team collaboration strong.",
+            "reading": "/θæŋks fɔːr rɪˈvjuːɪŋ maɪ prəˈpoʊzəl ˈdeɪvɪd | ˈaʊər tɑːp praɪˈɔːrəti wʌz ˈkiːpɪŋ tiːm kəˌlæbəˈreɪʃən strɔːŋ/",
+            "meaning": {
+              "vi": "Cảm ơn anh David đã xem đề xuất của em. Ưu tiên hàng đầu của tụi em là giữ sự phối hợp nhóm thật vững.",
+              "en": "Thanks for reviewing my proposal, David. Our top priority was keeping team collaboration strong."
+            }
+          },
+          {
+            "speaker": "David",
+            "text": "I appreciate the clear outcome metrics, whereas I am concerned about client support hours.",
+            "reading": "/aɪ əˈpriːʃieɪt ðə klɪr ˈaʊtkʌm ˈmetrɪks werˈæz aɪ æm kənˈsɜːrnd əˈbaʊt ˈklaɪənt səˈpɔːrt ˈaʊərz/",
+            "meaning": {
+              "vi": "Anh đánh giá cao các chỉ số kết quả rõ ràng, trong khi anh hơi lo về khung giờ hỗ trợ khách hàng.",
+              "en": "I appreciate the clear outcome metrics, whereas I am concerned about client support hours."
+            }
+          },
+          {
+            "speaker": "Minh Anh",
+            "text": "That makes sense. It is worth rotating core coverage days so every shift stays staffed.",
+            "reading": "/ðæt meɪks sens | ɪt ɪz wɜːrθ ˈroʊteɪtɪŋ kɔːr ˈkʌvərɪdʒ deɪz soʊ ˈevri ʃɪft steɪz stæft/",
+            "meaning": {
+              "vi": "Điều đó rất hợp lý. Mình đáng thử luân phiên ngày trực chính để ca nào cũng đủ người.",
+              "en": "That makes sense. It is worth rotating core coverage days so every shift stays staffed."
+            }
+          },
+          {
+            "speaker": "David",
+            "text": "That sounds like a feasible compromise. Let's run a four-week trial starting Monday.",
+            "reading": "/ðæt saʊndz laɪk ə ˈfiːzəbəl ˈkɑːmprəmaɪz | lets rʌn ə fɔːr wiːk ˈtraɪəl ˈstɑːrtɪŋ ˈmʌndeɪ/",
+            "meaning": {
+              "vi": "Nghe như một phương án dung hòa rất khả thi. Mình chạy thử nghiệm bốn tuần từ thứ Hai nhé.",
+              "en": "That sounds like a feasible compromise. Let's run a four-week trial starting Monday."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Trong giao tiếp công sở chuyên nghiệp, thừa nhận mối lo của đối phương bằng 'That makes sense' trước khi đưa giải pháp giúp dễ đạt đồng thuận.",
+          "en": "Validating the other person's concern ('That makes sense') before offering a fix builds consensus smoothly."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "en-b2-l1-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Tính từ nào nghĩa là 'khả thi về mặt thực tế'?",
+            "en": "Which adjective means 'practical and achievable'?"
+          },
+          "targetText": "a ___ timeline",
+          "options": [
+            "feasible",
+            "arbitrary",
+            "fragile",
+            "redundant"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'feasible' mang nghĩa khả thi, có thể thực hiện được.",
+            "en": "'feasible' means capable of being carried out successfully."
+          }
+        },
+        {
+          "id": "en-b2-l1-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn phiên âm đúng của 'persuade'.",
+            "en": "Select the correct IPA for 'persuade'."
+          },
+          "targetText": "persuade",
+          "ttsText": "persuade",
+          "options": [
+            "/ˈpɜːrswɪd/",
+            "/pərˈsweɪd/",
+            "/prəˈpoʊz/",
+            "/ˈpraɪər/"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "vi": "'persuade' nhấn âm hai: /pərˈsweɪd/.",
+            "en": "'persuade' carries second-syllable stress: /pərˈsweɪd/."
+          }
+        },
+        {
+          "id": "en-b2-l1-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn dạng động từ đúng sau 'worth':",
+            "en": "Choose the correct verb form after 'worth':"
+          },
+          "targetText": "This compromise is definitely worth ___.",
+          "ttsText": "This compromise is definitely worth considering.",
+          "options": [
+            "consider",
+            "to consider",
+            "considering",
+            "considered"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "vi": "Cấu trúc chuẩn là 'be worth + V-ing'.",
+            "en": "The expression is 'be worth + gerund (-ing)'."
+          }
+        },
+        {
+          "id": "en-b2-l1-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp các từ thành câu có liên từ tương phản.",
+            "en": "Arrange the words into a contrast sentence."
+          },
+          "targetMeaning": {
+            "vi": "Kế hoạch A rẻ hơn, trong khi Kế hoạch B nhanh hơn.",
+            "en": "Plan A is cheaper, whereas Plan B is faster."
+          },
+          "tokens": [
+            "Plan",
+            "is",
+            "Plan",
+            "whereas",
+            "faster.",
+            "B",
+            "cheaper,",
+            "A",
+            "is"
+          ],
+          "correctOrder": [
+            "Plan",
+            "A",
+            "is",
+            "cheaper,",
+            "whereas",
+            "Plan",
+            "B",
+            "is",
+            "faster."
+          ],
+          "correctSentence": "Plan A is cheaper, whereas Plan B is faster.",
+          "explanation": {
+            "vi": "'whereas' nối hai mệnh đề đối chiếu nhau trong cùng một câu.",
+            "en": "'whereas' links the two contrasting clauses cleanly."
+          }
+        }
+      ]
+    },
+    {
+      "id": "en-b2-l2",
+      "levelId": "en-b2",
+      "order": 2,
+      "title": {
+        "native": "Regrets & Past Speculation",
+        "vi": "Hối tiếc và suy đoán về quá khứ",
+        "en": "Regrets & Past Speculation"
+      },
+      "topic": "reflection",
+      "summary": {
+        "vi": "Sử dụng câu điều kiện loại 3 và động từ khiếm khuyết quá khứ ('should have', 'might have') để nhìn lại quyết định.",
+        "en": "Express past speculation and hindsight using the 3rd Conditional and past modals."
+      },
+      "xpReward": 60,
+      "vocabulary": [
+        {
+          "id": "en-b2-l2-v1",
+          "term": "overlook",
+          "reading": "/ˌoʊvərˈlʊk/",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "bỏ sót, sơ ý không thấy",
+            "en": "to overlook"
+          },
+          "example": {
+            "text": "We must have overlooked a key detail in the schedule.",
+            "reading": "/wiː mʌst hæv ˌoʊvərˈlʊkt ə kiː ˈdiːteɪl ɪn ðə ˈskedʒuːl/",
+            "meaning": {
+              "vi": "Chắc hẳn chúng ta đã bỏ sót một chi tiết quan trọng trong lịch trình.",
+              "en": "We must have overlooked a key detail in the schedule."
+            }
+          },
+          "note": {
+            "vi": "Coi chừng nhầm: 'overlook' là vô tình bỏ sót, còn 'oversee' là giám sát.",
+            "en": "Do not confuse 'overlook' (miss) with 'oversee' (supervise)."
+          }
+        },
+        {
+          "id": "en-b2-l2-v2",
+          "term": "hindsight",
+          "reading": "/ˈhaɪndsaɪt/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "nhận thức sau khi việc đã qua",
+            "en": "hindsight"
+          },
+          "example": {
+            "text": "In hindsight, we should have booked earlier.",
+            "reading": "/ɪn ˈhaɪndsaɪt wiː ʃʊd hæv bʊkt ˈɜːrliər/",
+            "meaning": {
+              "vi": "Nghĩ lại thì đáng lẽ chúng ta nên đặt vé sớm hơn.",
+              "en": "In hindsight, we should have booked earlier."
+            }
+          },
+          "note": {
+            "vi": "Cụm cố định rất tự nhiên: 'in hindsight' hoặc 'with hindsight'.",
+            "en": "Fixed phrase: 'in hindsight'."
+          }
+        },
+        {
+          "id": "en-b2-l2-v3",
+          "term": "anticipate",
+          "reading": "/ænˈtɪsɪpeɪt/",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "lường trước, dự liệu",
+            "en": "to anticipate"
+          },
+          "example": {
+            "text": "Nobody anticipated such heavy rain in April.",
+            "reading": "/ˈnoʊbɑːdi ænˈtɪsɪpeɪtɪd sʌtʃ ˈhevi reɪn ɪn ˈeɪprəl/",
+            "meaning": {
+              "vi": "Không ai lường trước được trận mưa lớn như vậy vào tháng Tư.",
+              "en": "Nobody anticipated such heavy rain in April."
+            }
+          },
+          "note": {
+            "vi": "Dùng trực tiếp với tân ngữ hoặc V-ing ('anticipate facing delays').",
+            "en": "Takes a direct noun or gerund."
+          }
+        },
+        {
+          "id": "en-b2-l2-v4",
+          "term": "consequence",
+          "reading": "/ˈkɑːnsɪkwens/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "hậu quả, hệ quả",
+            "en": "consequence"
+          },
+          "example": {
+            "text": "Rushing the draft had an unintended consequence.",
+            "reading": "/ˈrʌʃɪŋ ðə dræft hæd æn ˌʌnɪnˈtendɪd ˈkɑːnsɪkwens/",
+            "meaning": {
+              "vi": "Làm vội bản nháp đã dẫn đến một hệ quả ngoài ý muốn.",
+              "en": "Rushing the draft had an unintended consequence."
+            }
+          },
+          "note": {
+            "vi": "Cụm thường gặp: 'face the consequences', 'as a consequence'.",
+            "en": "Collocations: 'as a consequence', 'unintended consequences'."
+          }
+        },
+        {
+          "id": "en-b2-l2-v5",
+          "term": "assume",
+          "reading": "/əˈsuːm/",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "cho rằng, giả định (chưa kiểm chứng)",
+            "en": "to assume"
+          },
+          "example": {
+            "text": "I shouldn't have assumed the train was on time.",
+            "reading": "/aɪ ˈʃʊdənt hæv əˈsuːmd ðə treɪn wʌz ɑːn taɪm/",
+            "meaning": {
+              "vi": "Đáng lẽ tôi không nên mặc định là tàu đúng giờ.",
+              "en": "I shouldn't have assumed the train was on time."
+            }
+          },
+          "note": {
+            "vi": "Khác với 'guess' ở sắc thái tự tin dựa trên suy đoán ngầm.",
+            "en": "Implies taking something for granted without verifying."
+          }
+        },
+        {
+          "id": "en-b2-l2-v6",
+          "term": "prevent",
+          "reading": "/prɪˈvent/",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "ngăn ngừa, phòng tránh",
+            "en": "to prevent"
+          },
+          "example": {
+            "text": "A quick checklist would have prevented the mistake.",
+            "reading": "/ə kwɪk ˈtʃeklɪst wʊd hæv prɪˈventɪd ðə mɪˈsteɪk/",
+            "meaning": {
+              "vi": "Một bảng kiểm tra nhanh đáng lẽ đã ngăn được sai sót đó.",
+              "en": "A quick checklist would have prevented the mistake."
+            }
+          },
+          "note": {
+            "vi": "Cấu trúc: 'prevent someone from doing something'.",
+            "en": "Pattern: 'prevent someone from + V-ing'."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "en-b2-l2-g1",
+          "pattern": "If + S + had + V3, S + would / might have + V3",
+          "title": {
+            "vi": "Câu điều kiện loại 3 (Trái với quá khứ)",
+            "en": "3rd Conditional for Past Hypotheticals"
+          },
+          "structure": "If + had (not) + V3, would/could/might + have + V3",
+          "explanation": {
+            "vi": "Diễn tả điều đã không xảy ra trong quá khứ và kết quả giả định của nó.",
+            "en": "Describes an unreal past condition and its imagined past result."
+          },
+          "usageNote": {
+            "vi": "Không dùng 'would have' trong mệnh đề chứa 'If' (sai: 'If I would have known...').",
+            "en": "Never place 'would have' inside the 'if' clause; use 'had + V3'."
+          },
+          "examples": [
+            {
+              "text": "If we had backed up the file, we wouldn't have lost the edits.",
+              "reading": "/ɪf wiː hæd bækt ʌp ðə faɪl wiː ˈwʊdənt hæv lɔːst ði ˈedɪts/",
+              "meaning": {
+                "vi": "Nếu chúng ta sao lưu tệp trước, chúng ta đã không mất các chỉnh sửa.",
+                "en": "If we had backed up the file, we wouldn't have lost the edits."
+              }
+            },
+            {
+              "text": "She might have caught the ferry if she had left ten minutes earlier.",
+              "reading": "/ʃiː maɪt hæv kɔːt ðə ˈferi ɪf ʃiː hæd left ten ˈmɪnɪts ˈɜːrliər/",
+              "meaning": {
+                "vi": "Cô ấy có lẽ đã kịp chuyến phà nếu rời đi sớm hơn mười phút.",
+                "en": "She might have caught the ferry if she had left ten minutes earlier."
+              }
+            }
+          ]
+        },
+        {
+          "id": "en-b2-l2-g2",
+          "pattern": "should have + V3 vs. must / might have + V3",
+          "title": {
+            "vi": "Động từ khiếm khuyết chỉ tiếc nuối và suy đoán quá khứ",
+            "en": "Past Modals of Regret & Deduction"
+          },
+          "structure": "should(n't) have + V3 (regret) | must/might/can't have + V3 (deduction)",
+          "explanation": {
+            "vi": "'should have + V3' chỉ điều đáng lẽ nên làm; 'must have + V3' chỉ suy đoán gần như chắc chắn; 'might have + V3' chỉ khả năng có thể đã xảy ra.",
+            "en": "'should have + V3' expresses hindsight regret; 'must/might have + V3' expresses logical deduction about the past."
+          },
+          "usageNote": {
+            "vi": "Trong phát âm nhanh, 'should have' đọc lướt thành /ʃʊdəv/, không viết sai thành 'should of'.",
+            "en": "Spell it 'should have' (never 'should of') even though it reduces in speech."
+          },
+          "examples": [
+            {
+              "text": "I should have double-checked the train platform.",
+              "reading": "/aɪ ʃʊd hæv ˈdʌbəl tʃekt ðə treɪn ˈplætfɔːrm/",
+              "meaning": {
+                "vi": "Đáng lẽ tôi nên kiểm tra lại sân ga thêm lần nữa.",
+                "en": "I should have double-checked the train platform."
+              }
+            },
+            {
+              "text": "He must have forgotten his umbrella on the bus.",
+              "reading": "/hiː mʌst hæv fərˈɡɑːtən hɪz ʌmˈbrelə ɑːn ðə bʌs/",
+              "meaning": {
+                "vi": "Chắc hẳn anh ấy đã bỏ quên ô trên xe buýt rồi.",
+                "en": "He must have forgotten his umbrella on the bus."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Rút kinh nghiệm sau sự cố hội thảo",
+          "en": "Post-Event Debrief"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "An và Linh Đan rà soát lý do âm thanh bị trễ trong buổi hội thảo trực tuyến.",
+          "en": "An and Linh Dan review why their online workshop started ten minutes late."
+        },
+        "lines": [
+          {
+            "speaker": "An",
+            "text": "In hindsight, we should have tested the microphone setup an hour earlier.",
+            "reading": "/ɪn ˈhaɪndsaɪt wiː ʃʊd hæv ˈtestɪd ðə ˈmaɪkrəfoʊn ˈsetʌp æn ˈaʊər ˈɜːrliər/",
+            "meaning": {
+              "vi": "Nghĩ lại thì đáng lẽ tụi mình nên kiểm tra micro sớm hơn một tiếng.",
+              "en": "In hindsight, we should have tested the microphone setup an hour earlier."
+            }
+          },
+          {
+            "speaker": "Linh Dan",
+            "text": "Agreed. I shouldn't have assumed the conference room cables were already plugged in.",
+            "reading": "/əˈɡriːd | aɪ ˈʃʊdənt hæv əˈsuːmd ðə ˈkɑːnfərəns ruːm ˈkeɪbəlz wɜːr ɔːlˈredi plʌɡd ɪn/",
+            "meaning": {
+              "vi": "Đúng vậy. Mình đáng ra không nên mặc định là dây cáp trong phòng họp đã cắm sẵn.",
+              "en": "Agreed. I shouldn't have assumed the conference room cables were already plugged in."
+            }
+          },
+          {
+            "speaker": "An",
+            "text": "We must have overlooked the audio adapter on the checklist. Still, if we hadn't stayed calm, we might have lost half the attendees.",
+            "reading": "/wiː mʌst hæv ˌoʊvərˈlʊkt ði ˈɔːdioʊ əˈdæptər ɑːn ðə ˈtʃeklɪst | stɪl ɪf wiː ˈhædənt steɪd kɑːm wiː maɪt hæv lɔːst hæf ði əˈtendiːz/",
+            "meaning": {
+              "vi": "Chắc hẳn mình đã sót mục bộ chuyển âm thanh trên danh sách. Dù sao, nếu không giữ bình tĩnh, có lẽ đã mất nửa số người tham dự rồi.",
+              "en": "We must have overlooked the audio adapter on the checklist. Still, if we hadn't stayed calm, we might have lost half the attendees."
+            }
+          },
+          {
+            "speaker": "Linh Dan",
+            "text": "True! Writing a clear pre-event checklist will prevent that consequence next time.",
+            "reading": "/truː | ˈraɪtɪŋ ə klɪr priː ɪˈvent ˈtʃeklɪst wɪl prɪˈvent ðæt ˈkɑːnsɪkwens nekst taɪm/",
+            "meaning": {
+              "vi": "Chuẩn luôn! Viết sẵn bảng kiểm trước sự kiện sẽ giúp tránh hệ quả đó vào lần sau.",
+              "en": "True! Writing a clear pre-event checklist will prevent that consequence next time."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Trong văn hóa làm việc chuyên nghiệp, tổng kết sự cố ('debrief' / 'retrospective') tập trung vào cải thiện quy trình hơn là đổ lỗi cá nhân.",
+          "en": "Effective team retrospectives focus on process improvements ('should have tested') rather than blaming individuals."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "en-b2-l2-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Động từ nào có nghĩa là 'vô tình bỏ sót'?",
+            "en": "Which verb means 'to fail to notice unintentionally'?"
+          },
+          "targetText": "miss a small detail",
+          "options": [
+            "overlook",
+            "persuade",
+            "broadcast",
+            "prevent"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'overlook' nghĩa là bỏ sót, không để ý thấy.",
+            "en": "'overlook' means to fail to notice or consider."
+          }
+        },
+        {
+          "id": "en-b2-l2-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn từ khớp với phiên âm /ænˈtɪsɪpeɪt/.",
+            "en": "Select the word matching /ænˈtɪsɪpeɪt/."
+          },
+          "targetText": "/ænˈtɪsɪpeɪt/",
+          "ttsText": "anticipate",
+          "options": [
+            "hindsight",
+            "consequence",
+            "anticipate",
+            "assume"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "vi": "'anticipate' đọc là /ænˈtɪsɪpeɪt/.",
+            "en": "'anticipate' is pronounced /ænˈtɪsɪpeɪt/."
+          }
+        },
+        {
+          "id": "en-b2-l2-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Hoàn thành câu điều kiện loại 3:",
+            "en": "Complete the 3rd Conditional sentence:"
+          },
+          "targetText": "If they ___ checked the weather, they would have brought coats.",
+          "ttsText": "If they had checked the weather, they would have brought coats.",
+          "options": [
+            "have",
+            "would",
+            "had",
+            "were"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "vi": "Mệnh đề 'If' của điều kiện loại 3 dùng quá khứ hoàn thành 'had + V3'.",
+            "en": "The 3rd Conditional 'if' clause requires 'had + past participle'."
+          }
+        },
+        {
+          "id": "en-b2-l2-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu thể hiện sự tiếc nuối trong quá khứ.",
+            "en": "Order the words to express past regret."
+          },
+          "targetMeaning": {
+            "vi": "Đáng lẽ tôi nên kiểm tra trước.",
+            "en": "I should have checked earlier."
+          },
+          "tokens": [
+            "earlier.",
+            "should",
+            "checked",
+            "I",
+            "have"
+          ],
+          "correctOrder": [
+            "I",
+            "should",
+            "have",
+            "checked",
+            "earlier."
+          ],
+          "correctSentence": "I should have checked earlier.",
+          "explanation": {
+            "vi": "Cấu trúc: S + should + have + V3 + trạng từ.",
+            "en": "Past modal structure: S + should + have + V3 + adverb."
+          }
+        }
+      ]
+    },
+    {
+      "id": "en-b2-l3",
+      "levelId": "en-b2",
+      "order": 3,
+      "title": {
+        "native": "Tech & Academic Style",
+        "vi": "Văn phong công nghệ và học thuật",
+        "en": "Tech & Academic Style"
+      },
+      "topic": "technology",
+      "summary": {
+        "vi": "Dùng mệnh đề phân từ (participle clauses) và từ vựng học thuật chính xác để tóm tắt nghiên cứu.",
+        "en": "Use participle clauses and precise academic vocabulary to summarize technical findings."
+      },
+      "xpReward": 60,
+      "vocabulary": [
+        {
+          "id": "en-b2-l3-v1",
+          "term": "efficiency",
+          "reading": "/ɪˈfɪʃənsi/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "hiệu suất, tính hiệu quả",
+            "en": "efficiency"
+          },
+          "example": {
+            "text": "Automation improved workflow efficiency by thirty percent.",
+            "reading": "/ˌɔːtəˈmeɪʃən ɪmˈpruːvd ˈwɜːrkfloʊ ɪˈfɪʃənsi baɪ ˈθɜːrti pərˈsent/",
+            "meaning": {
+              "vi": "Tự động hóa đã cải thiện hiệu suất quy trình thêm ba mươi phần trăm.",
+              "en": "Automation improved workflow efficiency by thirty percent."
+            }
+          },
+          "note": {
+            "vi": "Tính từ là 'efficient' (hiệu quả, ít lãng phí), phân biệt với 'effective' (đạt mục tiêu).",
+            "en": "Adjective 'efficient' focuses on minimal waste; 'effective' focuses on achieving the goal."
+          }
+        },
+        {
+          "id": "en-b2-l3-v2",
+          "term": "evidence",
+          "reading": "/ˈevɪdəns/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "bằng chứng, chứng cứ",
+            "en": "evidence"
+          },
+          "example": {
+            "text": "Recent studies provide strong evidence for spaced repetition.",
+            "reading": "/ˈriːsənt ˈstʌdiz prəˈvaɪd strɔːŋ ˈevɪdəns fɔːr speɪst ˌrepəˈtɪʃən/",
+            "meaning": {
+              "vi": "Các nghiên cứu gần đây cung cấp bằng chứng mạnh mẽ cho phương pháp lặp lại ngắt quãng.",
+              "en": "Recent studies provide strong evidence for spaced repetition."
+            }
+          },
+          "note": {
+            "vi": "'evidence' là danh từ không đếm được — tuyệt đối không viết 'evidences'.",
+            "en": "Always uncountable in standard academic English (never 'evidences')."
+          }
+        },
+        {
+          "id": "en-b2-l3-v3",
+          "term": "implement",
+          "reading": "/ˈɪmplɪment/",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "triển khai, thực thi",
+            "en": "to implement"
+          },
+          "example": {
+            "text": "Having reviewed the audit, the team implemented encryption.",
+            "reading": "/ˈhævɪŋ rɪˈvjuːd ði ˈɔːdɪt ðə tiːm ˈɪmplɪmentɪd ɪnˈkrɪpʃən/",
+            "meaning": {
+              "vi": "Sau khi xem xét báo cáo kiểm tra, nhóm đã triển khai mã hóa.",
+              "en": "Having reviewed the audit, the team implemented encryption."
+            }
+          },
+          "note": {
+            "vi": "Chú ý trọng âm đầu IM-pli-ment.",
+            "en": "Primary stress on the first syllable: IM-pli-ment."
+          }
+        },
+        {
+          "id": "en-b2-l3-v4",
+          "term": "significant",
+          "reading": "/sɪɡˈnɪfɪkənt/",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "đáng kể, có ý nghĩa quan trọng",
+            "en": "significant"
+          },
+          "example": {
+            "text": "Daily ten-minute review leads to significant retention gains.",
+            "reading": "/ˈdeɪli ten ˈmɪnɪt rɪˈvjuː liːdz tuː sɪɡˈnɪfɪkənt rɪˈtenʃən ɡeɪnz/",
+            "meaning": {
+              "vi": "Ôn tập mười phút mỗi ngày đem lại mức cải thiện ghi nhớ đáng kể.",
+              "en": "Daily ten-minute review leads to significant retention gains."
+            }
+          },
+          "note": {
+            "vi": "Thay thế tốt cho từ 'big' trong báo cáo học thuật.",
+            "en": "A precise academic upgrade for 'big' or 'large'."
+          }
+        },
+        {
+          "id": "en-b2-l3-v5",
+          "term": "drawback",
+          "reading": "/ˈdrɔːbæk/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "nhược điểm, hạn chế",
+            "en": "drawback"
+          },
+          "example": {
+            "text": "One major drawback of the method is setup time.",
+            "reading": "/wʌn ˈmeɪdʒər ˈdrɔːbæk əv ðə ˈmeθəd ɪz ˈsetʌp taɪm/",
+            "meaning": {
+              "vi": "Một nhược điểm lớn của phương pháp này là thời gian thiết lập.",
+              "en": "One major drawback of the method is setup time."
+            }
+          },
+          "note": {
+            "vi": "Đồng nghĩa trang trọng với 'disadvantage'.",
+            "en": "Concise synonym for 'disadvantage'."
+          }
+        },
+        {
+          "id": "en-b2-l3-v6",
+          "term": "demonstrate",
+          "reading": "/ˈdemənstreɪt/",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "chứng minh, minh họa rõ",
+            "en": "to demonstrate"
+          },
+          "example": {
+            "text": "The experiment demonstrates how memory decays without review.",
+            "reading": "/ði ɪkˈsperɪmənt ˈdemənstreɪts haʊ ˈmeməri dɪˈkeɪz wɪˈðaʊt rɪˈvjuː/",
+            "meaning": {
+              "vi": "Thí nghiệm chứng minh trí nhớ suy giảm ra sao khi không ôn tập.",
+              "en": "The experiment demonstrates how memory decays without review."
+            }
+          },
+          "note": {
+            "vi": "Thường dùng với chủ ngữ là nghiên cứu/số liệu: 'The data demonstrates...'.",
+            "en": "Often paired with subjects like 'The data' or 'This model'."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "en-b2-l3-g1",
+          "pattern": "Participle Clauses: V-ing / Having + V3 / V3",
+          "title": {
+            "vi": "Mệnh đề phân từ rút gọn",
+            "en": "Participle Clauses for Concise Style"
+          },
+          "structure": "V-ing..., S + V (simultaneous) | Having + V3..., S + V (earlier action)",
+          "explanation": {
+            "vi": "Dùng mệnh đề phân từ ở đầu câu để cô đọng hai hành động có cùng chủ ngữ, rất phổ biến trong bài viết kỹ thuật và học thuật.",
+            "en": "Condense two clauses sharing the same subject into an opening participle phrase for tighter technical prose."
+          },
+          "usageNote": {
+            "vi": "Chủ ngữ ở mệnh đề chính phải khớp với chủ thể thực hiện phân từ (tránh lỗi 'dangling participle').",
+            "en": "Ensure the main clause subject matches the implied doer of the participle."
+          },
+          "examples": [
+            {
+              "text": "Analyzing the logs, engineers found the bottleneck.",
+              "reading": "/ˈænəlaɪzɪŋ ðə lɑːɡz ˌendʒɪˈnɪrz faʊnd ðə ˈbɑːtəlnek/",
+              "meaning": {
+                "vi": "Khi phân tích nhật ký hệ thống, các kỹ sư đã tìm ra điểm nghẽn.",
+                "en": "Analyzing the logs, engineers found the bottleneck."
+              }
+            },
+            {
+              "text": "Having completed the benchmark, the team published the report.",
+              "reading": "/ˈhævɪŋ kəmˈpliːtɪd ðə ˈbentʃmɑːrk ðə tiːm ˈpʌblɪʃt ðə rɪˈpɔːrt/",
+              "meaning": {
+                "vi": "Sau khi hoàn tất đo kiểm, nhóm đã công bố báo cáo.",
+                "en": "Having completed the benchmark, the team published the report."
+              }
+            }
+          ]
+        },
+        {
+          "id": "en-b2-l3-g2",
+          "pattern": "Past Participle Passive Intro: Built / Designed + ..., S + V",
+          "title": {
+            "vi": "Mệnh đề quá khứ phân từ mang nghĩa bị động",
+            "en": "Passive Past-Participle Openings"
+          },
+          "structure": "Built in 2025 / Based on empirical data, Subject + Verb",
+          "explanation": {
+            "vi": "Dùng V3 ở đầu câu để mô tả nguồn gốc hoặc cơ sở của sự vật được nhắc ngay sau dấu phẩy.",
+            "en": "Open with a past participle (V3) to describe how the subject was created or supported."
+          },
+          "usageNote": {
+            "vi": "Rất gọn khi viết phần mở bài hoặc tóm tắt dự án kỹ thuật.",
+            "en": "Ideal for executive summaries and research abstracts."
+          },
+          "examples": [
+            {
+              "text": "Designed for daily study, the platform keeps sessions focused.",
+              "reading": "/dɪˈzaɪnd fɔːr ˈdeɪli ˈstʌdi ðə ˈplætfɔːrm kiːps ˈseʃənz ˈfoʊkəst/",
+              "meaning": {
+                "vi": "Được thiết kế cho việc học hằng ngày, nền tảng giữ các phiên học luôn tập trung.",
+                "en": "Designed for daily study, the platform keeps sessions focused."
+              }
+            },
+            {
+              "text": "Supported by clear evidence, the proposal gained swift approval.",
+              "reading": "/səˈpɔːrtɪd baɪ klɪr ˈevɪdəns ðə prəˈpoʊzəl ɡeɪnd swɪft əˈpruːvəl/",
+              "meaning": {
+                "vi": "Được hậu thuẫn bởi bằng chứng rõ ràng, đề xuất nhanh chóng được thông qua.",
+                "en": "Supported by clear evidence, the proposal gained swift approval."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Tóm tắt báo cáo nghiên cứu ứng dụng",
+          "en": "Reviewing a Research Summary"
+        },
+        "mode": "reading",
+        "context": {
+          "vi": "Đoạn trích bản tin khoa học về phương pháp lặp lại ngắt quãng trong học ngoại ngữ.",
+          "en": "Excerpt from a tech-learning brief on spaced repetition efficiency."
+        },
+        "lines": [
+          {
+            "speaker": "Narrator",
+            "text": "Designed around memory curves, spaced repetition schedules reviews right before forgetting occurs.",
+            "reading": "/dɪˈzaɪnd əˈraʊnd ˈmeməri kɜːrvz | speɪst ˌrepəˈtɪʃən ˈskedʒuːlz rɪˈvjuːz raɪt bɪˈfɔːr fərˈɡetɪŋ əˈkɜːrz/",
+            "meaning": {
+              "vi": "Được thiết kế dựa trên đường cong trí nhớ, lặp lại ngắt quãng lên lịch ôn tập ngay trước khi sự quên xảy ra.",
+              "en": "Designed around memory curves, spaced repetition schedules reviews right before forgetting occurs."
+            }
+          },
+          {
+            "speaker": "Narrator",
+            "text": "Controlled classroom trials provide clear evidence that short daily sessions outperform weekend cramming.",
+            "reading": "/kənˈtroʊld ˈklæsruːm ˈtraɪəlz prəˈvaɪd klɪr ˈevɪdəns ðæt ʃɔːrt ˈdeɪli ˈseʃənz ˌaʊtpərˈfɔːrm ˈwiːkend ˈkræmɪŋ/",
+            "meaning": {
+              "vi": "Các thử nghiệm đối chứng cung cấp bằng chứng rõ ràng rằng những phiên học ngắn mỗi ngày hiệu quả hơn học dồn cuối tuần.",
+              "en": "Controlled classroom trials provide clear evidence that short daily sessions outperform weekend cramming."
+            }
+          },
+          {
+            "speaker": "Narrator",
+            "text": "Having observed significant gains in vocabulary retention, several universities implemented digital flashcard tools.",
+            "reading": "/ˈhævɪŋ əbˈzɜːrvd sɪɡˈnɪfɪkənt ɡeɪnz ɪn vəˈkæbjəleri rɪˈtenʃən | ˈsevrəl ˌjuːnɪˈvɜːrsətiz ˈɪmplɪmentɪd ˈdɪdʒɪtəl ˈflæʃkɑːrd tuːlz/",
+            "meaning": {
+              "vi": "Sau khi ghi nhận mức cải thiện đáng kể về độ nhớ từ vựng, nhiều trường đại học đã triển khai công cụ thẻ ghi nhớ số.",
+              "en": "Having observed significant gains in vocabulary retention, several universities implemented digital flashcard tools."
+            }
+          },
+          {
+            "speaker": "Narrator",
+            "text": "While one drawback is initial habit-building, steady audio practice demonstrates lasting efficiency.",
+            "reading": "/waɪl wʌn ˈdrɔːbæk ɪz ɪˈnɪʃəl ˈhæbɪt ˈbɪldɪŋ | ˈstedi ˈɔːdioʊ ˈpræktɪs ˈdemənstreɪts ˈlæstɪŋ ɪˈfɪʃənsi/",
+            "meaning": {
+              "vi": "Dù một hạn chế là giai đoạn đầu tạo thói quen, việc luyện nghe đều đặn chứng minh hiệu suất bền vững.",
+              "en": "While one drawback is initial habit-building, steady audio practice demonstrates lasting efficiency."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Trong văn viết học thuật tiếng Anh, tránh các từ phóng đại cảm tính ('super amazing') mà ưu tiên các tính từ đo lường được như 'significant', 'consistent', 'measurable'.",
+          "en": "Academic English avoids emotional exaggeration and prefers measured qualifiers such as 'significant', 'consistent', and 'measurable'."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "en-b2-l3-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Danh từ nào KHÔNG ĐẾM ĐƯỢC trong văn phong học thuật?",
+            "en": "Which noun is uncountable in standard academic English?"
+          },
+          "targetText": "strong ___",
+          "options": [
+            "evidence",
+            "drawback",
+            "study",
+            "outcome"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'evidence' luôn là danh từ không đếm được (không dùng 'evidences').",
+            "en": "'evidence' is always uncountable and never takes a plural '-s'."
+          }
+        },
+        {
+          "id": "en-b2-l3-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn phiên âm đúng của 'efficiency'.",
+            "en": "Select the correct IPA for 'efficiency'."
+          },
+          "targetText": "efficiency",
+          "ttsText": "efficiency",
+          "options": [
+            "/ˈefɪkəsi/",
+            "/ɪˈfɪʃənsi/",
+            "/ˈɪmplɪment/",
+            "/ˈevɪdəns/"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "vi": "'efficiency' nhấn âm hai với âm /ʃ/: /ɪˈfɪʃənsi/.",
+            "en": "'efficiency' has stress on the second syllable: /ɪˈfɪʃənsi/."
+          }
+        },
+        {
+          "id": "en-b2-l3-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn dạng phân từ đúng cho hành động xảy ra trước:",
+            "en": "Choose the right participle form for the earlier action:"
+          },
+          "targetText": "___ analyzed the data, the researchers published the chart.",
+          "ttsText": "Having analyzed the data, the researchers published the chart.",
+          "options": [
+            "Analyze",
+            "Analyzed",
+            "Having",
+            "Being"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "vi": "'Having + V3' diễn tả hành động hoàn tất trước mệnh đề chính.",
+            "en": "'Having + past participle' expresses an action finished prior to the main verb."
+          }
+        },
+        {
+          "id": "en-b2-l3-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu mở đầu bằng mệnh đề phân từ bị động.",
+            "en": "Arrange the words into a passive participle sentence."
+          },
+          "targetMeaning": {
+            "vi": "Dựa trên bằng chứng, phương pháp này hiệu quả.",
+            "en": "Supported by evidence, this method works."
+          },
+          "tokens": [
+            "method",
+            "Supported",
+            "this",
+            "works.",
+            "evidence,",
+            "by"
+          ],
+          "correctOrder": [
+            "Supported",
+            "by",
+            "evidence,",
+            "this",
+            "method",
+            "works."
+          ],
+          "correctSentence": "Supported by evidence, this method works.",
+          "explanation": {
+            "vi": "Cụm phân từ 'Supported by evidence,' bổ nghĩa cho chủ ngữ 'this method'.",
+            "en": "'Supported by evidence,' modifies the main subject 'this method'."
+          }
+        }
+      ]
+    }
+  ]
+}

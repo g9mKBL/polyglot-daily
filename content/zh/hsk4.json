@@ -1,0 +1,1123 @@
+{
+  "levelId": "zh-hsk4",
+  "language": "zh",
+  "code": "HSK4",
+  "order": 4,
+  "title": {
+    "vi": "HSK 4 — Giao tiếp xã hội và lập luận",
+    "en": "HSK 4 — Social Nuance & Discussion"
+  },
+  "subtitle": {
+    "vi": "Phép lịch sự giữ thể diện, giải quyết áp lực và bàn luận môi trường",
+    "en": "Social etiquette, problem-solving, and environmental opinions"
+  },
+  "estimatedMinutes": 50,
+  "lessons": [
+    {
+      "id": "zh-hsk4-l1",
+      "levelId": "zh-hsk4",
+      "order": 1,
+      "title": {
+        "native": "社交礼仪与面子",
+        "vi": "Phép lịch sự và văn hóa thể diện",
+        "en": "Social Etiquette & Face"
+      },
+      "topic": "etiquette",
+      "summary": {
+        "vi": "Dùng '无论…都…', '即使…也…' và từ vựng giao tiếp tinh tế (客气, 尊重, 尴尬) trong ứng xử xã hội.",
+        "en": "Use 无论…都…, 即使…也…, and social vocabulary (客气, 尊重, 尴尬) gracefully."
+      },
+      "xpReward": 60,
+      "vocabulary": [
+        {
+          "id": "zh-hsk4-l1-v1",
+          "term": "客气",
+          "reading": "kèqi",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "khách sáo, lịch sự",
+            "en": "polite / modest"
+          },
+          "example": {
+            "text": "大家都是好朋友，不用这么客气。",
+            "reading": "Dàjiā dōu shì hǎo péngyou, búyòng zhème kèqi.",
+            "meaning": {
+              "vi": "Mọi người đều là bạn thân cả, không cần khách sáo thế đâu.",
+              "en": "We're all good friends—no need to stand on ceremony."
+            }
+          },
+          "note": {
+            "vi": "Đáp lại lời cảm ơn dùng '不客气 (bú kèqi)'; biến điệu '不' thành 'bú' trước 'kè'.",
+            "en": "In '不客气', '不' shifts to 2nd tone 'bú' before 4th-tone 'kè'."
+          }
+        },
+        {
+          "id": "zh-hsk4-l1-v2",
+          "term": "尊重",
+          "reading": "zūnzhòng",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "tôn trọng",
+            "en": "to respect"
+          },
+          "example": {
+            "text": "无论观点是否相同，我们都应该尊重彼此。",
+            "reading": "Wúlùn guāndiǎn shìfǒu xiāngtóng, wǒmen dōu yīnggāi zūnzhòng bǐcǐ.",
+            "meaning": {
+              "vi": "Bất kể quan điểm có giống nhau hay không, chúng ta đều nên tôn trọng lẫn nhau.",
+              "en": "Regardless of whether opinions match, we should respect each other."
+            }
+          },
+          "note": {
+            "vi": "Thường đi với 意见 (ý kiến), 选择 (lựa chọn), 文化 (văn hóa).",
+            "en": "Collocates with 意见 (opinion), 选择 (choice), 隐私 (privacy)."
+          }
+        },
+        {
+          "id": "zh-hsk4-l1-v3",
+          "term": "礼貌",
+          "reading": "lǐmào",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "lễ phép, lịch sự",
+            "en": "politeness / courteous"
+          },
+          "example": {
+            "text": "用双手递名片是一种礼貌。",
+            "reading": "Yòng shuāngshǒu dì míngpiàn shì yì zhǒng lǐmào.",
+            "meaning": {
+              "vi": "Đưa danh thiếp bằng hai tay là một phép lịch sự.",
+              "en": "Handing over a business card with both hands is polite."
+            }
+          },
+          "note": {
+            "vi": "Dùng như danh từ ('有礼貌') hoặc tính từ ('很礼貌').",
+            "en": "Used as a noun ('有礼貌') or adjective ('很礼貌')."
+          }
+        },
+        {
+          "id": "zh-hsk4-l1-v4",
+          "term": "面子",
+          "reading": "miànzi",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "thể diện",
+            "en": "face / social dignity"
+          },
+          "example": {
+            "text": "在公开场合批评别人容易让人没面子。",
+            "reading": "Zài gōngkāi chǎnghé pīpíng biérén róngyì ràng rén méi miànzi.",
+            "meaning": {
+              "vi": "Phê bình người khác chỗ đông người rất dễ khiến họ mất thể diện.",
+              "en": "Criticizing someone in public easily causes them to lose face."
+            }
+          },
+          "note": {
+            "vi": "Cụm hay gặp: 给面子 (nể mặt), 留面子 (giữ thể diện cho ai).",
+            "en": "Idioms: 给面子 (show respect), 留面子 (save someone's face)."
+          }
+        },
+        {
+          "id": "zh-hsk4-l1-v5",
+          "term": "尴尬",
+          "reading": "gāngà",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "ngượng ngùng, khó xử",
+            "en": "awkward / embarrassed"
+          },
+          "example": {
+            "text": "忘记对方的名字让他觉得有点儿尴尬。",
+            "reading": "Wàngjì duìfāng de míngzi ràng tā juéde yǒudiǎnr gāngà.",
+            "meaning": {
+              "vi": "Quên tên đối phương khiến anh ấy thấy hơi ngượng ngùng.",
+              "en": "Forgetting the other person's name made him feel awkward."
+            }
+          },
+          "note": {
+            "vi": "Thanh 1 + thanh 4: gān-gà (chữ bộ 尤).",
+            "en": "1st tone + 4th tone: gān-gà."
+          }
+        },
+        {
+          "id": "zh-hsk4-l1-v6",
+          "term": "拒绝",
+          "reading": "jùjué",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "từ chối",
+            "en": "to refuse / decline"
+          },
+          "example": {
+            "text": "即使需要拒绝邀请，也要说得委婉一些。",
+            "reading": "Jíshǐ xūyào jùjué yāoqǐng, yě yào shuō de wěiwǎn yìxiē.",
+            "meaning": {
+              "vi": "Ngay cả khi cần từ chối lời mời, cũng nên nói khéo léo một chút.",
+              "en": "Even when you have to decline an invitation, phrase it tactfully."
+            }
+          },
+          "note": {
+            "vi": "Trang trọng hơn '不答应'; hay đi với 邀请 (lời mời), 请求 (yêu cầu).",
+            "en": "Standard verb for declining invitations or requests."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "zh-hsk4-l1-g1",
+          "pattern": "无论 + A 还是 B / Question Word，(S) + 都 + V",
+          "title": {
+            "vi": "Cấu trúc '无论…都…' (Bất kể... đều...)",
+            "en": "Unconditional Clause 无论…都…"
+          },
+          "structure": "无论 + [lựa chọn / từ nghi vấn]，(主语) + 都/也 + V",
+          "explanation": {
+            "vi": "Diễn đạt một kết quả luôn đúng bất kể điều kiện thay đổi thế nào.",
+            "en": "Expresses an outcome that holds true regardless of circumstances ('no matter...')."
+          },
+          "usageNote": {
+            "vi": "Vế đầu của '无论' thường chứa lựa chọn ('是否', 'A还是B') hoặc từ hỏi ('什么', '怎么', '多么').",
+            "en": "The '无论' clause must present options ('A还是B') or a question word ('什么/多')."
+          },
+          "examples": [
+            {
+              "text": "无论工作多忙，他都会抽空陪家人。",
+              "reading": "Wúlùn gōngzuò duō máng, tā dōu huì chōukòng péi jiārén.",
+              "meaning": {
+                "vi": "Bất kể công việc bận đến đâu, anh ấy đều dành thời gian cho gia đình.",
+                "en": "No matter how busy work gets, he always makes time for family."
+              }
+            },
+            {
+              "text": "无论结果如何，我们都应该保持礼貌。",
+              "reading": "Wúlùn jiéguǒ rúhé, wǒmen dōu yīnggāi bǎochí lǐmào.",
+              "meaning": {
+                "vi": "Dù kết quả ra sao, chúng ta đều nên giữ phép lịch sự.",
+                "en": "Whatever the outcome, we should remain courteous."
+              }
+            }
+          ]
+        },
+        {
+          "id": "zh-hsk4-l1-g2",
+          "pattern": "即使 + giả thiết，也 + kết quả",
+          "title": {
+            "vi": "Nhượng bộ giả định '即使…也…' (Cho dù... cũng...)",
+            "en": "Hypothetical Concession 即使…也…"
+          },
+          "structure": "即使 + [tình huống giả định]，(S) + 也 + [hành động]",
+          "explanation": {
+            "vi": "Khác với '虽然…但是…' (nói về sự thật đã xảy ra), '即使…也…' dùng cho tình huống giả định hoặc chưa xảy ra.",
+            "en": "Unlike '虽然…但是…' (actual facts), '即使…也…' introduces a hypothetical concession ('even if...')."
+          },
+          "usageNote": {
+            "vi": "'也' đứng ngay sau chủ ngữ ở vế hai.",
+            "en": "Place '也' after the subject in the second clause."
+          },
+          "examples": [
+            {
+              "text": "即使时间很紧，也不能忘了先感谢对方。",
+              "reading": "Jíshǐ shíjiān hěn jǐn, yě bù néng wàngle xiān gǎnxiè duìfāng.",
+              "meaning": {
+                "vi": "Cho dù thời gian rất gấp, cũng không thể quên cảm ơn đối phương trước.",
+                "en": "Even if time is tight, don't forget to thank the other person first."
+              }
+            },
+            {
+              "text": "即使看法不同，我们也可以心平气和地交流。",
+              "reading": "Jíshǐ kànfǎ bùtóng, wǒmen yě kěyǐ xīnpíng-qìhé de jiāoliú.",
+              "meaning": {
+                "vi": "Cho dù cách nhìn khác nhau, chúng ta vẫn có thể trao đổi ôn hòa.",
+                "en": "Even if viewpoints differ, we can still discuss calmly."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Từ chối khéo mà vẫn giữ hòa khí",
+          "en": "Declining Politely Without Awkwardness"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Linh Đan hỏi Wei Chen cách từ chối lời mời ăn tối khi đang bận ôn thi.",
+          "en": "Linh Dan asks Wei Chen how to decline a dinner invite tactfully."
+        },
+        "lines": [
+          {
+            "speaker": "Linh Dan",
+            "text": "陈伟，周五同事邀请我聚餐，但我那天要复习，怎么拒绝才不会让人觉得没礼貌？",
+            "reading": "Chén Wěi, zhōuwǔ tóngshì yāoqǐng wǒ jùcān, dàn wǒ nèitiān yào fùxí, zěnme jùjué cái búhuì ràng rén juéde méi lǐmào?",
+            "meaning": {
+              "vi": "Trần Vĩ, thứ Sáu đồng nghiệp mời mình đi ăn, nhưng hôm đó mình phải ôn bài, từ chối sao để không khiến người ta thấy bất lịch sự?",
+              "en": "Chen Wei, a colleague invited me to dinner Friday, but I have to study. How can I decline without seeming impolite?"
+            }
+          },
+          {
+            "speaker": "Wei Chen",
+            "text": "你可以先感谢她的好意，再说明原因，这样双方都不尴尬。",
+            "reading": "Nǐ kěyǐ xiān gǎnxiè tā de hǎoyì, zài shuōmíng yuányīn, zhèyàng shuāngfāng dōu bù gāngà.",
+            "meaning": {
+              "vi": "Bạn có thể cảm ơn thiện ý của chị ấy trước rồi nói rõ lý do, như vậy cả hai bên đều không ngại.",
+              "en": "Thank her for the kind invite first, then explain why—that keeps things comfortable for both sides."
+            }
+          },
+          {
+            "speaker": "Linh Dan",
+            "text": "对，即使这次去不了，我也可以主动约下周喝咖啡，给对方留个面子。",
+            "reading": "Duì, jíshǐ zhè cì qùbuliǎo, wǒ yě kěyǐ zhǔdòng yuē xià zhōu hē kāfēi, gěi duìfāng liú gè miànzi.",
+            "meaning": {
+              "vi": "Đúng rồi, dù lần này không đi được, mình cũng có thể chủ động hẹn tuần sau uống cà phê để giữ thể diện cho đối phương.",
+              "en": "Right—even if I can't make it this time, I can suggest coffee next week to be considerate."
+            }
+          },
+          {
+            "speaker": "Wei Chen",
+            "text": "没错！无论在哪种文化里，真诚和尊重都是最重要的。",
+            "reading": "Méicuò! Wúlùn zài nǎ zhǒng wénhuà lǐ, zhēnchéng hé zūnzhòng dōu shì zuì zhòngyào de.",
+            "meaning": {
+              "vi": "Chuẩn luôn! Dù ở nền văn hóa nào, sự chân thành và tôn trọng vẫn luôn quan trọng nhất.",
+              "en": "Exactly! Regardless of the culture, sincerity and respect matter most."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Trong giao tiếp Hoa ngữ, ít khi nói thẳng '不行/不去' cộc lốc; thay vào đó thường nói '不好意思，这次不太方便，下次我请客！' (Ngại quá, lần này hơi bất tiện, lần sau mình mời!).",
+          "en": "Rather than a flat 'no', Chinese speakers soften refusals with '不好意思 (excuse me)' and propose a future meetup."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "zh-hsk4-l1-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Tính từ nào nghĩa là 'ngượng ngùng, khó xử'?",
+            "en": "Which adjective means 'awkward or embarrassed'?"
+          },
+          "targetText": "感觉有点儿___",
+          "options": [
+            "尴尬",
+            "客气",
+            "礼貌",
+            "认真"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'尴尬 (gāngà)' nghĩa là ngượng ngùng, bối rối.",
+            "en": "'尴尬 (gāngà)' means awkward or embarrassed."
+          }
+        },
+        {
+          "id": "zh-hsk4-l1-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn Pinyin đúng cho '尊重'.",
+            "en": "Choose the matching Pinyin for '尊重'."
+          },
+          "targetText": "尊重",
+          "ttsText": "尊重",
+          "options": [
+            "zūnzhòng",
+            "jùjué",
+            "lǐmào",
+            "miànzi"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'尊重' đọc là zūnzhòng.",
+            "en": "'尊重' is pronounced zūnzhòng."
+          }
+        },
+        {
+          "id": "zh-hsk4-l1-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn cặp từ phù hợp cho câu 'Dù thời tiết thế nào, tôi đều đi học':",
+            "en": "Complete the unconditional sentence:"
+          },
+          "targetText": "无论天气怎么样，我___会坚持学习。",
+          "ttsText": "无论天气怎么样，我都会坚持学习。",
+          "options": [
+            "都",
+            "把",
+            "被",
+            "虽"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Cấu trúc cố định '无论…都…'.",
+            "en": "'无论' pairs with '都' before the main verb."
+          }
+        },
+        {
+          "id": "zh-hsk4-l1-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu dùng cấu trúc '即使…也…'.",
+            "en": "Arrange the tokens into a '即使…也…' sentence."
+          },
+          "targetMeaning": {
+            "vi": "Cho dù rất bận, cũng phải nghỉ ngơi.",
+            "en": "Even if very busy, one must still rest."
+          },
+          "tokens": [
+            "也要",
+            "很忙，",
+            "即使",
+            "休息。"
+          ],
+          "correctOrder": [
+            "即使",
+            "很忙，",
+            "也要",
+            "休息。"
+          ],
+          "correctSentence": "即使很忙，也要休息。",
+          "explanation": {
+            "vi": "Trật tự: 即使 + 很忙，+ 也要 + 休息。",
+            "en": "Order: 即使 + 很忙，+ 也要 + 休息。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "zh-hsk4-l2",
+      "levelId": "zh-hsk4",
+      "order": 2,
+      "title": {
+        "native": "工作压力与解决问题",
+        "vi": "Áp lực công việc và giải quyết vấn đề",
+        "en": "Work Pressure & Problem Solving"
+      },
+      "topic": "problem-solving",
+      "summary": {
+        "vi": "Sử dụng bổ ngữ khả năng (V + 得/不 + bổ ngữ) và giới từ nguyên nhân '由于' để bàn giải pháp công việc.",
+        "en": "Use potential complements (得/不) and '由于' to discuss solutions under pressure."
+      },
+      "xpReward": 60,
+      "vocabulary": [
+        {
+          "id": "zh-hsk4-l2-v1",
+          "term": "压力",
+          "reading": "yālì",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "áp lực",
+            "en": "pressure / stress"
+          },
+          "example": {
+            "text": "适当的压力有时能变成前进的动力。",
+            "reading": "Shìdàng de yālì yǒushí néng biànchéng qiánjìn de dònglì.",
+            "meaning": {
+              "vi": "Áp lực vừa phải đôi khi có thể biến thành động lực tiến lên.",
+              "en": "Moderate pressure can sometimes turn into motivation to move forward."
+            }
+          },
+          "note": {
+            "vi": "Động từ đi kèm: 减轻压力 (giảm áp lực), 面对压力 (đối mặt áp lực).",
+            "en": "Collocations: 减轻压力 (relieve stress), 承受压力 (bear pressure)."
+          }
+        },
+        {
+          "id": "zh-hsk4-l2-v2",
+          "term": "解决",
+          "reading": "jiějué",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "giải quyết",
+            "en": "to solve / resolve"
+          },
+          "example": {
+            "text": "这个问题一定解决得了，别担心。",
+            "reading": "Zhège wèntí yídìng jiějué de liǎo, bié dānxīn.",
+            "meaning": {
+              "vi": "Vấn đề này nhất định giải quyết được, đừng lo lắng.",
+              "en": "This issue can definitely be resolved—don't worry."
+            }
+          },
+          "note": {
+            "vi": "Luôn đi với 问题 (vấn đề), 困难 (khó khăn), 矛盾 (mâu thuẫn).",
+            "en": "Pairs with 问题 (problem), 困难 (difficulty), 冲突 (conflict)."
+          }
+        },
+        {
+          "id": "zh-hsk4-l2-v3",
+          "term": "效率",
+          "reading": "xiàolǜ",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "hiệu suất",
+            "en": "efficiency"
+          },
+          "example": {
+            "text": "合理安排优先级能大大提高工作效率。",
+            "reading": "Hélǐ ānpái yōuxiānjí néng dàdà tígāo gōngzuò xiàolǜ.",
+            "meaning": {
+              "vi": "Sắp xếp thứ tự ưu tiên hợp lý có thể nâng cao hiệu suất công việc rất nhiều.",
+              "en": "Prioritizing tasks sensibly greatly boosts work efficiency."
+            }
+          },
+          "note": {
+            "vi": "Chữ '率' ở đây đọc là lǜ (với nguyên âm ü).",
+            "en": "Pronounce '率' as lǜ here (with rounded ü)."
+          }
+        },
+        {
+          "id": "zh-hsk4-l2-v4",
+          "term": "沟通",
+          "reading": "gōutōng",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "trao đổi, giao tiếp thấu hiểu",
+            "en": "to communicate / align"
+          },
+          "example": {
+            "text": "由于缺乏及时沟通，项目进度推迟了两天。",
+            "reading": "Yóuyú quēfá jíshí gōutōng, xiàngmù jìndù tuīchíle liǎng tiān.",
+            "meaning": {
+              "vi": "Do thiếu trao đổi kịp thời, tiến độ dự án bị lùi lại hai ngày.",
+              "en": "Due to a lack of timely communication, the project slipped by two days."
+            }
+          },
+          "note": {
+            "vi": "Dùng '和/与 + đối tượng + 沟通'.",
+            "en": "Pattern: '和/跟 [someone] 沟通'."
+          }
+        },
+        {
+          "id": "zh-hsk4-l2-v5",
+          "term": "负责",
+          "reading": "fùzé",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "phụ trách, có trách nhiệm",
+            "en": "to be responsible for"
+          },
+          "example": {
+            "text": "小陈对团队的每一个细节都很负责。",
+            "reading": "Xiǎo Chén duì tuánduì de měi yí gè xìjié dōu hěn fùzé.",
+            "meaning": {
+              "vi": "Tiểu Trần rất có trách nhiệm với từng chi tiết của nhóm.",
+              "en": "Xiao Chen is very conscientious about every detail in the team."
+            }
+          },
+          "note": {
+            "vi": "Phụ trách việc gì: 负责 + việc; có trách nhiệm với ai: 对 + ai + 负责.",
+            "en": "'负责 [task]' = be in charge of; '对 [someone] 负责' = be responsible toward."
+          }
+        },
+        {
+          "id": "zh-hsk4-l2-v6",
+          "term": "商量",
+          "reading": "shāngliang",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "bàn bạc, thương lượng",
+            "en": "to discuss / consult"
+          },
+          "example": {
+            "text": "这件事我们得找经理商量一下。",
+            "reading": "Zhè jiàn shì wǒmen děi zhǎo jīnglǐ shāngliang yíxià.",
+            "meaning": {
+              "vi": "Việc này chúng ta phải tìm quản lý bàn bạc một chút.",
+              "en": "We need to talk this matter over with the manager."
+            }
+          },
+          "note": {
+            "vi": "Âm thứ hai đọc nhẹ khinh thanh: shāngliang.",
+            "en": "Second syllable takes the neutral tone: shāngliang."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "zh-hsk4-l2-g1",
+          "pattern": "Verb + 得 / 不 + Complement (Bổ ngữ khả năng)",
+          "title": {
+            "vi": "Bổ ngữ khả năng với '得' và '不'",
+            "en": "Potential Complements (V + 得/不 + Result)"
+          },
+          "structure": "Khẳng định: V + 得 + Bổ ngữ | Phủ định: V + 不 + Bổ ngữ",
+          "explanation": {
+            "vi": "Chèn '得' (có thể) hoặc '不' (không thể) vào giữa động từ và bổ ngữ kết quả/xu hướng để diễn tả khả năng thực hiện được hay không.",
+            "en": "Insert '得' (can) or '不' (cannot) between a verb and its complement to express feasibility."
+          },
+          "usageNote": {
+            "vi": "Dạng phổ biến nhất là 'V + 得了 (liǎo) / 不了 (liǎo)' (làm nổi / không làm nổi): 做得完 (làm kịp xong), 来不及 (không kịp).",
+            "en": "Common fixed forms: 得了/不了 (manageable/not), 看得懂/看不懂, 买得起/买不起."
+          },
+          "examples": [
+            {
+              "text": "任务太多了，我一个人今天做不完。",
+              "reading": "Rènwu tài duō le, wǒ yí gè rén jīntiān zuòbuwán.",
+              "meaning": {
+                "vi": "Nhiệm vụ nhiều quá, một mình tôi hôm nay làm không xuể.",
+                "en": "There are too many tasks; I can't finish them alone today."
+              }
+            },
+            {
+              "text": "只要分工明确，这个难题一定解决得了。",
+              "reading": "Zhǐyào fēngōng míngquè, zhège nántí yídìng jiějué de liǎo.",
+              "meaning": {
+                "vi": "Chỉ cần phân công rõ ràng, bài toán khó này chắc chắn giải quyết được.",
+                "en": "As long as roles are clear, this tough issue can definitely be solved."
+              }
+            }
+          ]
+        },
+        {
+          "id": "zh-hsk4-l2-g2",
+          "pattern": "由于 + Nguyên nhân，(因此 / 所以) + Kết quả",
+          "title": {
+            "vi": "Nêu nguyên nhân trang trọng với '由于'",
+            "en": "Formal Cause Marker 由于 (yóuyú)"
+          },
+          "structure": "由于 + Cụm danh từ / Mệnh đề，(因此) + Kết quả",
+          "explanation": {
+            "vi": "'由于' trang trọng hơn '因为', có thể đứng trước cả cụm danh từ lẫn mệnh đề và hay kết hợp với '因此 (yīncǐ - do đó)' ở vế sau.",
+            "en": "'由于' is more formal than '因为', accepts both noun phrases and clauses, and often pairs with '因此'."
+          },
+          "usageNote": {
+            "vi": "Khác với '因为', '由于' thường đứng ở đầu câu chứ hiếm khi đặt sau vế kết quả.",
+            "en": "Place '由于' at the beginning of the sentence before the outcome."
+          },
+          "examples": [
+            {
+              "text": "由于经验不足，刚开始效率比较低。",
+              "reading": "Yóuyú jīngyàn bùzú, gāng kāishǐ xiàolǜ bǐjiào dī.",
+              "meaning": {
+                "vi": "Do chưa đủ kinh nghiệm nên ban đầu hiệu suất khá thấp.",
+                "en": "Due to limited experience, efficiency was relatively low at first."
+              }
+            },
+            {
+              "text": "由于大家配合默契，报告提前完成了。",
+              "reading": "Yóuyú dàjiā pèihé mòqì, bàogào tíqián wánchéng le.",
+              "meaning": {
+                "vi": "Nhờ mọi người phối hợp ăn ý nên báo cáo hoàn thành sớm hơn dự kiến.",
+                "en": "Thanks to seamless teamwork, the report was finished ahead of schedule."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Phân chia lại công việc khi sát hạn chót",
+          "en": "Rebalancing Workload Under a Deadline"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Wei Chen và Minh Anh bàn cách xử lý khối lượng công việc tăng đột xuất.",
+          "en": "Wei Chen and Minh Anh coordinate tasks when a project deadline tightens."
+        },
+        "lines": [
+          {
+            "speaker": "Minh Anh",
+            "text": "陈伟，由于客户提前了时间，这两份材料我今晚一个人整理不完。",
+            "reading": "Chén Wěi, yóuyú kèhù tíqiánle shíjiān, zhè liǎng fèn cáiliào wǒ jīnwǎn yí gè rén zhěnglǐbuwán.",
+            "meaning": {
+              "vi": "Trần Vĩ ơi, do khách hàng đẩy lịch lên sớm, hai bộ tài liệu này tối nay một mình mình sắp xếp không kịp xong.",
+              "en": "Chen Wei, because the client moved the deadline up, I can't finish organizing both files alone tonight."
+            }
+          },
+          {
+            "speaker": "Wei Chen",
+            "text": "别给自己太大压力，我们马上沟通一下分工吧。",
+            "reading": "Bié gěi zìjǐ tài dà yālì, wǒmen mǎshàng gōutōng yíxià fēngōng ba.",
+            "meaning": {
+              "vi": "Đừng tự tạo áp lực quá lớn, tụi mình trao đổi phân công lại ngay nhé.",
+              "en": "Don't put too much pressure on yourself—let's split the workload right now."
+            }
+          },
+          {
+            "speaker": "Minh Anh",
+            "text": "你负责核对数据，我来改排版，这样效率会高很多。",
+            "reading": "Nǐ fùzé héduì shùjù, wǒ lái gǎi páibǎn, zhèyàng xiàolǜ huì gāo hěnduō.",
+            "meaning": {
+              "vi": "Bạn phụ trách đối chiếu số liệu, mình sửa dàn trang, như vậy hiệu suất sẽ cao hơn nhiều.",
+              "en": "You handle data verification and I'll adjust the layout—efficiency will jump."
+            }
+          },
+          {
+            "speaker": "Wei Chen",
+            "text": "好主意！有不清楚的地方我们随时商量，肯定解决得了。",
+            "reading": "Hǎo zhǔyi! Yǒu bù qīngchu de dìfang wǒmen suíshí shāngliang, kěndìng jiějué de liǎo.",
+            "meaning": {
+              "vi": "Ý hay đấy! Có chỗ nào chưa rõ mình bàn ngay lúc đó, chắc chắn xử lý được.",
+              "en": "Great idea! Whenever anything's unclear we'll check in right away—we've got this."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Trong môi trường làm việc Hoa ngữ, chủ động nói '我来负责这一部分 (Phần này để tôi lo)' thể hiện tinh thần đồng đội đáng tin cậy.",
+          "en": "Stepping up with '我来负责这一部分 (I'll take charge of this part)' demonstrates strong team ownership."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "zh-hsk4-l2-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Hình thức bổ ngữ khả năng nào mang nghĩa 'không làm hết kịp'?",
+            "en": "Which potential complement means 'unable to finish'?"
+          },
+          "targetText": "做___",
+          "options": [
+            "做不完",
+            "做不来",
+            "做得了",
+            "做完了"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Chèn '不' vào giữa '做' và '完' tạo thành '做不完 (không làm xong nổi)'.",
+            "en": "'做不完' inserts '不' between verb and '完' to express inability to finish."
+          }
+        },
+        {
+          "id": "zh-hsk4-l2-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn Pinyin đúng cho '效率'.",
+            "en": "Choose the accurate Pinyin for '效率'."
+          },
+          "targetText": "效率",
+          "ttsText": "效率",
+          "options": [
+            "xiàolǜ",
+            "yālì",
+            "gōutōng",
+            "jiějué"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'效率' đọc là xiàolǜ (chú ý âm lǜ có dấu hai chấm trên u).",
+            "en": "'效率' is pronounced xiàolǜ."
+          }
+        },
+        {
+          "id": "zh-hsk4-l2-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn giới từ nguyên nhân trang trọng cho đầu câu:",
+            "en": "Select the formal cause marker to open this sentence:"
+          },
+          "targetText": "___及时沟通，问题很快解决了。",
+          "ttsText": "由于及时沟通，问题很快解决了。",
+          "options": [
+            "由于",
+            "即使",
+            "无论",
+            "否则"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'由于' nêu nguyên nhân trang trọng đứng ở đầu câu.",
+            "en": "'由于' introduces a formal reason at the start of the sentence."
+          }
+        },
+        {
+          "id": "zh-hsk4-l2-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu nêu trách nhiệm công việc.",
+            "en": "Order the tokens into a sentence about task ownership."
+          },
+          "targetMeaning": {
+            "vi": "Anh ấy phụ trách kiểm tra số liệu.",
+            "en": "He is responsible for checking the data."
+          },
+          "tokens": [
+            "数据。",
+            "检查",
+            "负责",
+            "他"
+          ],
+          "correctOrder": [
+            "他",
+            "负责",
+            "检查",
+            "数据。"
+          ],
+          "correctSentence": "他负责检查数据。",
+          "explanation": {
+            "vi": "Trật tự: 他 + 负责 + 检查 + 数据。",
+            "en": "Order: 他 + 负责 + 检查 + 数据。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "zh-hsk4-l3",
+      "levelId": "zh-hsk4",
+      "order": 3,
+      "title": {
+        "native": "环保生活与观点表达",
+        "vi": "Môi trường và trình bày quan điểm",
+        "en": "Environment & Opinions"
+      },
+      "topic": "environment-opinions",
+      "summary": {
+        "vi": "Dùng '随着 + N', '不仅…还…' và từ vựng chủ đề môi trường (节约, 垃圾分类, 态度) để nêu quan điểm.",
+        "en": "Express viewpoints on sustainability using 随着, 不仅…还…, and environmental terms."
+      },
+      "xpReward": 60,
+      "vocabulary": [
+        {
+          "id": "zh-hsk4-l3-v1",
+          "term": "随着",
+          "reading": "suízhe",
+          "partOfSpeech": "preposition",
+          "meaning": {
+            "vi": "cùng với, theo sự (biến đổi của)",
+            "en": "along with / as (something develops)"
+          },
+          "example": {
+            "text": "随着环保意识的增强，越来越多人自带水杯。",
+            "reading": "Suízhe huánbǎo yìshí de zēngqiáng, yuèláiyuè duō rén zìdài shuǐbēi.",
+            "meaning": {
+              "vi": "Cùng với ý thức bảo vệ môi trường tăng lên, ngày càng nhiều người tự mang bình nước.",
+              "en": "As environmental awareness grows, more people bring reusable bottles."
+            }
+          },
+          "note": {
+            "vi": "Đi với danh từ/cụm danh từ chỉ xu hướng thay đổi: 随着科技的发展.",
+            "en": "Takes a noun phrase expressing gradual change."
+          }
+        },
+        {
+          "id": "zh-hsk4-l3-v2",
+          "term": "节约",
+          "reading": "jiéyuē",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "tiết kiệm",
+            "en": "to save / conserve"
+          },
+          "example": {
+            "text": "双面打印不仅节约纸张，还能减少浪费。",
+            "reading": "Shuāngmiàn dǎyìn bùjǐn jiéyuē zhǐzhāng, hái néng jiǎnshǎo làngfèi.",
+            "meaning": {
+              "vi": "In hai mặt không chỉ tiết kiệm giấy mà còn giảm lãng phí.",
+              "en": "Double-sided printing not only saves paper, but also reduces waste."
+            }
+          },
+          "note": {
+            "vi": "Cụm hay dùng: 节约用水 (tiết kiệm nước), 节约能源 (tiết kiệm năng lượng).",
+            "en": "Common objects: 水 (water), 电 (electricity), 时间 (time)."
+          }
+        },
+        {
+          "id": "zh-hsk4-l3-v3",
+          "term": "保护",
+          "reading": "bǎohù",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "bảo vệ",
+            "en": "to protect"
+          },
+          "example": {
+            "text": "保护环境需要每个人从日常小事做起。",
+            "reading": "Bǎohù huánjìng xūyào měi gè rén cóng rìcháng xiǎoshì zuòqǐ.",
+            "meaning": {
+              "vi": "Bảo vệ môi trường đòi hỏi mỗi người bắt đầu từ những việc nhỏ hằng ngày.",
+              "en": "Protecting the environment requires everyone to start with daily habits."
+            }
+          },
+          "note": {
+            "vi": "Cụm cố định: 保护环境 (viết tắt là 环保 - huánbǎo).",
+            "en": "'保护环境' is commonly abbreviated to '环保 (huánbǎo)'."
+          }
+        },
+        {
+          "id": "zh-hsk4-l3-v4",
+          "term": "养成",
+          "reading": "yǎngchéng",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "hình thành, rèn giũa (thói quen)",
+            "en": "to cultivate / form (a habit)"
+          },
+          "example": {
+            "text": "他养成了出门随手关灯的好习惯。",
+            "reading": "Tā yǎngchéngle chūmén suíshǒu guāndēng de hǎo xíguàn.",
+            "meaning": {
+              "vi": "Anh ấy đã hình thành thói quen tốt là tắt đèn trước khi ra ngoài.",
+              "en": "He formed the good habit of turning off lights before leaving."
+            }
+          },
+          "note": {
+            "vi": "Tân ngữ đi kèm gần như luôn là 习惯 (thói quen).",
+            "en": "Almost exclusively collocates with '习惯 (habit)'."
+          }
+        },
+        {
+          "id": "zh-hsk4-l3-v5",
+          "term": "态度",
+          "reading": "tàidu",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "thái độ",
+            "en": "attitude"
+          },
+          "example": {
+            "text": "积极的态度往往比口号更有力量。",
+            "reading": "Jījí de tàidu wǎngwǎng bǐ kǒuhào gèng yǒu lìliàng.",
+            "meaning": {
+              "vi": "Thái độ tích cực thường có sức mạnh hơn những lời khẩu hiệu.",
+              "en": "A proactive attitude is often stronger than slogans."
+            }
+          },
+          "note": {
+            "vi": "Âm thứ hai đọc nhẹ: tài-du.",
+            "en": "Second syllable is neutral tone: tài-du."
+          }
+        },
+        {
+          "id": "zh-hsk4-l3-v6",
+          "term": "值得",
+          "reading": "zhídé",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "đáng, xứng đáng",
+            "en": "to be worth (doing)"
+          },
+          "example": {
+            "text": "骑共享单车上班的做法很值得推广。",
+            "reading": "Qí gòngxiǎng dānchē shàngbān de zuòfǎ hěn zhídé tuīguǎng.",
+            "meaning": {
+              "vi": "Cách đi làm bằng xe đạp chia sẻ rất đáng được nhân rộng.",
+              "en": "Commuting by shared bicycle is well worth promoting."
+            }
+          },
+          "note": {
+            "vi": "Dùng '值得 + động từ / cụm danh từ': 值得学习 (đáng học hỏi).",
+            "en": "Follow with a verb or noun phrase: '值得考虑 (worth considering)'."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "zh-hsk4-l3-g1",
+          "pattern": "随着 + N/Phrase (的发展/变化)，Main Clause",
+          "title": {
+            "vi": "Giới từ chỉ xu hướng biến đổi '随着'",
+            "en": "Trend Preposition 随着 (suízhe)"
+          },
+          "structure": "随着 + [danh từ trừu tượng / sự biến đổi]，[hệ quả kéo theo]",
+          "explanation": {
+            "vi": "'随着' diễn tả một sự việc thay đổi hoặc phát triển song song theo quá trình nào đó ('cùng với việc...').",
+            "en": "'随着' links a changing condition or trend to a parallel social or personal development."
+          },
+          "usageNote": {
+            "vi": "Sau '随着' nên dùng cụm danh từ (như '城市的发展', '天气的变化'), không đặt mệnh đề động từ trơn.",
+            "en": "Follow '随着' with a noun phrase rather than a bare clause."
+          },
+          "examples": [
+            {
+              "text": "随着垃圾分类的普及，社区变得更整洁了。",
+              "reading": "Suízhe lājī fēnlèi de pǔjí, shèqū biànde gèng zhěngjié le.",
+              "meaning": {
+                "vi": "Cùng với việc phân loại rác trở nên phổ biến, khu dân cư sạch sẽ hơn hẳn.",
+                "en": "As waste sorting became widespread, the neighborhood grew cleaner."
+              }
+            },
+            {
+              "text": "随着年龄的增长，我更看重健康。",
+              "reading": "Suízhe niánlíng de zēngzhǎng, wǒ gèng kànzhòng jiànkāng.",
+              "meaning": {
+                "vi": "Theo tuổi tác tăng lên, tôi càng coi trọng sức khỏe hơn.",
+                "en": "As I grow older, I value health even more."
+              }
+            }
+          ]
+        },
+        {
+          "id": "zh-hsk4-l3-g2",
+          "pattern": "在我看来 / 对…来说 + Viewpoint",
+          "title": {
+            "vi": "Khung câu nêu quan điểm cá nhân",
+            "en": "Opinion Framing: 在我看来 & 对…来说"
+          },
+          "structure": "在我看来，… (Theo tôi thấy) | 对 [ai] 来说，… (Đối với [ai] mà nói)",
+          "explanation": {
+            "vi": "Dùng để giới thiệu quan điểm một cách khách quan, có chừng mực trong thảo luận hoặc viết bài nghị luận ngắn.",
+            "en": "Frame personal viewpoints tactfully and clearly in discussions or short essays."
+          },
+          "usageNote": {
+            "vi": "Không ghép thừa '对我来说觉得' — chỉ cần '对我来说' hoặc '我觉得'.",
+            "en": "Avoid redundancy like '对我来说觉得'; use either '对我来说' or '我觉得'."
+          },
+          "examples": [
+            {
+              "text": "在我看来，减少塑料袋比事后回收更有效。",
+              "reading": "Zài wǒ kànlái, jiǎnshǎo sùliàodài bǐ shìhòu huíshōu gèng yǒuxiào.",
+              "meaning": {
+                "vi": "Theo tôi thấy, giảm túi ni-lông hiệu quả hơn là xử lý tái chế về sau.",
+                "en": "In my view, cutting back on plastic bags is more effective than recycling afterward."
+              }
+            },
+            {
+              "text": "对上班族来说，自带午餐既省钱又环保。",
+              "reading": "Duì shàngbānzú láishuō, zìdài wǔcān jì shěngqián yòu huánbǎo.",
+              "meaning": {
+                "vi": "Đối với dân văn phòng, tự mang cơm trưa vừa tiết kiệm tiền vừa bảo vệ môi trường.",
+                "en": "For office workers, bringing lunch saves money and helps the environment."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Thói quen xanh nơi văn phòng",
+          "en": "Green Habits at the Office"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Minh Anh và Wei Chen trao đổi về sáng kiến giảm rác thải nhựa ở nhóm học tập.",
+          "en": "Minh Anh and Wei Chen discuss eco-friendly habits in their club."
+        },
+        "lines": [
+          {
+            "speaker": "Minh Anh",
+            "text": "你有没有发现，随着大家环保意识提高，自带杯子的人越来越多了？",
+            "reading": "Nǐ yǒu méiyǒu fāxiàn, suízhe dàjiā huánbǎo yìshí tígāo, zìdài bēizi de rén yuèláiyuè duō le?",
+            "meaning": {
+              "vi": "Bạn có nhận ra là cùng với ý thức bảo vệ môi trường tăng lên, người tự mang cốc ngày càng nhiều không?",
+              "en": "Have you noticed that as eco-awareness rises, more people bring their own cups?"
+            }
+          },
+          {
+            "speaker": "Wei Chen",
+            "text": "对！在我看来，养成这样的小习惯既节约资源，又能保护环境。",
+            "reading": "Duì! Zài wǒ kànlái, yǎngchéng zhèyàng de xiǎo xíguàn jì jiéyuē zīyuán, yòu néng bǎohù huánjìng.",
+            "meaning": {
+              "vi": "Đúng thế! Theo mình, hình thành thói quen nhỏ như vậy vừa tiết kiệm tài nguyên vừa bảo vệ môi trường.",
+              "en": "Yes! In my view, building small habits like that saves resources and protects the environment."
+            }
+          },
+          {
+            "speaker": "Minh Anh",
+            "text": "我们读书会也用电子笔记代替纸质讲义，这个做法很值得坚持。",
+            "reading": "Wǒmen dúshūhuì yě yòng diànzǐ bǐjì dàitì zhǐzhì jiǎngyì, zhège zuòfǎ hěn zhídé jiānchí.",
+            "meaning": {
+              "vi": "Nhóm đọc sách của mình cũng dùng ghi chú điện tử thay tài liệu giấy, cách làm này rất đáng duy trì.",
+              "en": "Our study club also uses digital notes instead of paper handouts—that practice is well worth keeping."
+            }
+          },
+          {
+            "speaker": "Wei Chen",
+            "text": "说得好，关键在于每天对待生活和学习的积极态度。",
+            "reading": "Shuō de hǎo, guānjiàn zàiyú měitiān duìdài shēnghuó hé xuéxí de jījí tàidu.",
+            "meaning": {
+              "vi": "Nói hay lắm, mấu chốt nằm ở thái độ tích cực mỗi ngày với cuộc sống và việc học.",
+              "en": "Well said—what matters most is our proactive attitude toward daily life and learning."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Trong tiếng Trung hiện đại, '环保 (huánbǎo)' được dùng rất rộng như một tính từ khen lối sống bền vững ('很环保').",
+          "en": "In modern Mandarin, '环保 (eco-friendly)' serves widely as a positive adjective for sustainable choices."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "zh-hsk4-l3-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Động từ nào kết hợp tự nhiên nhất với '好习惯 (thói quen tốt)'?",
+            "en": "Which verb collocates naturally with '好习惯 (good habit)'?"
+          },
+          "targetText": "___好习惯",
+          "options": [
+            "养成",
+            "保护",
+            "节约",
+            "商量"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Cụm cố định là '养成好习惯 (hình thành thói quen tốt)'.",
+            "en": "The standard collocation is '养成好习惯'."
+          }
+        },
+        {
+          "id": "zh-hsk4-l3-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn Pinyin đúng cho '节约'.",
+            "en": "Select the matching Pinyin for '节约'."
+          },
+          "targetText": "节约",
+          "ttsText": "节约",
+          "options": [
+            "jiéyuē",
+            "bǎohù",
+            "suízhe",
+            "tàidu"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'节约' đọc là jiéyuē.",
+            "en": "'节约' is pronounced jiéyuē."
+          }
+        },
+        {
+          "id": "zh-hsk4-l3-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn giới từ diễn tả xu hướng biến đổi song song:",
+            "en": "Choose the preposition meaning 'as / along with':"
+          },
+          "targetText": "___科技的发展，在线学习越来越普及。",
+          "ttsText": "随着科技的发展，在线学习越来越普及。",
+          "options": [
+            "随着",
+            "即使",
+            "由于",
+            "除了"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'随着…的发展' là cụm rất chuẩn để mở đầu nhận xét về xu thế.",
+            "en": "'随着…的发展' ('along with the development of...') is the standard trend opener."
+          }
+        },
+        {
+          "id": "zh-hsk4-l3-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu nêu quan điểm cá nhân hoàn chỉnh.",
+            "en": "Arrange the tokens into an opinion statement."
+          },
+          "targetMeaning": {
+            "vi": "Theo tôi thấy, việc này rất đáng học hỏi.",
+            "en": "In my view, this is well worth learning."
+          },
+          "tokens": [
+            "值得",
+            "在我看来，",
+            "学习。",
+            "这件事",
+            "很"
+          ],
+          "correctOrder": [
+            "在我看来，",
+            "这件事",
+            "很",
+            "值得",
+            "学习。"
+          ],
+          "correctSentence": "在我看来，这件事很值得学习。",
+          "explanation": {
+            "vi": "Trật tự: 在我看来，+ 这件事 + 很 + 值得 + 学习。",
+            "en": "Order: 在我看来，+ 这件事 + 很 + 值得 + 学习。"
+          }
+        }
+      ]
+    }
+  ]
+}

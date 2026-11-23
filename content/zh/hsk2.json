@@ -1,0 +1,1121 @@
+{
+  "levelId": "zh-hsk2",
+  "language": "zh",
+  "code": "HSK2",
+  "order": 2,
+  "title": {
+    "vi": "HSK 2 — Sinh hoạt và giao tiếp hằng ngày",
+    "en": "HSK 2 — Daily Life & Comparisons"
+  },
+  "subtitle": {
+    "vi": "Thời gian di chuyển, thời tiết so sánh và trải nghiệm quá khứ",
+    "en": "Schedules and transit, weather comparisons, and past experiences"
+  },
+  "estimatedMinutes": 40,
+  "lessons": [
+    {
+      "id": "zh-hsk2-l1",
+      "levelId": "zh-hsk2",
+      "order": 1,
+      "title": {
+        "native": "每天的安排与交通",
+        "vi": "Lịch trình hằng ngày và đi lại",
+        "en": "Daily Schedule & Transit"
+      },
+      "topic": "schedule-transit",
+      "summary": {
+        "vi": "Đặt trạng ngữ thời gian trước động từ, dùng 正在 (đang) và 从…到… (từ... đến...).",
+        "en": "Place time phrases before verbs and use 正在 (in progress) and 从…到… (from... to...)."
+      },
+      "xpReward": 50,
+      "vocabulary": [
+        {
+          "id": "zh-hsk2-l1-v1",
+          "term": "公共汽车",
+          "reading": "gōnggòng qìchē",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "xe buýt công cộng",
+            "en": "public bus"
+          },
+          "example": {
+            "text": "我每天坐公共汽车去公司。",
+            "reading": "Wǒ měitiān zuò gōnggòng qìchē qù gōngsī.",
+            "meaning": {
+              "vi": "Mỗi ngày tôi đi xe buýt đến công ty.",
+              "en": "I take the bus to the company every day."
+            }
+          },
+          "note": {
+            "vi": "Đi phương tiện ngồi bên trong dùng động từ '坐 (zuò)': 坐公共汽车, 坐地铁.",
+            "en": "Use the verb '坐 (zuò)' for riding buses, trains, or subways."
+          }
+        },
+        {
+          "id": "zh-hsk2-l1-v2",
+          "term": "正在",
+          "reading": "zhèngzài",
+          "partOfSpeech": "adverb",
+          "meaning": {
+            "vi": "đang (tiến hành)",
+            "en": "in the middle of doing"
+          },
+          "example": {
+            "text": "他正在看今天的新闻。",
+            "reading": "Tā zhèngzài kàn jīntiān de xīnwén.",
+            "meaning": {
+              "vi": "Anh ấy đang xem tin tức hôm nay.",
+              "en": "He is watching today's news right now."
+            }
+          },
+          "note": {
+            "vi": "Có thể rút gọn thành '在 + V' hoặc kết hợp '正在 + V + 呢'.",
+            "en": "Can be shortened to '在 + V' or paired with sentence-final '呢'."
+          }
+        },
+        {
+          "id": "zh-hsk2-l1-v3",
+          "term": "上班",
+          "reading": "shàngbān",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "đi làm, vào ca làm",
+            "en": "to go to work / start work"
+          },
+          "example": {
+            "text": "我姐姐早上九点上班。",
+            "reading": "Wǒ jiějie zǎoshang jiǔ diǎn shàngbān.",
+            "meaning": {
+              "vi": "Chị gái tôi vào làm lúc 9 giờ sáng.",
+              "en": "My older sister starts work at 9 a.m."
+            }
+          },
+          "note": {
+            "vi": "Trái nghĩa là '下班 (xiàbān)' (tan làm).",
+            "en": "Opposite: '下班 (xiàbān)' (to get off work)."
+          }
+        },
+        {
+          "id": "zh-hsk2-l1-v4",
+          "term": "地铁",
+          "reading": "dìtiě",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "tàu điện ngầm",
+            "en": "subway / metro"
+          },
+          "example": {
+            "text": "坐地铁比开车快多了。",
+            "reading": "Zuò dìtiě bǐ kāichē kuài duōle.",
+            "meaning": {
+              "vi": "Đi tàu điện ngầm nhanh hơn lái xe nhiều.",
+              "en": "Taking the subway is much faster than driving."
+            }
+          },
+          "note": {
+            "vi": "Cả hai âm đều thanh 4 và thanh 3: dì-tiě.",
+            "en": "Pronounced dìtiě (4th tone then 3rd tone)."
+          }
+        },
+        {
+          "id": "zh-hsk2-l1-v5",
+          "term": "准备",
+          "reading": "zhǔnbèi",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "chuẩn bị",
+            "en": "to prepare / intend to"
+          },
+          "example": {
+            "text": "我正在准备明天的会议。",
+            "reading": "Wǒ zhèngzài zhǔnbèi míngtiān de huìyì.",
+            "meaning": {
+              "vi": "Tôi đang chuẩn bị cho cuộc họp ngày mai.",
+              "en": "I am preparing for tomorrow's meeting."
+            }
+          },
+          "note": {
+            "vi": "Có thể đứng trước động từ khác với nghĩa 'chuẩn bị làm gì / định làm gì'.",
+            "en": "Can precede another verb to mean 'plan to / be about to'."
+          }
+        },
+        {
+          "id": "zh-hsk2-l1-v6",
+          "term": "时间",
+          "reading": "shíjiān",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "thời gian",
+            "en": "time"
+          },
+          "example": {
+            "text": "晚上你有时间一起练习吗？",
+            "reading": "Wǎnshang nǐ yǒu shíjiān yìqǐ liànxí ma?",
+            "meaning": {
+              "vi": "Buổi tối bạn có thời gian luyện tập cùng nhau không?",
+              "en": "Do you have time to practice together tonight?"
+            }
+          },
+          "note": {
+            "vi": "Khác với '小时 (xiǎoshí - tiếng đồng hồ)' và '点 (diǎn - giờ trên đồng hồ)'.",
+            "en": "Distinguish '时间' (time in general) from '小时' (hours duration) and '点' (o'clock)."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "zh-hsk2-l1-g1",
+          "pattern": "S + Time + Verb (+ Object)",
+          "title": {
+            "vi": "Vị trí cụm thời gian trước động từ",
+            "en": "Time Expressions Before the Verb"
+          },
+          "structure": "Subject + Time (or Time + Subject) + Verb + Object",
+          "explanation": {
+            "vi": "Khác với tiếng Anh đặt thời gian cuối câu, tiếng Trung luôn đặt mốc thời gian trước động từ (ngay trước hoặc ngay sau chủ ngữ).",
+            "en": "Unlike English, Mandarin places time expressions before the verb—either right before or right after the subject."
+          },
+          "usageNote": {
+            "vi": "Tuyệt đối không đặt '明天/八点' ra sau tân ngữ ở cuối câu.",
+            "en": "Avoid placing time phrases like '八点' or '明天' at the very end of a sentence."
+          },
+          "examples": [
+            {
+              "text": "我每天八点坐地铁去上班。",
+              "reading": "Wǒ měitiān bā diǎn zuò dìtiě qù shàngbān.",
+              "meaning": {
+                "vi": "Mỗi ngày lúc tám giờ tôi đi tàu điện ngầm đi làm.",
+                "en": "I take the subway to work at eight every day."
+              }
+            },
+            {
+              "text": "晚上七点我们从学校回家。",
+              "reading": "Wǎnshang qī diǎn wǒmen cóng xuéxiào huí jiā.",
+              "meaning": {
+                "vi": "Bảy giờ tối chúng tôi từ trường về nhà.",
+                "en": "At seven in the evening we go home from school."
+              }
+            }
+          ]
+        },
+        {
+          "id": "zh-hsk2-l1-g2",
+          "pattern": "正在 + Verb (+ 呢) & 从 A 到 B",
+          "title": {
+            "vi": "Thì tiếp diễn '正在' và quãng '从…到…'",
+            "en": "Ongoing Action 正在 & Span 从…到…"
+          },
+          "structure": "S + 正在 + V (+ 呢) | 从 [điểm đầu] 到 [điểm cuối]",
+          "explanation": {
+            "vi": "'正在' diễn tả hành động đang diễn ra ngay tại thời điểm nói; '从…到…' nối hai mốc thời gian hoặc địa điểm từ A đến B.",
+            "en": "'正在' marks an action in progress; '从…到…' expresses 'from A to B' for time or distance."
+          },
+          "usageNote": {
+            "vi": "Phủ định của hành động đang diễn ra dùng '没(有)在 + V'.",
+            "en": "Negate an ongoing action with '没在 + Verb'."
+          },
+          "examples": [
+            {
+              "text": "他正在等公共汽车呢。",
+              "reading": "Tā zhèngzài děng gōnggòng qìchē ne.",
+              "meaning": {
+                "vi": "Anh ấy đang đợi xe buýt đấy.",
+                "en": "He is waiting for the bus right now."
+              }
+            },
+            {
+              "text": "从我家到公司坐地铁要二十分钟。",
+              "reading": "Cóng wǒ jiā dào gōngsī zuò dìtiě yào èrshí fēnzhōng.",
+              "meaning": {
+                "vi": "Từ nhà tôi đến công ty đi tàu điện ngầm mất hai mươi phút.",
+                "en": "It takes twenty minutes by subway from my home to the office."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Giờ đi làm buổi sáng",
+          "en": "Morning Commute Check-In"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Minh Anh gọi hỏi Wei Chen xem anh đang trên đường đi làm hay chưa.",
+          "en": "Minh Anh checks in with Wei Chen during the morning commute."
+        },
+        "lines": [
+          {
+            "speaker": "Minh Anh",
+            "text": "喂，陈伟，你正在去公司的路上吗？",
+            "reading": "Wéi, Chén Wěi, nǐ zhèngzài qù gōngsī de lùshang ma?",
+            "meaning": {
+              "vi": "Alo Trần Vĩ, bạn đang trên đường tới công ty à?",
+              "en": "Hey Chen Wei, are you on your way to the office?"
+            }
+          },
+          {
+            "speaker": "Wei Chen",
+            "text": "是啊，我八点坐地铁出门了，现在快到站了。",
+            "reading": "Shì a, wǒ bā diǎn zuò dìtiě chūmén le, xiànzài kuài dào zhàn le.",
+            "meaning": {
+              "vi": "Ừ, 8 giờ mình ra khỏi nhà đi tàu điện ngầm, giờ sắp tới ga rồi.",
+              "en": "Yeah, I left at eight by subway and I'm almost at the station."
+            }
+          },
+          {
+            "speaker": "Minh Anh",
+            "text": "从你家到公司要多长时间？",
+            "reading": "Cóng nǐ jiā dào gōngsī yào duō cháng shíjiān?",
+            "meaning": {
+              "vi": "Từ nhà bạn đến công ty mất bao lâu?",
+              "en": "How long does it take from your place to the office?"
+            }
+          },
+          {
+            "speaker": "Wei Chen",
+            "text": "坐地铁只要二十五分钟。我们九点上班，来得及！",
+            "reading": "Zuò dìtiě zhǐ yào èrshíwǔ fēnzhōng. Wǒmen jiǔ diǎn shàngbān, láidejí!",
+            "meaning": {
+              "vi": "Đi tàu điện ngầm chỉ mất 25 phút. 9 giờ tụi mình mới vào làm, kịp thoải mái!",
+              "en": "Only twenty-five minutes by subway. We start work at nine, plenty of time!"
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Khi bắt máy điện thoại ở Trung Quốc, người nghe thường nói '喂 (wéi)' (thanh 2 lên giọng nhẹ) để chào.",
+          "en": "When answering the phone in Mandarin, people typically open with '喂 (wéi)' in a rising 2nd tone."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "zh-hsk2-l1-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Câu nào đặt trạng ngữ thời gian ĐÚNG vị trí trong tiếng Trung?",
+            "en": "Which sentence places the time phrase in the natural Mandarin position?"
+          },
+          "targetText": "I go to work at eight.",
+          "options": [
+            "我八点去上班。",
+            "我去上班八点。",
+            "我去八点上班。",
+            "上班我去八点。"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Thời gian '八点' đặt trước động từ '去上班'.",
+            "en": "Time expressions like '八点' precede the verb phrase '去上班'."
+          }
+        },
+        {
+          "id": "zh-hsk2-l1-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn Pinyin đúng cho '准备'.",
+            "en": "Select the correct Pinyin for '准备'."
+          },
+          "targetText": "准备",
+          "ttsText": "准备",
+          "options": [
+            "zhǔnbèi",
+            "zhèngzài",
+            "shàngbān",
+            "shíjiān"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'准备' đọc là zhǔnbèi (thanh 3 + thanh 4).",
+            "en": "'准备' is pronounced zhǔnbèi."
+          }
+        },
+        {
+          "id": "zh-hsk2-l1-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Điền từ nối phù hợp để nói 'từ nhà đến trường':",
+            "en": "Fill in the missing connector for 'from home to school':"
+          },
+          "targetText": "___我家到学校很近。",
+          "ttsText": "从我家到学校很近。",
+          "options": [
+            "在",
+            "从",
+            "坐",
+            "和"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "vi": "Cấu trúc '从 A 到 B' nghĩa là 'từ A đến B'.",
+            "en": "Use '从 A 到 B' to express 'from A to B'."
+          }
+        },
+        {
+          "id": "zh-hsk2-l1-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu diễn tả hành động đang diễn ra.",
+            "en": "Order the words to describe an action in progress."
+          },
+          "targetMeaning": {
+            "vi": "Cô ấy đang chuẩn bị bữa sáng.",
+            "en": "She is preparing breakfast."
+          },
+          "tokens": [
+            "准备",
+            "早饭。",
+            "她",
+            "正在"
+          ],
+          "correctOrder": [
+            "她",
+            "正在",
+            "准备",
+            "早饭。"
+          ],
+          "correctSentence": "她正在准备早饭。",
+          "explanation": {
+            "vi": "Trật tự: 她 + 正在 + 准备 + 早饭。",
+            "en": "Progressive order: 她 + 正在 + 准备 + 早饭。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "zh-hsk2-l2",
+      "levelId": "zh-hsk2",
+      "order": 2,
+      "title": {
+        "native": "天气、健康与比较",
+        "vi": "Thời tiết, sức khỏe và so sánh",
+        "en": "Weather, Health & Comparisons"
+      },
+      "topic": "weather-health",
+      "summary": {
+        "vi": "Dùng '因为…所以…' nêu nguyên nhân, '比' để so sánh và '太…了' để cảm thán.",
+        "en": "Explain reasons with 因为…所以…, compare with 比, and exclaim with 太…了."
+      },
+      "xpReward": 50,
+      "vocabulary": [
+        {
+          "id": "zh-hsk2-l2-v1",
+          "term": "天气",
+          "reading": "tiānqì",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "thời tiết",
+            "en": "weather"
+          },
+          "example": {
+            "text": "今天的天气比昨天凉快。",
+            "reading": "Jīntiān de tiānqì bǐ zuótiān liángkuai.",
+            "meaning": {
+              "vi": "Thời tiết hôm nay mát mẻ hơn hôm qua.",
+              "en": "Today's weather is cooler than yesterday's."
+            }
+          },
+          "note": {
+            "vi": "Thanh 1 + thanh 4: tiān-qì.",
+            "en": "1st tone + 4th tone: tiān-qì."
+          }
+        },
+        {
+          "id": "zh-hsk2-l2-v2",
+          "term": "身体",
+          "reading": "shēntǐ",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "cơ thể, sức khỏe",
+            "en": "body / health"
+          },
+          "example": {
+            "text": "多运动对身体很有帮助。",
+            "reading": "Duō yùndòng duì shēntǐ hěn yǒu bāngzhù.",
+            "meaning": {
+              "vi": "Vận động nhiều rất có ích cho sức khỏe.",
+              "en": "Exercising more is very helpful for your health."
+            }
+          },
+          "note": {
+            "vi": "Hỏi thăm sức khỏe người lớn tuổi hay nói '您身体好吗？'.",
+            "en": "Common greeting to elders: '您身体好吗？'."
+          }
+        },
+        {
+          "id": "zh-hsk2-l2-v3",
+          "term": "生病",
+          "reading": "shēngbìng",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "bị ốm, đổ bệnh",
+            "en": "to fall ill"
+          },
+          "example": {
+            "text": "因为天气太冷，他生病了。",
+            "reading": "Yīnwèi tiānqì tài lěng, tā shēngbìng le.",
+            "meaning": {
+              "vi": "Vì thời tiết lạnh quá nên anh ấy bị ốm rồi.",
+              "en": "Because the weather was too cold, he got sick."
+            }
+          },
+          "note": {
+            "vi": "Là động từ ly hợp (生了病 / 生一场病).",
+            "en": "Functions as a separable verb-object compound."
+          }
+        },
+        {
+          "id": "zh-hsk2-l2-v4",
+          "term": "休息",
+          "reading": "xiūxi",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "nghỉ ngơi",
+            "en": "to rest"
+          },
+          "example": {
+            "text": "你太累了，好好休息一下吧。",
+            "reading": "Nǐ tài lèi le, hǎohāo xiūxi yíxià ba.",
+            "meaning": {
+              "vi": "Bạn mệt quá rồi, nghỉ ngơi một chút cho khỏe nhé.",
+              "en": "You're too tired; get some proper rest."
+            }
+          },
+          "note": {
+            "vi": "Âm tiết thứ hai 'xi' đọc nhẹ khinh thanh.",
+            "en": "Second syllable 'xi' is neutral tone."
+          }
+        },
+        {
+          "id": "zh-hsk2-l2-v5",
+          "term": "药",
+          "reading": "yào",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "thuốc",
+            "en": "medicine"
+          },
+          "example": {
+            "text": "记得按时吃药，多喝热水。",
+            "reading": "Jìde ànshí chī yào, duō hē rè shuǐ.",
+            "meaning": {
+              "vi": "Nhớ uống thuốc đúng giờ và uống nhiều nước ấm nhé.",
+              "en": "Remember to take your medicine on time and drink warm water."
+            }
+          },
+          "note": {
+            "vi": "Trong tiếng Trung nói 'ăn thuốc' — 吃药 (chī yào), không dùng '喝'.",
+            "en": "Mandarin pairs medicine with '吃 (chī - eat)': 吃药, not 喝药."
+          }
+        },
+        {
+          "id": "zh-hsk2-l2-v6",
+          "term": "下雨",
+          "reading": "xiàyǔ",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "trời mưa",
+            "en": "to rain"
+          },
+          "example": {
+            "text": "外面正在下雨，带把伞吧。",
+            "reading": "Wàimiàn zhèngzài xiàyǔ, dài bǎ sǎn ba.",
+            "meaning": {
+              "vi": "Bên ngoài đang mưa đấy, mang theo cái ô nhé.",
+              "en": "It's raining outside; take an umbrella."
+            }
+          },
+          "note": {
+            "vi": "Tương tự có 下雪 (xiàxuě - tuyết rơi).",
+            "en": "Parallel structure: 下雪 (xiàxuě - to snow)."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "zh-hsk2-l2-g1",
+          "pattern": "A + 比 + B + Adjective (+ 一点儿 / 得多)",
+          "title": {
+            "vi": "Câu so sánh hơn với '比'",
+            "en": "Comparisons with 比 (bǐ)"
+          },
+          "structure": "A + 比 + B + Adj (không thêm 很 vào trước Adj)",
+          "explanation": {
+            "vi": "Dùng 'A 比 B + tính từ' để so sánh A hơn B; có thể thêm mức độ ở sau tính từ như '一点儿' (một chút) hoặc '多了/得多' (nhiều).",
+            "en": "Compare two items with 'A 比 B + Adjective'; add degree modifiers like '一点儿' or '多了' after the adjective."
+          },
+          "usageNote": {
+            "vi": "Lỗi kinh điển cần tránh: KHÔNG dùng '很' trước tính từ trong câu '比' (sai: 今天比昨天很热 -> đúng: 今天比昨天热得多).",
+            "en": "Never place '很' before the adjective in a '比' sentence; put degree words like '多了' after it."
+          },
+          "examples": [
+            {
+              "text": "今天比昨天暖和一点儿。",
+              "reading": "Jīntiān bǐ zuótiān nuǎnhuo yìdiǎnr.",
+              "meaning": {
+                "vi": "Hôm nay ấm hơn hôm qua một chút.",
+                "en": "Today is a little warmer than yesterday."
+              }
+            },
+            {
+              "text": "河内夏天比秋天热多了。",
+              "reading": "Hénèi xiàtiān bǐ qiūtiān rè duōle.",
+              "meaning": {
+                "vi": "Mùa hè Hà Nội nóng hơn mùa thu nhiều.",
+                "en": "Summer in Hanoi is much hotter than autumn."
+              }
+            }
+          ]
+        },
+        {
+          "id": "zh-hsk2-l2-g2",
+          "pattern": "因为 + Nguyên nhân，所以 + Kết quả | 太 + Adj + 了",
+          "title": {
+            "vi": "Cặp liên từ '因为…所以…' và cảm thán '太…了'",
+            "en": "Cause-Effect 因为…所以… & Exclamation 太…了"
+          },
+          "structure": "因为 [lý do]，所以 [kết quả] | 太 + Adj + 了！",
+          "explanation": {
+            "vi": "Tiếng Trung thường dùng đủ cặp '因为…所以…' trong một câu; '太 + Adj + 了' biểu thị mức độ cao hoặc quá mức.",
+            "en": "Mandarin frequently pairs '因为 (because)' and '所以 (so)' in the same sentence; '太…了' expresses 'very / excessively'."
+          },
+          "usageNote": {
+            "vi": "Có thể lược bỏ một trong hai vế '因为' hoặc '所以' khi nói nhanh.",
+            "en": "Either '因为' or '所以' may be omitted in casual speech, though using both is clear and standard."
+          },
+          "examples": [
+            {
+              "text": "因为外面下雨，所以我们不去公园了。",
+              "reading": "Yīnwèi wàimiàn xiàyǔ, suǒyǐ wǒmen bú qù gōngyuán le.",
+              "meaning": {
+                "vi": "Vì bên ngoài trời mưa nên chúng tôi không đi công viên nữa.",
+                "en": "Because it's raining outside, we aren't going to the park."
+              }
+            },
+            {
+              "text": "今天天气太舒服了！",
+              "reading": "Jīntiān tiānqì tài shūfu le!",
+              "meaning": {
+                "vi": "Thời tiết hôm nay dễ chịu quá đi!",
+                "en": "Today's weather is so comfortable!"
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Hỏi thăm bạn bị cảm lạnh",
+          "en": "Checking on a Friend with a Cold"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Wei Chen hỏi thăm Kenji khi thấy anh hơi mệt do trời trở lạnh.",
+          "en": "Wei Chen checks on Kenji after a sudden drop in temperature."
+        },
+        "lines": [
+          {
+            "speaker": "Wei Chen",
+            "text": "健二，你的脸色不太好，是不是生病了？",
+            "reading": "Jiàn'èr, nǐ de liǎnsè bú tài hǎo, shìbushì shēngbìng le?",
+            "meaning": {
+              "vi": "Kenji ơi, sắc mặt bạn không được tươi lắm, phải bị ốm rồi không?",
+              "en": "Kenji, you look pale—did you catch a cold?"
+            }
+          },
+          {
+            "speaker": "Kenji",
+            "text": "有一点儿感冒。因为昨天晚上太冷了，又下雨，所以我没睡好。",
+            "reading": "Yǒu yìdiǎnr gǎnmào. Yīnwèi zuótiān wǎnshang tài lěng le, yòu xiàyǔ, suǒyǐ wǒ méi shuì hǎo.",
+            "meaning": {
+              "vi": "Mình hơi cảm một chút. Vì tối qua lạnh quá lại còn mưa nên mình ngủ không ngon.",
+              "en": "A mild cold. Because last night was so cold and rainy, I didn't sleep well."
+            }
+          },
+          {
+            "speaker": "Wei Chen",
+            "text": "今天的天气比昨天好多了，可是你还是要按时吃药。",
+            "reading": "Jīntiān de tiānqì bǐ zuótiān hǎo duōle, kěshì nǐ háishi yào ànshí chī yào.",
+            "meaning": {
+              "vi": "Thời tiết hôm nay tốt hơn hôm qua nhiều rồi, nhưng bạn vẫn phải uống thuốc đúng giờ nhé.",
+              "en": "Today's weather is much better than yesterday, yet you still need to take your medicine on time."
+            }
+          },
+          {
+            "speaker": "Kenji",
+            "text": "谢谢关心！我喝杯热茶就回家休息。",
+            "reading": "Xièxie guānxīn! Wǒ hē bēi rè chá jiù huí jiā xiūxi.",
+            "meaning": {
+              "vi": "Cảm ơn bạn đã quan tâm! Mình uống ly trà nóng rồi về nhà nghỉ ngơi ngay.",
+              "en": "Thanks for caring! I'll have a hot tea and go home to rest."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Người Trung Quốc rất hay dặn bạn bè đang ốm câu '多喝热水 (duō hē rè shuǐ - uống nhiều nước ấm)' như một lời quan tâm chân thành.",
+          "en": "'多喝热水 (drink plenty of warm water)' is a signature expression of care and warmth in Chinese culture."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "zh-hsk2-l2-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Câu so sánh nào ĐÚNG ngữ pháp tiếng Trung?",
+            "en": "Which comparison sentence is grammatically accurate?"
+          },
+          "targetText": "Today is much hotter than yesterday.",
+          "options": [
+            "今天比昨天热多了。",
+            "今天比昨天很热。",
+            "今天很比昨天热。",
+            "今天热比昨天。"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Không đặt '很' trước tính từ trong câu '比'; thêm '多了' ở sau tính từ.",
+            "en": "Do not put '很' before the adjective in '比' comparisons; place '多了' after it."
+          }
+        },
+        {
+          "id": "zh-hsk2-l2-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn Pinyin đúng cho '休息'.",
+            "en": "Select the matching Pinyin for '休息'."
+          },
+          "targetText": "休息",
+          "ttsText": "休息",
+          "options": [
+            "xiūxi",
+            "shēntǐ",
+            "shēngbìng",
+            "tiānqì"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'休息' đọc là xiūxi (thanh 1 + khinh thanh).",
+            "en": "'休息' is pronounced xiūxi."
+          }
+        },
+        {
+          "id": "zh-hsk2-l2-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn động từ tự nhiên nhất đi với '药 (thuốc)':",
+            "en": "Choose the natural verb collocation for '药 (medicine)':"
+          },
+          "targetText": "生病的时候要按时___药。",
+          "ttsText": "生病的时候要按时吃药。",
+          "options": [
+            "喝",
+            "吃",
+            "做",
+            "看"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "vi": "Tiếng Trung nói '吃药 (chī yào)' khi uống thuốc.",
+            "en": "Mandarin uses '吃药' for taking medicine."
+          }
+        },
+        {
+          "id": "zh-hsk2-l2-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu nguyên nhân - kết quả hoàn chỉnh.",
+            "en": "Order the phrases into a cause-and-effect sentence."
+          },
+          "targetMeaning": {
+            "vi": "Vì trời mưa nên tôi ở nhà.",
+            "en": "Because it's raining, I'm staying home."
+          },
+          "tokens": [
+            "所以",
+            "我在家。",
+            "下雨，",
+            "因为"
+          ],
+          "correctOrder": [
+            "因为",
+            "下雨，",
+            "所以",
+            "我在家。"
+          ],
+          "correctSentence": "因为下雨，所以我在家。",
+          "explanation": {
+            "vi": "Cấu trúc '因为 + nguyên nhân，所以 + kết quả'.",
+            "en": "Cause-effect frame: 因为 + reason, 所以 + outcome."
+          }
+        }
+      ]
+    },
+    {
+      "id": "zh-hsk2-l3",
+      "levelId": "zh-hsk2",
+      "order": 3,
+      "title": {
+        "native": "爱好、能力与经历",
+        "vi": "Sở thích, khả năng và trải nghiệm",
+        "en": "Hobbies, Ability & Past"
+      },
+      "topic": "hobbies-past",
+      "summary": {
+        "vi": "Phân biệt động từ năng nguyện 会/能/可以 và diễn tả sự việc đã hoàn thành (了) hay từng trải qua (过).",
+        "en": "Contrast modal verbs 会/能/可以 and aspect particles 了 vs. 过."
+      },
+      "xpReward": 50,
+      "vocabulary": [
+        {
+          "id": "zh-hsk2-l3-v1",
+          "term": "游泳",
+          "reading": "yóuyǒng",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "bơi lội",
+            "en": "to swim"
+          },
+          "example": {
+            "text": "你会游泳吗？",
+            "reading": "Nǐ huì yóuyǒng ma?",
+            "meaning": {
+              "vi": "Bạn biết bơi không?",
+              "en": "Do you know how to swim?"
+            }
+          },
+          "note": {
+            "vi": "Kỹ năng học được dùng với '会 (huì)': 会游泳 (biết bơi).",
+            "en": "Learned physical or language skills pair with '会'."
+          }
+        },
+        {
+          "id": "zh-hsk2-l3-v2",
+          "term": "唱歌",
+          "reading": "chànggē",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "hát",
+            "en": "to sing"
+          },
+          "example": {
+            "text": "周末朋友们喜欢一起唱歌。",
+            "reading": "Zhōumò péngyoumen xǐhuan yìqǐ chànggē.",
+            "meaning": {
+              "vi": "Cuối tuần bạn bè thích đi hát cùng nhau.",
+              "en": "Friends enjoy singing together on weekends."
+            }
+          },
+          "note": {
+            "vi": "Động từ ly hợp: 唱了一首歌 (hát một bài hát).",
+            "en": "Separable verb: insert modifiers/objects between 唱 and 歌."
+          }
+        },
+        {
+          "id": "zh-hsk2-l3-v3",
+          "term": "旅游",
+          "reading": "lǚyóu",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "du lịch",
+            "en": "to travel"
+          },
+          "example": {
+            "text": "我去过三次中国旅游。",
+            "reading": "Wǒ qùguo sān cì Zhōngguó lǚyóu.",
+            "meaning": {
+              "vi": "Tôi từng đi du lịch Trung Quốc ba lần.",
+              "en": "I have traveled to China three times."
+            }
+          },
+          "note": {
+            "vi": "Âm đầu 'lǚ' dùng nguyên âm tròn môi 'ü' (trên bàn phím gõ 'lvyou').",
+            "en": "Uses the rounded vowel 'ü': lǚyóu."
+          }
+        },
+        {
+          "id": "zh-hsk2-l3-v4",
+          "term": "可以",
+          "reading": "kěyǐ",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "có thể (được phép)",
+            "en": "may / can (permission)"
+          },
+          "example": {
+            "text": "这里可以拍照吗？",
+            "reading": "Zhèlǐ kěyǐ pāizhào ma?",
+            "meaning": {
+              "vi": "Ở đây có được chụp ảnh không?",
+              "en": "May I take photos here?"
+            }
+          },
+          "note": {
+            "vi": "Biến điệu thanh 3: kěyǐ đọc thành kéyǐ.",
+            "en": "3rd-tone sandhi shifts 'kěyǐ' to 'kéyǐ' in speech."
+          }
+        },
+        {
+          "id": "zh-hsk2-l3-v5",
+          "term": "写字",
+          "reading": "xiězì",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "viết chữ",
+            "en": "to write characters"
+          },
+          "example": {
+            "text": "他写汉字写得很漂亮。",
+            "reading": "Tā xiě Hànzì xiě de hěn piàoliang.",
+            "meaning": {
+              "vi": "Anh ấy viết chữ Hán rất đẹp.",
+              "en": "He writes Chinese characters beautifully."
+            }
+          },
+          "note": {
+            "vi": "Thanh 3 + thanh 4: xiě-zì.",
+            "en": "3rd tone + 4th tone: xiě-zì."
+          }
+        },
+        {
+          "id": "zh-hsk2-l3-v6",
+          "term": "帮助",
+          "reading": "bāngzhù",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "giúp đỡ",
+            "en": "to help"
+          },
+          "example": {
+            "text": "我买了两本词典来帮助学习。",
+            "reading": "Wǒ mǎile liǎng běn cídiǎn lái bāngzhù xuéxí.",
+            "meaning": {
+              "vi": "Tôi đã mua hai cuốn từ điển để hỗ trợ việc học.",
+              "en": "I bought two dictionaries to help with studying."
+            }
+          },
+          "note": {
+            "vi": "Dùng làm cả động từ và danh từ ('你的帮助' - sự giúp đỡ của bạn).",
+            "en": "Works as both a verb and a noun."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "zh-hsk2-l3-g1",
+          "pattern": "会 (skill) vs. 能 (capability/condition) vs. 可以 (permission)",
+          "title": {
+            "vi": "Phân biệt '会', '能' và '可以'",
+            "en": "Distinguishing 会, 能, and 可以"
+          },
+          "structure": "会 + kỹ năng học được | 能 + điều kiện cho phép | 可以 + xin phép",
+          "explanation": {
+            "vi": "'会' chỉ kỹ năng qua học tập (biết nói tiếng Nhật, biết bơi); '能' chỉ khả năng thực hiện trong hoàn cảnh cụ thể; '可以' dùng để xin hoặc cho phép.",
+            "en": "'会' denotes learned skills; '能' indicates physical/situational capability; '可以' expresses permission."
+          },
+          "usageNote": {
+            "vi": "Trả lời từ chối phép lịch sự với '可以…吗？' thường dùng '不可以' hoặc '不行'.",
+            "en": "To politely decline permission, use '不可以' or '不太方便'."
+          },
+          "examples": [
+            {
+              "text": "我会说一点儿日语。",
+              "reading": "Wǒ huì shuō yìdiǎnr Rìyǔ.",
+              "meaning": {
+                "vi": "Tôi biết nói một chút tiếng Nhật.",
+                "en": "I can speak a little Japanese."
+              }
+            },
+            {
+              "text": "请问，我可以坐在这里吗？",
+              "reading": "Qǐngwèn, wǒ kěyǐ zuò zài zhèlǐ ma?",
+              "meaning": {
+                "vi": "Xin hỏi, tôi có thể ngồi ở đây được không?",
+                "en": "Excuse me, may I sit here?"
+              }
+            }
+          ]
+        },
+        {
+          "id": "zh-hsk2-l3-g2",
+          "pattern": "Verb + 了 (hoàn thành) vs. Verb + 过 (từng trải qua)",
+          "title": {
+            "vi": "Trợ từ động thái '了' và '过'",
+            "en": "Aspect Particles 了 (le) vs. 过 (guo)"
+          },
+          "structure": "V + 了 + O (đã làm xong) | V + 过 + O (đã từng trải nghiệm) | Phủ định: 没(有) + V (+ 过)",
+          "explanation": {
+            "vi": "'了' sau động từ đánh dấu hành động đã hoàn thành hoặc phát sinh; '过' nhấn mạnh trải nghiệm đã từng có ít nhất một lần trong đời.",
+            "en": "'了' marks a completed action; '过' highlights past life experience ('have done before')."
+          },
+          "usageNote": {
+            "vi": "Khi phủ định câu có '了', ta dùng '没有 + V' và BỎ '了'; khi phủ định '过', dùng '没(有) + V + 过' và GIỮ '过'.",
+            "en": "Drop '了' after '没(有)', but keep '过' after '没(有)' ('没去过')."
+          },
+          "examples": [
+            {
+              "text": "今天早上我喝了两杯咖啡。",
+              "reading": "Jīntiān zǎoshang wǒ hēle liǎng bēi kāfēi.",
+              "meaning": {
+                "vi": "Sáng nay tôi đã uống hai ly cà phê.",
+                "en": "This morning I drank two cups of coffee."
+              }
+            },
+            {
+              "text": "我以前没去过北京，很想去看看。",
+              "reading": "Wǒ yǐqián méi qùguo Běijīng, hěn xiǎng qù kànkan.",
+              "meaning": {
+                "vi": "Trước đây tôi chưa từng đến Bắc Kinh, rất muốn đi xem thử.",
+                "en": "I have never been to Beijing before and would love to visit."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Chia sẻ sở thích và chuyến đi",
+          "en": "Sharing Hobbies & Travel Stories"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "An và Wei Chen nói về sở thích cuối tuần và trải nghiệm du lịch.",
+          "en": "An and Wei Chen talk about hobbies and places they have visited."
+        },
+        "lines": [
+          {
+            "speaker": "An",
+            "text": "陈伟，你周末一般喜欢做什么？",
+            "reading": "Chén Wěi, nǐ zhōumò yìbān xǐhuan zuò shénme?",
+            "meaning": {
+              "vi": "Trần Vĩ, cuối tuần bạn thường thích làm gì?",
+              "en": "Chen Wei, what do you usually like doing on weekends?"
+            }
+          },
+          {
+            "speaker": "Wei Chen",
+            "text": "我喜欢游泳，有时候也和朋友去唱歌。你会游泳吗？",
+            "reading": "Wǒ xǐhuan yóuyǒng, yǒushíhou yě hé péngyou qù chànggē. Nǐ huì yóuyǒng ma?",
+            "meaning": {
+              "vi": "Mình thích bơi, thỉnh thoảng cũng đi hát với bạn bè. Bạn biết bơi không?",
+              "en": "I like swimming and sometimes sing with friends. Do you know how to swim?"
+            }
+          },
+          {
+            "speaker": "An",
+            "text": "我会一点儿。对了，你去过下龙湾旅游吗？",
+            "reading": "Wǒ huì yìdiǎnr. Duìle, nǐ qùguo Xiàlóngwān lǚyóu ma?",
+            "meaning": {
+              "vi": "Mình biết một chút. À, bạn từng đi du lịch Vịnh Hạ Long chưa?",
+              "en": "A little. By the way, have you ever traveled to Ha Long Bay?"
+            }
+          },
+          {
+            "speaker": "Wei Chen",
+            "text": "去过一次，风景太美了！下个月我们可以再去吗？",
+            "reading": "Qùguo yí cì, fēngjǐng tài měi le! Xià gè yuè wǒmen kěyǐ zài qù ma?",
+            "meaning": {
+              "vi": "Từng đi một lần rồi, phong cảnh đẹp tuyệt vời! Tháng sau tụi mình đi lại được không?",
+              "en": "Once! The scenery was breathtaking. Could we go again next month?"
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Khi trả lời câu hỏi '你去过…吗？', chỉ cần đáp ngắn gọn '去过 (Đã từng)' hoặc '没去过 (Chưa từng)' là rất tự nhiên.",
+          "en": "To answer 'Have you been to...?', simply saying '去过' (yes) or '没去过' (never) sounds completely natural."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "zh-hsk2-l3-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Câu nào phủ định ĐÚNG cho trải nghiệm 'Chưa từng đi Thượng Hải'?",
+            "en": "Which sentence correctly states 'I have never been to Shanghai'?"
+          },
+          "targetText": "never been to Shanghai",
+          "options": [
+            "我没去过上海。",
+            "我不去过上海。",
+            "我没去了上海。",
+            "我不去了上海。"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Phủ định trải nghiệm dùng '没(有) + V + 过'.",
+            "en": "Negate past experience with '没 + Verb + 过'."
+          }
+        },
+        {
+          "id": "zh-hsk2-l3-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn Pinyin đúng cho '旅游'.",
+            "en": "Select the matching Pinyin for '旅游'."
+          },
+          "targetText": "旅游",
+          "ttsText": "旅游",
+          "options": [
+            "lǚyóu",
+            "yóuyǒng",
+            "chànggē",
+            "bāngzhù"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'旅游' đọc là lǚyóu.",
+            "en": "'旅游' is pronounced lǚyóu."
+          }
+        },
+        {
+          "id": "zh-hsk2-l3-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn động từ năng nguyện chỉ kỹ năng đã học:",
+            "en": "Choose the modal verb indicating a learned skill:"
+          },
+          "targetText": "我弟弟___写很多汉字。",
+          "ttsText": "我弟弟会写很多汉字。",
+          "options": [
+            "会",
+            "有",
+            "在",
+            "过"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Biết viết chữ Hán là kỹ năng học được nên dùng '会 (huì)'.",
+            "en": "Use '会' for acquired skills such as writing Hanzi."
+          }
+        },
+        {
+          "id": "zh-hsk2-l3-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu xin phép lịch sự.",
+            "en": "Arrange the tokens into a polite permission question."
+          },
+          "targetMeaning": {
+            "vi": "Tôi có thể ngồi ở đây không?",
+            "en": "May I sit here?"
+          },
+          "tokens": [
+            "这里吗？",
+            "可以",
+            "我",
+            "坐在"
+          ],
+          "correctOrder": [
+            "我",
+            "可以",
+            "坐在",
+            "这里吗？"
+          ],
+          "correctSentence": "我可以坐在这里吗？",
+          "explanation": {
+            "vi": "Trật tự chuẩn: 我 + 可以 + 坐在 + 这里吗？",
+            "en": "Standard question order: 我 + 可以 + 坐在 + 这里吗？"
+          }
+        }
+      ]
+    }
+  ]
+}

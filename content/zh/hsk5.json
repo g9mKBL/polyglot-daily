@@ -1,0 +1,1125 @@
+{
+  "levelId": "zh-hsk5",
+  "language": "zh",
+  "code": "HSK5",
+  "order": 5,
+  "title": {
+    "vi": "HSK 5 — Thành ngữ và văn phong nghị luận",
+    "en": "HSK 5 — Idioms & Analytical Discourse"
+  },
+  "subtitle": {
+    "vi": "Xã hội số, giá trị văn hóa lịch sử và phân tích kinh tế bằng Thành ngữ",
+    "en": "Digital society, cultural values, and analytical prose with 成语"
+  },
+  "estimatedMinutes": 55,
+  "lessons": [
+    {
+      "id": "zh-hsk5-l1",
+      "levelId": "zh-hsk5",
+      "order": 1,
+      "title": {
+        "native": "数字社会与信息素养",
+        "vi": "Xã hội số và bản lĩnh thông tin",
+        "en": "Modern Digital Society"
+      },
+      "topic": "digital-society",
+      "summary": {
+        "vi": "Vận dụng thành ngữ '与日俱增', liên từ '从而/毕竟' và cấu trúc phản biện '并非' để bàn về kỷ nguyên số.",
+        "en": "Analyze digital habits using 与日俱增, 从而, 毕竟, and formal negation 并非."
+      },
+      "xpReward": 65,
+      "vocabulary": [
+        {
+          "id": "zh-hsk5-l1-v1",
+          "term": "与日俱增",
+          "reading": "yǔ rì jù zēng",
+          "partOfSpeech": "idiom",
+          "meaning": {
+            "vi": "tăng lên từng ngày (thành ngữ)",
+            "en": "to grow steadily day by day"
+          },
+          "example": {
+            "text": "人们对优质在线课程的需求与日俱增。",
+            "reading": "Rénmen duì yōuzhì zàixiàn kèchéng de xūqiú yǔ rì jù zēng.",
+            "meaning": {
+              "vi": "Nhu cầu của mọi người đối với các khóa học trực tuyến chất lượng tăng lên từng ngày.",
+              "en": "Demand for quality online courses is growing day by day."
+            }
+          },
+          "note": {
+            "vi": "Thường làm vị ngữ sau các danh từ trừu tượng như 需求 (nhu cầu), 压力 (áp lực), 影响 (ảnh hưởng).",
+            "en": "Used as a predicate after abstract nouns like 需求, 压力, or 兴趣."
+          }
+        },
+        {
+          "id": "zh-hsk5-l1-v2",
+          "term": "从而",
+          "reading": "cóng'ér",
+          "partOfSpeech": "conjunction",
+          "meaning": {
+            "vi": "từ đó mà, nhờ vậy mà",
+            "en": "thus / thereby"
+          },
+          "example": {
+            "text": "系统会自动记录错题，从而帮助学习者有针对性地复习。",
+            "reading": "Xìtǒng huì zìdòng jìlù cuòtí, cóng'ér bāngzhù xuéxízhě yǒu zhēnduìxìng de fùxí.",
+            "meaning": {
+              "vi": "Hệ thống tự động ghi lại câu sai, từ đó giúp người học ôn tập có trọng tâm.",
+              "en": "The system automatically logs missed questions, thereby helping learners review systematically."
+            }
+          },
+          "note": {
+            "vi": "Dùng ở vế sau để nối phương pháp/nguyên nhân với kết quả tích cực hoặc tất yếu.",
+            "en": "Connects a method or cause directly to its resulting outcome."
+          }
+        },
+        {
+          "id": "zh-hsk5-l1-v3",
+          "term": "毕竟",
+          "reading": "bìjìng",
+          "partOfSpeech": "adverb",
+          "meaning": {
+            "vi": "suy cho cùng, rốt cuộc thì",
+            "en": "after all / all things considered"
+          },
+          "example": {
+            "text": "算法推荐再聪明，毕竟不能代替独立思考。",
+            "reading": "Suànfǎ tuījiàn zài cōngming, bìjìng bù néng dàitì dúlì sīkǎo.",
+            "meaning": {
+              "vi": "Thuật toán gợi ý có thông minh đến đâu, suy cho cùng cũng không thể thay thế tư duy độc lập.",
+              "en": "No matter how clever algorithmic feeds are, after all they cannot replace independent thought."
+            }
+          },
+          "note": {
+            "vi": "Đứng trước động từ hoặc đầu mệnh đề để nhấn mạnh lý do cốt lõi hiển nhiên.",
+            "en": "Highlights a fundamental reality that puts the argument in perspective."
+          }
+        },
+        {
+          "id": "zh-hsk5-l1-v4",
+          "term": "并非",
+          "reading": "bìngfēi",
+          "partOfSpeech": "adverb",
+          "meaning": {
+            "vi": "hoàn toàn không phải (trang trọng)",
+            "en": "by no means / not really"
+          },
+          "example": {
+            "text": "信息越多，并非代表理解越深。",
+            "reading": "Xìnxī yuè duō, bìngfēi dàibiǎo lǐjiě yuè shēn.",
+            "meaning": {
+              "vi": "Thông tin càng nhiều hoàn toàn không đồng nghĩa với việc hiểu càng sâu.",
+              "en": "More information by no means guarantees deeper understanding."
+            }
+          },
+          "note": {
+            "vi": "Văn viết trang trọng của '并不是'; rất đắt giá khi bác bỏ ngộ nhận.",
+            "en": "Written counterpart to '并不是'; ideal for refuting misconceptions."
+          }
+        },
+        {
+          "id": "zh-hsk5-l1-v5",
+          "term": "依赖",
+          "reading": "yīlài",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "phụ thuộc, lệ thuộc vào",
+            "en": "to rely / depend heavily on"
+          },
+          "example": {
+            "text": "过度依赖即时翻译会削弱语言记忆。",
+            "reading": "Guòdù yīlài jíshí fānyì huì xuēruò yǔyán jìyì.",
+            "meaning": {
+              "vi": "Phụ thuộc quá mức vào dịch tức thời sẽ làm suy yếu trí nhớ ngôn ngữ.",
+              "en": "Over-reliance on instant translation weakens language retention."
+            }
+          },
+          "note": {
+            "vi": "Thường mang sắc thái phê phán nếu đi với '过度 (quá mức)'.",
+            "en": "Carries a cautionary tone when paired with '过度 (excessively)'."
+          }
+        },
+        {
+          "id": "zh-hsk5-l1-v6",
+          "term": "辨别",
+          "reading": "biànbié",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "phân biệt, nhận diện đúng sai",
+            "en": "to distinguish / discern"
+          },
+          "example": {
+            "text": "在海量资讯中学会辨别真伪至关重要。",
+            "reading": "Zài hǎiliàng zīxùn zhōng xuéhuì biànbié zhēnwěi zhìguān zhòngyào.",
+            "meaning": {
+              "vi": "Trong biển thông tin khổng lồ, học cách phân biệt thật giả là điều tối quan trọng.",
+              "en": "Learning to discern truth from falsehood amid massive information is vital."
+            }
+          },
+          "note": {
+            "vi": "Cụm hay gặp: 辨别真伪 (phân biệt thật giả), 辨别方向 (xác định phương hướng).",
+            "en": "Collocations: 辨别真伪 (truth vs. falsehood), 辨别是非."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "zh-hsk5-l1-g1",
+          "pattern": "Clause 1 (hành động/biện pháp)，从而 + Clause 2 (kết quả)",
+          "title": {
+            "vi": "Liên kết hệ quả trang trọng với '从而'",
+            "en": "Resultative Conjunction 从而 (cóng'ér)"
+          },
+          "structure": "Biện pháp / Nguyên nhân，从而 + Verb Phrase",
+          "explanation": {
+            "vi": "'从而' nối trực tiếp phương tiện hoặc bước đi ở vế trước với kết quả tất yếu ở vế sau; không cần lặp lại chủ ngữ nếu cùng chủ thể.",
+            "en": "'从而' bridges an action or method to its logical outcome, commonly without repeating the subject."
+          },
+          "usageNote": {
+            "vi": "Khác với '所以' (khẩu ngữ, nối lý do chung), '从而' thiên về văn viết phân tích chuỗi nhân quả rõ nét.",
+            "en": "More analytical than '所以', focusing on how an action enables an outcome."
+          },
+          "examples": [
+            {
+              "text": "他坚持每天朗读十五分钟，从而克服了开口紧张。",
+              "reading": "Tā jiānchí měitiān lǎngdú shíwǔ fēnzhōng, cóng'ér kèfúle kāikǒu jǐnzhāng.",
+              "meaning": {
+                "vi": "Anh ấy kiên trì đọc to mười lăm phút mỗi ngày, từ đó khắc phục được sự rụt rè khi mở lời.",
+                "en": "He practiced reading aloud for fifteen minutes daily, thereby overcoming speaking anxiety."
+              }
+            },
+            {
+              "text": "平台优化了复习算法，从而提升了用户的留存率。",
+              "reading": "Píngtái yōuhuàle fùxí suànfǎ, cóng'ér tíshēngle yònghù de liúcúnlǜ.",
+              "meaning": {
+                "vi": "Nền tảng đã tối ưu thuật toán ôn tập, qua đó nâng cao tỷ lệ gắn bó của người dùng.",
+                "en": "The platform refined its review algorithm, thereby raising user retention."
+              }
+            }
+          ]
+        },
+        {
+          "id": "zh-hsk5-l1-g2",
+          "pattern": "并非 + Noun / Verb / Adj (Phủ định uyển chuyển nhưng dứt khoát)",
+          "title": {
+            "vi": "Phủ định nghị luận '并非' (Hoàn toàn không phải)",
+            "en": "Formal Refutation with 并非 (bìngfēi)"
+          },
+          "structure": "A + 并非 + B (，而是 + C)",
+          "explanation": {
+            "vi": "Dùng '并非' để bác bỏ một quan niệm sai lầm phổ biến; thường kết hợp với '而是' để nêu ra bản chất đúng đắn.",
+            "en": "'并非' politely yet firmly refutes a misconception, frequently followed by '而是' to state the real cause."
+          },
+          "usageNote": {
+            "vi": "Văn viết chuẩn mực rất ưa cặp '并非…而是…' thay cho '不是…而是…'.",
+            "en": "'并非…而是…' elevates argumentative clarity in essays and articles."
+          },
+          "examples": [
+            {
+              "text": "学好外语并非天赋使然，而是长期积累的结果。",
+              "reading": "Xuéhǎo wàiyǔ bìngfēi tiānfù shǐrán, érshì chángqī jīlěi de jiéguǒ.",
+              "meaning": {
+                "vi": "Học giỏi ngoại ngữ hoàn toàn không phải do thiên bẩm, mà là kết quả của tích lũy dài lâu.",
+                "en": "Mastering a language is by no means mere talent; rather, it is the fruit of steady accumulation."
+              }
+            },
+            {
+              "text": "数字工具的初衷并非取代思考，而是腾出精力去创造。",
+              "reading": "Shùzì gōngjù de chūzhōng bìngfēi qǔdài sīkǎo, érshì téngchū jīnglì qù chuàngzào.",
+              "meaning": {
+                "vi": "Mục đích ban đầu của công cụ số không phải để thay thế tư duy, mà là giải phóng sức lực cho sáng tạo.",
+                "en": "Digital tools are meant not to replace thought, but to free energy for creativity."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Tư duy phản biện trong kỷ nguyên số",
+          "en": "Critical Thinking in the Digital Age"
+        },
+        "mode": "reading",
+        "context": {
+          "vi": "Bài bình luận ngắn về việc cân bằng giữa công nghệ số và năng lực tự chủ của người học.",
+          "en": "Short commentary on balancing digital convenience with learner autonomy."
+        },
+        "lines": [
+          {
+            "speaker": "评论员",
+            "text": "如今，手机应用让外语学习资源变得触手可及，用户的学习热情也与日俱增。",
+            "reading": "Rújīn, shǒujī yìngyòng ràng wàiyǔ xuéxí zīyuán biànde chùshǒu-kějì, yònghù de xuéxí rèqíng yě yǔ rì jù zēng.",
+            "meaning": {
+              "vi": "Ngày nay, ứng dụng di động giúp tài nguyên học ngoại ngữ trở nên trong tầm tay, và nhiệt huyết của người học cũng tăng lên từng ngày.",
+              "en": "Today, mobile apps put language resources within reach, and learner enthusiasm grows day by day."
+            }
+          },
+          {
+            "speaker": "评论员",
+            "text": "然而，碎片化阅读并非系统掌握语言，过度依赖即时翻译反而容易让人失去语感。",
+            "reading": "Rán'ér, suìpiànhuà yuèdú bìngfēi xìtǒng zhǎngwò yǔyán, guòdù yīlài jíshí fānyì fǎn'ér róngyì ràng rén shīqù yǔgǎn.",
+            "meaning": {
+              "vi": "Tuy nhiên, đọc lướt mảnh vụn hoàn toàn không phải là nắm vững ngôn ngữ có hệ thống; lệ thuộc quá mức vào dịch tức thời ngược lại dễ làm mất cảm giác ngôn ngữ.",
+              "en": "Yet fragmented reading is by no means systematic mastery; over-reliance on instant translation easily dulls linguistic intuition."
+            }
+          },
+          {
+            "speaker": "评论员",
+            "text": "技术毕竟只是辅助工具，学习者仍需学会辨别信息质量，建立自己的知识框架。",
+            "reading": "Jìshù bìjìng zhǐshì fǔzhù gōngjù, xuéxízhě réng xū xuéhuì biànbié xìnxī zhìliàng, jiànlì zìjǐ de zhīshi kuàngjià.",
+            "meaning": {
+              "vi": "Công nghệ suy cho cùng chỉ là công cụ hỗ trợ; người học vẫn cần biết phân biệt chất lượng thông tin và dựng khung kiến thức cho riêng mình.",
+              "en": "Technology is, after all, only a supporting tool; learners must still evaluate sources and build their own mental framework."
+            }
+          },
+          {
+            "speaker": "评论员",
+            "text": "唯有将规律复习与深度交流结合起来，从而才能把输入真正转化为表达能力。",
+            "reading": "Wéiyǒu jiāng guīlǜ fùxí yǔ shēndù jiāoliú jiéhé qǐlái, cóng'ér cái néng bǎ shūrù zhēnzhèng zhuǎnhuà wéi biǎodá nénglì.",
+            "meaning": {
+              "vi": "Chỉ khi kết hợp ôn tập đều đặn với trao đổi chuyên sâu, từ đó mới có thể chuyển hóa đầu vào thành năng lực diễn đạt thực sự.",
+              "en": "Only by pairing regular review with deep dialogue can we turn passive input into real expressive ability."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Trong văn nghị luận HSK 5, việc dùng các liên từ mạch lạc như '然而' (tuy nhiên), '毕竟' (suy cho cùng), '从而' (từ đó) giúp đoạn văn chặt chẽ rõ rệt.",
+          "en": "Connectors like 然而, 毕竟, and 从而 form the backbone of cohesive HSK 5 analytical essays."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "zh-hsk5-l1-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Thành ngữ '与日俱增' diễn tả ý nghĩa nào?",
+            "en": "What does the idiom '与日俱增' mean?"
+          },
+          "targetText": "与日俱增",
+          "targetReading": "yǔ rì jù zēng",
+          "ttsText": "与日俱增",
+          "options": [
+            "Tăng lên từng ngày",
+            "Giảm sút nhanh chóng",
+            "Giữ nguyên không đổi",
+            "Trì hoãn vô thời hạn"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'与日俱增' nghĩa là tăng dần theo từng ngày.",
+            "en": "'与日俱增' literally means growing together with each passing day."
+          }
+        },
+        {
+          "id": "zh-hsk5-l1-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn Pinyin đúng cho '从而'.",
+            "en": "Select the matching Pinyin for '从而'."
+          },
+          "targetText": "从而",
+          "ttsText": "从而",
+          "options": [
+            "cóng'ér",
+            "bìjìng",
+            "bìngfēi",
+            "biànbié"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'从而' đọc là cóng'ér (dấu nháy phân âm trước 'ér').",
+            "en": "'从而' is read cóng'ér."
+          }
+        },
+        {
+          "id": "zh-hsk5-l1-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn từ phủ định trang trọng đi cùng '而是':",
+            "en": "Choose the formal negation pairing with '而是':"
+          },
+          "targetText": "成功___偶然，而是长期努力的回报。",
+          "ttsText": "成功并非偶然，而是长期努力的回报。",
+          "options": [
+            "并非",
+            "从而",
+            "毕竟",
+            "依赖"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Cặp chuẩn là '并非…而是…' (hoàn toàn không phải... mà là...).",
+            "en": "'并非…而是…' refutes one claim and supplies the true cause."
+          }
+        },
+        {
+          "id": "zh-hsk5-l1-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu dùng '毕竟' hoàn chỉnh.",
+            "en": "Order the phrases into a sentence using '毕竟'."
+          },
+          "targetMeaning": {
+            "vi": "Công cụ suy cho cùng chỉ là trợ thủ.",
+            "en": "Tools are, after all, just an aid."
+          },
+          "tokens": [
+            "只是",
+            "工具",
+            "毕竟",
+            "辅助。"
+          ],
+          "correctOrder": [
+            "工具",
+            "毕竟",
+            "只是",
+            "辅助。"
+          ],
+          "correctSentence": "工具毕竟只是辅助。",
+          "explanation": {
+            "vi": "Trật tự: 工具 + 毕竟 + 只是 + 辅助。",
+            "en": "Order: 工具 + 毕竟 + 只是 + 辅助。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "zh-hsk5-l2",
+      "levelId": "zh-hsk5",
+      "order": 2,
+      "title": {
+        "native": "历史传承与文化价值",
+        "vi": "Truyền thống lịch sử và giá trị văn hóa",
+        "en": "History & Cultural Values"
+      },
+      "topic": "culture-history",
+      "summary": {
+        "vi": "Dùng cấu trúc '以…为…' và '尽管…然而…' để bàn luận về bảo tồn di sản văn hóa.",
+        "en": "Discuss heritage preservation using 以…为… and 尽管…然而…."
+      },
+      "xpReward": 65,
+      "vocabulary": [
+        {
+          "id": "zh-hsk5-l2-v1",
+          "term": "传承",
+          "reading": "chuánchéng",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "kế thừa và truyền lại (di sản, nghề truyền thống)",
+            "en": "to pass down / inherit"
+          },
+          "example": {
+            "text": "这门手艺已经在这座古城传承了三百年。",
+            "reading": "Zhè mén shǒuyì yǐjīng zài zhè zuò gǔchéng chuánchéngle sānbǎi nián.",
+            "meaning": {
+              "vi": "Nghề thủ công này đã được truyền nối suốt ba trăm năm ở cổ thành này.",
+              "en": "This craft has been passed down in the ancient town for three hundred years."
+            }
+          },
+          "note": {
+            "vi": "Lượng từ cho nghề/kỹ nghệ là '门 (mén)': 一门手艺.",
+            "en": "Measure word for traditional crafts/skills: '门 (mén)'."
+          }
+        },
+        {
+          "id": "zh-hsk5-l2-v2",
+          "term": "底蕴",
+          "reading": "dǐyùn",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "chiều sâu tích lũy (văn hóa, lịch sử)",
+            "en": "deep cultural heritage / substance"
+          },
+          "example": {
+            "text": "老街区虽然不大，却有着深厚的历史底蕴。",
+            "reading": "Lǎo jiēqū suīrán bú dà, què yǒuzhe shēnhòu de lìshǐ dǐyùn.",
+            "meaning": {
+              "vi": "Khu phố cổ tuy không lớn nhưng mang chiều sâu lịch sử dày dặn.",
+              "en": "Though compact, the old quarter holds rich historical depth."
+            }
+          },
+          "note": {
+            "vi": "Tính từ đi kèm kinh điển: '深厚 (shēnhòu - sâu dày)'.",
+            "en": "Classic adjective collocation: '深厚的文化底蕴'."
+          }
+        },
+        {
+          "id": "zh-hsk5-l2-v3",
+          "term": "融合",
+          "reading": "rónghé",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "hòa quyện, dung hợp",
+            "en": "to blend / integrate"
+          },
+          "example": {
+            "text": "新茶馆以传统建筑为基础，融合了现代设计。",
+            "reading": "Xīn cháguǎn yǐ chuántǒng jiànzhù wéi jīchǔ, rónghéle xiàndài shèjì.",
+            "meaning": {
+              "vi": "Quán trà mới lấy kiến trúc truyền thống làm nền tảng, dung hợp thêm thiết kế hiện đại.",
+              "en": "The new teahouse builds on traditional architecture while blending modern design."
+            }
+          },
+          "note": {
+            "vi": "Nhấn mạnh hai yếu tố khác nhau kết hợp hài hòa thành một thể thống nhất.",
+            "en": "Connotes harmonious blending rather than forced mixing."
+          }
+        },
+        {
+          "id": "zh-hsk5-l2-v4",
+          "term": "珍贵",
+          "reading": "zhēnguì",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "quý báu, trân quý",
+            "en": "precious / valuable"
+          },
+          "example": {
+            "text": "这些地方文献是研究民俗的珍贵资料。",
+            "reading": "Zhèxiē dìfang wénxiàn shì yánjiū mínsú de zhēnguì zīliào.",
+            "meaning": {
+              "vi": "Những thư tịch địa phương này là tư liệu quý giá để nghiên cứu dân gian.",
+              "en": "These local records are precious materials for studying folk customs."
+            }
+          },
+          "note": {
+            "vi": "Thường dùng cho ký ức, văn vật, thời gian hoặc tư liệu.",
+            "en": "Describes memories, relics, documents, or rare moments."
+          }
+        },
+        {
+          "id": "zh-hsk5-l2-v5",
+          "term": "保留",
+          "reading": "bǎoliú",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "giữ lại, bảo lưu",
+            "en": "to preserve / retain"
+          },
+          "example": {
+            "text": "翻修古宅时应尽量保留原有的木质结构。",
+            "reading": "Fānxiū gǔzhái shí yīng jǐnliàng bǎoliú yuányǒu de mùzhì jiégòu.",
+            "meaning": {
+              "vi": "Khi tu sửa nhà cổ nên cố gắng giữ lại kết cấu gỗ nguyên bản.",
+              "en": "When restoring old residences, one should retain the original wooden frame."
+            }
+          },
+          "note": {
+            "vi": "Ngoài nghĩa giữ lại kiến trúc/phong tục, còn có nghĩa 'bảo lưu ý kiến' (保留意见).",
+            "en": "Also used in '保留意见' (reserve one's opinion)."
+          }
+        },
+        {
+          "id": "zh-hsk5-l2-v6",
+          "term": "蕴含",
+          "reading": "yùnhán",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "hàm chứa, ẩn chứa bên trong",
+            "en": "to embody / contain within"
+          },
+          "example": {
+            "text": "小小一枚茶杯也蕴含着待客之道。",
+            "reading": "Xiǎoxiǎo yì méi chábēi yě yùnhánzhe dàikè zhī dào.",
+            "meaning": {
+              "vi": "Chỉ một chén trà nhỏ cũng hàm chứa đạo lý tiếp khách.",
+              "en": "Even a modest teacup embodies the philosophy of hospitality."
+            }
+          },
+          "note": {
+            "vi": "Thường đi kèm trợ từ '着 (zhe)' trước ý nghĩa văn hóa hoặc triết lý.",
+            "en": "Often takes '着' before cultural meanings or values."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "zh-hsk5-l2-g1",
+          "pattern": "以 + A + 为 + B",
+          "title": {
+            "vi": "Khung cấu trúc '以…为…' (Lấy A làm B)",
+            "en": "Formal Frame 以…为… (Take A as B)"
+          },
+          "structure": "以 + [phương tiện/cơ sở/tiêu chí] + 为 + [mục tiêu/nền tảng]",
+          "explanation": {
+            "vi": "Cấu trúc văn viết súc tích diễn tả lấy A làm tiêu chuẩn, trọng tâm hoặc cơ sở cho B.",
+            "en": "Compact formal construction expressing 'to regard/use A as B' or 'centered on A'."
+          },
+          "usageNote": {
+            "vi": "Các cụm cố định hay gặp: 以…为主 (lấy... làm chủ đạo), 以…为基础 (lấy... làm nền tảng), 以…为例 (lấy... làm ví dụ).",
+            "en": "High-frequency templates: 以…为主, 以…为基础, 以…为例."
+          },
+          "examples": [
+            {
+              "text": "这座博物馆以陶瓷文化为主题。",
+              "reading": "Zhè zuò bówùguǎn yǐ táocí wénhuà wéi zhǔtí.",
+              "meaning": {
+                "vi": "Bảo tàng này lấy văn hóa gốm sứ làm chủ đề chính.",
+                "en": "This museum takes ceramic culture as its core theme."
+              }
+            },
+            {
+              "text": "我们以节气为例，看看古人如何观察自然。",
+              "reading": "Wǒmen yǐ jiéqì wéi lì, kànkan gǔrén rúhé guānchá zìrán.",
+              "meaning": {
+                "vi": "Chúng ta lấy 24 tiết khí làm ví dụ để xem người xưa quan sát tự nhiên ra sao.",
+                "en": "Taking solar terms as an example, let's see how the ancients observed nature."
+              }
+            }
+          ]
+        },
+        {
+          "id": "zh-hsk5-l2-g2",
+          "pattern": "尽管 + Mệnh đề nhượng bộ，然而 / 却 + Mệnh đề chuyển ý",
+          "title": {
+            "vi": "Chuyển ý trang trọng '尽管…然而…'",
+            "en": "Formal Concession 尽管…然而…"
+          },
+          "structure": "尽管 + [sự thật đã biết]，然而 / 却 + [nhấn mạnh đối lập]",
+          "explanation": {
+            "vi": "Trang trọng hơn '虽然…但是…', dùng trong bài thuyết trình hoặc viết bình luận văn hóa.",
+            "en": "A literary/analytical upgrade to '虽然…但是…' for presentations and essays."
+          },
+          "usageNote": {
+            "vi": "'然而' đứng đầu vế sau trước chủ ngữ; còn '却' luôn đứng sau chủ ngữ.",
+            "en": "'然而' opens the second clause before the subject, whereas '却' stands after the subject."
+          },
+          "examples": [
+            {
+              "text": "尽管工艺繁复，然而年轻匠人依然耐心打磨。",
+              "reading": "Jǐnguǎn gōngyì fánfù, rán'ér niánqīng jiàngrén yīrán nàixīn dǎmó.",
+              "meaning": {
+                "vi": "Dù công đoạn tinh xảo phức tạp, những nghệ nhân trẻ vẫn kiên nhẫn trau chuốt.",
+                "en": "Although the craft is intricate, young artisans still polish every piece patiently."
+              }
+            },
+            {
+              "text": "尽管年代久远，这些诗句却依然打动人心。",
+              "reading": "Jǐnguǎn niándài jiǔyuǎn, zhèxiē shījù què yīrán dǎdòng rénxīn.",
+              "meaning": {
+                "vi": "Dù đã trải qua năm tháng xa xưa, những câu thơ ấy vẫn lay động lòng người.",
+                "en": "Though centuries old, these verses still move readers today."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Sức sống mới của phố nghề thủ công",
+          "en": "Reviving a Traditional Craft District"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Linh Đan và Kenji trao đổi sau khi tham quan triển lãm thủ công mỹ nghệ.",
+          "en": "Linh Dan and Kenji reflect after visiting a heritage craft exhibition."
+        },
+        "lines": [
+          {
+            "speaker": "Kenji",
+            "text": "今天在老街看到的漆器展真让人惊叹，每件作品都蕴含着深厚的文化底蕴。",
+            "reading": "Jīntiān zài lǎojiē kàndào de qīqì zhǎn zhēn ràng rén jīngtàn, měi jiàn zuòpǐn dōu yùnhánzhe shēnhòu de wénhuà dǐyùn.",
+            "meaning": {
+              "vi": "Triển lãm sơn mài ở phố cổ hôm nay thật sự khiến người ta trầm trồ, mỗi tác phẩm đều hàm chứa chiều sâu văn hóa dày dặn.",
+              "en": "Today's lacquerware exhibit in the old quarter was astonishing—every piece holds deep cultural heritage."
+            }
+          },
+          {
+            "speaker": "Linh Dan",
+            "text": "是啊，尽管传统手艺面临节奏快带来的挑战，然而不少年轻人正在用新思路把它传承下去。",
+            "reading": "Shì a, jǐnguǎn chuántǒng shǒuyì miànlín jiézòu kuài dàilái de tiǎozhàn, rán'ér bùshǎo niánqīng rén zhèngzài yòng xīn sīlù bǎ tā chuánchéng xiàqù.",
+            "meaning": {
+              "vi": "Đúng vậy, dù nghề thủ công truyền thống đối mặt thách thức từ nhịp sống nhanh, không ít người trẻ đang dùng tư duy mới để kế thừa nó.",
+              "en": "Indeed—although traditional crafts face pressure from today's fast pace, many young people are passing them on with fresh ideas."
+            }
+          },
+          {
+            "speaker": "Kenji",
+            "text": "我最欣赏那位设计师的做法：他以实用器皿为主，同时融合了现代审美。",
+            "reading": "Wǒ zuì xīnshǎng nà wèi shèjìshī de zuòfǎ: tā yǐ shíyòng qìmǐn wéi zhǔ, tóngshí rónghéle xiàndài shěnměi.",
+            "meaning": {
+              "vi": "Mình thích nhất cách làm của nhà thiết kế kia: anh ấy lấy vật dụng thiết thực làm chủ đạo, đồng thời dung hợp thẩm mỹ hiện đại.",
+              "en": "I especially admired that designer's approach: centering on practical wares while blending modern aesthetics."
+            }
+          },
+          {
+            "speaker": "Linh Dan",
+            "text": "既保留珍贵的传统技艺，又贴近当代生活，这样的创新才能走得更远。",
+            "reading": "Jì bǎoliú zhēnguì de chuántǒng jìyì, yòu tiējìn dāngdài shēnghuó, zhèyàng de chuàngxīn cái néng zǒu de gèng yuǎn.",
+            "meaning": {
+              "vi": "Vừa giữ lại kỹ nghệ truyền thống quý báu, vừa gần gũi đời sống đương đại — sự đổi mới như vậy mới đi được đường dài.",
+              "en": "Preserving precious heritage skills while staying relevant to modern life—that kind of innovation endures."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Cách nói '走得更远 (đi xa hơn / phát triển bền vững lâu dài)' rất được ưa chuộng khi đánh giá triển vọng của văn hóa hay dự án.",
+          "en": "'走得更远 (go further / endure long-term)' is a vivid metaphor for sustainable cultural or creative vitality."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "zh-hsk5-l2-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Từ nào chỉ 'chiều sâu tích lũy văn hóa hoặc lịch sử'?",
+            "en": "Which noun means 'deep cultural or historical substance'?"
+          },
+          "targetText": "深厚的文化___",
+          "options": [
+            "底蕴",
+            "效率",
+            "态度",
+            "压力"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Cụm chuẩn là '深厚的文化底蕴'.",
+            "en": "'底蕴' pairs with '深厚' to express cultural depth."
+          }
+        },
+        {
+          "id": "zh-hsk5-l2-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn Pinyin đúng cho '传承'.",
+            "en": "Choose the matching Pinyin for '传承'."
+          },
+          "targetText": "传承",
+          "ttsText": "传承",
+          "options": [
+            "chuánchéng",
+            "rónghé",
+            "bǎoliú",
+            "yùnhán"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'传承' đọc là chuánchéng (cả hai thanh 2).",
+            "en": "'传承' is pronounced chuánchéng."
+          }
+        },
+        {
+          "id": "zh-hsk5-l2-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Hoàn thành khung cấu trúc 'Lấy trải nghiệm người dùng làm trung tâm':",
+            "en": "Complete the formal frame 'take user experience as the core':"
+          },
+          "targetText": "这套方案以用户体验___核心。",
+          "ttsText": "这套方案以用户体验为核心。",
+          "options": [
+            "为",
+            "把",
+            "被",
+            "从而"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Cấu trúc '以 + A + 为 + B' dùng '为 (wéi)'.",
+            "en": "The formal pattern is '以…为…'."
+          }
+        },
+        {
+          "id": "zh-hsk5-l2-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu nêu sự hòa quyện truyền thống và hiện đại.",
+            "en": "Order the tokens into a sentence about blending old and new."
+          },
+          "targetMeaning": {
+            "vi": "Thiết kế dung hợp các yếu tố truyền thống.",
+            "en": "The design blends traditional elements."
+          },
+          "tokens": [
+            "传统",
+            "设计",
+            "元素。",
+            "融合了"
+          ],
+          "correctOrder": [
+            "设计",
+            "融合了",
+            "传统",
+            "元素。"
+          ],
+          "correctSentence": "设计融合了传统元素。",
+          "explanation": {
+            "vi": "Trật tự: 设计 + 融合了 + 传统 + 元素。",
+            "en": "Order: 设计 + 融合了 + 传统 + 元素。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "zh-hsk5-l3",
+      "levelId": "zh-hsk5",
+      "order": 3,
+      "title": {
+        "native": "经济观察与理性分析",
+        "vi": "Góc nhìn kinh tế và phân tích lý tính",
+        "en": "Economic & Analytical Views"
+      },
+      "topic": "economics-analysis",
+      "summary": {
+        "vi": "Vận dụng thành ngữ '归根结底', cấu trúc '与其…不如…' và thuật ngữ kinh tế tiêu dùng hợp lý.",
+        "en": "Analyze consumer trends using 归根结底, 与其…不如…, and rational-choice vocabulary."
+      },
+      "xpReward": 65,
+      "vocabulary": [
+        {
+          "id": "zh-hsk5-l3-v1",
+          "term": "归根结底",
+          "reading": "guīgēn-jiédǐ",
+          "partOfSpeech": "idiom",
+          "meaning": {
+            "vi": "quy cho cùng, xét đến tận gốc rễ",
+            "en": "in the final analysis / ultimately"
+          },
+          "example": {
+            "text": "品牌的竞争力归根结底取决于产品品质。",
+            "reading": "Pǐnpái de jìngzhēnglì guīgēn-jiédǐ qǔjué yú chǎnpǐn pǐnzhì.",
+            "meaning": {
+              "vi": "Sức cạnh tranh của thương hiệu xét đến tận gốc rễ phụ thuộc vào chất lượng sản phẩm.",
+              "en": "A brand's competitiveness ultimately hinges on product quality."
+            }
+          },
+          "note": {
+            "vi": "Đặt trước động từ chính hoặc đầu câu tổng kết luận điểm.",
+            "en": "Ideal for summarizing the root cause in analytical writing."
+          }
+        },
+        {
+          "id": "zh-hsk5-l3-v2",
+          "term": "趋势",
+          "reading": "qūshì",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "xu thế, xu hướng",
+            "en": "trend / tendency"
+          },
+          "example": {
+            "text": "理性消费正成为年轻群体的新趋势。",
+            "reading": "Lǐxìng xiāofèi zhèng chéngwéi niánqīng qúntǐ de xīn qūshì.",
+            "meaning": {
+              "vi": "Tiêu dùng lý tính đang trở thành xu hướng mới của giới trẻ.",
+              "en": "Rational consumption is becoming a new trend among young adults."
+            }
+          },
+          "note": {
+            "vi": "Thường đi với 顺应趋势 (thuận theo xu thế), 发展趋 (xu hướng phát triển).",
+            "en": "Collocates with 成为新趋势 (become a new trend)."
+          }
+        },
+        {
+          "id": "zh-hsk5-l3-v3",
+          "term": "权衡",
+          "reading": "quánhéng",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "cân nhắc thiệt hơn, đong đếm",
+            "en": "to weigh / balance (pros and cons)"
+          },
+          "example": {
+            "text": "投资前必须充分权衡收益与风险。",
+            "reading": "Tóuzī qián bìxū chōngfèn quánhéng shōuyì yǔ fēngxiǎn.",
+            "meaning": {
+              "vi": "Trước khi đầu tư phải cân nhắc đầy đủ giữa lợi nhuận và rủi ro.",
+              "en": "Before investing, one must carefully weigh returns against risks."
+            }
+          },
+          "note": {
+            "vi": "Cụm chuẩn: 权衡利弊 (cân nhắc lợi hại).",
+            "en": "Classic phrase: 权衡利弊 (weigh pros and cons)."
+          }
+        },
+        {
+          "id": "zh-hsk5-l3-v4",
+          "term": "性价比",
+          "reading": "xìngjiàbǐ",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "tỷ lệ hiệu năng trên giá thành (đáng tiền)",
+            "en": "cost-performance ratio / value for money"
+          },
+          "example": {
+            "text": "如今消费者更加注重实用性和性价比。",
+            "reading": "Rújīn xiāofèizhě gèngjiā zhùzhòng shíyòngxìng hé xìngjiàbǐ.",
+            "meaning": {
+              "vi": "Ngày nay người tiêu dùng chú trọng tính thiết thực và độ đáng tiền hơn.",
+              "en": "Consumers today pay closer attention to practicality and value for money."
+            }
+          },
+          "note": {
+            "vi": "Từ ghép của 性能 (hiệu năng) + 价格 (giá cả) + 比例 (tỷ lệ).",
+            "en": "Compound of performance (性能) + price (价格) + ratio (比例)."
+          }
+        },
+        {
+          "id": "zh-hsk5-l3-v5",
+          "term": "盲目",
+          "reading": "mángmù",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "mù quáng, chạy theo thiếu suy xét",
+            "en": "blind / unthinking"
+          },
+          "example": {
+            "text": "与其盲目跟风，不如根据实际需求做决定。",
+            "reading": "Yǔqí mángmù gēnfēng, bùrú gēnjù shíjì xūqiú zuò juédìng.",
+            "meaning": {
+              "vi": "Thay vì chạy theo phong trào một cách mù quáng, thà quyết định dựa trên nhu cầu thực tế.",
+              "en": "Rather than blindly following trends, it's better to decide based on real needs."
+            }
+          },
+          "note": {
+            "vi": "Hay kết hợp với 跟风 (chạy theo trào lưu) hoặc 扩张 (mở rộng ồ ạt).",
+            "en": "Frequently precedes verbs like 跟风 (follow trends) or 乐观 (optimism)."
+          }
+        },
+        {
+          "id": "zh-hsk5-l3-v6",
+          "term": "衡量",
+          "reading": "héngliáng",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "đo lường, đánh giá theo tiêu chuẩn",
+            "en": "to measure / evaluate"
+          },
+          "example": {
+            "text": "单一指标很难全面衡量项目的长期价值。",
+            "reading": "Dānyī zhǐbiāo hěn nán quánmiàn héngliáng xiàngmù de chángqī jiàzhí.",
+            "meaning": {
+              "vi": "Một chỉ số đơn lẻ rất khó đánh giá toàn diện giá trị dài hạn của dự án.",
+              "en": "A single metric can scarcely measure a project's long-term value."
+            }
+          },
+          "note": {
+            "vi": "Phân biệt với 权衡: '衡量' là dùng thước đo đánh giá giá trị; '权衡' là cân nhắc hai phương án.",
+            "en": "'衡量' measures value by a standard; '权衡' weighs competing trade-offs."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "zh-hsk5-l3-g1",
+          "pattern": "与其 + Option A (kém hơn)，不如 + Option B (tốt hơn)",
+          "title": {
+            "vi": "So sánh lựa chọn '与其…不如…' (Thay vì... thà rằng...)",
+            "en": "Preferential Contrast 与其…不如…"
+          },
+          "structure": "与其 + [lựa chọn không nên]，不如 + [lựa chọn khuyến nghị]",
+          "explanation": {
+            "vi": "Đặt phương án ít tối ưu sau '与其' và phương án nên chọn sau '不如' để thuyết phục người nghe một cách dứt khoát.",
+            "en": "Reject option A after '与其' and endorse option B after '不如' for crisp persuasion."
+          },
+          "usageNote": {
+            "vi": "Có thể mở rộng thành '与其…, 倒不如…' để tăng sắc thái khuyên nhủ tự nhiên.",
+            "en": "'倒不如' adds conversational emphasis in spoken recommendations."
+          },
+          "examples": [
+            {
+              "text": "与其熬夜突击，不如每天坚持学二十分钟。",
+              "reading": "Yǔqí áoyè tūjī, bùrú měitiān jiānchí xué èrshí fēnzhōng.",
+              "meaning": {
+                "vi": "Thay vì thức khuya học nhồi, thà mỗi ngày kiên trì học hai mươi phút.",
+                "en": "Rather than cramming late at night, it's better to stick to twenty minutes daily."
+              }
+            },
+            {
+              "text": "与其抱怨环境，不如先着手改善自己的方法。",
+              "reading": "Yǔqí bàoyuàn huánjìng, bùrú xiān zhuóshǒu gǎishàn zìjǐ de fāngfǎ.",
+              "meaning": {
+                "vi": "Thay vì than phiền hoàn cảnh, thà bắt tay cải thiện phương pháp của chính mình trước.",
+                "en": "Better to refine your own approach than complain about circumstances."
+              }
+            }
+          ]
+        },
+        {
+          "id": "zh-hsk5-l3-g2",
+          "pattern": "归根结底，+ Core Thesis / S + 归根结底 + 取决于…",
+          "title": {
+            "vi": "Tổng kết bản chất bằng '归根结底' và '取决于'",
+            "en": "Root-Cause Synthesis with 归根结底 & 取决于"
+          },
+          "structure": "归根结底，[luận điểm cốt lõi] | A + 取决于 + B (phụ thuộc quyết định vào B)",
+          "explanation": {
+            "vi": "'归根结底' giúp chốt lại nguyên nhân gốc rễ sau khi đã phân tích nhiều khía cạnh; '取决于' chỉ nhân tố quyết định.",
+            "en": "'归根结底' distills a multifaceted topic down to its root factor; '取决于' specifies what an outcome hinges on."
+          },
+          "usageNote": {
+            "vi": "Không dùng '取决于' với mệnh đề quá dài mà ưu tiên cụm danh từ hoặc cụm '是否…'.",
+            "en": "Follow '取决于' with a concise noun phrase or '是否…' clause."
+          },
+          "examples": [
+            {
+              "text": "价格战只能带来短期流量，归根结底还是要靠服务留人。",
+              "reading": "Jiàgézhàn zhǐ néng dàilái duǎnqī liúliàng, guīgēn-jiédǐ háishi yào kào fúwù liúrén.",
+              "meaning": {
+                "vi": "Chiến tranh giá chỉ đem lại lưu lượng ngắn hạn; xét đến cùng vẫn phải dựa vào dịch vụ để giữ chân khách.",
+                "en": "Price wars bring only short-term traffic; ultimately retention relies on service."
+              }
+            },
+            {
+              "text": "长期收益取决于能否合理控制成本。",
+              "reading": "Chángqī shōuyì qǔjué yú néngfǒu hélǐ kòngzhì chéngběn.",
+              "meaning": {
+                "vi": "Lợi nhuận dài hạn phụ thuộc vào việc có kiểm soát chi phí hợp lý hay không.",
+                "en": "Long-term returns depend on whether costs are managed sensibly."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Xu hướng tiêu dùng thực chất của người trẻ",
+          "en": "The Rise of Mindful Consumption"
+        },
+        "mode": "reading",
+        "context": {
+          "vi": "Trích đoạn chuyên mục bình luận kinh tế về sự dịch chuyển sang tiêu dùng cân nhắc giá trị thực.",
+          "en": "An economic commentary excerpt on shifting consumer priorities."
+        },
+        "lines": [
+          {
+            "speaker": "专栏作者",
+            "text": "近年来，不盲目追求名牌、更加看重性价比的消费趋势正悄然兴起。",
+            "reading": "Jìnnián lái, bù mángmù zhuīqiú míngpái, gèngjiā kànzhòng xìngjiàbǐ de xiāofèi qūshì zhèng qiǎorán xīngqǐ.",
+            "meaning": {
+              "vi": "Những năm gần đây, xu hướng tiêu dùng không mù quáng chạy theo hàng hiệu mà coi trọng độ đáng tiền đang âm thầm trỗi dậy.",
+              "en": "In recent years, a trend of prioritizing real value over blind brand chasing has quietly emerged."
+            }
+          },
+          {
+            "speaker": "专栏作者",
+            "text": "许多消费者在下单前会权衡实用寿命与维护成本，而不是只看一时的折扣。",
+            "reading": "Xǔduō xiāofèizhě zài xiàdān qián huì quánhéng shíyòng shòumìng yǔ wéihù chéngběn, ér búshì zhǐ kàn yìshí de zhékòu.",
+            "meaning": {
+              "vi": "Nhiều người tiêu dùng trước khi đặt mua sẽ cân nhắc tuổi thọ sử dụng và chi phí bảo trì, thay vì chỉ nhìn vào khuyến mãi nhất thời.",
+              "en": "Many shoppers weigh durability and upkeep costs before ordering, instead of chasing fleeting discounts."
+            }
+          },
+          {
+            "speaker": "专栏作者",
+            "text": "对商家而言，与其把预算全砸在短期营销上，不如用扎实的质量赢得口碑。",
+            "reading": "Duì shāngjiā ér yán, yǔqí bǎ yùsuàn quán zá zài duǎnqī yíngxiāo shàng, bùrú yòng zhāshí de zhìliàng yíngdé kǒubēi.",
+            "meaning": {
+              "vi": "Đối với doanh nghiệp mà nói, thay vì dồn hết ngân sách vào tiếp thị ngắn hạn, thà dùng chất lượng vững chắc để giành uy tín truyền miệng.",
+              "en": "For businesses, rather than pouring budgets into short-lived hype, it is wiser to earn reputation through solid quality."
+            }
+          },
+          {
+            "speaker": "专栏作者",
+            "text": "因为市场信任的建立归根结底要靠长期价值来衡量，而非短暂的热度。",
+            "reading": "Yīnwèi shìchǎng xìnrèn de jiànlì guīgēn-jiédǐ yào kào chángqī jiàzhí lái héngliáng, ér fēi duǎnzàn de rèdù.",
+            "meaning": {
+              "vi": "Bởi lẽ việc gây dựng niềm tin thị trường xét đến tận gốc rễ phải được đo bằng giá trị dài hạn, chứ không phải độ nóng nhất thời.",
+              "en": "Ultimately, market trust is measured by lasting value rather than fleeting buzz."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Từ '口碑 (kǒubēi - danh tiếng truyền miệng)' phản ánh rất rõ tâm lý tin tưởng đánh giá thực tế từ bạn bè trong văn hóa tiêu dùng Á Đông.",
+          "en": "'口碑 (word-of-mouth reputation)' plays a decisive role in consumer trust across Chinese-speaking markets."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "zh-hsk5-l3-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Từ '性价比' biểu đạt khái niệm nào?",
+            "en": "What does '性价比' refer to?"
+          },
+          "targetText": "性价比",
+          "targetReading": "xìngjiàbǐ",
+          "ttsText": "性价比",
+          "options": [
+            "Tỷ lệ chất lượng/hiệu năng so với giá tiền",
+            "Chiến dịch quảng cáo ngắn hạn",
+            "Tốc độ giao hàng nhanh",
+            "Thuế giá trị gia tăng"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'性价比 (xìngjiàbǐ)' là mức độ xứng đáng của chất lượng so với số tiền bỏ ra.",
+            "en": "'性价比' is the price-to-performance ratio (value for money)."
+          }
+        },
+        {
+          "id": "zh-hsk5-l3-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn Pinyin đúng cho '权衡'.",
+            "en": "Choose the matching Pinyin for '权衡'."
+          },
+          "targetText": "权衡",
+          "ttsText": "权衡",
+          "options": [
+            "quánhéng",
+            "héngliáng",
+            "mángmù",
+            "qūshì"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'权衡' đọc là quánhéng (hai thanh 2).",
+            "en": "'权衡' is pronounced quánhéng."
+          }
+        },
+        {
+          "id": "zh-hsk5-l3-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Hoàn thành cặp cấu trúc khuyên chọn phương án tốt hơn:",
+            "en": "Complete the preferential contrast frame:"
+          },
+          "targetText": "___盲目模仿，不如踏实研究规律。",
+          "ttsText": "与其盲目模仿，不如踏实研究规律。",
+          "options": [
+            "与其",
+            "尽管",
+            "随着",
+            "从而"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Cấu trúc '与其 A，不如 B' nghĩa là 'thay vì A, thà rằng B'.",
+            "en": "'与其…不如…' means 'rather than A, better to B'."
+          }
+        },
+        {
+          "id": "zh-hsk5-l3-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu tổng kết luận điểm bằng '归根结底'.",
+            "en": "Arrange the tokens into a summary statement with '归根结底'."
+          },
+          "targetMeaning": {
+            "vi": "Thành công xét đến cùng phụ thuộc vào sự kiên trì.",
+            "en": "Success ultimately depends on perseverance."
+          },
+          "tokens": [
+            "取决于",
+            "坚持。",
+            "成功",
+            "归根结底"
+          ],
+          "correctOrder": [
+            "成功",
+            "归根结底",
+            "取决于",
+            "坚持。"
+          ],
+          "correctSentence": "成功归根结底取决于坚持。",
+          "explanation": {
+            "vi": "Trật tự: 成功 + 归根结底 + 取决于 + 坚持。",
+            "en": "Order: 成功 + 归根结底 + 取决于 + 坚持。"
+          }
+        }
+      ]
+    }
+  ]
+}

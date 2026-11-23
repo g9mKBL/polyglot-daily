@@ -1,0 +1,1123 @@
+{
+  "levelId": "zh-hsk6",
+  "language": "zh",
+  "code": "HSK6",
+  "order": 6,
+  "title": {
+    "vi": "HSK 6 — Văn phong bác học và chính luận",
+    "en": "HSK 6 — Literary & Diplomatic Mastery"
+  },
+  "subtitle": {
+    "vi": "Chính luận truyền thông, mỹ học triết lý và văn phong ngoại giao",
+    "en": "Public policy, philosophy and aesthetics, and diplomatic prose"
+  },
+  "estimatedMinutes": 60,
+  "lessons": [
+    {
+      "id": "zh-hsk6-l1",
+      "levelId": "zh-hsk6",
+      "order": 1,
+      "title": {
+        "native": "公共政策与媒体责任",
+        "vi": "Chính sách công và trách nhiệm truyền thông",
+        "en": "Media & Public Policy"
+      },
+      "topic": "public-policy",
+      "summary": {
+        "vi": "Làm chủ lớp từ vựng chính luận cao cấp (毋庸置疑, 迫在眉睫, 亟待) và câu giả thiết văn viết '倘若'.",
+        "en": "Master high-register policy idioms (毋庸置疑, 迫在眉睫, 亟待) and literary conditional 倘若."
+      },
+      "xpReward": 70,
+      "vocabulary": [
+        {
+          "id": "zh-hsk6-l1-v1",
+          "term": "毋庸置疑",
+          "reading": "wúyōng-zhìyí",
+          "partOfSpeech": "idiom",
+          "meaning": {
+            "vi": "không còn gì phải nghi ngờ, hiển nhiên",
+            "en": "beyond any doubt / indisputable"
+          },
+          "example": {
+            "text": "公共媒体核实事实的职责毋庸置疑。",
+            "reading": "Gōnggòng méitǐ héshí shìshí de zhízé wúyōng-zhìyí.",
+            "meaning": {
+              "vi": "Trách nhiệm kiểm chứng sự thật của truyền thông công chúng là điều không thể nghi ngờ.",
+              "en": "Public media's duty to verify facts is beyond question."
+            }
+          },
+          "note": {
+            "vi": "Mạnh và trang nhã hơn '毫无疑问' trong văn bản chính sách.",
+            "en": "Higher written register than '毫无疑问'."
+          }
+        },
+        {
+          "id": "zh-hsk6-l1-v2",
+          "term": "迫在眉睫",
+          "reading": "pò zài méijié",
+          "partOfSpeech": "idiom",
+          "meaning": {
+            "vi": "cấp bách ngay trước mắt (nghĩa đen: sát ngay lông mày lông mi)",
+            "en": "imminent / urgently pressing"
+          },
+          "example": {
+            "text": "完善个人数据保护法规已迫在眉睫。",
+            "reading": "Wánshàn gèrén shùjù bǎohù fǎguī yǐ pò zài méijié.",
+            "meaning": {
+              "vi": "Việc hoàn thiện quy định bảo vệ dữ liệu cá nhân đã cấp bách lắm rồi.",
+              "en": "Refining personal data protection regulations is now urgently pressing."
+            }
+          },
+          "note": {
+            "vi": "Không dùng cho việc vặt hằng ngày; chỉ dùng cho vấn đề xã hội/chiến lược khẩn thiết.",
+            "en": "Reserved for serious policy, civic, or strategic urgencies."
+          }
+        },
+        {
+          "id": "zh-hsk6-l1-v3",
+          "term": "亟待",
+          "reading": "jídài",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "đang hết sức cần được (giải quyết/hoàn thiện)",
+            "en": "urgently in need of"
+          },
+          "example": {
+            "text": "城乡教育资源均衡问题亟待解决。",
+            "reading": "Chéngxiāng jiàoyù zīyuán jūnhéng wèntí jídài jiějué.",
+            "meaning": {
+              "vi": "Vấn đề cân bằng nguồn lực giáo dục thành thị - nông thôn đang cấp thiết cần giải quyết.",
+              "en": "The urban-rural gap in educational resources urgently needs resolution."
+            }
+          },
+          "note": {
+            "vi": "Chữ '亟' ở đây đọc là jí (không đọc qì); cụm hay gặp: 亟待改善, 亟待破解.",
+            "en": "Read '亟' as jí here; collocates with 解决, 完善, 改善."
+          }
+        },
+        {
+          "id": "zh-hsk6-l1-v4",
+          "term": "倘若",
+          "reading": "tǎngruò",
+          "partOfSpeech": "conjunction",
+          "meaning": {
+            "vi": "nếu như, giả sử (văn viết trang trọng)",
+            "en": "supposing / if (literary)"
+          },
+          "example": {
+            "text": "倘若缺乏透明机制，公众信任便难以维系。",
+            "reading": "Tǎngruò quēfá tòumíng jīzhì, gōngzhòng xìnrèn biàn nányǐ wéixì.",
+            "meaning": {
+              "vi": "Nếu như thiếu cơ chế minh bạch, niềm tin công chúng ắt khó duy trì.",
+              "en": "Should transparent mechanisms be lacking, public trust is hard to sustain."
+            }
+          },
+          "note": {
+            "vi": "Thường phối hợp với '便 (biàn)' hoặc '则 (zé)' ở vế sau.",
+            "en": "Often pairs with literary '便 (biàn)' or '则 (zé)' in the result clause."
+          }
+        },
+        {
+          "id": "zh-hsk6-l1-v5",
+          "term": "导向",
+          "reading": "dǎoxiàng",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "định hướng, sự dẫn dắt dư luận/chính sách",
+            "en": "orientation / guiding direction"
+          },
+          "example": {
+            "text": "高质量报道应当坚持客观公正的舆论导向。",
+            "reading": "Gāo zhìliàng bàodǎo yīngdāng jiānchí kèguān gōngzhèng de yúlùn dǎoxiàng.",
+            "meaning": {
+              "vi": "Bản tin chất lượng cao cần giữ vững định hướng dư luận khách quan, công tâm.",
+              "en": "High-quality reporting should uphold an objective, fair public orientation."
+            }
+          },
+          "note": {
+            "vi": "Cụm hay dùng: 价值导向 (định hướng giá trị), 问题导向 (lấy vấn đề làm trọng tâm).",
+            "en": "Collocations: 问题导向 (problem-oriented), 价值导向."
+          }
+        },
+        {
+          "id": "zh-hsk6-l1-v6",
+          "term": "统筹",
+          "reading": "tǒngchóu",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "điều phối tổng thể, hoạch định bao quát",
+            "en": "to coordinate overall / plan holistically"
+          },
+          "example": {
+            "text": "制定政策需要统筹短期救济与长远发展。",
+            "reading": "Zhìdìng zhèngcè xūyào tǒngchóu duǎnqī jiùjì yǔ chángyuǎn fāzhǎn.",
+            "meaning": {
+              "vi": "Hoạch định chính sách cần điều phối hài hòa giữa hỗ trợ ngắn hạn và phát triển dài lâu.",
+              "en": "Policymaking requires coordinating short-term relief with long-term development."
+            }
+          },
+          "note": {
+            "vi": "Cụm kinh điển: 统筹兼顾 (lo liệu bao quát mọi mặt).",
+            "en": "Classic pairing: 统筹兼顾 (take all factors into account)."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "zh-hsk6-l1-g1",
+          "pattern": "倘若 + Giả thiết，便 / 则 + Hệ quả (Văn viết trang trọng)",
+          "title": {
+            "vi": "Câu giả định văn chính luận '倘若…便…'",
+            "en": "Literary Conditional 倘若…便…"
+          },
+          "structure": "倘若 + Clause 1，(主语) + 便 / 则 + Clause 2",
+          "explanation": {
+            "vi": "'倘若' là dạng văn viết tao nhã của '如果', kết hợp cùng '便' hoặc '则' (tương đương '就') tạo nhịp văn chính luận trang nghiêm.",
+            "en": "'倘若' elevates '如果', pairing with '便' or '则' for formal policy and editorial reasoning."
+          },
+          "usageNote": {
+            "vi": "Tránh trộn '倘若' với khẩu ngữ bình dân như '要是…的话…' trong cùng một câu.",
+            "en": "Keep consistent high register throughout the sentence."
+          },
+          "examples": [
+            {
+              "text": "倘若只追求点击率，媒体便容易丧失公信力。",
+              "reading": "Tǎngruò zhǐ zhuīqiú diǎnjīlǜ, méitǐ biàn róngyì sàngshī gōngxìnlì.",
+              "meaning": {
+                "vi": "Nếu như chỉ chạy theo lượt nhấp, truyền thông ắt dễ đánh mất uy tín công chúng.",
+                "en": "Should outlets chase clicks alone, they risk losing public credibility."
+              }
+            },
+            {
+              "text": "倘若各方能够协同推进，改革则可事半功倍。",
+              "reading": "Tǎngruò gèfāng nénggòu xiétóng tuījìn, gǎigé zé kě shìbàn-gōngbèi.",
+              "meaning": {
+                "vi": "Nếu các bên có thể phối hợp thúc đẩy đồng bộ, cải cách sẽ đạt hiệu quả gấp bội.",
+                "en": "If all parties coordinate, reform can achieve twice the result with half the effort."
+              }
+            }
+          ]
+        },
+        {
+          "id": "zh-hsk6-l1-g2",
+          "pattern": "固然 + Nhượng bộ hiển nhiên，但 / 然而 + Trọng tâm thực chất",
+          "title": {
+            "vi": "Khung lập luận phản biện '固然…然而…'",
+            "en": "Concessive Pivot 固然…然而…"
+          },
+          "structure": "A + 固然 + [điểm thừa nhận]，然而 / 但 + [khía cạnh quan trọng hơn]",
+          "explanation": {
+            "vi": "'固然' thừa nhận một khía cạnh đúng không thể chối cãi, qua đó làm nổi bật luận điểm cân bằng hoặc sâu sắc hơn ở vế sau.",
+            "en": "'固然' concedes an undeniable truth before pivoting to a deeper or more urgent counterpoint."
+          },
+          "usageNote": {
+            "vi": "Thường đặt '固然' ngay sau chủ ngữ ('速度固然重要').",
+            "en": "Place '固然' directly after the subject being evaluated."
+          },
+          "examples": [
+            {
+              "text": "传播速度固然重要，然而内容准确更是底线。",
+              "reading": "Chuánbō sùdù gùrán zhòngyào, rán'ér nèiróng zhǔnquè gèng shì dǐxiàn.",
+              "meaning": {
+                "vi": "Tốc độ lan truyền cố nhiên quan trọng, song độ chính xác của nội dung mới là giới hạn cốt lõi.",
+                "en": "Speed of circulation is certainly important, yet factual accuracy remains the bottom line."
+              }
+            },
+            {
+              "text": "财政投入固然关键，制度监督同样不可或缺。",
+              "reading": "Cáizhèng tóurù gùrán guānjiàn, zhìdù jiāndū tóngyàng bùkě huòquē.",
+              "meaning": {
+                "vi": "Đầu tư tài chính đương nhiên then chốt, nhưng giám sát thể chế cũng không thể thiếu.",
+                "en": "Funding is undeniably vital, while institutional oversight is equally indispensable."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Xã luận về quản trị dữ liệu công cộng",
+          "en": "Editorial: Balancing Innovation & Public Trust"
+        },
+        "mode": "reading",
+        "context": {
+          "vi": "Trích đoạn bình luận chính sách công về minh bạch thuật toán và quyền riêng tư.",
+          "en": "Policy editorial excerpt on algorithmic transparency and civic trust."
+        },
+        "lines": [
+          {
+            "speaker": "社论",
+            "text": "数字化政务提升了办事便捷度，这一点毋庸置疑；然而数据滥用风险亦不容忽视。",
+            "reading": "Shùzìhuà zhèngwù tíshēngle bànshì biànjiédù, zhè yìdiǎn wúyōng-zhìyí; rán'ér shùjù lànyòng fēngxiǎn yì bùróng hūshì.",
+            "meaning": {
+              "vi": "Chính quyền số nâng cao mức độ thuận tiện khi làm thủ tục, điều này không còn gì phải nghi ngờ; song rủi ro lạm dụng dữ liệu cũng không thể xem nhẹ.",
+              "en": "Digital governance has undeniably improved administrative convenience; yet data-misuse risks cannot be overlooked."
+            }
+          },
+          {
+            "speaker": "社论",
+            "text": "算法效率固然可观，但倘若缺乏问责规则，公众的知情权便难以保障。",
+            "reading": "Suànfǎ xiàolǜ gùrán kěguān, dàn tǎngruò quēfá wènzé guīzé, gōngzhòng de zhīqíngquán biàn nányǐ bǎozhàng.",
+            "meaning": {
+              "vi": "Hiệu suất thuật toán cố nhiên đáng kể, nhưng nếu thiếu quy tắc truy cứu trách nhiệm thì quyền được biết của công chúng khó lòng bảo đảm.",
+              "en": "Algorithmic efficiency is impressive; however, without accountability rules, the public's right to know is hard to protect."
+            }
+          },
+          {
+            "speaker": "社论",
+            "text": "因此，建立分级监管与独立审计机制已迫在眉睫，相关行业标准亦亟待统一。",
+            "reading": "Yīncǐ, jiànlì fēnjí jiānguǎn yǔ dúlì shěnjì jīzhì yǐ pò zài méijié, xiāngguān hángyè biāozhǔn yì jídài tǒngyī.",
+            "meaning": {
+              "vi": "Do đó, việc thiết lập giám sát phân tầng và kiểm toán độc lập đã cấp bách ngay trước mắt, các tiêu chuẩn ngành liên quan cũng đang hết sức cần thống nhất.",
+              "en": "Establishing tiered oversight and independent audits is therefore imminent, and industry standards urgently require alignment."
+            }
+          },
+          {
+            "speaker": "社论",
+            "text": "唯有坚持以人为本的价值导向，统筹安全与创新，社会治理方能行稳致远。",
+            "reading": "Wéiyǒu jiānchí yǐ rén wéi běn de jiàzhí dǎoxiàng, tǒngchóu ānquán yǔ chuàngxīn, shèhuì zhìlǐ fāng néng xíngwěn-zhìyuǎn.",
+            "meaning": {
+              "vi": "Chỉ khi kiên trì định hướng giá trị lấy con người làm gốc, điều phối hài hòa giữa an toàn và đổi mới, quản trị xã hội mới vững bước đi xa.",
+              "en": "Only by upholding human-centered values and balancing safety with innovation can public governance endure steadily."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Cụm '行稳致远 (vững vàng đi xa)' là thành ngữ/cụm văn chính luận rất thịnh hành khi nói về phát triển bền vững.",
+          "en": "'行稳致远 (advance steadily toward distant goals)' frequently concludes formal policy essays."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "zh-hsk6-l1-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Thành ngữ nào mang nghĩa 'cấp bách ngay trước mắt'?",
+            "en": "Which idiom means 'imminent / urgently pressing'?"
+          },
+          "targetText": "改革已___",
+          "options": [
+            "迫在眉睫",
+            "毋庸置疑",
+            "行稳致远",
+            "事半功倍"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'迫在眉睫' ví tình huống cấp bách sát ngay trước mắt.",
+            "en": "'迫在眉睫' literally means pressing right upon one's eyebrows and eyelashes."
+          }
+        },
+        {
+          "id": "zh-hsk6-l1-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn Pinyin đúng cho '亟待'.",
+            "en": "Choose the matching Pinyin for '亟待'."
+          },
+          "targetText": "亟待",
+          "ttsText": "亟待",
+          "options": [
+            "jídài",
+            "qìdài",
+            "tǒngchóu",
+            "tǎngruò"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Chữ '亟' trong '亟待' đọc là jí: jídài.",
+            "en": "'亟待' is read jídài."
+          }
+        },
+        {
+          "id": "zh-hsk6-l1-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn phó từ nhượng bộ trang trọng khớp với '然而':",
+            "en": "Select the formal concessive adverb pairing with '然而':"
+          },
+          "targetText": "效率___重要，然而公平同样不可偏废。",
+          "ttsText": "效率固然重要，然而公平同样不可偏废。",
+          "options": [
+            "固然",
+            "倘若",
+            "亟待",
+            "从而"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Cặp '固然…然而…' thừa nhận vế đầu rồi chuyển sang vế cân bằng.",
+            "en": "'固然…然而…' concedes one point before emphasizing an equally vital counterweight."
+          }
+        },
+        {
+          "id": "zh-hsk6-l1-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu văn chính luận hoàn chỉnh.",
+            "en": "Order the tokens into a formal policy sentence."
+          },
+          "targetMeaning": {
+            "vi": "Điều này không còn gì phải nghi ngờ.",
+            "en": "This point is beyond any doubt."
+          },
+          "tokens": [
+            "毋庸",
+            "这一点",
+            "置疑。"
+          ],
+          "correctOrder": [
+            "这一点",
+            "毋庸",
+            "置疑。"
+          ],
+          "correctSentence": "这一点毋庸置疑。",
+          "explanation": {
+            "vi": "Trật tự: 这一点 + 毋庸 + 置疑。",
+            "en": "Order: 这一点 + 毋庸 + 置疑。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "zh-hsk6-l2",
+      "levelId": "zh-hsk6",
+      "order": 2,
+      "title": {
+        "native": "哲学思考与东方美学",
+        "vi": "Triết lý và mỹ học phương Đông",
+        "en": "Philosophy & Aesthetics"
+      },
+      "topic": "philosophy-aesthetics",
+      "summary": {
+        "vi": "Khám phá tinh thần '留白' (khoảng trống), '相辅相成' và cách diễn đạt tinh tế giữa động và tĩnh.",
+        "en": "Explore classical aesthetics—留白 (negative space) and 相辅相成—through literary nuance."
+      },
+      "xpReward": 70,
+      "vocabulary": [
+        {
+          "id": "zh-hsk6-l2-v1",
+          "term": "相辅相成",
+          "reading": "xiāngfǔ-xiāngchéng",
+          "partOfSpeech": "idiom",
+          "meaning": {
+            "vi": "bổ trợ lẫn nhau để cùng hoàn thiện",
+            "en": "to complement and reinforce each other"
+          },
+          "example": {
+            "text": "书画艺术中的浓墨与留白往往相辅相成。",
+            "reading": "Shūhuà yìshù zhōng de nóngmò yǔ liúbái wǎngwǎng xiāngfǔ-xiāngchéng.",
+            "meaning": {
+              "vi": "Trong nghệ thuật thư họa, nét mực đậm và khoảng trắng chừa lại thường bổ trợ lẫn nhau tạo nên trọn vẹn.",
+              "en": "In calligraphy and painting, rich ink and negative space reinforce each other."
+            }
+          },
+          "note": {
+            "vi": "Không dùng cho quan hệ một chiều; hai vế phải cùng nâng đỡ nhau.",
+            "en": "Requires two mutually supportive elements."
+          }
+        },
+        {
+          "id": "zh-hsk6-l2-v2",
+          "term": "意境",
+          "reading": "yìjìng",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "ý cảnh, cảnh giới nghệ thuật hòa quyện tình và cảnh",
+            "en": "artistic conception / poetic atmosphere"
+          },
+          "example": {
+            "text": "几笔淡墨便勾勒出空灵悠远的意境。",
+            "reading": "Jǐ bǐ dànmò biàn gōulè chū kōnglíng yōuyuǎn de yìjìng.",
+            "meaning": {
+              "vi": "Chỉ vài nét mực nhạt đã phác họa nên ý cảnh thanh thoát sâu xa.",
+              "en": "A few light brushstrokes sketch an ethereal, far-reaching artistic mood."
+            }
+          },
+          "note": {
+            "vi": "Khái niệm cốt lõi trong thi ca, thủy mặc và kiến trúc vườn cổ.",
+            "en": "Central concept in classical Chinese poetry, ink painting, and garden design."
+          }
+        },
+        {
+          "id": "zh-hsk6-l2-v3",
+          "term": "涵养",
+          "reading": "hányǎng",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "tu dưỡng nội tâm, phong thái điềm đạm sâu sắc",
+            "en": "moral cultivation / self-restraint"
+          },
+          "example": {
+            "text": "真正的涵养体现在身处喧嚣时依然保有静气。",
+            "reading": "Zhēnzhèng de hányǎng tǐxiàn zài shēnchǔ xuānxiāo shí yīrán bǎoyǒu jìngqì.",
+            "meaning": {
+              "vi": "Sự tu dưỡng thực sự thể hiện ở chỗ giữa chốn ồn ào vẫn giữ được nét tĩnh tại.",
+              "en": "True inner cultivation shows in keeping calm amid noise."
+            }
+          },
+          "note": {
+            "vi": "Vừa là danh từ (nội hàm tu dưỡng), vừa là động từ (bồi dưỡng, gìn giữ nguồn nước/tâm tính).",
+            "en": "Noun for poised character; also verb for nurturing."
+          }
+        },
+        {
+          "id": "zh-hsk6-l2-v4",
+          "term": "质朴",
+          "reading": "zhìpǔ",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "mộc mạc, chân chất mà giàu nội lực",
+            "en": "unadorned / simple yet authentic"
+          },
+          "example": {
+            "text": "宋代瓷器以质朴典雅的釉色著称于世。",
+            "reading": "Sòngdài cíqì yǐ zhìpǔ diǎnyǎ de yòusè zhùchēng yú shì.",
+            "meaning": {
+              "vi": "Đồ sứ thời Tống nổi danh thế giới nhờ sắc men mộc mạc mà thanh nhã.",
+              "en": "Song dynasty porcelain is renowned for its unadorned yet refined glazes."
+            }
+          },
+          "note": {
+            "vi": "Mang sắc thái khen ngợi vẻ đẹp tự nhiên không phô trương.",
+            "en": "Praising natural authenticity over flashy ornament."
+          }
+        },
+        {
+          "id": "zh-hsk6-l2-v5",
+          "term": "领悟",
+          "reading": "lǐngwù",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "lĩnh hội, thấu ngộ",
+            "en": "to grasp / comprehend deeply"
+          },
+          "example": {
+            "text": "反复品读之后，我才领悟到诗眼所在。",
+            "reading": "Fǎnfù pǐndú zhīhòu, wǒ cái lǐngwù dào shīyǎn suǒzài.",
+            "meaning": {
+              "vi": "Sau khi nghiền ngẫm nhiều lần, tôi mới lĩnh hội được nhãn tự của bài thơ.",
+              "en": "Only after savoring the poem repeatedly did I grasp its focal pivot."
+            }
+          },
+          "note": {
+            "vi": "Sâu sắc hơn '理解', thường chỉ sự ngộ ra qua chiêm nghiệm.",
+            "en": "Deeper than '理解', implying reflective insight."
+          }
+        },
+        {
+          "id": "zh-hsk6-l2-v6",
+          "term": "契合",
+          "reading": "qìhé",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "ăn khớp, đồng điệu sâu sắc",
+            "en": "to harmonize / resonate seamlessly"
+          },
+          "example": {
+            "text": "极简设计理念与古代造园美学不谋而合、高度契合。",
+            "reading": "Jíjiǎn shèjì lǐniàn yǔ gǔdài zàoyuán měixué bùmóu-érhé, gāodù qìhé.",
+            "meaning": {
+              "vi": "Triết lý thiết kế tối giản tình cờ trùng khớp và đồng điệu cao độ với mỹ học tạo vườn cổ đại.",
+              "en": "Minimalist design resonates deeply with classical garden aesthetics."
+            }
+          },
+          "note": {
+            "vi": "Thanh 4 + thanh 2: qì-hé (không đọc nhầm thành qiè).",
+            "en": "Pronounce '契' as qì (4th tone)."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "zh-hsk6-l2-g1",
+          "pattern": "与其说 A，不如说 B (Nói là A thì đúng hơn là B)",
+          "title": {
+            "vi": "Đào sâu bản chất bằng '与其说…不如说…'",
+            "en": "Precision Redefinition 与其说…不如说…"
+          },
+          "structure": "A + 与其说是 + X，不如说是 + Y",
+          "explanation": {
+            "vi": "Không chỉ so sánh chọn lựa như '与其…不如…', thêm chữ '说' biến cấu trúc thành phép định nghĩa tinh tế: mô tả X chưa sát bằng gọi đúng bản chất là Y.",
+            "en": "Adding '说' shifts the frame from choosing actions to refining a definition ('less X than Y')."
+          },
+          "usageNote": {
+            "vi": "Rất hay dùng trong bình luận nghệ thuật, triết học và phê bình văn học.",
+            "en": "Signature phrasing in literary criticism and philosophical essays."
+          },
+          "examples": [
+            {
+              "text": "留白与其说是空白，不如说是想象生长的空间。",
+              "reading": "Liúbái yǔqí shuō shì kòngbái, bùrú shuō shì xiǎngxiàng shēngzhǎng de kōngjiān.",
+              "meaning": {
+                "vi": "Khoảng trắng trong tranh nói là chỗ trống thì chi bằng nói là không gian cho trí tưởng tượng nảy nở.",
+                "en": "Negative space is less mere emptiness than room for imagination to grow."
+              }
+            },
+            {
+              "text": "读书与其说是记忆条文，不如说是与作者隔空对话。",
+              "reading": "Dúshū yǔqí shuō shì jìyì tiáowén, bùrú shuō shì yǔ zuòzhě gékōng duìhuà.",
+              "meaning": {
+                "vi": "Đọc sách nói là học thuộc câu chữ chi bằng nói là đối thoại vượt không gian với tác giả.",
+                "en": "Reading is less memorizing lines than conversing with the author across distance."
+              }
+            }
+          ]
+        },
+        {
+          "id": "zh-hsk6-l2-g2",
+          "pattern": "非但…，反而… / 既非…，亦非…",
+          "title": {
+            "vi": "Song song bác bỏ văn ngôn nhẹ '既非…，亦非…'",
+            "en": "Balanced Negation 既非…亦非…"
+          },
+          "structure": "既非 + [cực đoan 1]，亦非 + [cực đoan 2]，而是 + [chân lý cân bằng]",
+          "explanation": {
+            "vi": "Dùng '既非…亦非…' (vừa không phải... cũng chẳng phải...) để loại trừ hai thái cực phiến diện trước khi đưa ra nhận định thấu đáo.",
+            "en": "Reject two extremes symmetrically with '既非…亦非…' before stating a balanced insight."
+          },
+          "usageNote": {
+            "vi": "Nhịp điệu 4 chữ cân xứng rất đặc trưng cho văn phong HSK 6.",
+            "en": "Creates symmetrical, rhythmic prose ideal for HSK 6 essays."
+          },
+          "examples": [
+            {
+              "text": "东方美学的质朴既非简陋，亦非冷漠，而是克制中的丰盈。",
+              "reading": "Dōngfāng měixué de zhìpǔ jìfēi jiǎnlòu, yìfēi lěngmò, érshì kèzhì zhōng de fēngyíng.",
+              "meaning": {
+                "vi": "Sự mộc mạc của mỹ học phương Đông vừa không phải sơ sài, cũng chẳng phải lạnh lẽo, mà là sự phong phú trong tiết chế.",
+                "en": "Simplicity in Eastern aesthetics is neither austerity nor coldness, but richness within restraint."
+              }
+            },
+            {
+              "text": "修身既非一朝一夕之功，亦非脱离日常的空谈。",
+              "reading": "Xiūshēn jìfēi yìzhāo-yìxī zhī gōng, yìfēi tuōlí rìcháng de kōngtán.",
+              "meaning": {
+                "vi": "Tu dưỡng bản thân vừa chẳng phải công phu một sớm một chiều, cũng không phải lời suông tách rời đời sống.",
+                "en": "Self-cultivation is neither an overnight feat nor abstract talk divorced from daily life."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Nghệ thuật chừa khoảng trống trong thư họa",
+          "en": "The Aesthetics of Negative Space"
+        },
+        "mode": "reading",
+        "context": {
+          "vi": "Đoạn tản văn triết lý về khái niệm '留白' (khoảng trống) trong nghệ thuật và nhịp sống hiện đại.",
+          "en": "A philosophical essay excerpt on '留白' (intentional blank space) in art and life."
+        },
+        "lines": [
+          {
+            "speaker": "散文",
+            "text": "中国山水画向来讲究'计白当黑'，画面中的留白与浓墨相辅相成，共同造就深远意境。",
+            "reading": "Zhōngguó shānshuǐhuà xiànglái jiǎngjiu 'jì bái dāng hēi', huàmiàn zhōng de liúbái yǔ nóngmò xiāngfǔ-xiāngchéng, gòngtóng zàojiù shēnyuǎn yìjìng.",
+            "meaning": {
+              "vi": "Tranh sơn thủy Trung Hoa xưa nay coi trọng 'lấy trắng làm đen'; khoảng trống và nét mực đậm trên mặt tranh bổ trợ lẫn nhau, cùng tạo nên ý cảnh sâu xa.",
+              "en": "Chinese landscape painting has long prized 'treating blank space as ink': void and brushstroke complement one another to create depth."
+            }
+          },
+          {
+            "speaker": "散文",
+            "text": "那片未着笔墨之处，与其说是省略，不如说是留给观者呼吸与领悟的余地。",
+            "reading": "Nà piàn wèi zhuó bǐmò zhī chù, yǔqí shuō shì shěnglüè, bùrú shuō shì liú gěi guānzhě hūxī yǔ lǐngwù de yúdì.",
+            "meaning": {
+              "vi": "Khoảng giấy chưa hạ bút ấy nói là lược bỏ thì chi bằng nói là chừa lại khoảng thở và dư địa chiêm nghiệm cho người thưởng ngoạn.",
+              "en": "That untouched expanse is less an omission than breathing room left for the viewer's own insight."
+            }
+          },
+          {
+            "speaker": "散文",
+            "text": "质朴的线条之所以动人，正因其与自然节律高度契合，既非炫技，亦非仓促。",
+            "reading": "Zhìpǔ de xiàntiáo zhī suǒyǐ dòngrén, zhèng yīn qí yǔ zìrán jiélǜ gāodù qìhé, jìfēi xuànjì, yìfēi cāngcù.",
+            "meaning": {
+              "vi": "Đường nét mộc mạc sở dĩ lay động lòng người chính bởi nó đồng điệu sâu sắc với nhịp điệu tự nhiên — chẳng phô trương kỹ xảo, cũng chẳng vội vàng.",
+              "en": "Unadorned lines move us precisely because they harmonize with natural rhythm—neither showy nor hurried."
+            }
+          },
+          {
+            "speaker": "散文",
+            "text": "生活亦然：在忙碌中保有一份静气与涵养，方能听见内心真实的声音。",
+            "reading": "Shēnghuó yì rán: zài mánglù zhōng bǎoyǒu yí fèn jìngqì yǔ hányǎng, fāng néng tīngjiàn nèixīn zhēnshí de shēngyīn.",
+            "meaning": {
+              "vi": "Cuộc sống cũng vậy: giữa bận rộn giữ lại một phần tĩnh tại và tu dưỡng, ta mới nghe được tiếng nói chân thật tự đáy lòng.",
+              "en": "Life works the same way: preserving stillness and poise amid busyness lets us hear our authentic inner voice."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Chữ '亦然 (yì rán - cũng như vậy)' là lối liên kết cổ điển súc tích giữa luận điểm nghệ thuật và triết lý sống.",
+          "en": "'生活亦然 (the same holds true for life)' is a classic literary transition from aesthetic observation to life wisdom."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "zh-hsk6-l2-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Thành ngữ '相辅相成' diễn đạt mối quan hệ nào?",
+            "en": "What relationship does '相辅相成' express?"
+          },
+          "targetText": "相辅相成",
+          "targetReading": "xiāngfǔ-xiāngchéng",
+          "ttsText": "相辅相成",
+          "options": [
+            "Hai yếu tố hỗ trợ, làm nổi bật và hoàn thiện lẫn nhau",
+            "Hai phía đối đầu không thể hòa giải",
+            "Một bên hoàn toàn thay thế bên kia",
+            "Phát triển ngẫu nhiên không liên quan"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'相辅相成' nghĩa là nương tựa, bổ sung để cùng hoàn thiện.",
+            "en": "'相辅相成' means two things mutually support and complete each other."
+          }
+        },
+        {
+          "id": "zh-hsk6-l2-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn Pinyin đúng cho '契合'.",
+            "en": "Select the matching Pinyin for '契合'."
+          },
+          "targetText": "契合",
+          "ttsText": "契合",
+          "options": [
+            "qìhé",
+            "zhìpǔ",
+            "hányǎng",
+            "lǐngwù"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'契合' đọc là qìhé.",
+            "en": "'契合' is pronounced qìhé."
+          }
+        },
+        {
+          "id": "zh-hsk6-l2-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Hoàn thành cặp đối xứng 'vừa không phải... cũng không phải...':",
+            "en": "Complete the balanced negation frame:"
+          },
+          "targetText": "真正的从容___盲目乐观，亦非消极退缩。",
+          "ttsText": "真正的从容既非盲目乐观，亦非消极退缩。",
+          "options": [
+            "既非",
+            "从而",
+            "即使",
+            "固然"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Cấu trúc '既非…，亦非…' đi thành cặp cân xứng.",
+            "en": "'既非' pairs symmetrically with '亦非'."
+          }
+        },
+        {
+          "id": "zh-hsk6-l2-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu nêu sự hòa quyện của nghệ thuật.",
+            "en": "Order the tokens into a sentence about artistic harmony."
+          },
+          "targetMeaning": {
+            "vi": "Lý thuyết và thực hành bổ trợ lẫn nhau.",
+            "en": "Theory and practice complement each other."
+          },
+          "tokens": [
+            "相辅",
+            "与实践",
+            "相成。",
+            "理论"
+          ],
+          "correctOrder": [
+            "理论",
+            "与实践",
+            "相辅",
+            "相成。"
+          ],
+          "correctSentence": "理论与实践相辅相成。",
+          "explanation": {
+            "vi": "Trật tự: 理论 + 与实践 + 相辅 + 相成。",
+            "en": "Order: 理论 + 与实践 + 相辅 + 相成。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "zh-hsk6-l3",
+      "levelId": "zh-hsk6",
+      "order": 3,
+      "title": {
+        "native": "学术思辨与外交辞令",
+        "vi": "Văn phong học thuật và ngoại giao",
+        "en": "Academic & Diplomatic Prose"
+      },
+      "topic": "diplomacy-academic",
+      "summary": {
+        "vi": "Phân biệt sắc thái từ đồng nghĩa cao cấp và sử dụng ngôn ngữ ngoại giao (求同存异, 审慎, 立足) trong đối thoại đa phương.",
+        "en": "Distinguish near-synonyms and use diplomatic rhetoric (求同存异, 审慎, 立足) in multilateral contexts."
+      },
+      "xpReward": 70,
+      "vocabulary": [
+        {
+          "id": "zh-hsk6-l3-v1",
+          "term": "求同存异",
+          "reading": "qiútóng-cúnyì",
+          "partOfSpeech": "idiom",
+          "meaning": {
+            "vi": "tìm điểm chung, giữ lại khác biệt (tôn trọng đa dạng)",
+            "en": "to seek common ground while reserving differences"
+          },
+          "example": {
+            "text": "跨文化合作应当秉持求同存异、互利共赢的原则。",
+            "reading": "Kuà wénhuà hézuò yīngdāng bǐngchí qiútóng-cúnyì, hùlì-gòngyíng de yuánzé.",
+            "meaning": {
+              "vi": "Hợp tác liên văn hóa cần giữ vững nguyên tắc tìm điểm tương đồng, tôn trọng khác biệt và đôi bên cùng có lợi.",
+              "en": "Cross-cultural cooperation should uphold seeking common ground while respecting differences."
+            }
+          },
+          "note": {
+            "vi": "Thuật ngữ ngoại giao kinh điển dùng được cả trong hợp tác nhóm quốc tế.",
+            "en": "Classic diplomatic maxim widely used in international and academic dialogue."
+          }
+        },
+        {
+          "id": "zh-hsk6-l3-v2",
+          "term": "审慎",
+          "reading": "shěnshèn",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "thận trọng, cân nhắc chín chắn",
+            "en": "prudent / circumspect"
+          },
+          "example": {
+            "text": "面对复杂局势，学界普遍采取更为审慎的评估态度。",
+            "reading": "Miànduì fùzá júshì, xuéjiè pǔbiàn cǎiqǔ gèngwéi shěnshèn de pínggū tàidu.",
+            "meaning": {
+              "vi": "Trước cục diện phức tạp, giới học thuật nhìn chung áp dụng thái độ đánh giá thận trọng hơn.",
+              "en": "Facing a complex situation, scholars generally adopt a more prudent stance."
+            }
+          },
+          "note": {
+            "vi": "Cao cấp và giàu chiều sâu hơn '小心' hoặc '谨慎'.",
+            "en": "Higher register than '小心' or '谨慎', used in diplomacy and academia."
+          }
+        },
+        {
+          "id": "zh-hsk6-l3-v3",
+          "term": "立足",
+          "reading": "lìzú",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "đứng vững trên nền tảng, xuất phát từ thực tế",
+            "en": "to base oneself on / be rooted in"
+          },
+          "example": {
+            "text": "国际研究既要放眼全球，更要立足本土实际。",
+            "reading": "Guójì yánjiū jì yào fàngyǎn quánqiú, gèng yào lìzú běntǔ shíjì.",
+            "meaning": {
+              "vi": "Nghiên cứu quốc tế vừa cần phóng tầm mắt toàn cầu, vừa phải đứng vững trên thực tiễn bản địa.",
+              "en": "International research should take a global view while staying grounded in local realities."
+            }
+          },
+          "note": {
+            "vi": "Hay kết hợp: 立足当下 (xuất phát từ hiện tại), 立足事实 (dựa trên sự thật).",
+            "en": "Collocations: 立足事实, 立足现实."
+          }
+        },
+        {
+          "id": "zh-hsk6-l3-v4",
+          "term": "阐释",
+          "reading": "chǎnshì",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "diễn giải sâu sắc, luận giải",
+            "en": "to expound / interpret thoroughly"
+          },
+          "example": {
+            "text": "作者在第三章系统阐释了语言接触的演变规律。",
+            "reading": "Zuòzhě zài dì-sān zhāng xìtǒng chǎnshìle yǔyán jiēchù de yǎnbiàn guīlǜ.",
+            "meaning": {
+              "vi": "Tác giả trong chương ba đã luận giải có hệ thống quy luật biến đổi khi tiếp xúc ngôn ngữ.",
+              "en": "In chapter three, the author systematically expounds the patterns of language contact."
+            }
+          },
+          "note": {
+            "vi": "Phân biệt sắc thái: '解释' là giải thích thông thường; '阐释' là phân tích học thuật có chiều sâu.",
+            "en": "More academic than '解释', meaning systematic interpretation."
+          }
+        },
+        {
+          "id": "zh-hsk6-l3-v5",
+          "term": "分歧",
+          "reading": "fēnqí",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "sự bất đồng, rẽ nhánh quan điểm",
+            "en": "divergence / disagreement"
+          },
+          "example": {
+            "text": "通过坦诚对话，双方逐步缩小了技术标准上的分歧。",
+            "reading": "Tōngguò tǎnchéng duìhuà, shuāngfāng zhúbù suōxiǎole jìshù biāozhǔn shàng de fēnqí.",
+            "meaning": {
+              "vi": "Thông qua đối thoại thẳng thắn, hai bên từng bước thu hẹp bất đồng về tiêu chuẩn kỹ thuật.",
+              "en": "Through candid dialogue, both sides gradually narrowed differences over technical standards."
+            }
+          },
+          "note": {
+            "vi": "Động từ đi kèm: 消除分歧 (xóa bỏ bất đồng), 缩小分歧 (thu hẹp khác biệt).",
+            "en": "Collocations: 缩小分歧, 存在分歧."
+          }
+        },
+        {
+          "id": "zh-hsk6-l3-v6",
+          "term": "秉持",
+          "reading": "bǐngchí",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "giữ vững, tuân thủ (nguyên tắc, lý tưởng)",
+            "en": "to uphold / adhere to (a principle)"
+          },
+          "example": {
+            "text": "学术讨论应秉持实事求是、兼容并包的态度。",
+            "reading": "Xuéshù tǎolùn yīng bǐngchí shíshì-qiúshì, jiānróng-bìngbāo de tàidu.",
+            "meaning": {
+              "vi": "Thảo luận học thuật nên giữ vững thái độ thực sự cầu thị và cởi mở tiếp thu.",
+              "en": "Academic debate should uphold truth-seeking and open-minded inclusivity."
+            }
+          },
+          "note": {
+            "vi": "Tân ngữ đi kèm luôn là danh từ trừu tượng: 原则 (nguyên tắc), 理念 (triết lý).",
+            "en": "Takes abstract objects like 原则 (principle) or 理念 (philosophy)."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "zh-hsk6-l3-g1",
+          "pattern": "诚然…，但… (Thừa nhận một phần để phản biện lịch thiệp)",
+          "title": {
+            "vi": "Lối rào đón ngoại giao '诚然…，但…'",
+            "en": "Diplomatic Concession 诚然…但…"
+          },
+          "structure": "诚然，[nhận xét hợp lý của đối phương]，但/然而 + [luận điểm bổ sung/điều chỉnh]",
+          "explanation": {
+            "vi": "'诚然' đặt đầu câu thừa nhận thành ý hoặc điểm hợp lý trong lập luận của người đối thoại, giữ tôn trọng tuyệt đối trước khi nêu góc nhìn khác.",
+            "en": "'诚然 (admittedly / indeed)' opens a diplomatic reply by validating the counterpart's point before refining it."
+          },
+          "usageNote": {
+            "vi": "Rất phù hợp khi đáp lời trong hội thảo học thuật hoặc họp đối ngoại.",
+            "en": "Ideal for panel discussions, academic defenses, and diplomacy."
+          },
+          "examples": [
+            {
+              "text": "诚然，统一译名有助于阅读，但过度简化也会损失原意。",
+              "reading": "Chéngrán, tǒngyī yìmíng yǒuzhùyú yuèdú, dàn guòdù jiǎnhuà yě huì sǔnshī yuányì.",
+              "meaning": {
+                "vi": "Quả thực việc thống nhất thuật ngữ dịch giúp dễ đọc, nhưng giản lược quá mức cũng làm hao hụt nguyên ý.",
+                "en": "Admittedly, uniform terminology aids reading, yet oversimplification risks losing original nuance."
+              }
+            },
+            {
+              "text": "诚然，短期内分歧难以彻底消除，但对话渠道必须保持畅通。",
+              "reading": "Chéngrán, duǎnqī nèi fēnqí nányǐ chèdǐ xiāochú, dàn duìhuà qúdào bìxū bǎochí chàngtōng.",
+              "meaning": {
+                "vi": "Đành rằng trong ngắn hạn bất đồng khó xóa bỏ hoàn toàn, nhưng kênh đối thoại vẫn phải giữ thông suốt.",
+                "en": "Granted, differences may not vanish overnight, yet channels of dialogue must remain open."
+              }
+            }
+          ]
+        },
+        {
+          "id": "zh-hsk6-l3-g2",
+          "pattern": "有鉴于此 / 鉴于 + Bối cảnh，Action",
+          "title": {
+            "vi": "Giới thiệu căn cứ chính thức với '鉴于' và '有鉴于此'",
+            "en": "Formal Rationale: 鉴于 & 有鉴于此"
+          },
+          "structure": "鉴于 + [tình hình thực tế]，[quyết định] | ...。有鉴于此，[khuyến nghị]",
+          "explanation": {
+            "vi": "'鉴于' nghĩa là 'xét thấy / căn cứ vào (tình hình cụ thể)'; '有鉴于此' đứng đầu câu mới để nối toàn bộ đoạn phân tích trước thành lý do cho kết luận.",
+            "en": "'鉴于 (in view of)' introduces factual grounds for a formal decision; '有鉴于此 (in light of this)' pivots a whole paragraph into action."
+          },
+          "usageNote": {
+            "vi": "Chỉ dùng ở văn bản chính thức, bài báo cáo khoa học hoặc thông cáo.",
+            "en": "Used in official memos, academic papers, and formal communiqués."
+          },
+          "examples": [
+            {
+              "text": "鉴于跨学科研究日趋频繁，建立共享语料库尤为必要。",
+              "reading": "Jiànyú kuà xuékē yánjiū rìqū pínfán, jiànlì gòngxiǎng yǔliàokù yóuwéi bìyào.",
+              "meaning": {
+                "vi": "Xét thấy nghiên cứu liên ngành ngày càng thường xuyên, việc xây dựng kho ngữ liệu chung càng trở nên cần thiết.",
+                "en": "In view of growing interdisciplinary research, building a shared corpus is especially vital."
+              }
+            },
+            {
+              "text": "有鉴于此，各方一致同意成立联合工作组。",
+              "reading": "Yǒu jiàn yú cǐ, gèfāng yízhì tóngyì chénglì liánhé gōngzuòzǔ.",
+              "meaning": {
+                "vi": "Xuất phát từ thực tế đó, các bên nhất trí thành lập tổ công tác liên hợp.",
+                "en": "In light of this, all parties agreed to establish a joint working group."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Đối thoại tại diễn đàn hợp tác học thuật",
+          "en": "Academic & Diplomatic Symposium"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Hai học giả thảo luận về cách chuẩn hóa thuật ngữ trong dự án từ điển đa ngôn ngữ.",
+          "en": "Two scholars discuss harmonizing terminology in a multilingual lexicon project."
+        },
+        "lines": [
+          {
+            "speaker": "林教授",
+            "text": "陈博士，您在报告中关于文化词义演变的阐释非常精辟，令人深受启发。",
+            "reading": "Chén bóshì, nín zài bàogào zhōng guānyú wénhuà cíyì yǎnbiàn de chǎnshì fēicháng jīngpì, lìng rén shēn shòu qǐfā.",
+            "meaning": {
+              "vi": "Tiến sĩ Trần, phần luận giải của ông trong báo cáo về sự biến đổi nghĩa văn hóa thật sắc sảo, mang lại nhiều gợi mở.",
+              "en": "Dr. Chen, your exposition on semantic evolution in the report was incisive and inspiring."
+            }
+          },
+          {
+            "speaker": "陈博士",
+            "text": "过奖了。诚然，各语言团队在注音体例上尚存分歧，但只要秉持求同存异的精神，便能逐步协调。",
+            "reading": "Guòjiǎng le. Chéngrán, gè yǔyán tuánduì zài zhùyīn tǐlì shàng shàng cún fēnqí, dàn zhǐyào bǐngchí qiútóng-cúnyì de jīngshén, biàn néng zhúbù xiétiáo.",
+            "meaning": {
+              "vi": "Giáo sư quá khen rồi. Quả thực các nhóm ngôn ngữ còn tồn tại khác biệt về quy cách phiên âm, nhưng chỉ cần giữ tinh thần tìm điểm chung giữ nét riêng thì sẽ từng bước điều phối được.",
+              "en": "You're too kind. Admittedly, teams still differ on phonetic conventions, yet by seeking common ground while respecting differences we can align gradually."
+            }
+          },
+          {
+            "speaker": "林教授",
+            "text": "正是。鉴于初学者的实际需求，我们在修订标准时也应当审慎权衡准确度与可读性。",
+            "reading": "Zhèngshì. Jiànyú chūxuézhě de shíjì xūqiú, wǒmen zài xiūdìng biāozhǔn shí yě yīngdāng shěnshèn quánhéng zhǔnquèdù yǔ kědúxìng.",
+            "meaning": {
+              "vi": "Đúng vậy. Xét theo nhu cầu thực tế của người mới học, khi hiệu đính tiêu chuẩn chúng ta cũng nên cân nhắc thận trọng giữa độ chính xác và tính dễ đọc.",
+              "en": "Precisely. Given beginners' practical needs, we should prudently weigh accuracy against readability when revising standards."
+            }
+          },
+          {
+            "speaker": "陈博士",
+            "text": "同意！唯有立足真实语料、尊重彼此传统，这项合作才能结出丰硕成果。",
+            "reading": "Tóngyì! Wéiyǒu lìzú zhēnshí yǔliào, zūnzhòng bǐcǐ chuántǒng, zhè xiàng hézuò cái néng jiēchū fēngshuò chéngguǒ.",
+            "meaning": {
+              "vi": "Nhất trí! Chỉ khi đứng vững trên ngữ liệu chân thực và tôn trọng truyền thống của nhau, sự hợp tác này mới đơm hoa kết trái rực rỡ.",
+              "en": "Agreed! Only by grounding our work in authentic usage and mutual respect will this collaboration bear rich fruit."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Khi nhận lời khen trang trọng, đáp '过奖了 (guòjiǎng le - ngài quá khen)' rồi đi thẳng vào nội dung chuyên môn vừa giữ khiêm nhường Á Đông vừa lịch lãm.",
+          "en": "Responding to formal praise with '过奖了' before moving to substance balances modesty with professionalism."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "zh-hsk6-l3-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Thành ngữ '求同存异' mang tinh thần gì?",
+            "en": "What principle does '求同存异' embody?"
+          },
+          "targetText": "求同存异",
+          "targetReading": "qiútóng-cúnyì",
+          "ttsText": "求同存异",
+          "options": [
+            "Tìm điểm tương đồng trong khi tôn trọng những khác biệt",
+            "Ép buộc mọi bên phải giống hệt nhau",
+            "Ngừng hợp tác khi nảy sinh bất đồng",
+            "Trì hoãn thảo luận vô thời hạn"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'求同存异' là tìm kiếm điểm chung và giữ lại nét khác biệt một cách tôn trọng.",
+            "en": "'求同存异' means seeking shared ground while reserving differences respectfully."
+          }
+        },
+        {
+          "id": "zh-hsk6-l3-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn Pinyin đúng cho '阐释'.",
+            "en": "Choose the matching Pinyin for '阐释'."
+          },
+          "targetText": "阐释",
+          "ttsText": "阐释",
+          "options": [
+            "chǎnshì",
+            "shěnshèn",
+            "bǐngchí",
+            "fēnqí"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'阐释' đọc là chǎnshì (thanh 3 + thanh 4).",
+            "en": "'阐释' is pronounced chǎnshì."
+          }
+        },
+        {
+          "id": "zh-hsk6-l3-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn động từ trang trọng kết hợp với '原则 (nguyên tắc)':",
+            "en": "Choose the formal verb collocating with '原则 (principle)':"
+          },
+          "targetText": "双方代表___客观公正的原则展开会谈。",
+          "ttsText": "双方代表秉持客观公正的原则展开会谈。",
+          "options": [
+            "秉持",
+            "分歧",
+            "审慎",
+            "阐释"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Cụm chuẩn văn phong ngoại giao là '秉持…的原则 (giữ vững nguyên tắc...)'.",
+            "en": "'秉持…的原则' means to uphold a guiding principle."
+          }
+        },
+        {
+          "id": "zh-hsk6-l3-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu văn trang trọng dùng '鉴于'.",
+            "en": "Arrange the tokens into a formal sentence with '鉴于'."
+          },
+          "targetMeaning": {
+            "vi": "Xét thấy thực tế khách quan, chúng ta nên hành động thận trọng.",
+            "en": "In view of objective reality, we should act prudently."
+          },
+          "tokens": [
+            "我们应",
+            "鉴于",
+            "审慎行事。",
+            "客观实际，"
+          ],
+          "correctOrder": [
+            "鉴于",
+            "客观实际，",
+            "我们应",
+            "审慎行事。"
+          ],
+          "correctSentence": "鉴于客观实际，我们应审慎行事。",
+          "explanation": {
+            "vi": "Trật tự: 鉴于 + 客观实际，+ 我们应 + 审慎行事。",
+            "en": "Order: 鉴于 + 客观实际，+ 我们应 + 审慎行事。"
+          }
+        }
+      ]
+    }
+  ]
+}

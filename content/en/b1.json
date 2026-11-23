@@ -1,0 +1,1131 @@
+{
+  "levelId": "en-b1",
+  "language": "en",
+  "code": "B1",
+  "order": 3,
+  "title": {
+    "vi": "Trung cấp B1 — Kinh nghiệm và quan điểm",
+    "en": "Intermediate B1 — Experience & Perspectives"
+  },
+  "subtitle": {
+    "vi": "Kinh nghiệm nghề nghiệp, lời khuyên sức khỏe và tin tức truyền thông",
+    "en": "Career experiences, hypothetical advice, and media literacy"
+  },
+  "estimatedMinutes": 45,
+  "lessons": [
+    {
+      "id": "en-b1-l1",
+      "levelId": "en-b1",
+      "order": 1,
+      "title": {
+        "native": "Career & Life Experiences",
+        "vi": "Kinh nghiệm nghề nghiệp và cuộc sống",
+        "en": "Career & Life Experiences"
+      },
+      "topic": "career",
+      "summary": {
+        "vi": "Phân biệt thì Hiện tại hoàn thành và Quá khứ đơn khi nói về kỹ năng và cột mốc sự nghiệp.",
+        "en": "Contrast Present Perfect and Past Simple when discussing work milestones and skills."
+      },
+      "xpReward": 55,
+      "vocabulary": [
+        {
+          "id": "en-b1-l1-v1",
+          "term": "experience",
+          "reading": "/ɪkˈspɪriəns/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "kinh nghiệm, trải nghiệm",
+            "en": "experience"
+          },
+          "example": {
+            "text": "She has three years of experience in design.",
+            "reading": "/ʃiː hæz θriː jɪrz əv ɪkˈspɪriəns ɪn dɪˈzaɪn/",
+            "meaning": {
+              "vi": "Cô ấy có ba năm kinh nghiệm trong lĩnh vực thiết kế.",
+              "en": "She has three years of experience in design."
+            }
+          },
+          "note": {
+            "vi": "Khi chỉ 'kinh nghiệm làm việc', 'experience' là danh từ không đếm được (không thêm -s).",
+            "en": "Uncountable when meaning work knowledge ('years of experience', not 'experiences')."
+          }
+        },
+        {
+          "id": "en-b1-l1-v2",
+          "term": "interview",
+          "reading": "/ˈɪntərvjuː/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "buổi phỏng vấn",
+            "en": "interview"
+          },
+          "example": {
+            "text": "He prepared carefully for the job interview.",
+            "reading": "/hiː prɪˈperd ˈkerfəli fɔːr ðə dʒɑːb ˈɪntərvjuː/",
+            "meaning": {
+              "vi": "Anh ấy đã chuẩn bị kỹ lưỡng cho buổi phỏng vấn xin việc.",
+              "en": "He prepared carefully for the job interview."
+            }
+          },
+          "note": {
+            "vi": "Động từ đi kèm tự nhiên: 'have an interview' hoặc 'prepare for an interview'.",
+            "en": "Natural collocations: 'have an interview', 'attend an interview'."
+          }
+        },
+        {
+          "id": "en-b1-l1-v3",
+          "term": "apply",
+          "reading": "/əˈplaɪ/",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "ứng tuyển, nộp đơn",
+            "en": "to apply"
+          },
+          "example": {
+            "text": "Have you applied for the internship yet?",
+            "reading": "/hæv juː əˈplaɪd fɔːr ði ˈɪntɜːrnʃɪp jet/",
+            "meaning": {
+              "vi": "Bạn đã nộp đơn cho kỳ thực tập chưa?",
+              "en": "Have you applied for the internship yet?"
+            }
+          },
+          "note": {
+            "vi": "Dùng 'apply for + vị trí/học bổng' và 'apply to + công ty/trường'.",
+            "en": "Use 'apply for a position' and 'apply to a company'."
+          }
+        },
+        {
+          "id": "en-b1-l1-v4",
+          "term": "skill",
+          "reading": "/skɪl/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "kỹ năng",
+            "en": "skill"
+          },
+          "example": {
+            "text": "Communication is an essential workplace skill.",
+            "reading": "/kəˌmjuːnɪˈkeɪʃən ɪz æn ɪˈsenʃəl ˈwɜːrkpleɪs skɪl/",
+            "meaning": {
+              "vi": "Giao tiếp là một kỹ năng thiết yếu nơi công sở.",
+              "en": "Communication is an essential workplace skill."
+            }
+          },
+          "note": {
+            "vi": "Thường dùng số nhiều 'skills' trong hồ sơ năng lực.",
+            "en": "Often plural ('communication skills', 'technical skills') on resumés."
+          }
+        },
+        {
+          "id": "en-b1-l1-v5",
+          "term": "colleague",
+          "reading": "/ˈkɑːliːɡ/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "đồng nghiệp",
+            "en": "colleague"
+          },
+          "example": {
+            "text": "My colleagues helped me learn the workflow quickly.",
+            "reading": "/maɪ ˈkɑːliːɡz helpt miː lɜːrn ðə ˈwɜːrkfloʊ ˈkwɪkli/",
+            "meaning": {
+              "vi": "Đồng nghiệp đã giúp tôi nắm quy trình làm việc rất nhanh.",
+              "en": "My colleagues helped me learn the workflow quickly."
+            }
+          },
+          "note": {
+            "vi": "Đọc 2 âm tiết /ˈkɑː.liːɡ/, không đọc thành 'cô-li-gơ'.",
+            "en": "Two syllables: KAA-leeg (/ˈkɑːliːɡ/)."
+          }
+        },
+        {
+          "id": "en-b1-l1-v6",
+          "term": "achieve",
+          "reading": "/əˈtʃiːv/",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "đạt được, hoàn thành",
+            "en": "to achieve"
+          },
+          "example": {
+            "text": "We achieved our quarterly goal ahead of schedule.",
+            "reading": "/wiː əˈtʃiːvd ˈaʊər ˈkwɔːrtərli ɡoʊl əˈhed əv ˈskedʒuːl/",
+            "meaning": {
+              "vi": "Chúng tôi đã đạt mục tiêu quý sớm hơn dự kiến.",
+              "en": "We achieved our quarterly goal ahead of schedule."
+            }
+          },
+          "note": {
+            "vi": "Danh từ là 'achievement' (thành tựu).",
+            "en": "Noun form: 'achievement'."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "en-b1-l1-g1",
+          "pattern": "Present Perfect (have/has + V3) vs. Past Simple (V2)",
+          "title": {
+            "vi": "Hiện tại hoàn thành và Quá khứ đơn",
+            "en": "Present Perfect vs. Past Simple"
+          },
+          "structure": "Have/Has + V3 (unspecified time / life experience) vs. V2 (specific past time)",
+          "explanation": {
+            "vi": "Dùng Hiện tại hoàn thành cho trải nghiệm hoặc kết quả kéo dài đến hiện tại; dùng Quá khứ đơn khi nêu rõ thời điểm đã qua (last year, in 2024).",
+            "en": "Use Present Perfect for life experience or ongoing relevance; switch to Past Simple when mentioning a finished past time."
+          },
+          "usageNote": {
+            "vi": "Không dùng 'yesterday' hay 'in 2023' chung với thì Hiện tại hoàn thành.",
+            "en": "Do not pair finished time markers like 'yesterday' or 'in 2023' with Present Perfect."
+          },
+          "examples": [
+            {
+              "text": "I have led two international projects so far.",
+              "reading": "/aɪ hæv led tuː ˌɪntərˈnæʃənəl ˈprɑːdʒekts soʊ fɑːr/",
+              "meaning": {
+                "vi": "Tính đến nay tôi đã dẫn dắt hai dự án quốc tế.",
+                "en": "I have led two international projects so far."
+              }
+            },
+            {
+              "text": "I joined the engineering team in 2024.",
+              "reading": "/aɪ dʒɔɪnd ði ˌendʒɪˈnɪrɪŋ tiːm ɪn ˈtwenti ˈtwenti fɔːr/",
+              "meaning": {
+                "vi": "Tôi gia nhập đội ngũ kỹ thuật vào năm 2024.",
+                "en": "I joined the engineering team in 2024."
+              }
+            }
+          ]
+        },
+        {
+          "id": "en-b1-l1-g2",
+          "pattern": "for + duration vs. since + starting point",
+          "title": {
+            "vi": "Khoảng thời gian 'for' và mốc thời gian 'since'",
+            "en": "'for' vs. 'since' with Time"
+          },
+          "structure": "for + 3 years/two months | since + 2022/Monday",
+          "explanation": {
+            "vi": "'for' đi với độ dài thời gian; 'since' đi với thời điểm bắt đầu trong quá khứ.",
+            "en": "Pair 'for' with a length of time and 'since' with a specific starting point."
+          },
+          "usageNote": {
+            "vi": "Thường xuất hiện trong phỏng vấn khi nói mình đã làm việc bao lâu.",
+            "en": "Essential in job interviews when describing tenure."
+          },
+          "examples": [
+            {
+              "text": "She has worked remotely for four years.",
+              "reading": "/ʃiː hæz wɜːrkt rɪˈmoʊtli fɔːr fɔːr jɪrz/",
+              "meaning": {
+                "vi": "Cô ấy đã làm việc từ xa được bốn năm.",
+                "en": "She has worked remotely for four years."
+              }
+            },
+            {
+              "text": "We have shared study notes since March.",
+              "reading": "/wiː hæv ʃerd ˈstʌdi noʊts sɪns mɑːrtʃ/",
+              "meaning": {
+                "vi": "Chúng tôi đã chia sẻ ghi chú học tập từ tháng Ba.",
+                "en": "We have shared study notes since March."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Trao đổi trước buổi phỏng vấn",
+          "en": "Preparing for a Career Interview"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Minh Anh và Kenji luyện tập trả lời câu hỏi phỏng vấn bằng tiếng Anh.",
+          "en": "Minh Anh and Kenji practice answering career interview questions together."
+        },
+        "lines": [
+          {
+            "speaker": "Kenji",
+            "text": "Have you applied for the product coordinator role yet?",
+            "reading": "/hæv juː əˈplaɪd fɔːr ðə ˈprɑːdʌkt koʊˈɔːrdɪneɪtər roʊl jet/",
+            "meaning": {
+              "vi": "Bạn đã ứng tuyển vị trí điều phối sản phẩm chưa?",
+              "en": "Have you applied for the product coordinator role yet?"
+            }
+          },
+          {
+            "speaker": "Minh Anh",
+            "text": "Yes! I sent my application on Monday, and they invited me for an interview tomorrow.",
+            "reading": "/jes | aɪ sent maɪ ˌæplɪˈkeɪʃən ɑːn ˈmʌndeɪ ænd ðeɪ ɪnˈvaɪtɪd miː fɔːr æn ˈɪntərvjuː təˈmɑːroʊ/",
+            "meaning": {
+              "vi": "Rồi! Mình gửi hồ sơ hôm thứ Hai và họ mời phỏng vấn vào ngày mai.",
+              "en": "Yes! I sent my application on Monday, and they invited me for an interview tomorrow."
+            }
+          },
+          {
+            "speaker": "Kenji",
+            "text": "Awesome! Remember to highlight the project goals you achieved with your colleagues.",
+            "reading": "/ˈɔːsəm | rɪˈmembər tuː ˈhaɪlaɪt ðə ˈprɑːdʒekt ɡoʊlz juː əˈtʃiːvd wɪð jʊr ˈkɑːliːɡz/",
+            "meaning": {
+              "vi": "Tuyệt vời! Nhớ nhấn mạnh những mục tiêu dự án bạn đã đạt được cùng đồng nghiệp nhé.",
+              "en": "Awesome! Remember to highlight the project goals you achieved with your colleagues."
+            }
+          },
+          {
+            "speaker": "Minh Anh",
+            "text": "Good idea. I've practiced explaining my teamwork skills since last week.",
+            "reading": "/ɡʊd aɪˈdiːə | aɪv ˈpræktɪst ɪkˈspleɪnɪŋ maɪ ˈtiːmwɜːrk skɪlz sɪns læst wiːk/",
+            "meaning": {
+              "vi": "Ý hay đấy. Mình đã tập giải thích kỹ năng làm việc nhóm từ tuần trước rồi.",
+              "en": "Good idea. I've practiced explaining my teamwork skills since last week."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Trong phỏng vấn tiếng Anh, trả lời theo khung STAR (Tình huống - Nhiệm vụ - Hành động - Kết quả) giúp câu chuyện súc tích và thuyết phục.",
+          "en": "In English interviews, framing examples with concrete actions and measurable results ('achieved X with Y') is highly valued."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "en-b1-l1-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Giới từ nào đúng trong câu ứng tuyển việc làm?",
+            "en": "Which preposition fits this job-application sentence?"
+          },
+          "targetText": "She decided to apply ___ the marketing position.",
+          "options": [
+            "for",
+            "with",
+            "at",
+            "about"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Dùng 'apply for' trước tên vị trí công việc.",
+            "en": "Use 'apply for' before a job title or scholarship."
+          }
+        },
+        {
+          "id": "en-b1-l1-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn phiên âm đúng của 'colleague'.",
+            "en": "Select the correct IPA reading for 'colleague'."
+          },
+          "targetText": "colleague",
+          "ttsText": "colleague",
+          "options": [
+            "/ˈkɑːlɪdʒ/",
+            "/ˈkɑːliːɡ/",
+            "/kəˈlekt/",
+            "/ˈkɑːliːɡjuː/"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "vi": "'colleague' đọc là /ˈkɑːliːɡ/ (khác với 'college' /ˈkɑːlɪdʒ/).",
+            "en": "'colleague' is pronounced /ˈkɑːliːɡ/, distinct from 'college'."
+          }
+        },
+        {
+          "id": "en-b1-l1-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn 'for' hoặc 'since' phù hợp:",
+            "en": "Choose the right time word:"
+          },
+          "targetText": "They have worked together ___ five years.",
+          "ttsText": "They have worked together for five years.",
+          "options": [
+            "since",
+            "during",
+            "for",
+            "from"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "vi": "'five years' là khoảng thời gian nên dùng 'for'.",
+            "en": "Use 'for' with durations such as 'five years'."
+          }
+        },
+        {
+          "id": "en-b1-l1-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu hoàn chỉnh ở thì Hiện tại hoàn thành.",
+            "en": "Order the words into a Present Perfect sentence."
+          },
+          "targetMeaning": {
+            "vi": "Chúng tôi đã đạt được mục tiêu của mình.",
+            "en": "We have achieved our goal."
+          },
+          "tokens": [
+            "our",
+            "achieved",
+            "goal.",
+            "We",
+            "have"
+          ],
+          "correctOrder": [
+            "We",
+            "have",
+            "achieved",
+            "our",
+            "goal."
+          ],
+          "correctSentence": "We have achieved our goal.",
+          "explanation": {
+            "vi": "Cấu trúc: We + have + achieved (V3) + our goal.",
+            "en": "Present Perfect structure: We + have + achieved + our goal."
+          }
+        }
+      ]
+    },
+    {
+      "id": "en-b1-l2",
+      "levelId": "en-b1",
+      "order": 2,
+      "title": {
+        "native": "Health & Hypothetical Advice",
+        "vi": "Sức khỏe và lời khuyên giả định",
+        "en": "Health & Hypothetical Advice"
+      },
+      "topic": "health",
+      "summary": {
+        "vi": "Dùng câu điều kiện loại 1 & loại 2 cùng 'must/have to' để nói về lối sống cân bằng.",
+        "en": "Use 1st and 2nd Conditionals plus 'must/have to' to discuss healthy habits."
+      },
+      "xpReward": 55,
+      "vocabulary": [
+        {
+          "id": "en-b1-l2-v1",
+          "term": "balanced",
+          "reading": "/ˈbælənst/",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "cân bằng, điều độ",
+            "en": "balanced"
+          },
+          "example": {
+            "text": "A balanced diet gives you steady energy.",
+            "reading": "/ə ˈbælənst ˈdaɪət ɡɪvz juː ˈstedi ˈenərdʒi/",
+            "meaning": {
+              "vi": "Chế độ ăn cân bằng mang lại năng lượng ổn định.",
+              "en": "A balanced diet gives you steady energy."
+            }
+          },
+          "note": {
+            "vi": "Hay đi cùng 'balanced diet' hoặc 'balanced schedule'.",
+            "en": "Frequently collocates with 'diet', 'lifestyle', and 'schedule'."
+          }
+        },
+        {
+          "id": "en-b1-l2-v2",
+          "term": "exhausted",
+          "reading": "/ɪɡˈzɔːstɪd/",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "kiệt sức, mệt rã rời",
+            "en": "exhausted"
+          },
+          "example": {
+            "text": "If you skip sleep, you will feel exhausted.",
+            "reading": "/ɪf juː skɪp sliːp juː wɪl fiːl ɪɡˈzɔːstɪd/",
+            "meaning": {
+              "vi": "Nếu bạn bỏ ngủ, bạn sẽ thấy kiệt sức.",
+              "en": "If you skip sleep, you will feel exhausted."
+            }
+          },
+          "note": {
+            "vi": "Chữ 'h' câm; phát âm bắt đầu bằng /ɪɡˈzɔː/.",
+            "en": "The 'h' is silent; pronounce the start as /ɪɡˈzɔː/."
+          }
+        },
+        {
+          "id": "en-b1-l2-v3",
+          "term": "recommend",
+          "reading": "/ˌrekəˈmend/",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "khuyên, đề xuất",
+            "en": "to recommend"
+          },
+          "example": {
+            "text": "Doctors recommend walking thirty minutes daily.",
+            "reading": "/ˈdɑːktərz ˌrekəˈmend ˈwɔːkɪŋ ˈθɜːrti ˈmɪnɪts ˈdeɪli/",
+            "meaning": {
+              "vi": "Bác sĩ khuyên nên đi bộ ba mươi phút mỗi ngày.",
+              "en": "Doctors recommend walking thirty minutes daily."
+            }
+          },
+          "note": {
+            "vi": "Dùng 'recommend + V-ing' hoặc 'recommend that S + V' (không dùng 'recommend someone to do').",
+            "en": "Follow with a gerund ('recommend walking') or 'that' clause, not 'recommend someone to do'."
+          }
+        },
+        {
+          "id": "en-b1-l2-v4",
+          "term": "habit",
+          "reading": "/ˈhæbɪt/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "thói quen",
+            "en": "habit"
+          },
+          "example": {
+            "text": "Drinking water after waking up is a great habit.",
+            "reading": "/ˈdrɪŋkɪŋ ˈwɔːtər ˈæftər ˈweɪkɪŋ ʌp ɪz ə ɡreɪt ˈhæbɪt/",
+            "meaning": {
+              "vi": "Uống nước sau khi thức dậy là một thói quen tuyệt vời.",
+              "en": "Drinking water after waking up is a great habit."
+            }
+          },
+          "note": {
+            "vi": "Cụm hay gặp: 'build a habit' (xây dựng thói quen), 'break a habit' (bỏ thói quen).",
+            "en": "Collocations: 'build a habit', 'break a habit'."
+          }
+        },
+        {
+          "id": "en-b1-l2-v5",
+          "term": "recover",
+          "reading": "/rɪˈkʌvər/",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "hồi phục",
+            "en": "to recover"
+          },
+          "example": {
+            "text": "Rest helps your muscles recover after exercise.",
+            "reading": "/rest helps jʊr ˈmʌsəlz rɪˈkʌvər ˈæftər ˈeksərsaɪz/",
+            "meaning": {
+              "vi": "Nghỉ ngơi giúp cơ bắp hồi phục sau khi tập luyện.",
+              "en": "Rest helps your muscles recover after exercise."
+            }
+          },
+          "note": {
+            "vi": "Dùng giới từ 'from' khi nói hồi phục sau bệnh/mệt mỏi: 'recover from a cold'.",
+            "en": "Pair with 'from' for illnesses or fatigue: 'recover from flu'."
+          }
+        },
+        {
+          "id": "en-b1-l2-v6",
+          "term": "stress",
+          "reading": "/stres/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "căng thẳng, áp lực",
+            "en": "stress"
+          },
+          "example": {
+            "text": "Stretching reduces stress before bedtime.",
+            "reading": "/ˈstretʃɪŋ rɪˈduːsɪz stres bɪˈfɔːr ˈbedtaɪm/",
+            "meaning": {
+              "vi": "Giãn cơ giúp giảm căng thẳng trước giờ đi ngủ.",
+              "en": "Stretching reduces stress before bedtime."
+            }
+          },
+          "note": {
+            "vi": "Tính từ chỉ cảm giác là 'stressed' ('I feel stressed').",
+            "en": "Use 'stressed' for feelings ('I feel stressed') and 'stressful' for situations."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "en-b1-l2-g1",
+          "pattern": "1st Conditional (If + Present, will + V) vs. 2nd Conditional (If + Past, would + V)",
+          "title": {
+            "vi": "Câu điều kiện loại 1 và loại 2",
+            "en": "1st & 2nd Conditionals"
+          },
+          "structure": "Real future: If + V1, will + V | Hypothetical: If + V2/were, would + V",
+          "explanation": {
+            "vi": "Loại 1 diễn tả khả năng thực tế ở hiện tại/tương lai; loại 2 dùng cho tình huống giả định hoặc lời khuyên 'If I were you, I would...'.",
+            "en": "Use the 1st Conditional for realistic outcomes and the 2nd Conditional for imaginary scenarios or advice ('If I were you...')."
+          },
+          "usageNote": {
+            "vi": "Trong cụm 'If I were you', dùng 'were' thay cho 'was' ở văn phong chuẩn.",
+            "en": "Use 'were' in 'If I were you, I would...'."
+          },
+          "examples": [
+            {
+              "text": "If you stretch every morning, your back will feel better.",
+              "reading": "/ɪf juː stretʃ ˈevri ˈmɔːrnɪŋ jʊr bæk wɪl fiːl ˈbetər/",
+              "meaning": {
+                "vi": "Nếu bạn giãn cơ mỗi sáng, lưng của bạn sẽ dễ chịu hơn.",
+                "en": "If you stretch every morning, your back will feel better."
+              }
+            },
+            {
+              "text": "If I were you, I would turn off screens before ten.",
+              "reading": "/ɪf aɪ wɜːr juː aɪ wʊd tɜːrn ɔːf skriːnz bɪˈfɔːr ten/",
+              "meaning": {
+                "vi": "Nếu mình là bạn, mình sẽ tắt màn hình trước 10 giờ tối.",
+                "en": "If I were you, I would turn off screens before ten."
+              }
+            }
+          ]
+        },
+        {
+          "id": "en-b1-l2-g2",
+          "pattern": "must / have to vs. don't have to",
+          "title": {
+            "vi": "Nghĩa vụ với 'must' và 'have to'",
+            "en": "Obligation with 'must' and 'have to'"
+          },
+          "structure": "must + V | have to + V | don't have to + V (no obligation)",
+          "explanation": {
+            "vi": "Cả 'must' và 'have to' đều chỉ sự cần thiết, nhưng 'don't have to' nghĩa là không bắt buộc (khác hoàn toàn với 'mustn't' là cấm đoán).",
+            "en": "'must' and 'have to' express necessity, whereas 'don't have to' means optional—unlike 'mustn't', which means forbidden."
+          },
+          "usageNote": {
+            "vi": "Đừng nhầm 'don't have to' (không cần) với 'mustn't' (cấm làm).",
+            "en": "Keep 'don't have to' (optional) distinct from 'mustn't' (prohibited)."
+          },
+          "examples": [
+            {
+              "text": "You have to drink enough water on hot days.",
+              "reading": "/juː hæv tuː drɪŋk ɪˈnʌf ˈwɔːtər ɑːn hɑːt deɪz/",
+              "meaning": {
+                "vi": "Bạn cần uống đủ nước vào những ngày nắng nóng.",
+                "en": "You have to drink enough water on hot days."
+              }
+            },
+            {
+              "text": "You don't have to run a marathon to stay healthy.",
+              "reading": "/juː doʊnt hæv tuː rʌn ə ˈmærəθɑːn tuː steɪ ˈhelθi/",
+              "meaning": {
+                "vi": "Bạn không cần phải chạy marathon mới khỏe mạnh được.",
+                "en": "You don't have to run a marathon to stay healthy."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Lời khuyên cân bằng công việc và nghỉ ngơi",
+          "en": "Balancing Work and Rest"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Wei Chen thấy mệt mỏi sau tuần làm việc căng thẳng và hỏi lời khuyên từ Minh Anh.",
+          "en": "Wei Chen feels worn out after a busy week and asks Minh Anh for advice."
+        },
+        "lines": [
+          {
+            "speaker": "Wei Chen",
+            "text": "I've felt exhausted all week. What would you do if you had my schedule?",
+            "reading": "/aɪv felt ɪɡˈzɔːstɪd ɔːl wiːk | wʌt wʊd juː duː ɪf juː hæd maɪ ˈskedʒuːl/",
+            "meaning": {
+              "vi": "Cả tuần nay mình thấy kiệt sức. Nếu bạn có lịch làm việc như mình thì bạn sẽ làm gì?",
+              "en": "I've felt exhausted all week. What would you do if you had my schedule?"
+            }
+          },
+          {
+            "speaker": "Minh Anh",
+            "text": "If I were you, I would take a short walk at lunch to clear my head.",
+            "reading": "/ɪf aɪ wɜːr juː aɪ wʊd teɪk ə ʃɔːrt wɔːk æt lʌntʃ tuː klɪr maɪ hed/",
+            "meaning": {
+              "vi": "Nếu mình là bạn, mình sẽ đi bộ ngắn vào giờ trưa để đầu óc thư thả.",
+              "en": "If I were you, I would take a short walk at lunch to clear my head."
+            }
+          },
+          {
+            "speaker": "Wei Chen",
+            "text": "You're right. I don't have to answer emails after eight, yet I still check them.",
+            "reading": "/jʊr raɪt | aɪ doʊnt hæv tuː ˈænsər ˈiːmeɪlz ˈæftər eɪt jet aɪ stɪl tʃek ðem/",
+            "meaning": {
+              "vi": "Bạn nói đúng. Mình không bắt buộc phải trả lời email sau 8 giờ tối mà vẫn cứ kiểm tra.",
+              "en": "You're right. I don't have to answer emails after eight, yet I still check them."
+            }
+          },
+          {
+            "speaker": "Minh Anh",
+            "text": "If you build that evening habit, you will recover much faster.",
+            "reading": "/ɪf juː bɪld ðæt ˈiːvnɪŋ ˈhæbɪt juː wɪl rɪˈkʌvər mʌtʃ ˈfæstər/",
+            "meaning": {
+              "vi": "Nếu bạn tạo được thói quen buổi tối đó, bạn sẽ hồi phục nhanh hơn nhiều.",
+              "en": "If you build that evening habit, you will recover much faster."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Dùng cấu trúc giả định 'If I were you...' giúp lời khuyên nghe tôn trọng và bớt áp đặt hơn.",
+          "en": "Using 'If I were you...' frames advice gently without sounding bossy."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "en-b1-l2-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Câu nào dùng động từ 'recommend' đúng ngữ pháp?",
+            "en": "Which sentence uses 'recommend' grammatically?"
+          },
+          "targetText": "recommend",
+          "options": [
+            "Doctors recommend sleeping eight hours.",
+            "Doctors recommend me to sleep eight hours.",
+            "Doctors recommend for sleep eight hours.",
+            "Doctors recommending sleep eight hours."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'recommend' đi trực tiếp với danh động từ V-ing ('recommend sleeping').",
+            "en": "'recommend' takes a gerund ('recommend sleeping'), not 'someone to do'."
+          }
+        },
+        {
+          "id": "en-b1-l2-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn phiên âm đúng của 'exhausted'.",
+            "en": "Choose the accurate IPA for 'exhausted'."
+          },
+          "targetText": "exhausted",
+          "ttsText": "exhausted",
+          "options": [
+            "/ekˈhɔːstɪd/",
+            "/ɪɡˈzɔːstɪd/",
+            "/ɪkˈhaʊstɪd/",
+            "/ˈeksɑːst/"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "vi": "'exhausted' có âm 'h' câm và đọc là /ɪɡˈzɔːstɪd/.",
+            "en": "'exhausted' has a silent 'h' and is pronounced /ɪɡˈzɔːstɪd/."
+          }
+        },
+        {
+          "id": "en-b1-l2-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Hoàn thành câu điều kiện loại 2:",
+            "en": "Complete the 2nd Conditional sentence:"
+          },
+          "targetText": "If I ___ you, I would take a break now.",
+          "ttsText": "If I were you, I would take a break now.",
+          "options": [
+            "am",
+            "will be",
+            "were",
+            "be"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "vi": "Trong câu điều kiện loại 2 đưa ra lời khuyên, dùng 'If I were you...'.",
+            "en": "Use 'were' in the standard advice conditional 'If I were you...'."
+          }
+        },
+        {
+          "id": "en-b1-l2-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu điều kiện loại 1 hoàn chỉnh.",
+            "en": "Order the words into a 1st Conditional sentence."
+          },
+          "targetMeaning": {
+            "vi": "Nếu bạn nghỉ ngơi, bạn sẽ hồi phục nhanh.",
+            "en": "If you rest, you will recover quickly."
+          },
+          "tokens": [
+            "recover",
+            "will",
+            "rest,",
+            "If",
+            "quickly.",
+            "you",
+            "you"
+          ],
+          "correctOrder": [
+            "If",
+            "you",
+            "rest,",
+            "you",
+            "will",
+            "recover",
+            "quickly."
+          ],
+          "correctSentence": "If you rest, you will recover quickly.",
+          "explanation": {
+            "vi": "Mệnh đề điều kiện 'If you rest,' đứng trước mệnh đề chính 'you will recover quickly.'.",
+            "en": "The condition 'If you rest,' precedes the result 'you will recover quickly.'."
+          }
+        }
+      ]
+    },
+    {
+      "id": "en-b1-l3",
+      "levelId": "en-b1",
+      "order": 3,
+      "title": {
+        "native": "Stories & Media",
+        "vi": "Câu chuyện và truyền thông",
+        "en": "Stories & Media"
+      },
+      "topic": "media",
+      "summary": {
+        "vi": "Sử dụng mệnh đề quan hệ và câu bị động để tường thuật tin tức, bài báo.",
+        "en": "Use relative clauses and passive voice to summarize articles and broadcasts."
+      },
+      "xpReward": 55,
+      "vocabulary": [
+        {
+          "id": "en-b1-l3-v1",
+          "term": "article",
+          "reading": "/ˈɑːrtɪkəl/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "bài báo",
+            "en": "article"
+          },
+          "example": {
+            "text": "The article was written by a local reporter.",
+            "reading": "/ði ˈɑːrtɪkəl wʌz ˈrɪtən baɪ ə ˈloʊkəl rɪˈpɔːrtər/",
+            "meaning": {
+              "vi": "Bài báo đó được viết bởi một phóng viên địa phương.",
+              "en": "The article was written by a local reporter."
+            }
+          },
+          "note": {
+            "vi": "Dùng mạo từ 'an' trước 'article' (an article).",
+            "en": "Takes the article 'an' because it begins with a vowel sound."
+          }
+        },
+        {
+          "id": "en-b1-l3-v2",
+          "term": "broadcast",
+          "reading": "/ˈbrɔːdkæst/",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "phát sóng",
+            "en": "to broadcast"
+          },
+          "example": {
+            "text": "The documentary is broadcast in three languages.",
+            "reading": "/ðə ˌdɑːkjəˈmentəri ɪz ˈbrɔːdkæst ɪn θriː ˈlæŋɡwɪdʒɪz/",
+            "meaning": {
+              "vi": "Bộ phim tài liệu được phát sóng bằng ba ngôn ngữ.",
+              "en": "The documentary is broadcast in three languages."
+            }
+          },
+          "note": {
+            "vi": "Quá khứ và phân từ hai vẫn là 'broadcast' (không cần thêm -ed).",
+            "en": "Past and past participle remain 'broadcast' in standard usage."
+          }
+        },
+        {
+          "id": "en-b1-l3-v3",
+          "term": "journalist",
+          "reading": "/ˈdʒɜːrnəlɪst/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "nhà báo",
+            "en": "journalist"
+          },
+          "example": {
+            "text": "A journalist who verifies facts earns trust.",
+            "reading": "/ə ˈdʒɜːrnəlɪst huː ˈverɪfaɪz fækts ɜːrnz trʌst/",
+            "meaning": {
+              "vi": "Nhà báo biết kiểm chứng thông tin sẽ tạo được niềm tin.",
+              "en": "A journalist who verifies facts earns trust."
+            }
+          },
+          "note": {
+            "vi": "Âm đầu là /dʒ/, không phải /ʒ/.",
+            "en": "Starts with /dʒ/ like 'job'."
+          }
+        },
+        {
+          "id": "en-b1-l3-v4",
+          "term": "perspective",
+          "reading": "/pərˈspektɪv/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "góc nhìn, quan điểm",
+            "en": "perspective"
+          },
+          "example": {
+            "text": "Podcasts offer a fresh perspective on culture.",
+            "reading": "/ˈpɑːdkæsts ˈɔːfər ə freʃ pərˈspektɪv ɑːn ˈkʌltʃər/",
+            "meaning": {
+              "vi": "Podcast mang lại một góc nhìn mới mẻ về văn hóa.",
+              "en": "Podcasts offer a fresh perspective on culture."
+            }
+          },
+          "note": {
+            "vi": "Thường đi với giới từ 'on': 'a perspective on + topic'.",
+            "en": "Collocates with 'on': 'a perspective on education'."
+          }
+        },
+        {
+          "id": "en-b1-l3-v5",
+          "term": "reliable",
+          "reading": "/rɪˈlaɪəbəl/",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "đáng tin cậy",
+            "en": "reliable"
+          },
+          "example": {
+            "text": "Always check whether a news source is reliable.",
+            "reading": "/ˈɔːlweɪz tʃek ˈweðər ə nuːz sɔːrs ɪz rɪˈlaɪəbəl/",
+            "meaning": {
+              "vi": "Hãy luôn kiểm tra xem nguồn tin có đáng tin cậy không.",
+              "en": "Always check whether a news source is reliable."
+            }
+          },
+          "note": {
+            "vi": "Trái nghĩa là 'unreliable' (không đáng tin).",
+            "en": "Opposite: 'unreliable'."
+          }
+        },
+        {
+          "id": "en-b1-l3-v6",
+          "term": "audience",
+          "reading": "/ˈɔːdiəns/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "khán giả, độc giả",
+            "en": "audience"
+          },
+          "example": {
+            "text": "The story reached a wide global audience.",
+            "reading": "/ðə ˈstɔːri riːtʃt ə waɪd ˈɡloʊbəl ˈɔːdiəns/",
+            "meaning": {
+              "vi": "Câu chuyện đã tiếp cận được đông đảo khán giả toàn cầu.",
+              "en": "The story reached a wide global audience."
+            }
+          },
+          "note": {
+            "vi": "Dù chỉ nhiều người, 'audience' thường chia động từ số ít.",
+            "en": "Usually takes a singular verb ('the audience is...')."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "en-b1-l3-g1",
+          "pattern": "Relative Clauses: who / which / that / where",
+          "title": {
+            "vi": "Mệnh đề quan hệ xác định",
+            "en": "Defining Relative Clauses"
+          },
+          "structure": "Noun (person) + who/that | Noun (thing) + which/that | Place + where",
+          "explanation": {
+            "vi": "Dùng mệnh đề quan hệ để bổ sung thông tin làm rõ danh từ đứng trước mà không phải tách thành hai câu rời.",
+            "en": "Use relative clauses to specify which person, thing, or place you mean within one fluent sentence."
+          },
+          "usageNote": {
+            "vi": "Không lặp lại đại từ nhân xưng ở cuối mệnh đề quan hệ (nói 'the article that I read', không nói 'the article that I read it').",
+            "en": "Never keep an extra object pronoun ('the article that I read', not '...read it')."
+          },
+          "examples": [
+            {
+              "text": "The journalist who interviewed me works for a science magazine.",
+              "reading": "/ðə ˈdʒɜːrnəlɪst huː ˈɪntərvjuːd miː wɜːrks fɔːr ə ˈsaɪəns ˌmæɡəˈziːn/",
+              "meaning": {
+                "vi": "Nhà báo phỏng vấn tôi làm việc cho một tạp chí khoa học.",
+                "en": "The journalist who interviewed me works for a science magazine."
+              }
+            },
+            {
+              "text": "I like podcasts that explain history clearly.",
+              "reading": "/aɪ laɪk ˈpɑːdkæsts ðæt ɪkˈspleɪn ˈhɪstəri ˈklɪrli/",
+              "meaning": {
+                "vi": "Tôi thích những podcast giải thích lịch sử một cách rõ ràng.",
+                "en": "I like podcasts that explain history clearly."
+              }
+            }
+          ]
+        },
+        {
+          "id": "en-b1-l3-g2",
+          "pattern": "Passive Voice: be + past participle (V3)",
+          "title": {
+            "vi": "Câu bị động trong báo chí và tường thuật",
+            "en": "Passive Voice in News & Media"
+          },
+          "structure": "Subject + am/is/are/was/were + V3 (+ by agent)",
+          "explanation": {
+            "vi": "Dùng câu bị động khi nhấn mạnh vào bản thân sự việc hoặc đối tượng chịu tác động hơn là người thực hiện.",
+            "en": "Use the passive when the event or result matters more than who performed the action."
+          },
+          "usageNote": {
+            "vi": "Chỉ thêm 'by + tác nhân' khi thông tin người thực hiện thực sự cần thiết.",
+            "en": "Include 'by + agent' only when the doer adds important context."
+          },
+          "examples": [
+            {
+              "text": "The podcast is published every Tuesday morning.",
+              "reading": "/ðə ˈpɑːdkæst ɪz ˈpʌblɪʃt ˈevri ˈtuːzdeɪ ˈmɔːrnɪŋ/",
+              "meaning": {
+                "vi": "Chương trình podcast được phát hành vào mỗi sáng thứ Ba.",
+                "en": "The podcast is published every Tuesday morning."
+              }
+            },
+            {
+              "text": "Two new libraries were opened in the district last year.",
+              "reading": "/tuː nuː ˈlaɪbreriz wɜːr ˈoʊpənd ɪn ðə ˈdɪstrɪkt læst jɪr/",
+              "meaning": {
+                "vi": "Hai thư viện mới đã được mở tại quận vào năm ngoái.",
+                "en": "Two new libraries were opened in the district last year."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Kiểm chứng tin tức trên mạng",
+          "en": "Evaluating an Online Story"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Linh Đan và Minh Anh trao đổi về một bài báo lan truyền trên mạng xã hội.",
+          "en": "Linh Dan and Minh Anh discuss a trending news article they read online."
+        },
+        "lines": [
+          {
+            "speaker": "Linh Dan",
+            "text": "Did you read the article that was shared in our group chat?",
+            "reading": "/dɪd juː riːd ði ˈɑːrtɪkəl ðæt wʌz ʃerd ɪn ˈaʊər ɡruːp tʃæt/",
+            "meaning": {
+              "vi": "Bạn đã đọc bài báo được chia sẻ trong nhóm chat chưa?",
+              "en": "Did you read the article that was shared in our group chat?"
+            }
+          },
+          {
+            "speaker": "Minh Anh",
+            "text": "Yes, I did, though I wondered if the data was reliable.",
+            "reading": "/jes aɪ dɪd | ðoʊ aɪ ˈwʌndərd ɪf ðə ˈdeɪtə wʌz rɪˈlaɪəbəl/",
+            "meaning": {
+              "vi": "Có chứ, nhưng mình băn khoăn không biết số liệu đó có đáng tin không.",
+              "en": "Yes, I did, though I wondered if the data was reliable."
+            }
+          },
+          {
+            "speaker": "Linh Dan",
+            "text": "I checked the journalist who wrote it. The full report was broadcast on public radio too.",
+            "reading": "/aɪ tʃekt ðə ˈdʒɜːrnəlɪst huː roʊt ɪt | ðə fʊl rɪˈpɔːrt wʌz ˈbrɔːdkæst ɑːn ˈpʌblɪk ˈreɪdioʊ tuː/",
+            "meaning": {
+              "vi": "Mình đã tra tên nhà báo viết bài đó. Bản tin đầy đủ cũng được phát sóng trên đài công cộng nữa.",
+              "en": "I checked the journalist who wrote it. The full report was broadcast on public radio too."
+            }
+          },
+          {
+            "speaker": "Minh Anh",
+            "text": "That's reassuring. Reading two sources always gives a clearer perspective for the audience.",
+            "reading": "/ðæts ˌriːəˈʃʊrɪŋ | ˈriːdɪŋ tuː ˈsɔːrsɪz ˈɔːlweɪz ɡɪvz ə ˈklɪrər pərˈspektɪv fɔːr ði ˈɔːdiəns/",
+            "meaning": {
+              "vi": "Vậy thì yên tâm rồi. Đọc từ hai nguồn luôn cho người đọc góc nhìn sáng rõ hơn.",
+              "en": "That's reassuring. Reading two sources always gives a clearer perspective for the audience."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Trong môi trường truyền thông tiếng Anh, việc dẫn nguồn gốc và tách biệt sự thật (fact) với bình luận (opinion) là tiêu chuẩn quan trọng.",
+          "en": "Media literacy in English emphasizes citing original sources and distinguishing verified facts from opinion."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "en-b1-l3-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Từ nào nghĩa là 'đáng tin cậy'?",
+            "en": "Which word means 'trustworthy and accurate'?"
+          },
+          "targetText": "a trustworthy news source",
+          "options": [
+            "reliable",
+            "crowded",
+            "exhausted",
+            "spontaneous"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'reliable' có nghĩa là đáng tin cậy.",
+            "en": "'reliable' means consistently accurate or trustworthy."
+          }
+        },
+        {
+          "id": "en-b1-l3-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn từ khớp với phiên âm /pərˈspektɪv/.",
+            "en": "Which word matches /pərˈspektɪv/?"
+          },
+          "targetText": "/pərˈspektɪv/",
+          "ttsText": "perspective",
+          "options": [
+            "audience",
+            "broadcast",
+            "perspective",
+            "journalist"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "vi": "'perspective' phát âm là /pərˈspektɪv/.",
+            "en": "'perspective' is pronounced /pərˈspektɪv/."
+          }
+        },
+        {
+          "id": "en-b1-l3-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn đại từ quan hệ phù hợp cho người:",
+            "en": "Choose the right relative pronoun for a person:"
+          },
+          "targetText": "The journalist ___ wrote this report won an award.",
+          "ttsText": "The journalist who wrote this report won an award.",
+          "options": [
+            "which",
+            "where",
+            "who",
+            "what"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "vi": "'who' dùng để thay thế danh từ chỉ người làm chủ ngữ trong mệnh đề quan hệ.",
+            "en": "Use 'who' (or 'that') to refer to people."
+          }
+        },
+        {
+          "id": "en-b1-l3-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu bị động hoàn chỉnh.",
+            "en": "Arrange the words into a complete passive sentence."
+          },
+          "targetMeaning": {
+            "vi": "Bài báo đã được xuất bản hôm qua.",
+            "en": "The article was published yesterday."
+          },
+          "tokens": [
+            "published",
+            "The",
+            "yesterday.",
+            "was",
+            "article"
+          ],
+          "correctOrder": [
+            "The",
+            "article",
+            "was",
+            "published",
+            "yesterday."
+          ],
+          "correctSentence": "The article was published yesterday.",
+          "explanation": {
+            "vi": "Cấu trúc bị động quá khứ đơn: The article + was + published + yesterday.",
+            "en": "Past passive order: The article + was + published + yesterday."
+          }
+        }
+      ]
+    }
+  ]
+}

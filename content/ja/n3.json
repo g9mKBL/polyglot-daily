@@ -1,0 +1,1193 @@
+{
+  "levelId": "ja-n3",
+  "language": "ja",
+  "code": "N3",
+  "order": 3,
+  "title": {
+    "vi": "JLPT N3 — Sắc thái tự nhiên và công việc",
+    "en": "JLPT N3 — Nuance, Conjecture & Work"
+  },
+  "subtitle": {
+    "vi": "Bị động・sai khiến, suy đoán ようだ/そうだ/らしい và nhập môn kính ngữ",
+    "en": "Passive/causative forms, conjecture expressions, and workplace resolution"
+  },
+  "estimatedMinutes": 50,
+  "lessons": [
+    {
+      "id": "ja-n3-l1",
+      "levelId": "ja-n3",
+      "order": 1,
+      "title": {
+        "native": "受身・使役と感情のニュアンス",
+        "vi": "Thể bị động, sai khiến và sắc thái tiếc nuối",
+        "en": "Passive, Causative & Nuance"
+      },
+      "topic": "voice-nuance",
+      "summary": {
+        "vi": "Sử dụng thể bị động '〜られる', sai khiến '〜させる' và '〜てしまう' diễn tả sự việc lỡ hoặc hoàn tất trọn vẹn.",
+        "en": "Use passive 〜られる, causative 〜させる, and 〜てしまう for regret or completion."
+      },
+      "xpReward": 60,
+      "vocabulary": [
+        {
+          "id": "ja-n3-l1-v1",
+          "term": "褒める",
+          "reading": "ほめる",
+          "romaji": "homeru",
+          "rubyText": "褒[ほ]める",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "khen ngợi",
+            "en": "to praise"
+          },
+          "example": {
+            "text": "発表の内容を部長に褒められました。",
+            "rubyText": "発表[はっぴょう]の内容[ないよう]を部長[ぶちょう]に褒[ほ]められました。",
+            "reading": "happyō no naiyō o buchō ni homeraremashita.",
+            "meaning": {
+              "vi": "Tôi được trưởng phòng khen ngợi về nội dung bài thuyết trình.",
+              "en": "I was praised by the department head for my presentation."
+            }
+          },
+          "note": {
+            "vi": "Chủ thể thực hiện hành động trong câu bị động đi với trợ từ 'に'.",
+            "en": "Mark the doer in a passive sentence with particle 'に'."
+          }
+        },
+        {
+          "id": "ja-n3-l1-v2",
+          "term": "参加",
+          "reading": "さんか",
+          "romaji": "sanka",
+          "rubyText": "参加[さんか]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "tham gia",
+            "en": "participation"
+          },
+          "example": {
+            "text": "新入社員にも会議に参加させました。",
+            "rubyText": "新入社員[しんにゅうしゃいん]にも会議[かいぎ]に参加[さんか]させました。",
+            "reading": "shinnyū shain ni mo kaigi ni sanka sasemashita.",
+            "meaning": {
+              "vi": "Tôi đã cho cả nhân viên mới tham gia cuộc họp.",
+              "en": "I had the new hires participate in the meeting as well."
+            }
+          },
+          "note": {
+            "vi": "Tham gia vào sự kiện dùng trợ từ 'に': イベントに参加する.",
+            "en": "Takes particle 'に': イベントに参加する."
+          }
+        },
+        {
+          "id": "ja-n3-l1-v3",
+          "term": "間違える",
+          "reading": "まちがえる",
+          "romaji": "machigaeru",
+          "rubyText": "間違[まちが]える",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "nhầm lẫn, làm sai",
+            "en": "to make a mistake"
+          },
+          "example": {
+            "text": "うっかり日付を間違えてしまいました。",
+            "rubyText": "うっかり日付[ひづけ]を間違[まちが]えてしまいました。",
+            "reading": "ukkari hizuke o machigaete shimaimashita.",
+            "meaning": {
+              "vi": "Tôi lỡ sơ ý ghi nhầm ngày tháng mất rồi.",
+              "en": "I carelessly ended up getting the date wrong."
+            }
+          },
+          "note": {
+            "vi": "Thường đi với 'うっかり (lơ đễnh)' và '〜てしまう' diễn tả sự tiếc nuối.",
+            "en": "Often paired with 'うっかり (carelessly)' and '〜てしまう'."
+          }
+        },
+        {
+          "id": "ja-n3-l1-v4",
+          "term": "経験",
+          "reading": "けいけん",
+          "romaji": "keiken",
+          "rubyText": "経験[けいけん]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "trải nghiệm thực tế",
+            "en": "hands-on experience"
+          },
+          "example": {
+            "text": "上司が若い人に責任ある仕事を経験させます。",
+            "rubyText": "上司[じょうし]が若[わか]い人[ひと]に責任[せきにん]ある仕事[しごと]を経験[けいけん]させます。",
+            "reading": "jōshi ga wakai hito ni sekinin aru shigoto o keiken sasemasu.",
+            "meaning": {
+              "vi": "Cấp trên tạo điều kiện cho người trẻ trải nghiệm công việc có trách nhiệm.",
+              "en": "Managers let younger staff gain experience with meaningful responsibilities."
+            }
+          },
+          "note": {
+            "vi": "Thể sai khiến 'させる' cũng mang nghĩa tích cực là 'cho phép / tạo điều kiện để làm'.",
+            "en": "Causative 'させる' can mean 'allow / give the opportunity to' as well as 'make'."
+          }
+        },
+        {
+          "id": "ja-n3-l1-v5",
+          "term": "迷う",
+          "reading": "まよう",
+          "romaji": "mayou",
+          "rubyText": "迷[まよ]う",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "lạc đường; phân vân lựa chọn",
+            "en": "to get lost / hesitate"
+          },
+          "example": {
+            "text": "出口が多くて、駅の中で道に迷ってしまいました。",
+            "rubyText": "出口[でぐち]が多[おお]くて、駅[えき]の中[なか]で道[みち]に迷[まよ]ってしまいました。",
+            "reading": "deguchi ga ōkute, eki no naka de michi ni mayotte shimaimashita.",
+            "meaning": {
+              "vi": "Nhiều lối ra quá nên tôi bị lạc đường ngay trong nhà ga.",
+              "en": "There were so many exits that I got lost inside the station."
+            }
+          },
+          "note": {
+            "vi": "Cụm hay dùng: 道に迷う (lạc đường), 進路に迷う (phân vân hướng đi).",
+            "en": "Common phrases: 道に迷う (get lost), 選ぶのに迷う (hesitate)."
+          }
+        },
+        {
+          "id": "ja-n3-l1-v6",
+          "term": "頼む",
+          "reading": "たのむ",
+          "romaji": "tanomu",
+          "rubyText": "頼[たの]む",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "nhờ vả, yêu cầu",
+            "en": "to ask / request"
+          },
+          "example": {
+            "text": "先輩に資料のチェックを頼まれました。",
+            "rubyText": "先輩[せんぱい]に資料[しりょう]のチェックを頼[たの]まれました。",
+            "reading": "senpai ni shiryō no chekku o tanomaremashita.",
+            "meaning": {
+              "vi": "Tôi được tiền bối nhờ kiểm tra giúp tài liệu.",
+              "en": "I was asked by my senior colleague to check the materials."
+            }
+          },
+          "note": {
+            "vi": "Bị động của 頼む là 頼まれる (được nhờ làm việc gì).",
+            "en": "Passive '頼まれる' is used naturally for being assigned or asked to help."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "ja-n3-l1-g1",
+          "pattern": "Passive 〜(ら)れる vs. Causative 〜(さ)せる",
+          "title": {
+            "vi": "Thể bị động và thể sai khiến",
+            "en": "Passive 〜られる & Causative 〜させる"
+          },
+          "structure": "Bị động: Nhóm 1 (-a + れる) / Nhóm 2 (-られる) | Sai khiến: Nhóm 1 (-a + せる) / Nhóm 2 (-させる)",
+          "explanation": {
+            "vi": "Bị động diễn tả hành động tác động lên chủ ngữ (hoặc sự việc gây phiền toái như bị mưa ướt); sai khiến diễn tả người trên yêu cầu hoặc cho phép người dưới thực hiện.",
+            "en": "Passive marks the receiver of an action (including adverse events); causative expresses making or letting someone do something."
+          },
+          "usageNote": {
+            "vi": "Lưu ý nhóm 1 kết thúc bằng 'う' (như 言う, 買う) đổi thành 'わ' trước れる/せる: 言われる, 買わせる.",
+            "en": "Godan verbs ending in '-u' shift to '-wa' before れる/せる (e.g., 買う -> 買わせる)."
+          },
+          "examples": [
+            {
+              "text": "帰り道に急な雨に降られました。",
+              "rubyText": "帰[かえ]り道[みち]に急[きゅう]な雨[あめ]に降[ふ]られました。",
+              "reading": "kaerimichi ni kyū na ame ni furaremashita.",
+              "meaning": {
+                "vi": "Trên đường về tôi bị trận mưa bất chợt đổ xuống (ướt mất).",
+                "en": "I got caught in a sudden downpour on the way home."
+              }
+            },
+            {
+              "text": "先生は学生に自分の意見を発表させました。",
+              "rubyText": "先生[せんせい]は学生[がくせい]に自分[じぶん]の意見[いけん]を発表[はっぴょう]させました。",
+              "reading": "sensei wa gakusei ni jibun no iken o happyō sasemashita.",
+              "meaning": {
+                "vi": "Cô giáo cho các sinh viên trình bày ý kiến của riêng mình.",
+                "en": "The teacher had the students present their own opinions."
+              }
+            }
+          ]
+        },
+        {
+          "id": "ja-n3-l1-g2",
+          "pattern": "V-て + しまう (hoàn tất / lỡ mất)",
+          "title": {
+            "vi": "Sắc thái hoàn tất hoặc lỡ mất: 〜てしまう",
+            "en": "Completion & Regret with 〜てしまう"
+          },
+          "structure": "V-て + しまう / しまいました (khẩu ngữ rút gọn: 〜ちゃう / 〜じゃう)",
+          "explanation": {
+            "vi": "Diễn tả hai sắc thái chính: (1) làm xong hoàn toàn một việc gì đó, hoặc (2) lỡ làm xảy ra điều ngoài ý muốn gây tiếc nuối.",
+            "en": "Expresses either (1) thorough completion of a task or (2) accidental/regrettable occurrence."
+          },
+          "usageNote": {
+            "vi": "Trong hội thoại thân mật với bạn bè, '〜てしまう' hay rút gọn thành '〜ちゃう' (忘れちゃった).",
+            "en": "In casual speech, 〜てしまう contracts to 〜ちゃう (and 〜でしまう to 〜じゃう)."
+          },
+          "examples": [
+            {
+              "text": "この小説は面白いから、一日で読んでしまいました。",
+              "rubyText": "この小説[しょうせつ]は面白[おもしろ]いから、一日[いちにち]で読[よ]んでしまいました。",
+              "reading": "kono shōsetsu wa omoshiroi kara, ichinichi de yonde shimaimashita.",
+              "meaning": {
+                "vi": "Cuốn tiểu thuyết này hay quá nên tôi đã đọc hết trọn vẹn trong một ngày.",
+                "en": "This novel was so gripping that I finished reading it in one day."
+              }
+            },
+            {
+              "text": "大事なメモを家に忘れてしまいました。",
+              "rubyText": "大事[だいじ]なメモを家[いえ]に忘[わす]れてしまいました。",
+              "reading": "daiji na memo o ie ni wasurete shimaimashita.",
+              "meaning": {
+                "vi": "Tôi lỡ để quên tờ ghi chú quan trọng ở nhà mất rồi.",
+                "en": "I accidentally left my important notes at home."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Chuyện bị nhầm ga và được sếp giao việc mới",
+          "en": "A Busy Day & New Responsibility"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Minh Anh kể với Kenji về một ngày vừa lỡ đi nhầm tàu vừa được sếp tin tưởng giao dự án.",
+          "en": "Minh Anh tells Kenji about missing a stop and getting praised at work."
+        },
+        "lines": [
+          {
+            "speaker": "Minh Anh",
+            "text": "今朝、電車で本に夢中になって、降りる駅を間違えてしまいました。",
+            "rubyText": "今朝[けさ]、電車[でんしゃ]で本[ほん]に夢中[むちゅう]になって、降[お]りる駅[えき]を間違[まちが]えてしまいました。",
+            "reading": "Kesa, densha de hon ni muchū ni natte, oriru eki o machigaete shimaimashita.",
+            "meaning": {
+              "vi": "Sáng nay trên tàu mải mê đọc sách quá nên mình lỡ xuống nhầm ga mất tiêu.",
+              "en": "This morning I got absorbed in a book on the train and ended up getting off at the wrong station."
+            }
+          },
+          {
+            "speaker": "Kenji",
+            "text": "それは大変でしたね。会社には間に合いましたか。",
+            "rubyText": "それは大変[たいへん]でしたね。会社[かいしゃ]には間[ま]に合[あ]いましたか。",
+            "reading": "Sore wa taihen deshita ne. Kaisha ni wa ma ni aimashita ka.",
+            "meaning": {
+              "vi": "Thế thì vất vả quá nhỉ. Bạn có kịp giờ đến công ty không?",
+              "en": "Oh no! Did you still make it to the office on time?"
+            }
+          },
+          {
+            "speaker": "Minh Anh",
+            "text": "ええ、なんとか間に合いました。それに、昨日の企画書を部長に褒められましたよ！",
+            "rubyText": "ええ、なんとか間[ま]に合[あ]いました。それに、昨日[きのう]の企画書[きかくしょ]を部長[ぶちょう]に褒[ほ]められましたよ！",
+            "reading": "Ee, nantoka ma ni aimashita. Sore ni, kinō no kikakusho o buchō ni homeraremashita yo!",
+            "meaning": {
+              "vi": "Ừ, may mà kịp. Hơn nữa bản đề xuất hôm qua còn được trưởng phòng khen nữa đấy!",
+              "en": "Yes, barely made it. Plus, my manager praised yesterday's proposal!"
+            }
+          },
+          {
+            "speaker": "Kenji",
+            "text": "おめでとうございます！来週の会議にも参加させてもらえそうですね。",
+            "rubyText": "おめでとうございます！来週[らいしゅう]の会議[かいぎ]にも参加[さんか]させてもらえそうですね。",
+            "reading": "Omedetō gozaimasu! Raishū no kaigi ni mo sanka sasete moraesō desu ne.",
+            "meaning": {
+              "vi": "Chúc mừng bạn nhé! Có vẻ bạn cũng sẽ được cho tham gia cuộc họp tuần sau luôn đấy.",
+              "en": "Congratulations! Sounds like you'll get to join next week's meeting too."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Kết hợp '〜させてもらう' (được ai đó cho phép làm gì) thể hiện sự khiêm nhường và biết ơn cơ hội được trao.",
+          "en": "Combining causative + 'もらう' ('〜させてもらう') politely frames an opportunity as something kindly granted to you."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "ja-n3-l1-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Thể bị động đúng của '褒める (khen)' là gì?",
+            "en": "What is the passive form of '褒める (to praise)'?"
+          },
+          "targetText": "部長に___。",
+          "options": [
+            "褒められた",
+            "褒めさせた",
+            "褒まれた",
+            "褒めってしまった"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'褒める' là động từ nhóm 2 -> bỏ る thêm られる: 褒められた.",
+            "en": "Ichidan verb '褒める' forms its passive by replacing る with られる."
+          }
+        },
+        {
+          "id": "ja-n3-l1-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn cách đọc Kana đúng cho '間違える'.",
+            "en": "Select the Kana reading for '間違える'."
+          },
+          "targetText": "間違える",
+          "ttsText": "間違える",
+          "options": [
+            "まちがえる",
+            "ほめる",
+            "まよう",
+            "たのむ"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'間違える' đọc là まちがえる (machigaeru).",
+            "en": "'間違える' is read まちがえる (machigaeru)."
+          }
+        },
+        {
+          "id": "ja-n3-l1-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn trợ từ chỉ người thực hiện hành động trong câu bị động:",
+            "en": "Choose the particle marking the agent in a passive sentence:"
+          },
+          "targetText": "先輩___仕事を頼まれました。",
+          "ttsText": "先輩に仕事を頼まれました。",
+          "options": [
+            "に",
+            "を",
+            "で",
+            "へ"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Tác nhân trong câu bị động gắn với trợ từ 'に'.",
+            "en": "Passive agents take particle 'に'."
+          }
+        },
+        {
+          "id": "ja-n3-l1-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu thể hiện sự lỡ quên mất.",
+            "en": "Arrange the tokens into a 〜てしまう regret sentence."
+          },
+          "targetMeaning": {
+            "vi": "Tôi lỡ quên mất chìa khóa rồi.",
+            "en": "I accidentally forgot my keys."
+          },
+          "tokens": [
+            "忘れて",
+            "鍵を",
+            "しまいました。"
+          ],
+          "correctOrder": [
+            "鍵を",
+            "忘れて",
+            "しまいました。"
+          ],
+          "correctSentence": "鍵を忘れてしまいました。",
+          "explanation": {
+            "vi": "Trật tự: 鍵を + 忘れて + しまいました。",
+            "en": "Order: 鍵を + 忘れて + しまいました。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ja-n3-l2",
+      "levelId": "ja-n3",
+      "order": 2,
+      "title": {
+        "native": "推量と逆接の表現",
+        "vi": "Suy đoán và tương phản (ようだ・そうだ・らしい・のに)",
+        "en": "Conjecture & Contrast"
+      },
+      "topic": "conjecture-contrast",
+      "summary": {
+        "vi": "Phân biệt sắc thái suy đoán giữa ようだ / そうだ / らしい và dùng '〜のに' diễn tả kết quả trái kỳ vọng.",
+        "en": "Distinguish ようだ, そうだ, and らしい for inference/hearsay, and express unexpected contrast with 〜のに."
+      },
+      "xpReward": 60,
+      "vocabulary": [
+        {
+          "id": "ja-n3-l2-v1",
+          "term": "予報",
+          "reading": "よほう",
+          "romaji": "yohō",
+          "rubyText": "予報[よほう]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "dự báo",
+            "en": "forecast"
+          },
+          "example": {
+            "text": "天気予報によると、午後は涼しくなるそうです。",
+            "rubyText": "天気予報[てんきよほう]によると、午後[ごご]は涼[すず]しくなるそうです。",
+            "reading": "tenki yohō ni yoru to, gogo wa suzushiku naru sō desu.",
+            "meaning": {
+              "vi": "Theo dự báo thời tiết thì buổi chiều trời sẽ mát hơn.",
+              "en": "According to the weather forecast, it will get cooler this afternoon."
+            }
+          },
+          "note": {
+            "vi": "Cụm trích nguồn tin kinh điển: 〜によると、〜そうです (nghe nói theo...).",
+            "en": "Classic hearsay frame: '〜によると、〜そうです'."
+          }
+        },
+        {
+          "id": "ja-n3-l2-v2",
+          "term": "様子",
+          "reading": "ようす",
+          "romaji": "yōsu",
+          "rubyText": "様子[ようす]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "tình hình, dáng vẻ, biểu hiện bên ngoài",
+            "en": "appearance / situation"
+          },
+          "example": {
+            "text": "教室の様子を見ると、みんな集中しているようです。",
+            "rubyText": "教室[きょうしつ]の様子[ようす]を見[み]ると、みんな集中[しゅうちゅう]しているようです。",
+            "reading": "kyōshitsu no yōsu o miru to, minna shūchū shite iru yō desu.",
+            "meaning": {
+              "vi": "Nhìn tình hình lớp học thì có vẻ mọi người đều đang tập trung.",
+              "en": "Looking at the classroom, everyone seems to be focusing."
+            }
+          },
+          "note": {
+            "vi": "Thường đi với 見る (quan sát tình hình) và '〜ようだ'.",
+            "en": "Commonly pairs with '見る' and '〜ようだ' (sensory evidence)."
+          }
+        },
+        {
+          "id": "ja-n3-l2-v3",
+          "term": "噂",
+          "reading": "うわさ",
+          "romaji": "uwasa",
+          "rubyText": "噂[うわさ]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "tin đồn, lời bàn tán",
+            "en": "rumor / word going around"
+          },
+          "example": {
+            "text": "駅の近くに新しい本屋ができるらしいです。",
+            "rubyText": "駅[えき]の近[ちか]くに新[あたら]しい本屋[ほんや]ができるらしいです。",
+            "reading": "eki no chikaku ni atarashii hon'ya ga dekiru rashii desu.",
+            "meaning": {
+              "vi": "Nghe đồn gần nhà ga sắp mở một hiệu sách mới đấy.",
+              "en": "I hear a new bookstore is opening near the station."
+            }
+          },
+          "note": {
+            "vi": "'〜らしい' hay dùng cho thông tin nghe truyền miệng hoặc suy luận gián tiếp.",
+            "en": "'〜らしい' suits indirect hearsay or objective inference."
+          }
+        },
+        {
+          "id": "ja-n3-l2-v4",
+          "term": "残念",
+          "reading": "ざんねん",
+          "romaji": "zannen",
+          "rubyText": "残念[ざんねん]",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "đáng tiếc",
+            "en": "regrettable / unfortunate"
+          },
+          "example": {
+            "text": "せっかく準備したのに、中止になって残念です。",
+            "rubyText": "せっかく準備[じゅんび]したのに、中止[ちゅうし]になって残念[ざんねん]です。",
+            "reading": "sekkaku junbi shita no ni, chūshi ni natte zannen desu.",
+            "meaning": {
+              "vi": "Đã cất công chuẩn bị thế mà lại bị hủy, thật đáng tiếc.",
+              "en": "It's a shame it was canceled after all that preparation."
+            }
+          },
+          "note": {
+            "vi": "Cặp phó từ hay đi cùng '〜のに': 'せっかく〜のに' (đã mất công... thế mà lại...).",
+            "en": "Frequently pairs with 'せっかく〜のに' (went to all that trouble, yet...)."
+          }
+        },
+        {
+          "id": "ja-n3-l2-v5",
+          "term": "努力",
+          "reading": "どりょく",
+          "romaji": "doryoku",
+          "rubyText": "努力[どりょく]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "sự nỗ lực, cố gắng",
+            "en": "effort"
+          },
+          "example": {
+            "text": "毎日努力しているのに、まだ結果が出ません。",
+            "rubyText": "毎日[まいにち]努力[どりょく]しているのに、まだ結果[けっか]が出[で]ません。",
+            "reading": "mainichi doryoku shite iru no ni, mada kekka ga demasen.",
+            "meaning": {
+              "vi": "Mỗi ngày đều nỗ lực như vậy mà kết quả vẫn chưa thấy đâu.",
+              "en": "Even though I work hard every day, results haven't shown yet."
+            }
+          },
+          "note": {
+            "vi": "Làm động từ với する: 努力する (nỗ lực).",
+            "en": "Verb form: 努力する (to make an effort)."
+          }
+        },
+        {
+          "id": "ja-n3-l2-v6",
+          "term": "確か",
+          "reading": "たしか",
+          "romaji": "tashika",
+          "rubyText": "確[たし]か",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "chắc chắn; nếu tôi nhớ không nhầm (phó từ)",
+            "en": "certain / if I recall correctly"
+          },
+          "example": {
+            "text": "確か、その図書館は月曜日が休みだったはずです。",
+            "rubyText": "確[たし]か、その図書館[としょかん]は月曜日[げつようび]が休[やす]みだったはずです。",
+            "reading": "tashika, sono toshokan wa getsuyōbi ga yasumi datta hazu desu.",
+            "meaning": {
+              "vi": "Nếu tôi nhớ không nhầm thì thư viện đó nghỉ vào thứ Hai đấy.",
+              "en": "If I remember right, that library is closed on Mondays."
+            }
+          },
+          "note": {
+            "vi": "Khi đứng đầu câu làm phó từ ('確か…'), nghĩa là 'hình như nhớ là...' (không hoàn toàn chắc 100%).",
+            "en": "As a sentence-initial adverb ('確か…'), it means 'if I recall correctly'."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "ja-n3-l2-g1",
+          "pattern": "ようだ (trực giác/quan sát) vs. そうだ (trực quan/truyền đạt) vs. らしい (nghe nói)",
+          "title": {
+            "vi": "Phân biệt 3 dạng suy đoán: ようだ・そうだ・らしい",
+            "en": "Inference Nuances: ようだ, そうだ, らしい"
+          },
+          "structure": "Plain + ようだ (dựa trên quan sát) | V-stem/Adj + そうだ (trông có vẻ sắp) | Plain + そうだ (nghe nói) | Plain + らしい (nghe đồn)",
+          "explanation": {
+            "vi": "'V-ます(bỏ ます) + そうだ' nhìn bề ngoài đoán sắp xảy ra (雨が降りそうだ - trông sắp mưa); 'Plain + そうだ' truyền đạt lại tin đã nghe; 'ようだ' dựa vào dấu hiệu trực tiếp trước mắt; 'らしい' dựa trên tin đồn hoặc suy luận khách quan.",
+            "en": "'V-stem + そうだ' predicts from visual appearance; 'Plain + そうだ' quotes a source; 'ようだ' infers from direct observation; 'らしい' conveys hearsay or objective evidence."
+          },
+          "usageNote": {
+            "vi": "Với danh từ: N + の + ようだ, nhưng với らしい thì gắn thẳng N + らしい (không có の).",
+            "en": "Nouns take 'の' before 'ようだ' (学生のようだ), but attach directly before 'らしい' (学生らしい)."
+          },
+          "examples": [
+            {
+              "text": "黒い雲が出てきたから、雨が降りそうです。",
+              "rubyText": "黒[くろ]い雲[くも]が出[で]てきたから、雨[あめ]が降[ふ]りそうです。",
+              "reading": "kuroi kumo ga dete kita kara, ame ga furisō desu.",
+              "meaning": {
+                "vi": "Mây đen kéo đến rồi nên trông trời sắp mưa đấy.",
+                "en": "Dark clouds have rolled in—it looks like it's about to rain."
+              }
+            },
+            {
+              "text": "廊下が静かなので、もう授業が始まったようです。",
+              "rubyText": "廊下[ろうか]が静[しず]かなので、もう授業[じゅぎょう]が始[はじ]まったようです。",
+              "reading": "rōka ga shizuka na no de, mō jugyō ga hajimatta yō desu.",
+              "meaning": {
+                "vi": "Hành lang yên ắng thế này nên có vẻ tiết học đã bắt đầu rồi.",
+                "en": "Since the hallway is quiet, class seems to have already started."
+              }
+            }
+          ]
+        },
+        {
+          "id": "ja-n3-l2-g2",
+          "pattern": "Plain (+ な với N/な-Adj) + のに",
+          "title": {
+            "vi": "Nhấn mạnh trái kỳ vọng với '〜のに'",
+            "en": "Unexpected Contrast with 〜のに"
+          },
+          "structure": "V/い-Adj (thể thông thường) + のに | N/な-Adj + な + のに",
+          "explanation": {
+            "vi": "'〜のに' diễn tả cảm giác ngạc nhiên, bất mãn hoặc đáng tiếc khi kết quả thực tế đi ngược lại với điều đáng lẽ phải xảy ra.",
+            "en": "'〜のに' expresses surprise, frustration, or regret when reality defies expectations ('even though / despite')."
+          },
+          "usageNote": {
+            "vi": "Khác với 'けど/が', KHÔNG dùng '〜のに' trước câu mệnh lệnh hoặc lời mời (như 〜てください, 〜ましょう).",
+            "en": "Unlike 'けど', avoid following '〜のに' with commands, requests, or invitations."
+          },
+          "examples": [
+            {
+              "text": "昨日よく寝たのに、まだ眠いです。",
+              "rubyText": "昨日[きのう]よく寝[ね]たのに、まだ眠[ねむ]いです。",
+              "reading": "kinō yoku neta no ni, mada nemui desu.",
+              "meaning": {
+                "vi": "Hôm qua ngủ kỹ thế rồi mà giờ vẫn còn buồn ngủ.",
+                "en": "Even though I slept well yesterday, I'm still sleepy."
+              }
+            },
+            {
+              "text": "駅に近いのに、この辺りはとても静かです。",
+              "rubyText": "駅[えき]に近[ちか]いのに、この辺[あた]りはとても静[しず]かです。",
+              "reading": "eki ni chikai no ni, kono atari wa totemo shizuka desu.",
+              "meaning": {
+                "vi": "Gần nhà ga thế mà khu quanh đây lại rất yên tĩnh.",
+                "en": "Despite being close to the station, this neighborhood is very quiet."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Đoán thời tiết trước buổi dã ngoại",
+          "en": "Checking Skies Before an Outing"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Linh và Wei Chen bàn xem lễ hội cuối tuần có diễn ra thuận lợi không.",
+          "en": "Linh and Wei Chen discuss whether weather will affect their weekend festival."
+        },
+        "lines": [
+          {
+            "speaker": "Linh",
+            "text": "空が暗くなってきたから、もうすぐ雨が降りそうですね。",
+            "rubyText": "空[そら]が暗[くら]くなってきたから、もうすぐ雨[あめ]が降[ふ]りそうですね。",
+            "reading": "Sora ga kuraku natte kita kara, mō sugu ame ga furisō desu ne.",
+            "meaning": {
+              "vi": "Trời tối sầm lại rồi, trông có vẻ sắp mưa đến nơi đấy nhỉ.",
+              "en": "The sky is getting dark—it looks like it's about to rain soon."
+            }
+          },
+          {
+            "speaker": "Wei Chen",
+            "text": "本当だ。でも、朝の天気予報によると、夕方には晴れるそうですよ。",
+            "rubyText": "本当[ほんとう]だ。でも、朝[あさ]の天気予報[てんきよほう]によると、夕方[ゆうがた]には晴[は]れるそうですよ。",
+            "reading": "Hontō da. Demo, asa no tenki yohō ni yoru to, yūgata ni wa hareru sō desu yo.",
+            "meaning": {
+              "vi": "Thật đấy. Nhưng theo dự báo thời tiết sáng nay thì chiều tối trời sẽ quang tạnh đấy.",
+              "en": "True. Still, according to this morning's forecast, it's supposed to clear up by evening."
+            }
+          },
+          {
+            "speaker": "Linh",
+            "text": "それなら安心ですね。せっかくみんなで予定を合わせたのに、中止になったら残念ですから。",
+            "rubyText": "それなら安心[あんしん]ですね。せっかくみんなで予定[よてい]を合[あ]わせたのに、中止[ちゅうし]になったら残念[ざんねん]ですから。",
+            "reading": "Sore nara anshin desu ne. Sekkaku minna de yotei o awaseta no ni, chūshi ni nattara zannen desu kara.",
+            "meaning": {
+              "vi": "Vậy thì yên tâm rồi. Mọi người đã cất công sắp xếp lịch chung thế mà nếu bị hủy thì tiếc lắm.",
+              "en": "That's a relief! Everyone went out of their way to align schedules, so canceling would be a shame."
+            }
+          },
+          {
+            "speaker": "Wei Chen",
+            "text": "ええ。会場の様子を見ると、スタッフも準備を進めているようですよ。",
+            "rubyText": "ええ。会場[かいじょう]の様子[ようす]を見[み]ると、スタッフも準備[じゅんび]を進[すす]めているようですよ。",
+            "reading": "Ee. Kaijō no yōsu o miru to, sutaffu mo junbi o susumete iru yō desu yo.",
+            "meaning": {
+              "vi": "Ừ. Nhìn tình hình khu tổ chức thì có vẻ nhân viên cũng đang xúc tiến chuẩn bị rồi.",
+              "en": "Yes. Looking at the venue, the staff appear to be moving ahead with preparations."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Nắm vững hai nghĩa khác nhau của 'そうだ' (nhìn thấy đoán '降りそうだ' vs nghe nói '晴れるそうだ') là chìa khóa cốt lõi của JLPT N3.",
+          "en": "Distinguishing visual prediction ('降りそうだ') from quoted hearsay ('晴れるそうだ') is a signature N3 milestone."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "ja-n3-l2-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Câu nào diễn tả 'Nhìn bề ngoài trông món này có vẻ ngon'?",
+            "en": "Which sentence means 'This dish looks delicious' (visual impression)?"
+          },
+          "targetText": "Looks delicious!",
+          "options": [
+            "美味しそうです。",
+            "美味しいそうです。",
+            "美味しいらしいです。",
+            "美味しいのに。"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Tính từ đuôi い bỏ 'い' rồi cộng 'そうです' để diễn tả ấn tượng thị giác: 美味しそうです.",
+            "en": "Drop the final 'い' of い-adjectives before 'そうです' for visual impression: 美味しそう."
+          }
+        },
+        {
+          "id": "ja-n3-l2-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn cách đọc Kana đúng cho '様子'.",
+            "en": "Select the Kana reading for '様子'."
+          },
+          "targetText": "様子",
+          "ttsText": "様子",
+          "options": [
+            "ようす",
+            "よほう",
+            "ざんねん",
+            "どりょく"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'様子' đọc là ようす (yōsu).",
+            "en": "'様子' is read ようす (yōsu)."
+          }
+        },
+        {
+          "id": "ja-n3-l2-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn dạng đúng trước 'のに' với danh từ '日曜日':",
+            "en": "Select the required form before 'のに' after the noun '日曜日':"
+          },
+          "targetText": "日曜日___のに、会社へ行かなければなりません。",
+          "ttsText": "日曜日なのに、会社へ行かなければなりません。",
+          "options": [
+            "な",
+            "の",
+            "に",
+            "だ"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Danh từ và tính từ đuôi な đứng trước 'のに' cần thêm 'な': 日曜日なのに.",
+            "en": "Nouns take 'な' before 'のに': 日曜日なのに."
+          }
+        },
+        {
+          "id": "ja-n3-l2-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu trích nguồn tin dự báo thời tiết.",
+            "en": "Arrange the tokens into a hearsay forecast sentence."
+          },
+          "targetMeaning": {
+            "vi": "Theo dự báo, ngày mai sẽ nắng.",
+            "en": "According to the forecast, tomorrow will be sunny."
+          },
+          "tokens": [
+            "明日は",
+            "予報によると、",
+            "晴れるそうです。"
+          ],
+          "correctOrder": [
+            "予報によると、",
+            "明日は",
+            "晴れるそうです。"
+          ],
+          "correctSentence": "予報によると、明日は晴れるそうです。",
+          "explanation": {
+            "vi": "Nguồn tin (予報によると、) + chủ đề (明日は) + 晴れるそうです。",
+            "en": "Order: 予報によると、+ 明日は + 晴れるそうです。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ja-n3-l3",
+      "levelId": "ja-n3",
+      "order": 3,
+      "title": {
+        "native": "習慣づくりと敬語の基本",
+        "vi": "Tạo thói quen và nhập môn kính ngữ",
+        "en": "Work & Daily Resolution"
+      },
+      "topic": "habits-keigo",
+      "summary": {
+        "vi": "Dùng '〜ようにする' (cố gắng duy trì thói quen), '〜ことにする' (quyết định) và kính ngữ cơ bản nơi công sở.",
+        "en": "Express resolutions with 〜ようにする / 〜ことにする and apply foundational workplace keigo."
+      },
+      "xpReward": 60,
+      "vocabulary": [
+        {
+          "id": "ja-n3-l3-v1",
+          "term": "続ける",
+          "reading": "つづける",
+          "romaji": "tsuzukeru",
+          "rubyText": "続[つづ]ける",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "tiếp tục duy trì (tha động từ)",
+            "en": "to continue"
+          },
+          "example": {
+            "text": "毎日二十分ずつ復習を続けるようにしています。",
+            "rubyText": "毎日[まいにち]二十分[にじゅっぷん]ずつ復習[ふくしゅう]を続[つづ]けるようにしています。",
+            "reading": "mainichi nijuppun zutsu fukushū o tsuzukeru yō ni shite imasu.",
+            "meaning": {
+              "vi": "Tôi cố gắng duy trì việc ôn tập mỗi ngày hai mươi phút.",
+              "en": "I make a point of continuing twenty minutes of review every day."
+            }
+          },
+          "note": {
+            "vi": "Tự động từ tương ứng là '続く (つづく - kéo dài/tiếp diễn)'.",
+            "en": "Intransitive pair: 続く (tsuzuku)."
+          }
+        },
+        {
+          "id": "ja-n3-l3-v2",
+          "term": "習慣",
+          "reading": "しゅうかん",
+          "romaji": "shūkan",
+          "rubyText": "習慣[しゅうかん]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "thói quen, tập quán",
+            "en": "habit / custom"
+          },
+          "example": {
+            "text": "朝メモを取る習慣を身につけたいです。",
+            "rubyText": "朝[あさ]メモを取[と]る習慣[しゅうかん]を身[み]につけたいです。",
+            "reading": "asa memo o toru shūkan o mi ni tsuketai desu.",
+            "meaning": {
+              "vi": "Tôi muốn rèn cho mình thói quen ghi chú vào buổi sáng.",
+              "en": "I want to develop the habit of taking notes in the morning."
+            }
+          },
+          "note": {
+            "vi": "Cụm tự nhiên: 習慣をつける / 習慣になる (trở thành thói quen).",
+            "en": "Collocations: 習慣をつける, 習慣になる."
+          }
+        },
+        {
+          "id": "ja-n3-l3-v3",
+          "term": "いらっしゃる",
+          "reading": "いらっしゃる",
+          "romaji": "irassharu",
+          "rubyText": "いらっしゃる",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "đi / đến / ở (tôn kính ngữ của 行く・来る・いる)",
+            "en": "to go / come / be (honorific)"
+          },
+          "example": {
+            "text": "社長は今会議室にいらっしゃいます。",
+            "rubyText": "社長[しゃちょう]は今[いま]会議室[かいぎしつ]にいらっしゃいます。",
+            "reading": "shachō wa ima kaigishitsu ni irasshaimasu.",
+            "meaning": {
+              "vi": "Giám đốc hiện đang ở trong phòng họp ạ.",
+              "en": "The president is currently in the conference room."
+            }
+          },
+          "note": {
+            "vi": "Chia thể lịch sự là いらっしゃいます (chú ý chữ り bị rụng thành い ở dạng ます).",
+            "en": "Polite form drops 'r': いらっしゃいます."
+          }
+        },
+        {
+          "id": "ja-n3-l3-v4",
+          "term": "いただく",
+          "reading": "いただく",
+          "romaji": "itadaku",
+          "rubyText": "いただく",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "nhận / ăn uống (khiêm nhường ngữ của もらう・食べる・飲む)",
+            "en": "to receive / eat or drink (humble)"
+          },
+          "example": {
+            "text": "部長から詳しいアドバイスをいただきました。",
+            "rubyText": "部長[ぶちょう]から詳[くわ]しいアドバイスをいただきました。",
+            "reading": "buchō kara kuwashii adobaisu o itadakimashita.",
+            "meaning": {
+              "vi": "Tôi đã nhận được lời khuyên chi tiết từ trưởng phòng ạ.",
+              "en": "I received detailed advice from the department head."
+            }
+          },
+          "note": {
+            "vi": "Dùng '〜ていただく' khi nhờ cấp trên hoặc khách hàng giúp điều gì.",
+            "en": "Use '〜ていただけますか' for very polite requests to superiors or clients."
+          }
+        },
+        {
+          "id": "ja-n3-l3-v5",
+          "term": "相談",
+          "reading": "そうだん",
+          "romaji": "sōdan",
+          "rubyText": "相談[そうだん]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "sự bàn bạc, hỏi ý kiến tham khảo",
+            "en": "consultation / discussion"
+          },
+          "example": {
+            "text": "困ったときはすぐ上司に相談するようにしています。",
+            "rubyText": "困[こま]ったときはすぐ上司[じょうし]に相談[そうだん]するようにしています。",
+            "reading": "komatta toki wa sugu jōshi ni sōdan suru yō ni shite imasu.",
+            "meaning": {
+              "vi": "Khi gặp khó khăn, tôi luôn cố gắng trao đổi ngay với cấp trên.",
+              "en": "Whenever I run into trouble, I make sure to consult my supervisor right away."
+            }
+          },
+          "note": {
+            "vi": "Nổi tiếng trong văn hóa công sở Nhật: 報連相 (Hō-Ren-Sō: Báo cáo - Liên lạc - Bàn bạc).",
+            "en": "Key pillar of Japanese workplace 'Hō-Ren-Sō' (Report, Contact, Consult)."
+          }
+        },
+        {
+          "id": "ja-n3-l3-v6",
+          "term": "目標",
+          "reading": "もくひょう",
+          "romaji": "mokuhyō",
+          "rubyText": "目標[もくひょう]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "mục tiêu",
+            "en": "goal / target"
+          },
+          "example": {
+            "text": "今年の目標は毎日五十ポイントを貯めることです。",
+            "rubyText": "今年[ことし]の目標[もくひょう]は毎日[まいにち]五十[ごじゅう]ポイントを貯[た]めることです。",
+            "reading": "kotoshi no mokuhyō wa mainichi gojū pointo o tameru koto desu.",
+            "meaning": {
+              "vi": "Mục tiêu năm nay của tôi là tích đủ năm mươi điểm mỗi ngày.",
+              "en": "My goal this year is to earn fifty points every day."
+            }
+          },
+          "note": {
+            "vi": "Động từ đi kèm: 目標を立てる (đặt mục tiêu), 目標を達成する (đạt mục tiêu).",
+            "en": "Collocations: 目標を立てる (set a goal), 目標を達成する (achieve a goal)."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "ja-n3-l3-g1",
+          "pattern": "V-る / V-ない + ようにする vs. ことにする",
+          "title": {
+            "vi": "Cố gắng duy trì '〜ようにする' và quyết tâm '〜ことにする'",
+            "en": "Habit Effort 〜ようにする vs. Decision 〜ことにする"
+          },
+          "structure": "V (từ điển/ない) + ようにしている (cố gắng làm đều đặn) | ことにした (đã quyết định làm)",
+          "explanation": {
+            "vi": "'〜ようにする' nhấn mạnh nỗ lực rèn luyện để hình thành thói quen hoặc đạt mục tiêu; '〜ことにする' nhấn mạnh quyết định dứt khoát tại một thời điểm.",
+            "en": "'〜ようにする' emphasizes ongoing effort to build a habit; '〜ことにする' states a clear personal decision."
+          },
+          "usageNote": {
+            "vi": "Khi nói về thói quen đang duy trì mỗi ngày, chia ở dạng '〜ようにしています'.",
+            "en": "Ongoing daily habits use the progressive '〜ようにしています'."
+          },
+          "examples": [
+            {
+              "text": "寝る前にスマホを見ないようにしています。",
+              "rubyText": "寝[ね]る前[まえ]にスマホを見[み]ないようにしています。",
+              "reading": "neru mae ni sumaho o minai yō ni shite imasu.",
+              "meaning": {
+                "vi": "Tôi đang cố gắng không xem điện thoại trước khi đi ngủ.",
+                "en": "I try to avoid looking at my phone before bed."
+              }
+            },
+            {
+              "text": "来月から週に三回走ることにしました。",
+              "rubyText": "来月[らいげつ]から週[しゅう]に三回[さんかい]走[はし]ることにしました。",
+              "reading": "raigetsu kara shū ni sankai hashiru koto ni shimashita.",
+              "meaning": {
+                "vi": "Tôi đã quyết định từ tháng sau sẽ chạy bộ ba lần mỗi tuần.",
+                "en": "I decided to run three times a week starting next month."
+              }
+            }
+          ]
+        },
+        {
+          "id": "ja-n3-l3-g2",
+          "pattern": "Sonkeigo (いらっしゃる / ご覧になる) vs. Kenjōgo (いただく / 参る)",
+          "title": {
+            "vi": "Kính ngữ cơ bản: Tôn kính ngữ và Khiêm nhường ngữ",
+            "en": "Foundational Keigo: Honorific vs. Humble"
+          },
+          "structure": "Tôn kính ngữ (nâng hành động người nghe/cấp trên) | Khiêm nhường ngữ (hạ hành động của mình)",
+          "explanation": {
+            "vi": "Tôn kính ngữ (いらっしゃる, おっしゃる, ご覧になる) dùng cho hành động của khách hàng/cấp trên; khiêm nhường ngữ (いただく, 参る, 申す) dùng cho hành động của bản thân khi hướng về họ.",
+            "en": "Honorific verbs elevate the listener or superior's actions; humble verbs lower your own actions toward them."
+          },
+          "usageNote": {
+            "vi": "Tuyệt đối không dùng từ tôn kính cho hành động của chính mình (sai: 私はいらっしゃいます).",
+            "en": "Never apply honorific verbs like いらっしゃる to yourself."
+          },
+          "examples": [
+            {
+              "text": "先生はもう帰られましたか。（いらっしゃいますか）",
+              "rubyText": "先生[せんせい]はもうお帰[かえ]りになりましたか。",
+              "reading": "sensei wa mō o-kaeri ni narimashita ka.",
+              "meaning": {
+                "vi": "Thầy đã về rồi ạ?",
+                "en": "Has the teacher already gone home?"
+              }
+            },
+            {
+              "text": "明日、私からメールをお送りいたします。",
+              "rubyText": "明日[あした]、私[わたし]からメールをお送[おく]りいたします。",
+              "reading": "ashita, watashi kara mēru o o-okuri itashimasu.",
+              "meaning": {
+                "vi": "Ngày mai tôi xin phép gửi email từ phía mình ạ.",
+                "en": "Tomorrow I will send you an email."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Thói quen tốt nơi công sở và báo cáo cấp trên",
+          "en": "Workplace Habits & Polite Reporting"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Minh Anh hỏi Kenji kinh nghiệm trao đổi công việc với cấp trên người Nhật.",
+          "en": "Minh Anh asks Kenji about communicating smoothly with Japanese supervisors."
+        },
+        "lines": [
+          {
+            "speaker": "Minh Anh",
+            "text": "日本の職場で気をつけている習慣はありますか。",
+            "rubyText": "日本[にほん]の職場[しょくば]で気[き]をつけている習慣[しゅうかん]はありますか。",
+            "reading": "Nihon no shokuba de ki o tsukete iru shūkan wa arimasu ka.",
+            "meaning": {
+              "vi": "Ở nơi làm việc tại Nhật bạn có thói quen nào luôn chú ý giữ không?",
+              "en": "Are there any habits you make sure to keep in a Japanese workplace?"
+            }
+          },
+          {
+            "speaker": "Kenji",
+            "text": "そうですね。小さなことでも早めに上司に相談するようにしています。",
+            "rubyText": "そうですね。小[ちい]さなことでも早[はや]めに上司[じょうし]に相談[そうだん]するようにしています。",
+            "reading": "Sō desu ne. Chiisana koto demo hayame ni jōshi ni sōdan suru yō ni shite imasu.",
+            "meaning": {
+              "vi": "Ừ nhỉ. Dù là việc nhỏ mình cũng cố gắng trao đổi sớm với cấp trên.",
+              "en": "Well, even for small matters, I try to consult my supervisor early."
+            }
+          },
+          {
+            "speaker": "Minh Anh",
+            "text": "なるほど。昨日、私も部長から資料の書き方についてアドバイスをいただきました。",
+            "rubyText": "なるほど。昨日[きのう]、私[わたし]も部長[ぶちょう]から資料[しりょう]の書[か]き方[かた]についてアドバイスをいただきました。",
+            "reading": "Naruhodo. Kinō, watashi mo buchō kara shiryō no kakikata ni tsuite adobaisu o itadakimashita.",
+            "meaning": {
+              "vi": "Ra vậy. Hôm qua mình cũng nhận được lời khuyên từ trưởng phòng về cách viết tài liệu.",
+              "en": "I see. Yesterday I also received advice from the department head on writing reports."
+            }
+          },
+          {
+            "speaker": "Kenji",
+            "text": "いい目標ができましたね！明日部長がいらっしゃったら、改善点を見てもらうといいですよ。",
+            "rubyText": "いい目標[もくひょう]ができましたね！明日[あした]部長[ぶちょう]がいらっしゃったら、改善点[かいぜんてん]を見[み]てもらうといいですよ。",
+            "reading": "Ii mokuhyō ga dekimashita ne! Ashita buchō ga irasshattara, kaizenten o mite morau to ii desu yo.",
+            "meaning": {
+              "vi": "Vậy là có mục tiêu hay rồi nhé! Ngày mai khi trưởng phòng có mặt, bạn nhờ bác xem qua phần cải thiện là tuyệt nhất.",
+              "en": "You've got a great goal! When the director is in tomorrow, it'd be good to have them check your revisions."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Trong văn hóa Nhật, việc tham vấn sớm khi mới phát hiện dấu hiệu vướng mắc (相談) được đánh giá cao hơn là tự xoay xở im lặng đến sát hạn.",
+          "en": "Raising questions early ('相談') is viewed as responsible teamwork rather than a sign of weakness."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "ja-n3-l3-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Động từ tôn kính ngữ nào dùng để nói 'Giám đốc đang ở trong phòng'?",
+            "en": "Which honorific verb correctly says 'The president is in the room'?"
+          },
+          "targetText": "社長は部屋に___。",
+          "options": [
+            "いらっしゃいます",
+            "いただきます",
+            "まいります",
+            "もうします"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'いらっしゃいます' là tôn kính ngữ của 'います', dùng cho người trên.",
+            "en": "'いらっしゃいます' is the honorific equivalent of 'います'."
+          }
+        },
+        {
+          "id": "ja-n3-l3-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn cách đọc Kana đúng cho '習慣'.",
+            "en": "Select the Kana reading for '習慣'."
+          },
+          "targetText": "習慣",
+          "ttsText": "習慣",
+          "options": [
+            "しゅうかん",
+            "そうだん",
+            "もくひょう",
+            "つづける"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'習慣' đọc là しゅうかん (shūkan).",
+            "en": "'習慣' is read しゅうかん (shūkan)."
+          }
+        },
+        {
+          "id": "ja-n3-l3-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Hoàn thành câu diễn tả nỗ lực duy trì thói quen tốt:",
+            "en": "Complete the habit-building sentence:"
+          },
+          "targetText": "毎日漢字を復習する___しています。",
+          "ttsText": "毎日漢字を復習するようにしています。",
+          "options": [
+            "ように",
+            "ために",
+            "そうに",
+            "らしく"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Mẫu 'V-る + ようにしています' diễn tả sự cố gắng duy trì thói quen.",
+            "en": "'V-る + ようにしています' expresses making an ongoing effort."
+          }
+        },
+        {
+          "id": "ja-n3-l3-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu dùng khiêm nhường ngữ 'いただきました'.",
+            "en": "Arrange the tokens into a humble-speech sentence."
+          },
+          "targetMeaning": {
+            "vi": "Tôi đã nhận được lời khuyên từ thầy.",
+            "en": "I received advice from the teacher."
+          },
+          "tokens": [
+            "先生から",
+            "いただきました。",
+            "アドバイスを"
+          ],
+          "correctOrder": [
+            "先生から",
+            "アドバイスを",
+            "いただきました。"
+          ],
+          "correctSentence": "先生からアドバイスをいただきました。",
+          "explanation": {
+            "vi": "Trật tự: 先生から + アドバイスを + いただきました。",
+            "en": "Order: 先生から + アドバイスを + いただきました。"
+          }
+        }
+      ]
+    }
+  ]
+}

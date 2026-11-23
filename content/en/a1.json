@@ -1,0 +1,1146 @@
+{
+  "levelId": "en-a1",
+  "language": "en",
+  "code": "A1",
+  "order": 1,
+  "title": {
+    "vi": "Sơ cấp A1 — Nền tảng giao tiếp",
+    "en": "Beginner A1 — Everyday Foundations"
+  },
+  "subtitle": {
+    "vi": "Làm quen, thói quen hằng ngày và gọi món cơ bản",
+    "en": "First meetings, daily routines, and simple café requests"
+  },
+  "estimatedMinutes": 35,
+  "lessons": [
+    {
+      "id": "en-a1-l1",
+      "levelId": "en-a1",
+      "order": 1,
+      "title": {
+        "native": "First Meetings & Identity",
+        "vi": "Làm quen và giới thiệu bản thân",
+        "en": "First Meetings & Identity"
+      },
+      "topic": "greetings",
+      "summary": {
+        "vi": "Học cách chào hỏi lịch sự, hỏi tên, quốc tịch và nghề nghiệp bằng động từ 'to be'.",
+        "en": "Learn polite greetings and how to share your name, origin, and role using 'to be'."
+      },
+      "xpReward": 50,
+      "vocabulary": [
+        {
+          "id": "en-a1-l1-v1",
+          "term": "hello",
+          "reading": "/həˈloʊ/",
+          "partOfSpeech": "expression",
+          "meaning": {
+            "vi": "xin chào",
+            "en": "hello"
+          },
+          "example": {
+            "text": "Hello, nice to meet you.",
+            "reading": "/həˈloʊ naɪs tuː miːt juː/",
+            "meaning": {
+              "vi": "Xin chào, rất vui được gặp bạn.",
+              "en": "Hello, nice to meet you."
+            }
+          },
+          "note": {
+            "vi": "Dùng được trong cả tình huống trang trọng và thân mật.",
+            "en": "Works in both polite and casual greetings."
+          }
+        },
+        {
+          "id": "en-a1-l1-v2",
+          "term": "name",
+          "reading": "/neɪm/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "tên",
+            "en": "name"
+          },
+          "example": {
+            "text": "My name is Minh.",
+            "reading": "/maɪ neɪm ɪz mɪn/",
+            "meaning": {
+              "vi": "Tên tôi là Minh.",
+              "en": "My name is Minh."
+            }
+          },
+          "note": {
+            "vi": "Âm cuối /m/ khép môi rõ khi phát âm.",
+            "en": "Close your lips clearly on the final /m/ sound."
+          }
+        },
+        {
+          "id": "en-a1-l1-v3",
+          "term": "meet",
+          "reading": "/miːt/",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "gặp gỡ",
+            "en": "to meet"
+          },
+          "example": {
+            "text": "I am happy to meet you today.",
+            "reading": "/aɪ æm ˈhæpi tuː miːt juː təˈdeɪ/",
+            "meaning": {
+              "vi": "Tôi rất vui được gặp bạn hôm nay.",
+              "en": "I am happy to meet you today."
+            }
+          },
+          "note": {
+            "vi": "Nguyên âm dài /iː/, kéo dài hơn âm /ɪ/ trong 'sit'.",
+            "en": "Long vowel /iː/, noticeably longer than /ɪ/ in 'sit'."
+          }
+        },
+        {
+          "id": "en-a1-l1-v4",
+          "term": "student",
+          "reading": "/ˈstuːdənt/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "học sinh, sinh viên",
+            "en": "student"
+          },
+          "example": {
+            "text": "She is a university student.",
+            "reading": "/ʃiː ɪz ə ˌjuːnɪˈvɜːrsəti ˈstuːdənt/",
+            "meaning": {
+              "vi": "Cô ấy là sinh viên đại học.",
+              "en": "She is a university student."
+            }
+          },
+          "note": {
+            "vi": "Nhớ dùng mạo từ 'a' trước danh từ đếm được số ít.",
+            "en": "Remember the article 'a' before a singular countable noun."
+          }
+        },
+        {
+          "id": "en-a1-l1-v5",
+          "term": "from",
+          "reading": "/frʌm/",
+          "partOfSpeech": "preposition",
+          "meaning": {
+            "vi": "đến từ",
+            "en": "from"
+          },
+          "example": {
+            "text": "We are from Vietnam.",
+            "reading": "/wiː ɑːr frʌm ˌviːetˈnɑːm/",
+            "meaning": {
+              "vi": "Chúng tôi đến từ Việt Nam.",
+              "en": "We are from Vietnam."
+            }
+          },
+          "note": {
+            "vi": "Thường đi với 'be from + tên thành phố/quốc gia'.",
+            "en": "Commonly used in 'be from + city/country'."
+          }
+        },
+        {
+          "id": "en-a1-l1-v6",
+          "term": "morning",
+          "reading": "/ˈmɔːrnɪŋ/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "buổi sáng",
+            "en": "morning"
+          },
+          "example": {
+            "text": "Good morning, everyone!",
+            "reading": "/ɡʊd ˈmɔːrnɪŋ ˈevriwʌn/",
+            "meaning": {
+              "vi": "Chào buổi sáng mọi người!",
+              "en": "Good morning, everyone!"
+            }
+          },
+          "note": {
+            "vi": "Trọng âm rơi vào âm tiết đầu: MORN-ing.",
+            "en": "Primary stress falls on the first syllable: MORN-ing."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "en-a1-l1-g1",
+          "pattern": "Subject + am / is / are + Noun / Adjective",
+          "title": {
+            "vi": "Động từ 'to be' ở hiện tại đơn",
+            "en": "Present Simple of 'to be'"
+          },
+          "structure": "I am / You, We, They are / He, She, It is + N/Adj",
+          "explanation": {
+            "vi": "Dùng để giới thiệu tên, quốc tịch, nghề nghiệp hoặc trạng thái hiện tại.",
+            "en": "Used to state identity, origin, occupation, or current state."
+          },
+          "usageNote": {
+            "vi": "Người Việt hay quên chia 'is/are' trong câu không có động từ thường (ví dụ nói 'She student' thay vì 'She is a student').",
+            "en": "Avoid omitting 'is/are' when linking a subject to a noun or adjective."
+          },
+          "examples": [
+            {
+              "text": "I am a software designer from Hanoi.",
+              "reading": "/aɪ æm ə ˈsɔːftwer dɪˈzaɪnər frʌm hæˈnɔɪ/",
+              "meaning": {
+                "vi": "Tôi là nhà thiết kế phần mềm đến từ Hà Nội.",
+                "en": "I am a software designer from Hanoi."
+              }
+            },
+            {
+              "text": "They are very friendly classmates.",
+              "reading": "/ðeɪ ɑːr ˈveri ˈfrendli ˈklæsmeɪts/",
+              "meaning": {
+                "vi": "Họ là những bạn cùng lớp rất thân thiện.",
+                "en": "They are very friendly classmates."
+              }
+            }
+          ]
+        },
+        {
+          "id": "en-a1-l1-g2",
+          "pattern": "Wh-word + am / is / are + Subject?",
+          "title": {
+            "vi": "Câu hỏi thông tin với 'What' và 'Where'",
+            "en": "Information Questions with 'What' & 'Where'"
+          },
+          "structure": "What is your name? / Where are you from?",
+          "explanation": {
+            "vi": "Đặt từ để hỏi ở đầu câu rồi đảo động từ 'to be' lên trước chủ ngữ.",
+            "en": "Place the Wh-word first and invert 'am/is/are' before the subject."
+          },
+          "usageNote": {
+            "vi": "Trong giao tiếp tự nhiên, 'What is' thường rút gọn thành 'What's'.",
+            "en": "In spoken English, 'What is' is usually contracted to 'What's'."
+          },
+          "examples": [
+            {
+              "text": "What's your name?",
+              "reading": "/wʌts jʊr neɪm/",
+              "meaning": {
+                "vi": "Tên bạn là gì?",
+                "en": "What's your name?"
+              }
+            },
+            {
+              "text": "Where are you from?",
+              "reading": "/wer ɑːr juː frʌm/",
+              "meaning": {
+                "vi": "Bạn đến từ đâu?",
+                "en": "Where are you from?"
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Ngày đầu tại câu lạc bộ ngôn ngữ",
+          "en": "First Day at the Language Club"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Linh và Kenji gặp nhau lần đầu trước buổi học sáng.",
+          "en": "Linh and Kenji meet for the first time before a morning session."
+        },
+        "lines": [
+          {
+            "speaker": "Linh",
+            "text": "Good morning! I'm Linh. What's your name?",
+            "reading": "/ɡʊd ˈmɔːrnɪŋ | aɪm lɪn | wʌts jʊr neɪm/",
+            "meaning": {
+              "vi": "Chào buổi sáng! Mình là Linh. Tên bạn là gì?",
+              "en": "Good morning! I'm Linh. What's your name?"
+            }
+          },
+          {
+            "speaker": "Kenji",
+            "text": "Hello Linh! My name is Kenji. Nice to meet you.",
+            "reading": "/həˈloʊ lɪn | maɪ neɪm ɪz ˈkendʒi | naɪs tuː miːt juː/",
+            "meaning": {
+              "vi": "Chào Linh! Tên mình là Kenji. Rất vui được gặp bạn.",
+              "en": "Hello Linh! My name is Kenji. Nice to meet you."
+            }
+          },
+          {
+            "speaker": "Linh",
+            "text": "Nice to meet you too. Where are you from?",
+            "reading": "/naɪs tuː miːt juː tuː | wer ɑːr juː frʌm/",
+            "meaning": {
+              "vi": "Mình cũng rất vui được gặp bạn. Bạn đến từ đâu?",
+              "en": "Nice to meet you too. Where are you from?"
+            }
+          },
+          {
+            "speaker": "Kenji",
+            "text": "I'm from Osaka, Japan. I am a design student.",
+            "reading": "/aɪm frʌm oʊˈsɑːkə dʒəˈpæn | aɪ æm ə dɪˈzaɪn ˈstuːdənt/",
+            "meaning": {
+              "vi": "Mình đến từ Osaka, Nhật Bản. Mình là sinh viên ngành thiết kế.",
+              "en": "I'm from Osaka, Japan. I am a design student."
+            }
+          },
+          {
+            "speaker": "Linh",
+            "text": "Welcome to the club! Our English class is in Room 2.",
+            "reading": "/ˈwelkəm tuː ðə klʌb | ˈaʊər ˈɪŋɡlɪʃ klæs ɪz ɪn ruːm tuː/",
+            "meaning": {
+              "vi": "Chào mừng bạn đến câu lạc bộ! Lớp tiếng Anh của chúng ta ở phòng 2.",
+              "en": "Welcome to the club! Our English class is in Room 2."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Trong văn hóa nói tiếng Anh, nụ cười nhẹ, giao tiếp bằng mắt và câu 'Nice to meet you' tạo ấn tượng thân thiện ngay từ đầu.",
+          "en": "In English-speaking settings, a warm smile, brief eye contact, and saying 'Nice to meet you' establish friendliness."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "en-a1-l1-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Từ 'student' có nghĩa là gì?",
+            "en": "What does 'student' mean?"
+          },
+          "targetText": "student",
+          "targetReading": "/ˈstuːdənt/",
+          "ttsText": "student",
+          "options": [
+            "Học sinh, sinh viên",
+            "Giáo viên",
+            "Buổi sáng",
+            "Phòng học"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'student' nghĩa là học sinh hoặc sinh viên.",
+            "en": "'student' refers to someone studying at a school or university."
+          }
+        },
+        {
+          "id": "en-a1-l1-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn phiên âm IPA đúng cho từ 'morning'.",
+            "en": "Choose the correct IPA reading for 'morning'."
+          },
+          "targetText": "morning",
+          "ttsText": "morning",
+          "options": [
+            "/ˈmɔːrnɪŋ/",
+            "/miːt/",
+            "/neɪm/",
+            "/həˈloʊ/"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'morning' phát âm là /ˈmɔːrnɪŋ/, trọng âm ở âm tiết đầu.",
+            "en": "'morning' is pronounced /ˈmɔːrnɪŋ/ with stress on the first syllable."
+          }
+        },
+        {
+          "id": "en-a1-l1-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn từ đúng điền vào chỗ trống:",
+            "en": "Choose the correct word to complete the sentence:"
+          },
+          "targetText": "Where ___ you from?",
+          "ttsText": "Where are you from?",
+          "options": [
+            "am",
+            "is",
+            "are",
+            "be"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "vi": "Với chủ ngữ 'you', động từ 'to be' ở hiện tại là 'are'.",
+            "en": "With the subject 'you', the present form of 'to be' is 'are'."
+          }
+        },
+        {
+          "id": "en-a1-l1-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp các từ thành câu giới thiệu tên hoàn chỉnh.",
+            "en": "Arrange the words into a complete introduction sentence."
+          },
+          "targetMeaning": {
+            "vi": "Tên tôi là Kenji.",
+            "en": "My name is Kenji."
+          },
+          "tokens": [
+            "is",
+            "Kenji.",
+            "My",
+            "name"
+          ],
+          "correctOrder": [
+            "My",
+            "name",
+            "is",
+            "Kenji."
+          ],
+          "correctSentence": "My name is Kenji.",
+          "explanation": {
+            "vi": "Cấu trúc chuẩn: My name + is + [Tên].",
+            "en": "Standard introduction structure: My name + is + [Name]."
+          }
+        }
+      ]
+    },
+    {
+      "id": "en-a1-l2",
+      "levelId": "en-a1",
+      "order": 2,
+      "title": {
+        "native": "Daily Routines & Time",
+        "vi": "Thói quen hằng ngày và giờ giấc",
+        "en": "Daily Routines & Time"
+      },
+      "topic": "routines",
+      "summary": {
+        "vi": "Miêu tả lịch sinh hoạt mỗi ngày bằng thì hiện tại đơn và trạng từ tần suất.",
+        "en": "Describe everyday habits using the Present Simple tense and frequency adverbs."
+      },
+      "xpReward": 50,
+      "vocabulary": [
+        {
+          "id": "en-a1-l2-v1",
+          "term": "wake up",
+          "reading": "/weɪk ʌp/",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "thức dậy",
+            "en": "to wake up"
+          },
+          "example": {
+            "text": "I wake up at six thirty.",
+            "reading": "/aɪ weɪk ʌp æt sɪks ˈθɜːrti/",
+            "meaning": {
+              "vi": "Tôi thức dậy lúc sáu giờ ba mươi.",
+              "en": "I wake up at six thirty."
+            }
+          },
+          "note": {
+            "vi": "Nối âm nhẹ giữa /k/ và /ʌ/: wake_up.",
+            "en": "Link the /k/ into /ʌ/ smoothly when speaking: wake_up."
+          }
+        },
+        {
+          "id": "en-a1-l2-v2",
+          "term": "breakfast",
+          "reading": "/ˈbrekfəst/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "bữa sáng",
+            "en": "breakfast"
+          },
+          "example": {
+            "text": "She has breakfast before work.",
+            "reading": "/ʃiː hæz ˈbrekfəst bɪˈfɔːr wɜːrk/",
+            "meaning": {
+              "vi": "Cô ấy ăn sáng trước khi đi làm.",
+              "en": "She has breakfast before work."
+            }
+          },
+          "note": {
+            "vi": "Đọc là /ˈbrekfəst/, không đọc tách thành 'break-fast'.",
+            "en": "Pronounced /ˈbrekfəst/, not like 'break' + 'fast'."
+          }
+        },
+        {
+          "id": "en-a1-l2-v3",
+          "term": "usually",
+          "reading": "/ˈjuːʒuəli/",
+          "partOfSpeech": "adverb",
+          "meaning": {
+            "vi": "thường xuyên",
+            "en": "usually"
+          },
+          "example": {
+            "text": "We usually study after dinner.",
+            "reading": "/wiː ˈjuːʒuəli ˈstʌdi ˈæftər ˈdɪnər/",
+            "meaning": {
+              "vi": "Chúng tôi thường học sau bữa tối.",
+              "en": "We usually study after dinner."
+            }
+          },
+          "note": {
+            "vi": "Đứng trước động từ thường nhưng sau động từ 'to be'.",
+            "en": "Goes before main verbs, but after 'to be'."
+          }
+        },
+        {
+          "id": "en-a1-l2-v4",
+          "term": "commute",
+          "reading": "/kəˈmjuːt/",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "đi lại (đi làm/đi học)",
+            "en": "to commute"
+          },
+          "example": {
+            "text": "He commutes to the office by bus.",
+            "reading": "/hiː kəˈmjuːts tuː ði ˈɔːfɪs baɪ bʌs/",
+            "meaning": {
+              "vi": "Anh ấy đi làm đến văn phòng bằng xe buýt.",
+              "en": "He commutes to the office by bus."
+            }
+          },
+          "note": {
+            "vi": "Rất thông dụng khi nói về quãng đường đi làm hằng ngày.",
+            "en": "Commonly describes regular travel between home and work or school."
+          }
+        },
+        {
+          "id": "en-a1-l2-v5",
+          "term": "evening",
+          "reading": "/ˈiːvnɪŋ/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "buổi tối",
+            "en": "evening"
+          },
+          "example": {
+            "text": "In the evening, I read a book.",
+            "reading": "/ɪn ði ˈiːvnɪŋ aɪ riːd ə bʊk/",
+            "meaning": {
+              "vi": "Vào buổi tối, tôi đọc sách.",
+              "en": "In the evening, I read a book."
+            }
+          },
+          "note": {
+            "vi": "Thường chỉ có 2 âm tiết trong nói tự nhiên: /ˈiːv.nɪŋ/.",
+            "en": "Usually pronounced with two syllables: /ˈiːv.nɪŋ/."
+          }
+        },
+        {
+          "id": "en-a1-l2-v6",
+          "term": "weekend",
+          "reading": "/ˈwiːkend/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "cuối tuần",
+            "en": "weekend"
+          },
+          "example": {
+            "text": "On weekends, they play badminton.",
+            "reading": "/ɑːn ˈwiːkendz ðeɪ pleɪ ˈbædmɪntən/",
+            "meaning": {
+              "vi": "Vào cuối tuần, họ chơi cầu lông.",
+              "en": "On weekends, they play badminton."
+            }
+          },
+          "note": {
+            "vi": "Dùng 'on weekends' (Mỹ) hoặc 'at the weekend' (Anh).",
+            "en": "Use 'on weekends' (US) or 'at the weekend' (UK)."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "en-a1-l2-g1",
+          "pattern": "S + V(s/es) + Time Expression",
+          "title": {
+            "vi": "Thì hiện tại đơn với thói quen hằng ngày",
+            "en": "Present Simple for Daily Habits"
+          },
+          "structure": "I/You/We/They + V | He/She/It + V-s/es",
+          "explanation": {
+            "vi": "Dùng thì hiện tại đơn để nói về lịch trình lặp lại mỗi ngày; thêm -s/-es khi chủ ngữ là ngôi thứ 3 số ít.",
+            "en": "Use Present Simple for repeated routines; add -s/-es for he, she, or it."
+          },
+          "usageNote": {
+            "vi": "Đừng quên -s ở 'starts', 'works', 'studies' khi nói về 'he/she'.",
+            "en": "Don't drop the third-person -s in 'works' or 'studies'."
+          },
+          "examples": [
+            {
+              "text": "My sister drinks green tea every morning.",
+              "reading": "/maɪ ˈsɪstər drɪŋks ɡriːn tiː ˈevri ˈmɔːrnɪŋ/",
+              "meaning": {
+                "vi": "Chị tôi uống trà xanh mỗi sáng.",
+                "en": "My sister drinks green tea every morning."
+              }
+            },
+            {
+              "text": "The train leaves at seven fifteen.",
+              "reading": "/ðə treɪn liːvz æt ˈsevən ˌfɪfˈtiːn/",
+              "meaning": {
+                "vi": "Chuyến tàu rời ga lúc bảy giờ mười lăm.",
+                "en": "The train leaves at seven fifteen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "en-a1-l2-g2",
+          "pattern": "at + clock time / in + part of day / on + day",
+          "title": {
+            "vi": "Giới từ chỉ thời gian: at, in, on",
+            "en": "Time Prepositions: at, in, on"
+          },
+          "structure": "at 7:00 | in the morning/evening | on Monday/weekends",
+          "explanation": {
+            "vi": "'at' đi với giờ chính xác, 'in' đi với buổi trong ngày (trừ 'at night'), 'on' đi với ngày trong tuần.",
+            "en": "Use 'at' for exact times, 'in' for parts of the day (except 'at night'), and 'on' for days."
+          },
+          "usageNote": {
+            "vi": "Nói 'at night', không nói 'in the night' khi diễn tả thói quen chung.",
+            "en": "Say 'at night' rather than 'in the night' for general routines."
+          },
+          "examples": [
+            {
+              "text": "I finish work at five thirty.",
+              "reading": "/aɪ ˈfɪnɪʃ wɜːrk æt faɪv ˈθɜːrti/",
+              "meaning": {
+                "vi": "Tôi tan làm lúc năm giờ rưỡi.",
+                "en": "I finish work at five thirty."
+              }
+            },
+            {
+              "text": "We have a study call on Friday evening.",
+              "reading": "/wiː hæv ə ˈstʌdi kɔːl ɑːn ˈfraɪdeɪ ˈiːvnɪŋ/",
+              "meaning": {
+                "vi": "Chúng tôi có buổi gọi học nhóm vào tối thứ Sáu.",
+                "en": "We have a study call on Friday evening."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Lịch trình một ngày của An",
+          "en": "An's Daily Routine"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Linh hỏi An về thói quen buổi sáng và buổi tối.",
+          "en": "Linh asks An about his morning and evening routine."
+        },
+        "lines": [
+          {
+            "speaker": "Linh",
+            "text": "What time do you usually wake up on weekdays?",
+            "reading": "/wʌt taɪm duː juː ˈjuːʒuəli weɪk ʌp ɑːn ˈwiːkdeɪz/",
+            "meaning": {
+              "vi": "Ngày thường bạn hay thức dậy lúc mấy giờ?",
+              "en": "What time do you usually wake up on weekdays?"
+            }
+          },
+          {
+            "speaker": "An",
+            "text": "I wake up at six thirty and make a quick breakfast.",
+            "reading": "/aɪ weɪk ʌp æt sɪks ˈθɜːrti ænd meɪk ə kwɪk ˈbrekfəst/",
+            "meaning": {
+              "vi": "Mình dậy lúc 6 giờ 30 và chuẩn bị bữa sáng nhanh.",
+              "en": "I wake up at six thirty and make a quick breakfast."
+            }
+          },
+          {
+            "speaker": "Linh",
+            "text": "How do you commute to work?",
+            "reading": "/haʊ duː juː kəˈmjuːt tuː wɜːrk/",
+            "meaning": {
+              "vi": "Bạn đi làm bằng phương tiện gì?",
+              "en": "How do you commute to work?"
+            }
+          },
+          {
+            "speaker": "An",
+            "text": "I take the bus at seven fifteen. In the evening, I practice English for twenty minutes.",
+            "reading": "/aɪ teɪk ðə bʌs æt ˈsevən ˌfɪfˈtiːn | ɪn ði ˈiːvnɪŋ aɪ ˈpræktɪs ˈɪŋɡlɪʃ fɔːr ˈtwenti ˈmɪnɪts/",
+            "meaning": {
+              "vi": "Mình bắt xe buýt lúc 7 giờ 15. Buổi tối mình luyện tiếng Anh hai mươi phút.",
+              "en": "I take the bus at seven fifteen. In the evening, I practice English for twenty minutes."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Khi hỏi thăm giờ giấc của bạn bè, người bản xứ hay dùng cụm 'What time do you usually...?' để tạo giọng điệu nhẹ nhàng, tự nhiên.",
+          "en": "Adding 'usually' in 'What time do you usually...?' makes daily routine questions sound friendly and natural."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "en-a1-l2-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Động từ 'commute' diễn tả hành động nào?",
+            "en": "What action does 'commute' describe?"
+          },
+          "targetText": "commute",
+          "targetReading": "/kəˈmjuːt/",
+          "ttsText": "commute",
+          "options": [
+            "Đi lại đều đặn giữa nhà và nơi làm việc",
+            "Nấu bữa sáng",
+            "Ngủ trưa",
+            "Mua sắm cuối tuần"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'commute' là việc đi lại hằng ngày giữa nhà và chỗ làm hoặc trường học.",
+            "en": "'commute' means traveling regularly between home and work or school."
+          }
+        },
+        {
+          "id": "en-a1-l2-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Từ nào khớp với phiên âm /ˈbrekfəst/?",
+            "en": "Which word matches the IPA /ˈbrekfəst/?"
+          },
+          "targetText": "/ˈbrekfəst/",
+          "ttsText": "breakfast",
+          "options": [
+            "breakfast",
+            "weekend",
+            "evening",
+            "usually"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "/ˈbrekfəst/ là cách phát âm chuẩn của 'breakfast'.",
+            "en": "/ˈbrekfəst/ is the standard pronunciation of 'breakfast'."
+          }
+        },
+        {
+          "id": "en-a1-l2-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn giới từ chỉ thời gian đúng:",
+            "en": "Choose the right time preposition:"
+          },
+          "targetText": "She starts class ___ eight o'clock.",
+          "ttsText": "She starts class at eight o'clock.",
+          "options": [
+            "in",
+            "on",
+            "at",
+            "by"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "vi": "Dùng 'at' trước mốc giờ cụ thể.",
+            "en": "Use 'at' before specific clock times."
+          }
+        },
+        {
+          "id": "en-a1-l2-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp các từ thành câu nói về thói quen buổi sáng.",
+            "en": "Order the words to describe a morning habit."
+          },
+          "targetMeaning": {
+            "vi": "Tôi thường thức dậy lúc sáu giờ.",
+            "en": "I usually wake up at six."
+          },
+          "tokens": [
+            "wake",
+            "at",
+            "I",
+            "six.",
+            "usually",
+            "up"
+          ],
+          "correctOrder": [
+            "I",
+            "usually",
+            "wake",
+            "up",
+            "at",
+            "six."
+          ],
+          "correctSentence": "I usually wake up at six.",
+          "explanation": {
+            "vi": "Trạng từ 'usually' đứng trước cụm động từ 'wake up'.",
+            "en": "Place 'usually' directly before the phrasal verb 'wake up'."
+          }
+        }
+      ]
+    },
+    {
+      "id": "en-a1-l3",
+      "levelId": "en-a1",
+      "order": 3,
+      "title": {
+        "native": "At the Café & Shopping",
+        "vi": "Tại quán cà phê và mua sắm",
+        "en": "At the Café & Shopping"
+      },
+      "topic": "food-shopping",
+      "summary": {
+        "vi": "Gọi đồ uống lịch sự với 'Can I have...' / 'I'd like...', hỏi giá và dùng 'some/any'.",
+        "en": "Order drinks politely with 'Can I have...' / 'I'd like...', ask prices, and use 'some/any'."
+      },
+      "xpReward": 50,
+      "vocabulary": [
+        {
+          "id": "en-a1-l3-v1",
+          "term": "menu",
+          "reading": "/ˈmenjuː/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "thực đơn",
+            "en": "menu"
+          },
+          "example": {
+            "text": "Could I see the menu, please?",
+            "reading": "/kʊd aɪ siː ðə ˈmenjuː pliːz/",
+            "meaning": {
+              "vi": "Cho tôi xem thực đơn được không?",
+              "en": "Could I see the menu, please?"
+            }
+          },
+          "note": {
+            "vi": "Chú ý âm /j/ trước /uː/: MEN-yoo.",
+            "en": "Notice the /j/ glide before /uː/: MEN-yoo."
+          }
+        },
+        {
+          "id": "en-a1-l3-v2",
+          "term": "order",
+          "reading": "/ˈɔːrdər/",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "gọi món, đặt hàng",
+            "en": "to order"
+          },
+          "example": {
+            "text": "Are you ready to order now?",
+            "reading": "/ɑːr juː ˈredi tuː ˈɔːrdər naʊ/",
+            "meaning": {
+              "vi": "Bạn đã sẵn sàng gọi món chưa?",
+              "en": "Are you ready to order now?"
+            }
+          },
+          "note": {
+            "vi": "Vừa là động từ (gọi món) vừa là danh từ (đơn hàng).",
+            "en": "Functions both as a verb and as a noun."
+          }
+        },
+        {
+          "id": "en-a1-l3-v3",
+          "term": "cup",
+          "reading": "/kʌp/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "tách, ly",
+            "en": "cup"
+          },
+          "example": {
+            "text": "I'd like a cup of hot tea.",
+            "reading": "/aɪd laɪk ə kʌp əv hɑːt tiː/",
+            "meaning": {
+              "vi": "Tôi muốn một tách trà nóng.",
+              "en": "I'd like a cup of hot tea."
+            }
+          },
+          "note": {
+            "vi": "Dùng 'a cup of' cho trà/cà phê nóng; 'a glass of' cho nước lạnh.",
+            "en": "Use 'a cup of' for hot drinks and 'a glass of' for cold drinks."
+          }
+        },
+        {
+          "id": "en-a1-l3-v4",
+          "term": "price",
+          "reading": "/praɪs/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "giá cả",
+            "en": "price"
+          },
+          "example": {
+            "text": "What is the price of this notebook?",
+            "reading": "/wʌt ɪz ðə praɪs əv ðɪs ˈnoʊtbʊk/",
+            "meaning": {
+              "vi": "Cuốn sổ tay này giá bao nhiêu?",
+              "en": "What is the price of this notebook?"
+            }
+          },
+          "note": {
+            "vi": "Phát âm âm cuối /s/ rõ để không nhầm với 'prize' (/z/).",
+            "en": "Keep the final /s/ voiceless to distinguish it from 'prize' (/z/)."
+          }
+        },
+        {
+          "id": "en-a1-l3-v5",
+          "term": "receipt",
+          "reading": "/rɪˈsiːt/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "hóa đơn",
+            "en": "receipt"
+          },
+          "example": {
+            "text": "Here is your receipt and change.",
+            "reading": "/hɪr ɪz jʊr rɪˈsiːt ænd tʃeɪndʒ/",
+            "meaning": {
+              "vi": "Đây là hóa đơn và tiền thừa của bạn.",
+              "en": "Here is your receipt and change."
+            }
+          },
+          "note": {
+            "vi": "Chữ 'p' trong 'receipt' là âm câm, không phát âm.",
+            "en": "The letter 'p' in 'receipt' is silent."
+          }
+        },
+        {
+          "id": "en-a1-l3-v6",
+          "term": "please",
+          "reading": "/pliːz/",
+          "partOfSpeech": "adverb",
+          "meaning": {
+            "vi": "làm ơn, vui lòng",
+            "en": "please"
+          },
+          "example": {
+            "text": "Two iced coffees, please.",
+            "reading": "/tuː aɪst ˈkɔːfiz pliːz/",
+            "meaning": {
+              "vi": "Cho hai ly cà phê đá nhé.",
+              "en": "Two iced coffees, please."
+            }
+          },
+          "note": {
+            "vi": "Thêm 'please' cuối câu yêu cầu giúp lời nói lịch sự ngay lập tức.",
+            "en": "Adding 'please' at the end makes any request sound polite."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "en-a1-l3-g1",
+          "pattern": "Can I have ...? / I'd like ...",
+          "title": {
+            "vi": "Yêu cầu lịch sự khi gọi món",
+            "en": "Polite Requests When Ordering"
+          },
+          "structure": "Can I have + Noun, please? / I'd like + Noun, please.",
+          "explanation": {
+            "vi": "Dùng 'Can I have...' hoặc 'I'd like...' (rút gọn của 'I would like') thay cho 'I want' để lịch sự hơn.",
+            "en": "Use 'Can I have...' or 'I'd like...' instead of 'I want' for polite service requests."
+          },
+          "usageNote": {
+            "vi": "Trong quán cà phê, nói 'I want a coffee' nghe hơi cộc lốc; 'I'd like a coffee, please' tự nhiên hơn nhiều.",
+            "en": "'I want...' can sound blunt to service staff; prefer 'I'd like...' or 'Can I have...'."
+          },
+          "examples": [
+            {
+              "text": "I'd like a cup of green tea, please.",
+              "reading": "/aɪd laɪk ə kʌp əv ɡriːn tiː pliːz/",
+              "meaning": {
+                "vi": "Cho tôi một tách trà xanh nhé.",
+                "en": "I'd like a cup of green tea, please."
+              }
+            },
+            {
+              "text": "Can I have the receipt, please?",
+              "reading": "/kæn aɪ hæv ðə rɪˈsiːt pliːz/",
+              "meaning": {
+                "vi": "Cho tôi xin hóa đơn được không?",
+                "en": "Can I have the receipt, please?"
+              }
+            }
+          ]
+        },
+        {
+          "id": "en-a1-l3-g2",
+          "pattern": "some (affirmative/offers) vs. any (negatives/questions)",
+          "title": {
+            "vi": "Cách dùng 'some' và 'any'",
+            "en": "Using 'some' and 'any'"
+          },
+          "structure": "There is some milk. / Do you have any sugar?",
+          "explanation": {
+            "vi": "'some' dùng trong câu khẳng định và lời mời/đề nghị lịch sự; 'any' dùng trong câu phủ định và câu hỏi thông thường.",
+            "en": "Use 'some' in positive statements and polite offers; use 'any' in negatives and general questions."
+          },
+          "usageNote": {
+            "vi": "Khi mời ai đó ('Would you like some water?'), vẫn dùng 'some' dù là câu hỏi.",
+            "en": "Use 'some' in polite offers like 'Would you like some water?'."
+          },
+          "examples": [
+            {
+              "text": "Do you have any oat milk today?",
+              "reading": "/duː juː hæv ˈeni oʊt mɪlk təˈdeɪ/",
+              "meaning": {
+                "vi": "Hôm nay quán có sữa yến mạch không?",
+                "en": "Do you have any oat milk today?"
+              }
+            },
+            {
+              "text": "We have some fresh pastries on the counter.",
+              "reading": "/wiː hæv sʌm freʃ ˈpeɪstriz ɑːn ðə ˈkaʊntər/",
+              "meaning": {
+                "vi": "Chúng tôi có vài loại bánh ngọt mới ra lò trên quầy.",
+                "en": "We have some fresh pastries on the counter."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Gọi đồ uống ở quán cà phê",
+          "en": "Ordering at a Neighborhood Café"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Mai gọi nước uống tại quầy và hỏi nhân viên về loại sữa không đường.",
+          "en": "Mai orders a drink at the counter and asks the barista about milk options."
+        },
+        "lines": [
+          {
+            "speaker": "Barista",
+            "text": "Hi there! Are you ready to order?",
+            "reading": "/haɪ ðer | ɑːr juː ˈredi tuː ˈɔːrdər/",
+            "meaning": {
+              "vi": "Chào bạn! Bạn đã sẵn sàng gọi món chưa?",
+              "en": "Hi there! Are you ready to order?"
+            }
+          },
+          {
+            "speaker": "Mai",
+            "text": "Yes, please. Can I have an iced latte? Do you have any oat milk?",
+            "reading": "/jes pliːz | kæn aɪ hæv æn aɪst ˈlɑːteɪ | duː juː hæv ˈeni oʊt mɪlk/",
+            "meaning": {
+              "vi": "Vâng. Cho mình một ly latte đá nhé? Quán có sữa yến mạch không?",
+              "en": "Yes, please. Can I have an iced latte? Do you have any oat milk?"
+            }
+          },
+          {
+            "speaker": "Barista",
+            "text": "Sure, we have some oat milk. That's four dollars and fifty cents.",
+            "reading": "/ʃʊr wiː hæv sʌm oʊt mɪlk | ðæts fɔːr ˈdɑːlərz ænd ˈfɪfti sents/",
+            "meaning": {
+              "vi": "Có chứ, chúng mình có sữa yến mạch. Tổng của bạn là bốn đô năm mươi xu.",
+              "en": "Sure, we have some oat milk. That's four dollars and fifty cents."
+            }
+          },
+          {
+            "speaker": "Mai",
+            "text": "Here you go. Could I get a receipt, please?",
+            "reading": "/hɪr juː ɡoʊ | kʊd aɪ ɡet ə rɪˈsiːt pliːz/",
+            "meaning": {
+              "vi": "Gửi bạn tiền nhé. Cho mình xin hóa đơn được không?",
+              "en": "Here you go. Could I get a receipt, please?"
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Ở nhiều quán cà phê tại Mỹ và châu Âu, nhân viên thường hỏi 'For here or to go?' (Uống tại quán hay mang đi?).",
+          "en": "At cafés in the US, baristas commonly ask 'For here or to go?' to know whether to use a mug or takeaway cup."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "en-a1-l3-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Từ nào có nghĩa là 'hóa đơn'?",
+            "en": "Which word means 'receipt'?"
+          },
+          "targetText": "hóa đơn / proof of payment",
+          "options": [
+            "receipt",
+            "menu",
+            "price",
+            "cup"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'receipt' nghĩa là hóa đơn thanh toán.",
+            "en": "'receipt' is the paper or digital proof of payment."
+          }
+        },
+        {
+          "id": "en-a1-l3-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn phiên âm đúng của 'receipt' (lưu ý âm câm).",
+            "en": "Select the correct IPA for 'receipt' (note the silent letter)."
+          },
+          "targetText": "receipt",
+          "ttsText": "receipt",
+          "options": [
+            "/rɪˈsiːpt/",
+            "/rɪˈsiːt/",
+            "/ˈresɪt/",
+            "/riːˈkaɪt/"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "vi": "Chữ 'p' trong 'receipt' không phát âm, đọc là /rɪˈsiːt/.",
+            "en": "The 'p' in 'receipt' is silent, so it is pronounced /rɪˈsiːt/."
+          }
+        },
+        {
+          "id": "en-a1-l3-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Điền từ phù hợp vào câu hỏi:",
+            "en": "Fill in the blank for this question:"
+          },
+          "targetText": "Do you have ___ cold water?",
+          "ttsText": "Do you have any cold water?",
+          "options": [
+            "some",
+            "a",
+            "any",
+            "many"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "vi": "Trong câu hỏi thông tin với danh từ không đếm được 'water', dùng 'any'.",
+            "en": "Use 'any' in standard questions with uncountable nouns like 'water'."
+          }
+        },
+        {
+          "id": "en-a1-l3-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu gọi đồ uống lịch sự.",
+            "en": "Arrange the words into a polite drink order."
+          },
+          "targetMeaning": {
+            "vi": "Làm ơn cho tôi một tách trà.",
+            "en": "Can I have a cup of tea, please?"
+          },
+          "tokens": [
+            "have",
+            "tea,",
+            "Can",
+            "of",
+            "a",
+            "please?",
+            "I",
+            "cup"
+          ],
+          "correctOrder": [
+            "Can",
+            "I",
+            "have",
+            "a",
+            "cup",
+            "of",
+            "tea,",
+            "please?"
+          ],
+          "correctSentence": "Can I have a cup of tea, please?",
+          "explanation": {
+            "vi": "Cấu trúc chuẩn: Can I have + a cup of + danh từ, please?",
+            "en": "Standard polite request: Can I have + a cup of + noun, please?"
+          }
+        }
+      ]
+    }
+  ]
+}

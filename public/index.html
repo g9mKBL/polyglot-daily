@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Polyglot Daily — Học Đa Ngôn Ngữ (EN · ZH · JA)</title>
+  <link rel="stylesheet" href="/styles/main.css" />
+</head>
+<body>
+  <div id="app" class="app-shell">
+    <header id="app-header" class="app-header" hidden>
+      <div class="container header-inner">
+        <a href="#/dashboard" class="brand" data-testid="brand-logo">
+          <span class="brand-mark" aria-hidden="true">PD</span>
+          <span class="brand-text">
+            <strong>Polyglot Daily</strong>
+            <small>EN · 中文 · 日本語</small>
+          </span>
+        </a>
+
+        <nav class="main-nav" aria-label="Primary Navigation">
+          <button type="button" class="nav-tab" data-nav="dashboard" data-testid="nav-dashboard">
+            Tổng quan <span class="nav-sub">Dashboard</span>
+          </button>
+          <button type="button" class="nav-tab" data-nav="catalog" data-testid="nav-catalog">
+            Khóa học <span class="nav-sub">Courses</span>
+          </button>
+          <button type="button" class="nav-tab" data-nav="review" data-testid="nav-review">
+            Ôn tập <span class="nav-sub">Review</span>
+            <span id="nav-review-badge" class="nav-badge" hidden>0</span>
+          </button>
+          <button type="button" class="nav-tab" data-nav="social" data-testid="nav-social">
+            Bạn bè & Nhóm <span class="nav-sub">Social</span>
+          </button>
+        </nav>
+
+        <div class="header-meta">
+          <div class="stat-pill streak-pill" title="Chuỗi ngày học / Study Streak" data-testid="header-streak">
+            <span aria-hidden="true">🔥</span>
+            <strong id="header-streak-val">0</strong>
+          </div>
+          <div class="stat-pill xp-pill" title="Tổng điểm XP / Total XP" data-testid="header-xp">
+            <span aria-hidden="true">⚡</span>
+            <strong id="header-xp-val">0</strong>
+          </div>
+          <div id="header-user-chip" class="user-chip" data-testid="header-user-chip"></div>
+          <button type="button" id="btn-logout" class="btn btn-ghost btn-sm" data-testid="btn-logout">
+            Đăng xuất
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <main id="view-root" class="main-content container" tabindex="-1">
+      <div class="loading-state">
+        <div class="spinner" aria-hidden="true"></div>
+        <p>Đang tải Polyglot Daily… / Loading…</p>
+      </div>
+    </main>
+
+    <div id="toast-root" class="toast-root" aria-live="polite" aria-atomic="true"></div>
+  </div>
+
+  <script type="module" src="/js/main.js"></script>
+</body>
+</html>

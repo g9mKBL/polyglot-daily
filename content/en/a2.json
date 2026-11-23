@@ -1,0 +1,1135 @@
+{
+  "levelId": "en-a2",
+  "language": "en",
+  "code": "A2",
+  "order": 2,
+  "title": {
+    "vi": "Sơ trung cấp A2 — Kể chuyện và kế hoạch",
+    "en": "Elementary A2 — Stories & Plans"
+  },
+  "subtitle": {
+    "vi": "Ký ức cuối tuần, hỏi đường du lịch và so sánh lựa chọn",
+    "en": "Weekend memories, travel directions, and comparing choices"
+  },
+  "estimatedMinutes": 40,
+  "lessons": [
+    {
+      "id": "en-a2-l1",
+      "levelId": "en-a2",
+      "order": 1,
+      "title": {
+        "native": "Weekend Memories",
+        "vi": "Kỷ niệm cuối tuần qua",
+        "en": "Weekend Memories"
+      },
+      "topic": "past-events",
+      "summary": {
+        "vi": "Kể lại hoạt động đã xảy ra bằng thì quá khứ đơn (động từ có quy tắc và bất quy tắc).",
+        "en": "Talk about past weekend activities using regular and irregular Past Simple verbs."
+      },
+      "xpReward": 50,
+      "vocabulary": [
+        {
+          "id": "en-a2-l1-v1",
+          "term": "yesterday",
+          "reading": "/ˈjestərdeɪ/",
+          "partOfSpeech": "adverb",
+          "meaning": {
+            "vi": "hôm qua",
+            "en": "yesterday"
+          },
+          "example": {
+            "text": "We walked around the lake yesterday.",
+            "reading": "/wiː wɔːkt əˈraʊnd ðə leɪk ˈjestərdeɪ/",
+            "meaning": {
+              "vi": "Hôm qua chúng tôi đi dạo quanh hồ.",
+              "en": "We walked around the lake yesterday."
+            }
+          },
+          "note": {
+            "vi": "Dấu hiệu rõ ràng của thì quá khứ đơn.",
+            "en": "A classic time marker for the Past Simple tense."
+          }
+        },
+        {
+          "id": "en-a2-l1-v2",
+          "term": "visit",
+          "reading": "/ˈvɪzɪt/",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "thăm, ghé thăm",
+            "en": "to visit"
+          },
+          "example": {
+            "text": "She visited her grandparents on Sunday.",
+            "reading": "/ʃiː ˈvɪzɪtɪd hɜːr ˈɡrænperənts ɑːn ˈsʌndeɪ/",
+            "meaning": {
+              "vi": "Cô ấy đã về thăm ông bà vào Chủ nhật.",
+              "en": "She visited her grandparents on Sunday."
+            }
+          },
+          "note": {
+            "vi": "Không dùng giới từ 'to' sau động từ 'visit' (visit someone, không nói visit to someone).",
+            "en": "Do not add 'to' after the verb 'visit'."
+          }
+        },
+        {
+          "id": "en-a2-l1-v3",
+          "term": "museum",
+          "reading": "/mjuːˈziːəm/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "bảo tàng",
+            "en": "museum"
+          },
+          "example": {
+            "text": "The history museum was very quiet.",
+            "reading": "/ðə ˈhɪstəri mjuːˈziːəm wʌz ˈveri ˈkwaɪət/",
+            "meaning": {
+              "vi": "Bảo tàng lịch sử hôm đó rất yên tĩnh.",
+              "en": "The history museum was very quiet."
+            }
+          },
+          "note": {
+            "vi": "Trọng âm rơi vào âm tiết thứ hai: mu-SEE-um.",
+            "en": "Stress falls on the second syllable: mu-SEE-um."
+          }
+        },
+        {
+          "id": "en-a2-l1-v4",
+          "term": "enjoy",
+          "reading": "/ɪnˈdʒɔɪ/",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "thưởng thức, thích thú",
+            "en": "to enjoy"
+          },
+          "example": {
+            "text": "Did you enjoy the concert last night?",
+            "reading": "/dɪd juː ɪnˈdʒɔɪ ðə ˈkɑːnsərt læst naɪt/",
+            "meaning": {
+              "vi": "Tối qua bạn có thích buổi hòa nhạc không?",
+              "en": "Did you enjoy the concert last night?"
+            }
+          },
+          "note": {
+            "vi": "Động từ sau 'enjoy' chia ở dạng V-ing (enjoy cooking).",
+            "en": "Follow 'enjoy' with a gerund (-ing form) or a noun."
+          }
+        },
+        {
+          "id": "en-a2-l1-v5",
+          "term": "crowd",
+          "reading": "/kraʊd/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "đám đông",
+            "en": "crowd"
+          },
+          "example": {
+            "text": "There was a large crowd at the market.",
+            "reading": "/ðer wʌz ə lɑːrdʒ kraʊd æt ðə ˈmɑːrkɪt/",
+            "meaning": {
+              "vi": "Có một đám đông lớn ở chợ.",
+              "en": "There was a large crowd at the market."
+            }
+          },
+          "note": {
+            "vi": "Tính từ liên quan là 'crowded' (đông đúc).",
+            "en": "The related adjective is 'crowded'."
+          }
+        },
+        {
+          "id": "en-a2-l1-v6",
+          "term": "relax",
+          "reading": "/rɪˈlæks/",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "thư giãn",
+            "en": "to relax"
+          },
+          "example": {
+            "text": "I stayed home and relaxed with a movie.",
+            "reading": "/aɪ steɪd hoʊm ænd rɪˈlækst wɪð ə ˈmuːvi/",
+            "meaning": {
+              "vi": "Tôi ở nhà và thư giãn với một bộ phim.",
+              "en": "I stayed home and relaxed with a movie."
+            }
+          },
+          "note": {
+            "vi": "Quá khứ 'relaxed' đọc âm cuối là /t/: /rɪˈlækst/.",
+            "en": "The '-ed' ending in 'relaxed' sounds like /t/."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "en-a2-l1-g1",
+          "pattern": "S + V2/V-ed | Did + S + V(base)?",
+          "title": {
+            "vi": "Thì quá khứ đơn (Khẳng định & Câu hỏi)",
+            "en": "Past Simple (Statements & Questions)"
+          },
+          "structure": "S + V-ed / irregular V2 | Did + S + V1?",
+          "explanation": {
+            "vi": "Dùng V-ed hoặc dạng bất quy tắc (went, saw, took) cho hành động đã kết thúc trong quá khứ; khi có 'did/didn't' thì động từ trở về nguyên mẫu.",
+            "en": "Use -ed or irregular past forms for finished actions; revert to the base verb after 'did' or 'didn't'."
+          },
+          "usageNote": {
+            "vi": "Tránh viết 'Did you went?' — phải dùng 'Did you go?'.",
+            "en": "Never keep the past form after 'did' (say 'Did you go?', not 'Did you went?')."
+          },
+          "examples": [
+            {
+              "text": "We went to the art museum on Saturday afternoon.",
+              "reading": "/wiː went tuː ði ɑːrt mjuːˈziːəm ɑːn ˈsætərdeɪ ˌæftərˈnuːn/",
+              "meaning": {
+                "vi": "Chúng tôi đã đi bảo tàng mỹ thuật vào chiều thứ Bảy.",
+                "en": "We went to the art museum on Saturday afternoon."
+              }
+            },
+            {
+              "text": "Did you take many photos there?",
+              "reading": "/dɪd juː teɪk ˈmeni ˈfoʊtoʊz ðer/",
+              "meaning": {
+                "vi": "Bạn có chụp nhiều ảnh ở đó không?",
+                "en": "Did you take many photos there?"
+              }
+            }
+          ]
+        },
+        {
+          "id": "en-a2-l1-g2",
+          "pattern": "There was / There were",
+          "title": {
+            "vi": "Diễn tả 'đã có' trong quá khứ",
+            "en": "Past Existence with 'There was / There were'"
+          },
+          "structure": "There was + singular/uncountable | There were + plural",
+          "explanation": {
+            "vi": "Dùng 'There was' với danh từ số ít hoặc không đếm được, và 'There were' với danh từ số nhiều.",
+            "en": "Use 'There was' for singular or uncountable nouns and 'There were' for plural nouns."
+          },
+          "usageNote": {
+            "vi": "Phủ định là 'There wasn't / There weren't'.",
+            "en": "Negatives are 'There wasn't' and 'There weren't'."
+          },
+          "examples": [
+            {
+              "text": "There was a street band near the park.",
+              "reading": "/ðer wʌz ə striːt bænd nɪr ðə pɑːrk/",
+              "meaning": {
+                "vi": "Đã có một ban nhạc đường phố gần công viên.",
+                "en": "There was a street band near the park."
+              }
+            },
+            {
+              "text": "There were dozens of food stalls outside.",
+              "reading": "/ðer wɜːr ˈdʌzənz əv fuːd stɔːlz ˌaʊtˈsaɪd/",
+              "meaning": {
+                "vi": "Có hàng chục quầy đồ ăn ở bên ngoài.",
+                "en": "There were dozens of food stalls outside."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Kể chuyện đầu tuần ở văn phòng",
+          "en": "Monday Morning Catch-Up"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Minh và Sarah trò chuyện về kỳ nghỉ cuối tuần vừa rồi.",
+          "en": "Minh and Sarah talk about what they did over the weekend."
+        },
+        "lines": [
+          {
+            "speaker": "Sarah",
+            "text": "Hey Minh, how was your weekend? Did you go out?",
+            "reading": "/heɪ mɪn | haʊ wʌz jʊr ˈwiːkend | dɪd juː ɡoʊ aʊt/",
+            "meaning": {
+              "vi": "Chào Minh, cuối tuần của bạn thế nào? Bạn có đi đâu chơi không?",
+              "en": "Hey Minh, how was your weekend? Did you go out?"
+            }
+          },
+          {
+            "speaker": "Minh",
+            "text": "It was great! On Saturday, I visited the ceramic museum with my friends.",
+            "reading": "/ɪt wʌz ɡreɪt | ɑːn ˈsætərdeɪ aɪ ˈvɪzɪtɪd ðə səˈræmɪk mjuːˈziːəm wɪð maɪ frendz/",
+            "meaning": {
+              "vi": "Tuyệt lắm! Thứ Bảy mình đi thăm bảo tàng gốm với bạn bè.",
+              "en": "It was great! On Saturday, I visited the ceramic museum with my friends."
+            }
+          },
+          {
+            "speaker": "Sarah",
+            "text": "Nice! Was there a big crowd?",
+            "reading": "/naɪs | wʌz ðer ə bɪɡ kraʊd/",
+            "meaning": {
+              "vi": "Hay quá! Hôm đó có đông người không?",
+              "en": "Nice! Was there a big crowd?"
+            }
+          },
+          {
+            "speaker": "Minh",
+            "text": "Not really, because we arrived early. On Sunday, I just stayed home and relaxed.",
+            "reading": "/nɑːt ˈrɪəli bɪˈkɔːz wiː əˈraɪvd ˈɜːrli | ɑːn ˈsʌndeɪ aɪ dʒʌst steɪd hoʊm ænd rɪˈlækst/",
+            "meaning": {
+              "vi": "Không đông lắm vì tụi mình đến sớm. Chủ nhật thì mình ở nhà nghỉ ngơi thôi.",
+              "en": "Not really, because we arrived early. On Sunday, I just stayed home and relaxed."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Câu hỏi 'How was your weekend?' là cách mở đầu cuộc trò chuyện sáng thứ Hai rất phổ biến nơi công sở.",
+          "en": "'How was your weekend?' is one of the most common small-talk openers on Monday mornings."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "en-a2-l1-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Câu nào dùng động từ 'visit' đúng ngữ pháp?",
+            "en": "Which sentence uses 'visit' correctly?"
+          },
+          "targetText": "visit + place/person",
+          "options": [
+            "We visited the museum yesterday.",
+            "We visited to the museum yesterday.",
+            "We visit to the museum yesterday.",
+            "We did visited the museum yesterday."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'visit' đi trực tiếp với tân ngữ, không thêm 'to'.",
+            "en": "'visit' takes a direct object without 'to'."
+          }
+        },
+        {
+          "id": "en-a2-l1-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn phiên âm đúng của 'museum'.",
+            "en": "Choose the right IPA for 'museum'."
+          },
+          "targetText": "museum",
+          "ttsText": "museum",
+          "options": [
+            "/ˈmjuːzəm/",
+            "/mjuːˈziːəm/",
+            "/ˈmʌziːm/",
+            "/mʊˈzeɪəm/"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "vi": "'museum' nhấn ở âm hai và đọc là /mjuːˈziːəm/.",
+            "en": "'museum' has second-syllable stress: /mjuːˈziːəm/."
+          }
+        },
+        {
+          "id": "en-a2-l1-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Hoàn thành câu hỏi quá khứ đơn:",
+            "en": "Complete the Past Simple question:"
+          },
+          "targetText": "Did you ___ the jazz concert last night?",
+          "ttsText": "Did you enjoy the jazz concert last night?",
+          "options": [
+            "enjoyed",
+            "enjoying",
+            "enjoy",
+            "enjoys"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "vi": "Sau trợ động từ 'Did', động từ chính luôn ở dạng nguyên mẫu 'enjoy'.",
+            "en": "After 'Did', always use the base form of the verb ('enjoy')."
+          }
+        },
+        {
+          "id": "en-a2-l1-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu kể chuyện quá khứ hoàn chỉnh.",
+            "en": "Arrange the words into a past-tense sentence."
+          },
+          "targetMeaning": {
+            "vi": "Hôm qua có một đám đông ở chợ.",
+            "en": "There was a crowd at the market yesterday."
+          },
+          "tokens": [
+            "crowd",
+            "the",
+            "was",
+            "yesterday.",
+            "There",
+            "a",
+            "at",
+            "market"
+          ],
+          "correctOrder": [
+            "There",
+            "was",
+            "a",
+            "crowd",
+            "at",
+            "the",
+            "market",
+            "yesterday."
+          ],
+          "correctSentence": "There was a crowd at the market yesterday.",
+          "explanation": {
+            "vi": "Cấu trúc 'There was a crowd...' đặt trạng từ thời gian 'yesterday' ở cuối câu.",
+            "en": "Start with 'There was a crowd...' and place 'yesterday' at the end."
+          }
+        }
+      ]
+    },
+    {
+      "id": "en-a2-l2",
+      "levelId": "en-a2",
+      "order": 2,
+      "title": {
+        "native": "Travel Plans & Directions",
+        "vi": "Kế hoạch du lịch và chỉ đường",
+        "en": "Travel Plans & Directions"
+      },
+      "topic": "travel",
+      "summary": {
+        "vi": "Phân biệt 'going to' và 'will', cùng các giới từ và cụm từ chỉ đường tại nhà ga.",
+        "en": "Contrast 'going to' vs. 'will' and practice station directions."
+      },
+      "xpReward": 50,
+      "vocabulary": [
+        {
+          "id": "en-a2-l2-v1",
+          "term": "station",
+          "reading": "/ˈsteɪʃən/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "nhà ga, trạm",
+            "en": "station"
+          },
+          "example": {
+            "text": "The train station is two blocks ahead.",
+            "reading": "/ðə treɪn ˈsteɪʃən ɪz tuː blɑːks əˈhed/",
+            "meaning": {
+              "vi": "Ga tàu cách đây hai dãy nhà phía trước.",
+              "en": "The train station is two blocks ahead."
+            }
+          },
+          "note": {
+            "vi": "Đuôi '-tion' luôn đọc là /ʃən/.",
+            "en": "The '-tion' suffix is consistently pronounced /ʃən/."
+          }
+        },
+        {
+          "id": "en-a2-l2-v2",
+          "term": "platform",
+          "reading": "/ˈplætfɔːrm/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "sân ga, ke ga",
+            "en": "platform"
+          },
+          "example": {
+            "text": "Our express train leaves from Platform 4.",
+            "reading": "/ˈaʊər ɪkˈspres treɪn liːvz frʌm ˈplætfɔːrm fɔːr/",
+            "meaning": {
+              "vi": "Tàu tốc hành của chúng ta rời từ sân ga số 4.",
+              "en": "Our express train leaves from Platform 4."
+            }
+          },
+          "note": {
+            "vi": "Trong giao tiếp nhà ga: 'Platform + số' không cần 'the'.",
+            "en": "Say 'Platform 4' without 'the' when giving track numbers."
+          }
+        },
+        {
+          "id": "en-a2-l2-v3",
+          "term": "turn",
+          "reading": "/tɜːrn/",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "rẽ, quay",
+            "en": "to turn"
+          },
+          "example": {
+            "text": "Turn left at the traffic lights.",
+            "reading": "/tɜːrn left æt ðə ˈtræfɪk laɪts/",
+            "meaning": {
+              "vi": "Rẽ trái ở chỗ đèn giao thông.",
+              "en": "Turn left at the traffic lights."
+            }
+          },
+          "note": {
+            "vi": "Cụm hay dùng: 'turn left / turn right / go straight'.",
+            "en": "Core direction phrases: 'turn left', 'turn right', 'go straight'."
+          }
+        },
+        {
+          "id": "en-a2-l2-v4",
+          "term": "opposite",
+          "reading": "/ˈɑːpəzɪt/",
+          "partOfSpeech": "preposition",
+          "meaning": {
+            "vi": "đối diện",
+            "en": "opposite"
+          },
+          "example": {
+            "text": "The ticket counter is opposite the main exit.",
+            "reading": "/ðə ˈtɪkɪt ˈkaʊntər ɪz ˈɑːpəzɪt ðə meɪn ˈeɡzɪt/",
+            "meaning": {
+              "vi": "Quầy vé nằm đối diện lối ra chính.",
+              "en": "The ticket counter is opposite the main exit."
+            }
+          },
+          "note": {
+            "vi": "'opposite' không cần 'to' khi làm giới từ chỉ vị trí.",
+            "en": "No 'to' is needed after 'opposite' when it acts as a preposition."
+          }
+        },
+        {
+          "id": "en-a2-l2-v5",
+          "term": "ticket",
+          "reading": "/ˈtɪkɪt/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "vé",
+            "en": "ticket"
+          },
+          "example": {
+            "text": "I'm going to buy a round-trip ticket.",
+            "reading": "/aɪm ˈɡoʊɪŋ tuː baɪ ə ˈraʊnd trɪp ˈtɪkɪt/",
+            "meaning": {
+              "vi": "Tôi định mua vé khứ hồi.",
+              "en": "I'm going to buy a round-trip ticket."
+            }
+          },
+          "note": {
+            "vi": "Vé một chiều là 'one-way ticket'; vé khứ hồi là 'round-trip ticket'.",
+            "en": "'one-way ticket' vs. 'round-trip ticket'."
+          }
+        },
+        {
+          "id": "en-a2-l2-v6",
+          "term": "arrive",
+          "reading": "/əˈraɪv/",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "đến nơi",
+            "en": "to arrive"
+          },
+          "example": {
+            "text": "We will arrive in Kyoto before noon.",
+            "reading": "/wiː wɪl əˈraɪv ɪn kiˈoʊtoʊ bɪˈfɔːr nuːn/",
+            "meaning": {
+              "vi": "Chúng tôi sẽ đến Kyoto trước buổi trưa.",
+              "en": "We will arrive in Kyoto before noon."
+            }
+          },
+          "note": {
+            "vi": "Dùng 'arrive in' với thành phố/quốc gia; 'arrive at' với điểm nhỏ (ga, sân bay).",
+            "en": "Use 'arrive in' for cities/countries and 'arrive at' for specific buildings or stations."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "en-a2-l2-g1",
+          "pattern": "be going to + V (planned) vs. will + V (spontaneous)",
+          "title": {
+            "vi": "Kế hoạch 'be going to' và quyết định tức thì 'will'",
+            "en": "'be going to' vs. 'will' for Future Actions"
+          },
+          "structure": "S + am/is/are going to + V | S + will + V",
+          "explanation": {
+            "vi": "Dùng 'be going to' cho dự định đã lên kế hoạch trước; dùng 'will' cho quyết định ngay lúc nói hoặc lời hứa giúp đỡ.",
+            "en": "Use 'be going to' for prior intentions and 'will' for on-the-spot decisions or offers."
+          },
+          "usageNote": {
+            "vi": "Khi nghe bạn quên vé, ta nói 'Wait, I'll check the app!' (quyết định tức thì).",
+            "en": "Spontaneous offers like 'I'll help you carry that' naturally take 'will'."
+          },
+          "examples": [
+            {
+              "text": "We are going to visit Da Nang next month.",
+              "reading": "/wiː ɑːr ˈɡoʊɪŋ tuː ˈvɪzɪt dɑː næŋ nekst mʌnθ/",
+              "meaning": {
+                "vi": "Tháng sau chúng tôi dự định đi Đà Nẵng.",
+                "en": "We are going to visit Da Nang next month."
+              }
+            },
+            {
+              "text": "Hold on, I'll show you the way to Platform 3.",
+              "reading": "/hoʊld ɑːn | aɪl ʃoʊ juː ðə weɪ tuː ˈplætfɔːrm θriː/",
+              "meaning": {
+                "vi": "Chờ chút, tôi sẽ chỉ bạn đường ra sân ga số 3.",
+                "en": "Hold on, I'll show you the way to Platform 3."
+              }
+            }
+          ]
+        },
+        {
+          "id": "en-a2-l2-g2",
+          "pattern": "Imperatives & Prepositions of Place",
+          "title": {
+            "vi": "Câu mệnh lệnh chỉ đường",
+            "en": "Direction Imperatives & Place Prepositions"
+          },
+          "structure": "Go straight / Turn right + past / opposite / next to + Landmark",
+          "explanation": {
+            "vi": "Dùng động từ nguyên mẫu không chủ ngữ để chỉ đường rõ ràng, kết hợp với giới từ vị trí.",
+            "en": "Give clear directions using base-form imperatives paired with spatial prepositions."
+          },
+          "usageNote": {
+            "vi": "Mở đầu bằng 'Excuse me, how do I get to...?' để hỏi đường lịch sự.",
+            "en": "Open direction questions politely with 'Excuse me, how do I get to...?'."
+          },
+          "examples": [
+            {
+              "text": "Go straight past the bookstore and turn right.",
+              "reading": "/ɡoʊ streɪt pæst ðə ˈbʊkstɔːr ænd tɜːrn raɪt/",
+              "meaning": {
+                "vi": "Đi thẳng qua hiệu sách rồi rẽ phải.",
+                "en": "Go straight past the bookstore and turn right."
+              }
+            },
+            {
+              "text": "The information desk is right next to the escalator.",
+              "reading": "/ði ˌɪnfərˈmeɪʃən desk ɪz raɪt nekst tuː ði ˈeskəleɪtər/",
+              "meaning": {
+                "vi": "Quầy thông tin nằm ngay cạnh thang cuốn.",
+                "en": "The information desk is right next to the escalator."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Tìm sân ga đúng giờ",
+          "en": "Finding the Right Platform"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Kenji hỏi nhân viên ga tàu đường ra sân ga khi sắp đến giờ khởi hành.",
+          "en": "Kenji asks a station attendant how to reach his departure platform."
+        },
+        "lines": [
+          {
+            "speaker": "Kenji",
+            "text": "Excuse me, I'm going to take the 9:15 train. Where is Platform 4?",
+            "reading": "/ɪkˈskjuːz miː | aɪm ˈɡoʊɪŋ tuː teɪk ðə naɪn ˌfɪfˈtiːn treɪn | wer ɪz ˈplætfɔːrm fɔːr/",
+            "meaning": {
+              "vi": "Xin lỗi, tôi chuẩn bị đi chuyến tàu 9 giờ 15. Sân ga số 4 ở đâu ạ?",
+              "en": "Excuse me, I'm going to take the 9:15 train. Where is Platform 4?"
+            }
+          },
+          {
+            "speaker": "Attendant",
+            "text": "Go straight past the ticket gate, then turn left. It's opposite the café.",
+            "reading": "/ɡoʊ streɪt pæst ðə ˈtɪkɪt ɡeɪt | ðen tɜːrn left | ɪts ˈɑːpəzɪt ðə kæˈfeɪ/",
+            "meaning": {
+              "vi": "Anh đi thẳng qua cổng soát vé rồi rẽ trái. Nó nằm đối diện quán cà phê.",
+              "en": "Go straight past the ticket gate, then turn left. It's opposite the café."
+            }
+          },
+          {
+            "speaker": "Kenji",
+            "text": "Got it. Do I need a paper ticket, or is my QR code fine?",
+            "reading": "/ˈɡɑːt ɪt | duː aɪ niːd ə ˈpeɪpər ˈtɪkɪt ɔːr ɪz maɪ kjuː ɑːr koʊd faɪn/",
+            "meaning": {
+              "vi": "Tôi hiểu rồi. Tôi có cần vé giấy không hay dùng mã QR là được?",
+              "en": "Got it. Do I need a paper ticket, or is my QR code fine?"
+            }
+          },
+          {
+            "speaker": "Attendant",
+            "text": "Your QR code is fine. Have a safe trip—you'll arrive before noon!",
+            "reading": "/jʊr kjuː ɑːr koʊd ɪz faɪn | hæv ə seɪf trɪp | juːl əˈraɪv bɪˈfɔːr nuːn/",
+            "meaning": {
+              "vi": "Mã QR dùng được rồi ạ. Chúc anh đi thượng lộ bình an — anh sẽ tới trước trưa!",
+              "en": "Your QR code is fine. Have a safe trip—you'll arrive before noon!"
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Khi hỏi nhân viên hoặc người lạ ở nơi công cộng, luôn mở đầu bằng 'Excuse me' và kết thúc bằng 'Thank you'.",
+          "en": "Always begin public requests with 'Excuse me' and end with a quick 'Thank you' or 'Thanks so much'."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "en-a2-l2-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Giới từ nào đi với 'arrive' khi nói đến một thành phố?",
+            "en": "Which preposition follows 'arrive' for a city?"
+          },
+          "targetText": "arrive ___ Tokyo",
+          "options": [
+            "in",
+            "to",
+            "into",
+            "for"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Dùng 'arrive in + tên thành phố/quốc gia', không dùng 'arrive to'.",
+            "en": "Say 'arrive in' for cities and countries; never 'arrive to'."
+          }
+        },
+        {
+          "id": "en-a2-l2-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn phiên âm đúng của 'opposite'.",
+            "en": "Choose the correct IPA for 'opposite'."
+          },
+          "targetText": "opposite",
+          "ttsText": "opposite",
+          "options": [
+            "/ˈɑːpəzɪt/",
+            "/ˈplætfɔːrm/",
+            "/əˈraɪv/",
+            "/ˈsteɪʃən/"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'opposite' đọc là /ˈɑːpəzɪt/, trọng âm rơi vào âm đầu.",
+            "en": "'opposite' is pronounced /ˈɑːpəzɪt/ with stress on the first syllable."
+          }
+        },
+        {
+          "id": "en-a2-l2-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn dạng tương lai phù hợp cho quyết định tức thì:",
+            "en": "Choose the natural future form for an instant offer:"
+          },
+          "targetText": "Don't worry, I ___ carry your suitcase.",
+          "ttsText": "Don't worry, I will carry your suitcase.",
+          "options": [
+            "am going",
+            "will",
+            "did",
+            "going to"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "vi": "Lời đề nghị giúp đỡ ngay lúc nói dùng 'will'.",
+            "en": "Spontaneous offers use 'will'."
+          }
+        },
+        {
+          "id": "en-a2-l2-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp các từ thành câu chỉ đường chính xác.",
+            "en": "Order the words to give accurate directions."
+          },
+          "targetMeaning": {
+            "vi": "Rẽ trái đối diện ga tàu.",
+            "en": "Turn left opposite the station."
+          },
+          "tokens": [
+            "opposite",
+            "station.",
+            "Turn",
+            "the",
+            "left"
+          ],
+          "correctOrder": [
+            "Turn",
+            "left",
+            "opposite",
+            "the",
+            "station."
+          ],
+          "correctSentence": "Turn left opposite the station.",
+          "explanation": {
+            "vi": "Mệnh lệnh 'Turn left' đứng đầu, theo sau là cụm vị trí 'opposite the station'.",
+            "en": "Begin with the imperative 'Turn left' followed by 'opposite the station'."
+          }
+        }
+      ]
+    },
+    {
+      "id": "en-a2-l3",
+      "levelId": "en-a2",
+      "order": 3,
+      "title": {
+        "native": "Comparing Choices",
+        "vi": "So sánh và đưa ra lựa chọn",
+        "en": "Comparing Choices"
+      },
+      "topic": "comparisons",
+      "summary": {
+        "vi": "Sử dụng so sánh hơn, so sánh nhất và 'should' để chọn phương án tốt nhất.",
+        "en": "Use comparatives, superlatives, and 'should' to evaluate everyday options."
+      },
+      "xpReward": 50,
+      "vocabulary": [
+        {
+          "id": "en-a2-l3-v1",
+          "term": "convenient",
+          "reading": "/kənˈviːniənt/",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "thuận tiện, tiện lợi",
+            "en": "convenient"
+          },
+          "example": {
+            "text": "The subway is more convenient than driving.",
+            "reading": "/ðə ˈsʌbweɪ ɪz mɔːr kənˈviːniənt ðæn ˈdraɪvɪŋ/",
+            "meaning": {
+              "vi": "Tàu điện ngầm tiện lợi hơn lái xe.",
+              "en": "The subway is more convenient than driving."
+            }
+          },
+          "note": {
+            "vi": "Nói 'It is convenient for me' (thuận tiện cho tôi), không nói 'I am convenient'.",
+            "en": "Say 'It is convenient for me', not 'I am convenient'."
+          }
+        },
+        {
+          "id": "en-a2-l3-v2",
+          "term": "affordable",
+          "reading": "/əˈfɔːrdəbəl/",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "hợp túi tiền, phải chăng",
+            "en": "affordable"
+          },
+          "example": {
+            "text": "This guesthouse is clean and affordable.",
+            "reading": "/ðɪs ˈɡesthaʊs ɪz kliːn ænd əˈfɔːrdəbəl/",
+            "meaning": {
+              "vi": "Nhà nghỉ này sạch sẽ và giá phải chăng.",
+              "en": "This guesthouse is clean and affordable."
+            }
+          },
+          "note": {
+            "vi": "Mang sắc thái tích cực hơn từ 'cheap' (rẻ nhưng đôi khi hàm ý chất lượng thấp).",
+            "en": "More positive than 'cheap', implying good value for money."
+          }
+        },
+        {
+          "id": "en-a2-l3-v3",
+          "term": "crowded",
+          "reading": "/ˈkraʊdɪd/",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "đông đúc",
+            "en": "crowded"
+          },
+          "example": {
+            "text": "Downtown streets get crowded at rush hour.",
+            "reading": "/ˈdaʊntaʊn striːts ɡet ˈkraʊdɪd æt rʌʃ ˈaʊər/",
+            "meaning": {
+              "vi": "Đường phố trung tâm trở nên đông đúc vào giờ cao điểm.",
+              "en": "Downtown streets get crowded at rush hour."
+            }
+          },
+          "note": {
+            "vi": "Tính từ 2 âm tiết kết thúc bằng -ed: dùng 'more crowded / the most crowded'.",
+            "en": "Forms comparative with 'more crowded' and superlative with 'the most crowded'."
+          }
+        },
+        {
+          "id": "en-a2-l3-v4",
+          "term": "prefer",
+          "reading": "/prɪˈfɜːr/",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "thích hơn, ưu tiên hơn",
+            "en": "to prefer"
+          },
+          "example": {
+            "text": "I prefer studying in the morning to late at night.",
+            "reading": "/aɪ prɪˈfɜːr ˈstʌdiɪŋ ɪn ðə ˈmɔːrnɪŋ tuː leɪt æt naɪt/",
+            "meaning": {
+              "vi": "Tôi thích học vào buổi sáng hơn là khuya muộn.",
+              "en": "I prefer studying in the morning to late at night."
+            }
+          },
+          "note": {
+            "vi": "Dùng 'prefer A to B' (không dùng 'than' giữa hai danh từ/V-ing).",
+            "en": "Use 'prefer A to B' rather than 'prefer A than B'."
+          }
+        },
+        {
+          "id": "en-a2-l3-v5",
+          "term": "quality",
+          "reading": "/ˈkwɑːləti/",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "chất lượng",
+            "en": "quality"
+          },
+          "example": {
+            "text": "Audio quality matters for language learning.",
+            "reading": "/ˈɔːdioʊ ˈkwɑːləti ˈmætərz fɔːr ˈlæŋɡwɪdʒ ˈlɜːrnɪŋ/",
+            "meaning": {
+              "vi": "Chất lượng âm thanh rất quan trọng cho việc học ngôn ngữ.",
+              "en": "Audio quality matters for language learning."
+            }
+          },
+          "note": {
+            "vi": "Bắt đầu bằng âm /kw/: KWAA-luh-tee.",
+            "en": "Begins with a crisp /kw/ cluster: KWAA-luh-tee."
+          }
+        },
+        {
+          "id": "en-a2-l3-v6",
+          "term": "helpful",
+          "reading": "/ˈhelpfəl/",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "hữu ích, hay giúp đỡ",
+            "en": "helpful"
+          },
+          "example": {
+            "text": "Flashcards are the most helpful tool for review.",
+            "reading": "/ˈflæʃkɑːrdz ɑːr ðə moʊst ˈhelpfəl tuːl fɔːr rɪˈvjuː/",
+            "meaning": {
+              "vi": "Thẻ ghi nhớ là công cụ hữu ích nhất để ôn tập.",
+              "en": "Flashcards are the most helpful tool for review."
+            }
+          },
+          "note": {
+            "vi": "Đuôi '-ful' chỉ có một chữ 'l' khi ghép vào danh từ.",
+            "en": "Spelled with a single 'l' in the suffix '-ful'."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "en-a2-l3-g1",
+          "pattern": "adj-er / more + adj + than | the adj-est / the most + adj",
+          "title": {
+            "vi": "So sánh hơn và so sánh nhất",
+            "en": "Comparatives & Superlatives"
+          },
+          "structure": "Short adj: -er / the -est | Long adj: more / the most",
+          "explanation": {
+            "vi": "Tính từ ngắn thêm '-er / the -est' (faster / the fastest); tính từ dài dùng 'more / the most' (more convenient / the most helpful). Ngoại lệ: good -> better -> best.",
+            "en": "Short adjectives take '-er / the -est'; multi-syllable adjectives take 'more / the most'. Irregular: good -> better -> best."
+          },
+          "usageNote": {
+            "vi": "Luôn dùng 'the' trước tính từ so sánh nhất.",
+            "en": "Always include 'the' before superlative adjectives."
+          },
+          "examples": [
+            {
+              "text": "Buses are cheaper than taxis, though slower.",
+              "reading": "/ˈbʌsɪz ɑːr ˈtʃiːpər ðæn ˈtæksiz ðoʊ ˈsloʊər/",
+              "meaning": {
+                "vi": "Xe buýt rẻ hơn taxi, dù chậm hơn.",
+                "en": "Buses are cheaper than taxis, though slower."
+              }
+            },
+            {
+              "text": "This café is the quietest spot on the street.",
+              "reading": "/ðɪs kæˈfeɪ ɪz ðə ˈkwaɪətɪst spɑːt ɑːn ðə striːt/",
+              "meaning": {
+                "vi": "Quán cà phê này là chỗ yên tĩnh nhất trên phố.",
+                "en": "This café is the quietest spot on the street."
+              }
+            }
+          ]
+        },
+        {
+          "id": "en-a2-l3-g2",
+          "pattern": "S + should / shouldn't + V(base)",
+          "title": {
+            "vi": "Đưa ra lời khuyên với 'should'",
+            "en": "Giving Advice with 'should'"
+          },
+          "structure": "You should + V | You shouldn't + V",
+          "explanation": {
+            "vi": "Dùng 'should' để gợi ý điều nên làm khi so sánh hoặc chọn lựa.",
+            "en": "Use 'should' or 'shouldn't' to recommend the better choice."
+          },
+          "usageNote": {
+            "vi": "Không thêm 'to' sau 'should' (nói 'You should book early', không nói 'should to book').",
+            "en": "Follow 'should' directly with the bare infinitive without 'to'."
+          },
+          "examples": [
+            {
+              "text": "You should choose the hotel near the station.",
+              "reading": "/juː ʃʊd tʃuːz ðə hoʊˈtel nɪr ðə ˈsteɪʃən/",
+              "meaning": {
+                "vi": "Bạn nên chọn khách sạn gần nhà ga.",
+                "en": "You should choose the hotel near the station."
+              }
+            },
+            {
+              "text": "We shouldn't travel during the holiday rush.",
+              "reading": "/wiː ˈʃʊdənt ˈtrævəl ˈdʊrɪŋ ðə ˈhɑːlədeɪ rʌʃ/",
+              "meaning": {
+                "vi": "Chúng ta không nên đi du lịch vào đợt cao điểm ngày lễ.",
+                "en": "We shouldn't travel during the holiday rush."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Chọn phòng học nhóm cho cuối tuần",
+          "en": "Picking a Study Spot"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Linh và Wei Chen bàn xem nên học ở thư viện hay quán cà phê.",
+          "en": "Linh and Wei Chen compare a library and a café for their study session."
+        },
+        "lines": [
+          {
+            "speaker": "Wei Chen",
+            "text": "Which place is better for our study group—the city library or the corner café?",
+            "reading": "/wɪtʃ pleɪs ɪz ˈbetər fɔːr ˈaʊər ˈstʌdi ɡruːp | ðə ˈsɪti ˈlaɪbreri ɔːr ðə ˈkɔːrnər kæˈfeɪ/",
+            "meaning": {
+              "vi": "Chỗ nào tốt hơn cho nhóm học của tụi mình—thư viện thành phố hay quán cà phê góc phố?",
+              "en": "Which place is better for our study group—the city library or the corner café?"
+            }
+          },
+          {
+            "speaker": "Linh",
+            "text": "The café is more convenient, and its drinks are affordable, but it gets crowded after three.",
+            "reading": "/ðə kæˈfeɪ ɪz mɔːr kənˈviːniənt ænd ɪts drɪŋks ɑːr əˈfɔːrdəbəl | bʌt ɪt ɡets ˈkraʊdɪd ˈæftər θriː/",
+            "meaning": {
+              "vi": "Quán cà phê tiện hơn và đồ uống hợp túi tiền, nhưng sau 3 giờ sẽ khá đông.",
+              "en": "The café is more convenient, and its drinks are affordable, but it gets crowded after three."
+            }
+          },
+          {
+            "speaker": "Wei Chen",
+            "text": "True. Then we should book the library's study room—it's the quietest option.",
+            "reading": "/truː | ðen wiː ʃʊd bʊk ðə ˈlaɪbreriz ˈstʌdi ruːm | ɪts ðə ˈkwaɪətɪst ˈɑːpʃən/",
+            "meaning": {
+              "vi": "Đúng đấy. Vậy mình nên đặt phòng học ở thư viện—đó là lựa chọn yên tĩnh nhất.",
+              "en": "True. Then we should book the library's study room—it's the quietest option."
+            }
+          },
+          {
+            "speaker": "Linh",
+            "text": "Agreed! Good audio quality will also make our speaking practice much easier.",
+            "reading": "/əˈɡriːd | ɡʊd ˈɔːdioʊ ˈkwɑːləti wɪl ˈɔːlsoʊ meɪk ˈaʊər ˈspiːkɪŋ ˈpræktɪs mʌtʃ ˈiːziər/",
+            "meaning": {
+              "vi": "Nhất trí! Âm thanh rõ ràng cũng sẽ giúp buổi luyện nói dễ dàng hơn nhiều.",
+              "en": "Agreed! Good audio quality will also make our speaking practice much easier."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Khi không đồng tình một phần, người nói tiếng Anh thường khen mặt tích cực trước ('It's convenient, but...') rồi mới nêu nhược điểm.",
+          "en": "Softening disagreement with 'It's [positive], but...' keeps group decision-making polite and constructive."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "en-a2-l3-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Tính từ nào mang nghĩa 'hợp túi tiền' với sắc thái tích cực?",
+            "en": "Which adjective means 'reasonably priced' in a positive way?"
+          },
+          "targetText": "reasonably priced",
+          "options": [
+            "affordable",
+            "crowded",
+            "delayed",
+            "noisy"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'affordable' có nghĩa là giá cả phải chăng, vừa túi tiền.",
+            "en": "'affordable' means reasonably priced for what you get."
+          }
+        },
+        {
+          "id": "en-a2-l3-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn từ ứng với phiên âm /kənˈviːniənt/.",
+            "en": "Select the word matching /kənˈviːniənt/."
+          },
+          "targetText": "/kənˈviːniənt/",
+          "ttsText": "convenient",
+          "options": [
+            "convenient",
+            "quality",
+            "helpful",
+            "prefer"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'convenient' đọc là /kənˈviːniənt/.",
+            "en": "'convenient' is pronounced /kənˈviːniənt/."
+          }
+        },
+        {
+          "id": "en-a2-l3-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn dạng so sánh nhất đúng:",
+            "en": "Choose the correct superlative form:"
+          },
+          "targetText": "This is ___ helpful guide in the library.",
+          "ttsText": "This is the most helpful guide in the library.",
+          "options": [
+            "more",
+            "most",
+            "the most",
+            "the more"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "vi": "Tính từ dài ở dạng so sánh nhất cần 'the most'.",
+            "en": "Multi-syllable superlatives require 'the most'."
+          }
+        },
+        {
+          "id": "en-a2-l3-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp các từ thành câu khuyên nhủ tự nhiên.",
+            "en": "Arrange the words into a natural recommendation."
+          },
+          "targetMeaning": {
+            "vi": "Bạn nên chọn lựa chọn yên tĩnh hơn.",
+            "en": "You should choose the quieter option."
+          },
+          "tokens": [
+            "quieter",
+            "choose",
+            "You",
+            "option.",
+            "should",
+            "the"
+          ],
+          "correctOrder": [
+            "You",
+            "should",
+            "choose",
+            "the",
+            "quieter",
+            "option."
+          ],
+          "correctSentence": "You should choose the quieter option.",
+          "explanation": {
+            "vi": "'should' đứng trước động từ nguyên mẫu 'choose'.",
+            "en": "'should' precedes the base verb 'choose'."
+          }
+        }
+      ]
+    }
+  ]
+}

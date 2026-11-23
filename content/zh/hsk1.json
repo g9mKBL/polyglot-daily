@@ -1,0 +1,1125 @@
+{
+  "levelId": "zh-hsk1",
+  "language": "zh",
+  "code": "HSK1",
+  "order": 1,
+  "title": {
+    "vi": "HSK 1 — Giao tiếp nhập môn",
+    "en": "HSK 1 — Mandarin Foundations"
+  },
+  "subtitle": {
+    "vi": "Chào hỏi, gia đình, số đếm và gọi món ăn",
+    "en": "Greetings, family, dates, and ordering food"
+  },
+  "estimatedMinutes": 35,
+  "lessons": [
+    {
+      "id": "zh-hsk1-l1",
+      "levelId": "zh-hsk1",
+      "order": 1,
+      "title": {
+        "native": "你好，请问你叫什么名字？",
+        "vi": "Chào hỏi và hỏi tên",
+        "en": "Greetings & Names"
+      },
+      "topic": "greetings",
+      "summary": {
+        "vi": "Học cách chào hỏi, giới thiệu họ tên, quốc tịch và biến điệu thanh 3 với 你好.",
+        "en": "Learn greetings, introducing names and nationalities, and 3rd-tone sandhi in 你好."
+      },
+      "xpReward": 50,
+      "vocabulary": [
+        {
+          "id": "zh-hsk1-l1-v1",
+          "term": "你好",
+          "reading": "nǐ hǎo",
+          "partOfSpeech": "expression",
+          "meaning": {
+            "vi": "xin chào",
+            "en": "hello"
+          },
+          "example": {
+            "text": "你好，很高兴认识你。",
+            "reading": "Nǐ hǎo, hěn gāoxìng rènshi nǐ.",
+            "meaning": {
+              "vi": "Xin chào, rất vui được làm quen với bạn.",
+              "en": "Hello, nice to meet you."
+            }
+          },
+          "note": {
+            "vi": "Biến điệu thanh 3: khi hai thanh 3 đi liền nhau, nǐ hǎo đọc thành ní hǎo.",
+            "en": "Tone sandhi: two 3rd tones in a row shift the first to 2nd tone (ní hǎo)."
+          }
+        },
+        {
+          "id": "zh-hsk1-l1-v2",
+          "term": "叫",
+          "reading": "jiào",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "tên là, gọi là",
+            "en": "to be called"
+          },
+          "example": {
+            "text": "我叫林安，我是越南人。",
+            "reading": "Wǒ jiào Lín Ān, wǒ shì Yuènán rén.",
+            "meaning": {
+              "vi": "Tôi tên là Lâm An, tôi là người Việt Nam.",
+              "en": "My name is Lin An, I am Vietnamese."
+            }
+          },
+          "note": {
+            "vi": "Thanh 4 rơi dứt khoát từ cao xuống thấp.",
+            "en": "4th tone drops sharply from high to low."
+          }
+        },
+        {
+          "id": "zh-hsk1-l1-v3",
+          "term": "名字",
+          "reading": "míngzi",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "tên",
+            "en": "name"
+          },
+          "example": {
+            "text": "请问，你叫什么名字？",
+            "reading": "Qǐngwèn, nǐ jiào shénme míngzi?",
+            "meaning": {
+              "vi": "Xin hỏi, bạn tên là gì?",
+              "en": "Excuse me, what is your name?"
+            }
+          },
+          "note": {
+            "vi": "Âm tiết thứ hai 'zi' đọc nhẹ (khinh thanh).",
+            "en": "The second syllable 'zi' is pronounced in the neutral tone."
+          }
+        },
+        {
+          "id": "zh-hsk1-l1-v4",
+          "term": "老师",
+          "reading": "lǎoshī",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "thầy cô giáo",
+            "en": "teacher"
+          },
+          "example": {
+            "text": "王老师是我们学校的汉语老师。",
+            "reading": "Wáng lǎoshī shì wǒmen xuéxiào de Hànyǔ lǎoshī.",
+            "meaning": {
+              "vi": "Thầy Vương là giáo viên tiếng Trung của trường chúng tôi.",
+              "en": "Teacher Wang is the Chinese teacher at our school."
+            }
+          },
+          "note": {
+            "vi": "Trong tiếng Trung đặt họ trước chức danh: 王老师 (Thầy/Cô Vương).",
+            "en": "Surname precedes title in Chinese: Wáng lǎoshī."
+          }
+        },
+        {
+          "id": "zh-hsk1-l1-v5",
+          "term": "谢谢",
+          "reading": "xièxie",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "cảm ơn",
+            "en": "thank you"
+          },
+          "example": {
+            "text": "谢谢你的帮助！",
+            "reading": "Xièxie nǐ de bāngzhù!",
+            "meaning": {
+              "vi": "Cảm ơn sự giúp đỡ của bạn!",
+              "en": "Thank you for your help!"
+            }
+          },
+          "note": {
+            "vi": "Chữ '谢' thứ hai thường đọc nhẹ (xièxie).",
+            "en": "The repeated syllable is spoken lightly as a neutral tone."
+          }
+        },
+        {
+          "id": "zh-hsk1-l1-v6",
+          "term": "朋友",
+          "reading": "péngyou",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "bạn bè",
+            "en": "friend"
+          },
+          "example": {
+            "text": "他是我的好朋友。",
+            "reading": "Tā shì wǒ de hǎo péngyou.",
+            "meaning": {
+              "vi": "Anh ấy là bạn thân của tôi.",
+              "en": "He is my good friend."
+            }
+          },
+          "note": {
+            "vi": "Cụm hay dùng: 好朋友 (bạn tốt), 老朋友 (bạn cũ).",
+            "en": "Common phrases: hǎo péngyou (good friend), lǎo péngyou (old friend)."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "zh-hsk1-l1-g1",
+          "pattern": "S + 是 + Noun",
+          "title": {
+            "vi": "Câu phán đoán với '是' (là)",
+            "en": "Equative Sentences with 是 (shì)"
+          },
+          "structure": "S + 是 + Noun | Phủ định: S + 不是 + Noun",
+          "explanation": {
+            "vi": "'是' nối chủ ngữ với danh từ chỉ thân phận, nghề nghiệp hoặc quốc tịch; phủ định là '不是' (bú shì).",
+            "en": "'是' links a subject to an identity noun; its negative form is '不是' (bú shì)."
+          },
+          "usageNote": {
+            "vi": "Biến điệu của 不: đứng trước thanh 4 như '是 (shì)', '不' (thanh 4 gốc) đổi thành thanh 2 'bú shì'.",
+            "en": "Tone sandhi: '不' (normally 4th tone) shifts to 2nd tone 'bú' before another 4th tone like 'shì'."
+          },
+          "examples": [
+            {
+              "text": "我是学生。",
+              "reading": "Wǒ shì xuésheng.",
+              "meaning": {
+                "vi": "Tôi là học sinh.",
+                "en": "I am a student."
+              }
+            },
+            {
+              "text": "他不是老师，他是医生。",
+              "reading": "Tā bú shì lǎoshī, tā shì yīshēng.",
+              "meaning": {
+                "vi": "Anh ấy không phải giáo viên, anh ấy là bác sĩ.",
+                "en": "He is not a teacher; he is a doctor."
+              }
+            }
+          ]
+        },
+        {
+          "id": "zh-hsk1-l1-g2",
+          "pattern": "S + 叫 + 什么 + (名字)？",
+          "title": {
+            "vi": "Đặt câu hỏi với từ nghi vấn '什么' (cái gì)",
+            "en": "Question Word 什么 (shénme) in Situ"
+          },
+          "structure": "Subject + Verb + 什么 (+ Noun)?",
+          "explanation": {
+            "vi": "Trong tiếng Trung, từ để hỏi '什么' giữ nguyên vị trí của phần thông tin cần trả lời, không đảo lên đầu câu như tiếng Anh.",
+            "en": "Chinese question words stay in the exact slot of the answer—never moved to the front."
+          },
+          "usageNote": {
+            "vi": "Thêm '请问' (qǐngwèn) ở đầu câu để hỏi lịch sự với người mới gặp.",
+            "en": "Prepend '请问 (qǐngwèn)' to ask politely."
+          },
+          "examples": [
+            {
+              "text": "你叫什么名字？",
+              "reading": "Nǐ jiào shénme míngzi?",
+              "meaning": {
+                "vi": "Bạn tên là gì?",
+                "en": "What is your name?"
+              }
+            },
+            {
+              "text": "这是什么书？",
+              "reading": "Zhè shì shénme shū?",
+              "meaning": {
+                "vi": "Đây là sách gì?",
+                "en": "What book is this?"
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Làm quen trong lớp tiếng Trung",
+          "en": "Meeting in Mandarin Class"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Linh Đan và Wei Chen chào hỏi nhau trước giờ học.",
+          "en": "Linh Dan and Wei Chen introduce themselves before class starts."
+        },
+        "lines": [
+          {
+            "speaker": "Linh Dan",
+            "text": "你好！请问，你叫什么名字？",
+            "reading": "Nǐ hǎo! Qǐngwèn, nǐ jiào shénme míngzi?",
+            "meaning": {
+              "vi": "Xin chào! Xin hỏi bạn tên là gì?",
+              "en": "Hello! May I ask what your name is?"
+            }
+          },
+          {
+            "speaker": "Wei Chen",
+            "text": "你好！我叫陈伟，我是中国人。你呢？",
+            "reading": "Nǐ hǎo! Wǒ jiào Chén Wěi, wǒ shì Zhōngguó rén. Nǐ ne?",
+            "meaning": {
+              "vi": "Chào bạn! Mình tên Trần Vĩ, mình là người Trung Quốc. Còn bạn?",
+              "en": "Hi! My name is Chen Wei, and I'm Chinese. How about you?"
+            }
+          },
+          {
+            "speaker": "Linh Dan",
+            "text": "我叫灵丹，我是越南人。王老师是我们的老师吗？",
+            "reading": "Wǒ jiào Língdān, wǒ shì Yuènán rén. Wáng lǎoshī shì wǒmen de lǎoshī ma?",
+            "meaning": {
+              "vi": "Mình tên Linh Đan, mình là người Việt Nam. Thầy Vương là giáo viên của tụi mình phải không?",
+              "en": "I'm Linh Dan, from Vietnam. Is Teacher Wang our instructor?"
+            }
+          },
+          {
+            "speaker": "Wei Chen",
+            "text": "是的，王老师很好！很高兴认识你，新朋友。",
+            "reading": "Shì de, Wáng lǎoshī hěn hǎo! Hěn gāoxìng rènshi nǐ, xīn péngyou.",
+            "meaning": {
+              "vi": "Đúng rồi, thầy Vương rất tốt! Rất vui được quen bạn, người bạn mới.",
+              "en": "Yes, Teacher Wang is great! Nice to meet you, new friend."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Khi xưng hô với thầy cô hoặc người lớn tuổi, luôn dùng '您 (nín)' thay cho '你 (nǐ)' hoặc gọi kèm họ + chức danh như '王老师'.",
+          "en": "Use '您 (nín)' or surname + title (such as '王老师') to show respect to teachers and elders."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "zh-hsk1-l1-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Từ '老师' có nghĩa là gì?",
+            "en": "What does '老师' mean?"
+          },
+          "targetText": "老师",
+          "targetReading": "lǎoshī",
+          "ttsText": "老师",
+          "options": [
+            "Giáo viên",
+            "Bạn bè",
+            "Tên gọi",
+            "Cảm ơn"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'老师 (lǎoshī)' nghĩa là thầy/cô giáo.",
+            "en": "'老师 (lǎoshī)' means teacher."
+          }
+        },
+        {
+          "id": "zh-hsk1-l1-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn phiên âm Pinyin có thanh điệu đúng cho '名字'.",
+            "en": "Select the correct tone-marked Pinyin for '名字'."
+          },
+          "targetText": "名字",
+          "ttsText": "名字",
+          "options": [
+            "míngzi",
+            "lǎoshī",
+            "péngyou",
+            "xièxie"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'名字' đọc là míngzi (thanh 2 + khinh thanh).",
+            "en": "'名字' is read míngzi (2nd tone + neutral tone)."
+          }
+        },
+        {
+          "id": "zh-hsk1-l1-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn từ đúng để hoàn thành câu hỏi tên:",
+            "en": "Choose the right word to ask someone's name:"
+          },
+          "targetText": "你___什么名字？",
+          "ttsText": "你叫什么名字？",
+          "options": [
+            "是",
+            "叫",
+            "有",
+            "谢"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "vi": "Dùng động từ '叫 (jiào)' để hỏi hoặc giới thiệu tên.",
+            "en": "Use the verb '叫 (jiào)' when asking or stating a name."
+          }
+        },
+        {
+          "id": "zh-hsk1-l1-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp các thẻ chữ thành câu tiếng Trung đúng.",
+            "en": "Arrange the Chinese phrases into a valid sentence."
+          },
+          "targetMeaning": {
+            "vi": "Anh ấy là bạn tốt của tôi.",
+            "en": "He is my good friend."
+          },
+          "tokens": [
+            "好朋友。",
+            "是",
+            "我的",
+            "他"
+          ],
+          "correctOrder": [
+            "他",
+            "是",
+            "我的",
+            "好朋友。"
+          ],
+          "correctSentence": "他是我的好朋友。",
+          "explanation": {
+            "vi": "Trật tự chuẩn: Chủ ngữ (他) + 是 + định ngữ (我的) + danh từ (好朋友)。",
+            "en": "Standard order: Subject (他) + 是 + modifier (我的) + noun (好朋友)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "zh-hsk1-l2",
+      "levelId": "zh-hsk1",
+      "order": 2,
+      "title": {
+        "native": "家人、数字与日期",
+        "vi": "Gia đình, số đếm và ngày tháng",
+        "en": "Family, Numbers & Dates"
+      },
+      "topic": "family-dates",
+      "summary": {
+        "vi": "Đếm người trong gia đình với lượng từ 个/口, hỏi tuổi và nói ngày tháng trong tiếng Trung.",
+        "en": "Count family members with 个/口, ask ages, and state dates in Mandarin."
+      },
+      "xpReward": 50,
+      "vocabulary": [
+        {
+          "id": "zh-hsk1-l2-v1",
+          "term": "家人",
+          "reading": "jiārén",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "người nhà, gia đình",
+            "en": "family members"
+          },
+          "example": {
+            "text": "周末我常常和家人一起吃饭。",
+            "reading": "Zhōumò wǒ chángcháng hé jiārén yìqǐ chīfàn.",
+            "meaning": {
+              "vi": "Cuối tuần tôi thường ăn cơm cùng gia đình.",
+              "en": "On weekends I often eat with my family."
+            }
+          },
+          "note": {
+            "vi": "Phân biệt '家 (jiā)' là nhà/gia đình với '家人 (jiārén)' là các thành viên trong nhà.",
+            "en": "'家' is home/family; '家人' refers to family members."
+          }
+        },
+        {
+          "id": "zh-hsk1-l2-v2",
+          "term": "有",
+          "reading": "yǒu",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "có",
+            "en": "to have"
+          },
+          "example": {
+            "text": "我家有四口人。",
+            "reading": "Wǒ jiā yǒu sì kǒu rén.",
+            "meaning": {
+              "vi": "Nhà tôi có bốn người.",
+              "en": "There are four people in my family."
+            }
+          },
+          "note": {
+            "vi": "Phủ định của '有' LUÔN là '没有 (méiyǒu)', tuyệt đối không dùng '不有'.",
+            "en": "The negative of '有' is always '没有 (méiyǒu)', never '不有'."
+          }
+        },
+        {
+          "id": "zh-hsk1-l2-v3",
+          "term": "今天",
+          "reading": "jīntiān",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "hôm nay",
+            "en": "today"
+          },
+          "example": {
+            "text": "今天是十月五号。",
+            "reading": "Jīntiān shì shí yuè wǔ hào.",
+            "meaning": {
+              "vi": "Hôm nay là ngày 5 tháng 10.",
+              "en": "Today is October 5th."
+            }
+          },
+          "note": {
+            "vi": "Cả hai âm đều thanh 1 cao đều: jīn-tiān.",
+            "en": "Both syllables carry a steady high 1st tone."
+          }
+        },
+        {
+          "id": "zh-hsk1-l2-v4",
+          "term": "星期",
+          "reading": "xīngqī",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "tuần, thứ (trong tuần)",
+            "en": "week / weekday"
+          },
+          "example": {
+            "text": "今天星期几？今天星期三。",
+            "reading": "Jīntiān xīngqī jǐ? Jīntiān xīngqī sān.",
+            "meaning": {
+              "vi": "Hôm nay thứ mấy? Hôm nay thứ Tư.",
+              "en": "What day is it today? Today is Wednesday."
+            }
+          },
+          "note": {
+            "vi": "Thứ Hai là 星期一 (xīngqī yī); Chủ nhật là 星期天 hoặc 星期日.",
+            "en": "Monday starts at 星期一; Sunday is 星期天 or 星期日."
+          }
+        },
+        {
+          "id": "zh-hsk1-l2-v5",
+          "term": "几",
+          "reading": "jǐ",
+          "partOfSpeech": "pronoun",
+          "meaning": {
+            "vi": "mấy (hỏi số nhỏ dưới 10)",
+            "en": "how many (small numbers)"
+          },
+          "example": {
+            "text": "你有几个哥哥？",
+            "reading": "Nǐ yǒu jǐ gè gēge?",
+            "meaning": {
+              "vi": "Bạn có mấy anh trai?",
+              "en": "How many older brothers do you have?"
+            }
+          },
+          "note": {
+            "vi": "Sau '几' cần có lượng từ như '个' hoặc '口' trước danh từ.",
+            "en": "'几' normally takes a measure word like '个' or '口' before a noun."
+          }
+        },
+        {
+          "id": "zh-hsk1-l2-v6",
+          "term": "岁",
+          "reading": "suì",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "tuổi",
+            "en": "years old"
+          },
+          "example": {
+            "text": "我妹妹今年八岁。",
+            "reading": "Wǒ mèimei jīnnián bā suì.",
+            "meaning": {
+              "vi": "Em gái tôi năm nay tám tuổi.",
+              "en": "My younger sister is eight years old this year."
+            }
+          },
+          "note": {
+            "vi": "Không dùng '是' trước số tuổi (nói '我二十岁', không nói '我是二十岁').",
+            "en": "Do not insert '是' before age ('我二十岁', not '我是二十岁')."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "zh-hsk1-l2-g1",
+          "pattern": "Number / 几 + Measure Word (个 / 口) + Noun",
+          "title": {
+            "vi": "Lượng từ '个' và '口'",
+            "en": "Measure Words 个 (gè) & 口 (kǒu)"
+          },
+          "structure": "S + 有 + Số đếm + 个/口 + Danh từ",
+          "explanation": {
+            "vi": "Trong tiếng Trung không ghép trực tiếp số đếm với danh từ mà phải có lượng từ ở giữa: '个' là lượng từ phổ biến nhất; '口' chuyên dùng đếm nhân khẩu trong gia đình.",
+            "en": "Numbers cannot directly precede nouns without a classifier: '个' is the general measure word, while '口' counts family members."
+          },
+          "usageNote": {
+            "vi": "Số 2 đứng trước lượng từ đọc là '两 (liǎng)', không nói '二个' mà nói '两个'.",
+            "en": "Use '两 (liǎng)' instead of '二 (èr)' before measure words ('两个人')."
+          },
+          "examples": [
+            {
+              "text": "我家有五口人。",
+              "reading": "Wǒ jiā yǒu wǔ kǒu rén.",
+              "meaning": {
+                "vi": "Nhà tôi có năm người.",
+                "en": "My family has five people."
+              }
+            },
+            {
+              "text": "我有两个姐姐。",
+              "reading": "Wǒ yǒu liǎng gè jiějie.",
+              "meaning": {
+                "vi": "Tôi có hai chị gái.",
+                "en": "I have two older sisters."
+              }
+            }
+          ]
+        },
+        {
+          "id": "zh-hsk1-l2-g2",
+          "pattern": "Year + 年 + Month + 月 + Day + 号/日",
+          "title": {
+            "vi": "Trật tự ngày tháng (Lớn trước, nhỏ sau)",
+            "en": "Date Order (Largest to Smallest Unit)"
+          },
+          "structure": "月 (tháng) -> 号/日 (ngày) -> 星期 (thứ)",
+          "explanation": {
+            "vi": "Tiếng Trung xếp đơn vị thời gian từ lớn đến nhỏ: Năm -> Tháng -> Ngày -> Thứ.",
+            "en": "Mandarin orders dates from largest unit to smallest: Year -> Month -> Day -> Weekday."
+          },
+          "usageNote": {
+            "vi": "Văn nói hay dùng '号 (hào)' cho ngày; văn viết/lịch hay dùng '日 (rì)'.",
+            "en": "'号 (hào)' is conversational for dates; '日 (rì)' is more formal/written."
+          },
+          "examples": [
+            {
+              "text": "明天是十一月九号，星期六。",
+              "reading": "Míngtiān shì shíyī yuè jiǔ hào, xīngqīliù.",
+              "meaning": {
+                "vi": "Ngày mai là thứ Bảy, ngày 9 tháng 11.",
+                "en": "Tomorrow is Saturday, November 9th."
+              }
+            },
+            {
+              "text": "我的生日是五月二十号。",
+              "reading": "Wǒ de shēngrì shì wǔ yuè èrshí hào.",
+              "meaning": {
+                "vi": "Sinh nhật tôi là ngày 20 tháng 5.",
+                "en": "My birthday is May 20th."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Hỏi thăm gia đình và lịch sinh nhật",
+          "en": "Talking About Family & Birthdays"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Linh Đan và Minh Anh trò chuyện về gia đình và ngày trong tuần.",
+          "en": "Linh Dan and Minh Anh chat about family members and upcoming dates."
+        },
+        "lines": [
+          {
+            "speaker": "Minh Anh",
+            "text": "灵丹，你家有几口人？",
+            "reading": "Língdān, nǐ jiā yǒu jǐ kǒu rén?",
+            "meaning": {
+              "vi": "Linh Đan ơi, nhà bạn có mấy người?",
+              "en": "Linh Dan, how many people are in your family?"
+            }
+          },
+          {
+            "speaker": "Linh Dan",
+            "text": "我家有四口人：爸爸、妈妈、一个弟弟和我。",
+            "reading": "Wǒ jiā yǒu sì kǒu rén: bàba, māma, yí gè dìdi hé wǒ.",
+            "meaning": {
+              "vi": "Nhà mình có bốn người: bố, mẹ, một em trai và mình.",
+              "en": "Four people: my dad, mom, one younger brother, and me."
+            }
+          },
+          {
+            "speaker": "Minh Anh",
+            "text": "你弟弟今年几岁？",
+            "reading": "Nǐ dìdi jīnnián jǐ suì?",
+            "meaning": {
+              "vi": "Em trai bạn năm nay mấy tuổi?",
+              "en": "How old is your younger brother this year?"
+            }
+          },
+          {
+            "speaker": "Linh Dan",
+            "text": "他今年十岁。对了，今天星期五，明天五月八号是他的生日！",
+            "reading": "Tā jīnnián shí suì. Duìle, jīntiān xīngqīwǔ, míngtiān wǔ yuè bā hào shì tā de shēngrì!",
+            "meaning": {
+              "vi": "Em ấy năm nay mười tuổi. À đúng rồi, hôm nay thứ Sáu, ngày mai mùng 8 tháng 5 là sinh nhật em ấy!",
+              "en": "He's ten this year. Oh, today is Friday—tomorrow, May 8th, is his birthday!"
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Biến điệu của '一 (yī)': trong '一个 (yí gè)', '一' (thanh 1 gốc) đổi thành thanh 2 'yí' vì đứng trước thanh 4 'gè'.",
+          "en": "Tone sandhi on '一': before 4th-tone '个', '一' shifts from 1st tone to 2nd tone ('yí gè')."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "zh-hsk1-l2-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Cách nói 'hai người bạn' nào đúng trong tiếng Trung?",
+            "en": "Which is the correct way to say 'two friends'?"
+          },
+          "targetText": "2 + friend(s)",
+          "options": [
+            "两个朋友",
+            "二个朋友",
+            "两朋友",
+            "二口朋友"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Trước lượng từ '个' phải dùng '两 (liǎng)', không dùng '二'.",
+            "en": "Use '两 (liǎng)' rather than '二' before measure words like '个'."
+          }
+        },
+        {
+          "id": "zh-hsk1-l2-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn Pinyin đúng cho '星期'.",
+            "en": "Select the correct Pinyin for '星期'."
+          },
+          "targetText": "星期",
+          "ttsText": "星期",
+          "options": [
+            "xīngqī",
+            "jīntiān",
+            "jiārén",
+            "shēngrì"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'星期' đọc là xīngqī (cả hai âm thanh 1).",
+            "en": "'星期' is pronounced xīngqī."
+          }
+        },
+        {
+          "id": "zh-hsk1-l2-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn từ phù hợp để nói 'Tôi không có anh trai':",
+            "en": "Choose the correct negative for 'I don't have an older brother':"
+          },
+          "targetText": "我___有哥哥。",
+          "ttsText": "我没有哥哥。",
+          "options": [
+            "不",
+            "没",
+            "不是",
+            "无"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "vi": "Động từ '有' luôn phủ định bằng '没有 (méiyǒu)'.",
+            "en": "Always negate '有' with '没' ('没有')."
+          }
+        },
+        {
+          "id": "zh-hsk1-l2-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu nói ngày tháng đúng trật tự tiếng Trung.",
+            "en": "Arrange the tokens into standard Chinese date order."
+          },
+          "targetMeaning": {
+            "vi": "Hôm nay là ngày 5 tháng 10.",
+            "en": "Today is October 5th."
+          },
+          "tokens": [
+            "五号。",
+            "是",
+            "十月",
+            "今天"
+          ],
+          "correctOrder": [
+            "今天",
+            "是",
+            "十月",
+            "五号。"
+          ],
+          "correctSentence": "今天是十月五号。",
+          "explanation": {
+            "vi": "Tháng (十月) luôn đứng trước ngày (五号).",
+            "en": "Month (十月) precedes day (五号) in Mandarin."
+          }
+        }
+      ]
+    },
+    {
+      "id": "zh-hsk1-l3",
+      "levelId": "zh-hsk1",
+      "order": 3,
+      "title": {
+        "native": "点菜与喜欢",
+        "vi": "Đồ ăn, thức uống và gọi món",
+        "en": "Food, Drinks & Ordering"
+      },
+      "topic": "food-drinks",
+      "summary": {
+        "vi": "Dùng 想/要/喜欢 để gọi trà, cà phê, cơm và hỏi giá bằng 多少钱.",
+        "en": "Order tea, coffee, and meals using 想/要/喜欢 and ask prices with 多少钱."
+      },
+      "xpReward": 50,
+      "vocabulary": [
+        {
+          "id": "zh-hsk1-l3-v1",
+          "term": "茶",
+          "reading": "chá",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "trà",
+            "en": "tea"
+          },
+          "example": {
+            "text": "我想喝一杯热茶。",
+            "reading": "Wǒ xiǎng hē yì bēi rè chá.",
+            "meaning": {
+              "vi": "Tôi muốn uống một tách trà nóng.",
+              "en": "I would like to drink a cup of hot tea."
+            }
+          },
+          "note": {
+            "vi": "Lượng từ cho cốc/ly là '杯 (bēi)': 一杯茶 (một tách trà).",
+            "en": "Measure word for cups/glasses: '杯 (bēi)'."
+          }
+        },
+        {
+          "id": "zh-hsk1-l3-v2",
+          "term": "咖啡",
+          "reading": "kāfēi",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "cà phê",
+            "en": "coffee"
+          },
+          "example": {
+            "text": "早上我喜欢喝咖啡。",
+            "reading": "Zǎoshang wǒ xǐhuan hē kāfēi.",
+            "meaning": {
+              "vi": "Buổi sáng tôi thích uống cà phê.",
+              "en": "In the morning I like drinking coffee."
+            }
+          },
+          "note": {
+            "vi": "Từ phiên âm từ 'coffee', cả hai âm đều thanh 1.",
+            "en": "A phonetic loanword; both syllables are 1st tone."
+          }
+        },
+        {
+          "id": "zh-hsk1-l3-v3",
+          "term": "米饭",
+          "reading": "mǐfàn",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "cơm",
+            "en": "cooked rice"
+          },
+          "example": {
+            "text": "我要一碗米饭和青菜。",
+            "reading": "Wǒ yào yì wǎn mǐfàn hé qīngcài.",
+            "meaning": {
+              "vi": "Tôi lấy một bát cơm và rau xanh.",
+              "en": "I'll have a bowl of rice and greens."
+            }
+          },
+          "note": {
+            "vi": "Lượng từ cho bát cơm là '碗 (wǎn)'.",
+            "en": "Measure word for bowls: '碗 (wǎn)'."
+          }
+        },
+        {
+          "id": "zh-hsk1-l3-v4",
+          "term": "喜欢",
+          "reading": "xǐhuan",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "thích",
+            "en": "to like"
+          },
+          "example": {
+            "text": "你喜欢吃中国菜吗？",
+            "reading": "Nǐ xǐhuan chī Zhōngguó cài ma?",
+            "meaning": {
+              "vi": "Bạn có thích ăn món Trung Quốc không?",
+              "en": "Do you like eating Chinese food?"
+            }
+          },
+          "note": {
+            "vi": "Âm tiết thứ hai 'huan' đọc khinh thanh nhẹ.",
+            "en": "The second syllable 'huan' takes the neutral tone."
+          }
+        },
+        {
+          "id": "zh-hsk1-l3-v5",
+          "term": "想",
+          "reading": "xiǎng",
+          "partOfSpeech": "verb",
+          "meaning": {
+            "vi": "muốn, nghĩ (lịch sự nhẹ nhàng)",
+            "en": "would like to / to think"
+          },
+          "example": {
+            "text": "我想买两个苹果。",
+            "reading": "Wǒ xiǎng mǎi liǎng gè píngguǒ.",
+            "meaning": {
+              "vi": "Tôi muốn mua hai quả táo.",
+              "en": "I would like to buy two apples."
+            }
+          },
+          "note": {
+            "vi": "'想' (would like) mềm mỏng hơn '要' (want/will order).",
+            "en": "'想' expresses a softer wish; '要' is more direct when ordering."
+          }
+        },
+        {
+          "id": "zh-hsk1-l3-v6",
+          "term": "多少钱",
+          "reading": "duōshao qián",
+          "partOfSpeech": "expression",
+          "meaning": {
+            "vi": "bao nhiêu tiền",
+            "en": "how much money"
+          },
+          "example": {
+            "text": "这杯水多少钱？",
+            "reading": "Zhè bēi shuǐ duōshao qián?",
+            "meaning": {
+              "vi": "Ly nước này bao nhiêu tiền?",
+              "en": "How much is this cup of water?"
+            }
+          },
+          "note": {
+            "vi": "Khác với '几', sau '多少' không bắt buộc có lượng từ trước danh từ.",
+            "en": "Unlike '几', '多少' is used for larger or open-ended amounts like prices."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "zh-hsk1-l3-g1",
+          "pattern": "S + 想 / 要 + Verb / Noun",
+          "title": {
+            "vi": "Động từ năng nguyện '想' và '要' khi gọi món",
+            "en": "Expressing Desires & Orders with 想 & 要"
+          },
+          "structure": "我想喝... (I'd like to drink...) | 我要一碗... (I'll take a bowl of...)",
+          "explanation": {
+            "vi": "'想 + động từ' diễn đạt mong muốn nhẹ nhàng; tại quầy gọi món trực tiếp có thể dùng '我要 + số lượng + lượng từ + món'.",
+            "en": "Pair '想' with a verb for polite wishes; use '要' directly with a quantity + item when placing an order."
+          },
+          "usageNote": {
+            "vi": "Phủ định 'không muốn' dùng '不想' (không nói '不要' nếu chỉ là từ chối nhẹ, vì '不要' mang nghĩa 'đừng/không cần' khá mạnh).",
+            "en": "Use '不想' for 'don't feel like'; '不要' can sound abrupt when declining."
+          },
+          "examples": [
+            {
+              "text": "我想喝一杯冰咖啡。",
+              "reading": "Wǒ xiǎng hē yì bēi bīng kāfēi.",
+              "meaning": {
+                "vi": "Tôi muốn uống một ly cà phê đá.",
+                "en": "I would like an iced coffee."
+              }
+            },
+            {
+              "text": "我要两碗米饭，谢谢。",
+              "reading": "Wǒ yào liǎng wǎn mǐfàn, xièxie.",
+              "meaning": {
+                "vi": "Cho tôi hai bát cơm nhé, cảm ơn.",
+                "en": "I'll order two bowls of rice, thanks."
+              }
+            }
+          ]
+        },
+        {
+          "id": "zh-hsk1-l3-g2",
+          "pattern": "N + 多少钱？ / Number + 块 (钱)",
+          "title": {
+            "vi": "Hỏi và trả lời giá tiền",
+            "en": "Asking & Stating Prices"
+          },
+          "structure": "[Món đồ] + 多少钱？ -> [Số] + 块 (kuài)",
+          "explanation": {
+            "vi": "Dùng '多少钱？' cuối câu để hỏi giá; trong khẩu ngữ đơn vị tiền tệ Trung Quốc là '块 (kuài)' (tương ứng '元 yuán' trên bảng giá).",
+            "en": "End price questions with '多少钱？'; in spoken Mandarin use '块 (kuài)' for currency units."
+          },
+          "usageNote": {
+            "vi": "Một đồng là 一块 (yí kuài), mười lăm đồng là 十五块 (shíwǔ kuài).",
+            "en": "'一' changes to 2nd tone 'yí' before 4th-tone '块': yí kuài."
+          },
+          "examples": [
+            {
+              "text": "这杯绿茶多少钱？",
+              "reading": "Zhè bēi lǜchá duōshao qián?",
+              "meaning": {
+                "vi": "Ly trà xanh này bao nhiêu tiền?",
+                "en": "How much is this cup of green tea?"
+              }
+            },
+            {
+              "text": "一共十八块钱。",
+              "reading": "Yígòng shíbā kuài qián.",
+              "meaning": {
+                "vi": "Tổng cộng mười tám tệ.",
+                "en": "Eighteen yuan in total."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Gọi đồ uống ở quán trà",
+          "en": "Ordering at a Teahouse"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Wei Chen gọi trà và cà phê cùng bạn tại quán.",
+          "en": "Wei Chen orders tea and coffee at a local café."
+        },
+        "lines": [
+          {
+            "speaker": "服务员",
+            "text": "你好！请问你想喝什么？",
+            "reading": "Nǐ hǎo! Qǐngwèn nǐ xiǎng hē shénme?",
+            "meaning": {
+              "vi": "Xin chào! Xin hỏi bạn muốn uống gì?",
+              "en": "Hello! What would you like to drink?"
+            }
+          },
+          {
+            "speaker": "Wei Chen",
+            "text": "我要一杯热茶和一杯咖啡。灵丹，你喜欢茶还是咖啡？",
+            "reading": "Wǒ yào yì bēi rè chá hé yì bēi kāfēi. Língdān, nǐ xǐhuan chá háishi kāfēi?",
+            "meaning": {
+              "vi": "Cho mình một ly trà nóng và một ly cà phê. Linh Đan, bạn thích trà hay cà phê?",
+              "en": "I'll take one hot tea and one coffee. Linh Dan, do you prefer tea or coffee?"
+            }
+          },
+          {
+            "speaker": "Linh Dan",
+            "text": "我喜欢喝茶。请问，一共多少钱？",
+            "reading": "Wǒ xǐhuan hē chá. Qǐngwèn, yígòng duōshao qián?",
+            "meaning": {
+              "vi": "Mình thích uống trà. Xin hỏi tổng cộng bao nhiêu tiền ạ?",
+              "en": "I like tea. Excuse me, how much is the total?"
+            }
+          },
+          {
+            "speaker": "服务员",
+            "text": "一共二十五块钱。请坐一会儿！",
+            "reading": "Yígòng èrshíwǔ kuài qián. Qǐng zuò yíhuìr!",
+            "meaning": {
+              "vi": "Tổng cộng hai mươi lăm tệ. Mời hai bạn ngồi chờ một lát!",
+              "en": "Twenty-five yuan altogether. Please have a seat for a moment!"
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Ở Trung Quốc, khi đi quán ăn uống cùng bạn bè, cụm '请坐 (qǐng zuò - mời ngồi)' và '请喝茶 (qǐng hē chá - mời uống trà)' thể hiện sự hiếu khách cơ bản.",
+          "en": "Polite invitations like '请坐 (please sit)' and '请喝茶 (please have some tea)' are everyday expressions of hospitality."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "zh-hsk1-l3-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Từ '米饭' có nghĩa là gì?",
+            "en": "What does '米饭' mean?"
+          },
+          "targetText": "米饭",
+          "targetReading": "mǐfàn",
+          "ttsText": "米饭",
+          "options": [
+            "Cơm",
+            "Trà nóng",
+            "Cà phê",
+            "Nước lọc"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'米饭 (mǐfàn)' nghĩa là cơm trắng đã nấu chín.",
+            "en": "'米饭 (mǐfàn)' means cooked rice."
+          }
+        },
+        {
+          "id": "zh-hsk1-l3-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn Pinyin đúng cho '咖啡'.",
+            "en": "Choose the matching Pinyin for '咖啡'."
+          },
+          "targetText": "咖啡",
+          "ttsText": "咖啡",
+          "options": [
+            "kāfēi",
+            "mǐfàn",
+            "xǐhuan",
+            "duōshao"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'咖啡' đọc là kāfēi (hai thanh 1).",
+            "en": "'咖啡' is read kāfēi."
+          }
+        },
+        {
+          "id": "zh-hsk1-l3-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn cụm từ đúng để hỏi giá tiền:",
+            "en": "Choose the correct phrase to ask the price:"
+          },
+          "targetText": "这杯茶___？",
+          "ttsText": "这杯茶多少钱？",
+          "options": [
+            "几岁",
+            "多少钱",
+            "什么名字",
+            "星期几"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "vi": "Dùng '多少钱' để hỏi giá cả.",
+            "en": "Use '多少钱 (duōshao qián)' to ask how much something costs."
+          }
+        },
+        {
+          "id": "zh-hsk1-l3-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu gọi đồ uống hoàn chỉnh.",
+            "en": "Arrange the tokens into a drink order sentence."
+          },
+          "targetMeaning": {
+            "vi": "Tôi muốn uống trà nóng.",
+            "en": "I would like to drink hot tea."
+          },
+          "tokens": [
+            "喝",
+            "热茶。",
+            "想",
+            "我"
+          ],
+          "correctOrder": [
+            "我",
+            "想",
+            "喝",
+            "热茶。"
+          ],
+          "correctSentence": "我想喝热茶。",
+          "explanation": {
+            "vi": "Trật tự: Chủ ngữ (我) + 想 + động từ (喝) + tân ngữ (热茶)。",
+            "en": "Word order: 我 + 想 + 喝 + 热茶。"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1195 @@
+{
+  "levelId": "ja-n5",
+  "language": "ja",
+  "code": "N5",
+  "order": 1,
+  "title": {
+    "vi": "JLPT N5 — Nhập môn tiếng Nhật",
+    "en": "JLPT N5 — Japanese Foundations"
+  },
+  "subtitle": {
+    "vi": "Tự giới thiệu với は/の/か, hành động hằng ngày và tính từ lịch sự",
+    "en": "Introductions with は/の/か, daily actions, and polite adjectives"
+  },
+  "estimatedMinutes": 35,
+  "lessons": [
+    {
+      "id": "ja-n5-l1",
+      "levelId": "ja-n5",
+      "order": 1,
+      "title": {
+        "native": "はじめまして・自己紹介",
+        "vi": "Lần đầu gặp gỡ và tự giới thiệu",
+        "en": "Introductions & Particles"
+      },
+      "topic": "introductions",
+      "summary": {
+        "vi": "Làm quen với trợ từ は, の, か và mẫu câu lịch sự 'N1 は N2 です' khi giới thiệu bản thân.",
+        "en": "Learn particles は, の, か and polite 'N1 は N2 です' sentences for self-introductions."
+      },
+      "xpReward": 50,
+      "vocabulary": [
+        {
+          "id": "ja-n5-l1-v1",
+          "term": "学生",
+          "reading": "がくせい",
+          "romaji": "gakusei",
+          "rubyText": "学生[がくせい]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "học sinh, sinh viên",
+            "en": "student"
+          },
+          "example": {
+            "text": "私は大学の学生です。",
+            "rubyText": "私[わたし]は大学[だいがく]の学生[がくせい]です。",
+            "reading": "watashi wa daigaku no gakusei desu.",
+            "meaning": {
+              "vi": "Tôi là sinh viên đại học.",
+              "en": "I am a university student."
+            }
+          },
+          "note": {
+            "vi": "Trong khẩu ngữ tự nhiên, 'せい' thường phát âm như âm dài 'せー' (gakusē).",
+            "en": "In natural speech, 'せい' flows like a long 'e' sound (gakusē)."
+          }
+        },
+        {
+          "id": "ja-n5-l1-v2",
+          "term": "先生",
+          "reading": "せんせい",
+          "romaji": "sensei",
+          "rubyText": "先生[せんせい]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "thầy cô giáo (cũng dùng gọi bác sĩ, luật sư)",
+            "en": "teacher / instructor"
+          },
+          "example": {
+            "text": "田中先生は日本語の先生です。",
+            "rubyText": "田中[たなか]先生[せんせい]は日本語[にほんご]の先生[せんせい]です。",
+            "reading": "Tanaka-sensei wa Nihongo no sensei desu.",
+            "meaning": {
+              "vi": "Thầy Tanaka là giáo viên tiếng Nhật.",
+              "en": "Teacher Tanaka is a Japanese instructor."
+            }
+          },
+          "note": {
+            "vi": "Khi tự giới thiệu nghề nghiệp của mình là giáo viên, dùng '教師 (きょうし)' lịch sự hơn thay vì tự xưng '先生'.",
+            "en": "Use '先生' for others; use '教師 (kyōshi)' when stating your own job as a teacher."
+          }
+        },
+        {
+          "id": "ja-n5-l1-v3",
+          "term": "会社員",
+          "reading": "かいしゃいん",
+          "romaji": "kaishain",
+          "rubyText": "会社員[かいしゃいん]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "nhân viên công ty",
+            "en": "company employee"
+          },
+          "example": {
+            "text": "兄は東京の会社員です。",
+            "rubyText": "兄[あに]は東京[とうきょう]の会社員[かいしゃいん]です。",
+            "reading": "ani wa Tōkyō no kaishain desu.",
+            "meaning": {
+              "vi": "Anh trai tôi là nhân viên công ty ở Tokyo.",
+              "en": "My older brother is a company employee in Tokyo."
+            }
+          },
+          "note": {
+            "vi": "Ghép từ 会社 (công ty) + 員 (thành viên).",
+            "en": "Compound of 会社 (company) + 員 (member/staff)."
+          }
+        },
+        {
+          "id": "ja-n5-l1-v4",
+          "term": "友達",
+          "reading": "ともだち",
+          "romaji": "tomodachi",
+          "rubyText": "友達[ともだち]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "bạn bè",
+            "en": "friend"
+          },
+          "example": {
+            "text": "リンさんは私の友達です。",
+            "rubyText": "リンさんは私[わたし]の友達[ともだち]です。",
+            "reading": "Rin-san wa watashi no tomodachi desu.",
+            "meaning": {
+              "vi": "Bạn Linh là bạn của tôi.",
+              "en": "Linh is my friend."
+            }
+          },
+          "note": {
+            "vi": "Đuôi '-だち' tuy có nguồn số nhiều nhưng trong tiếng Nhật hiện đại dùng được cho cả 1 người bạn.",
+            "en": "Despite its plural origin, '友達' refers to both one friend and friends."
+          }
+        },
+        {
+          "id": "ja-n5-l1-v5",
+          "term": "日本語",
+          "reading": "にほんご",
+          "romaji": "nihongo",
+          "rubyText": "日本語[にほんご]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "tiếng Nhật",
+            "en": "Japanese language"
+          },
+          "example": {
+            "text": "私は毎日日本語を勉強します。",
+            "rubyText": "私[わたし]は毎日[まいにち]日本語[にほんご]を勉強[べんきょう]します。",
+            "reading": "watashi wa mainichi Nihongo o benkyō shimasu.",
+            "meaning": {
+              "vi": "Tôi học tiếng Nhật mỗi ngày.",
+              "en": "I study Japanese every day."
+            }
+          },
+          "note": {
+            "vi": "Thêm '〜語 (ご)' sau tên nước tạo thành tên ngôn ngữ: ベトナム語 (tiếng Việt), 英語 (tiếng Anh).",
+            "en": "Attach '語 (go)' to country names for languages: ベトナム語, 英語."
+          }
+        },
+        {
+          "id": "ja-n5-l1-v6",
+          "term": "名前",
+          "reading": "なまえ",
+          "romaji": "namae",
+          "rubyText": "名前[なまえ]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "tên",
+            "en": "name"
+          },
+          "example": {
+            "text": "お名前は何ですか。",
+            "rubyText": "お名前[なまえ]は何[なん]ですか。",
+            "reading": "o-namae wa nan desu ka.",
+            "meaning": {
+              "vi": "Tên của bạn là gì ạ?",
+              "en": "What is your name?"
+            }
+          },
+          "note": {
+            "vi": "Khi hỏi tên người khác luôn thêm tiền tố kính trọng 'お': お名前 (không thêm 'お' cho tên mình).",
+            "en": "Prefix 'お' when asking someone else's name ('お名前'), never for your own."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "ja-n5-l1-g1",
+          "pattern": "N1 は N2 です / じゃありません",
+          "title": {
+            "vi": "Mẫu câu khẳng định và phủ định lịch sự",
+            "en": "Topic Marker は & Polite Copula です"
+          },
+          "structure": "N1 + は (wa) + N2 + です (khẳng định) / じゃありません (phủ định)",
+          "explanation": {
+            "vi": "Trợ từ chủ đề 'は' (viết là 'は' nhưng đọc là 'wa') đánh dấu đối tượng được nói đến; 'です' kết thúc câu lịch sự.",
+            "en": "The topic particle 'は' (pronounced 'wa') marks what the sentence is about, and 'です' ends polite noun statements."
+          },
+          "usageNote": {
+            "vi": "Dạng trang trọng hơn của 'じゃありません' trong văn viết là 'ではありません'.",
+            "en": "'ではありません' is the more formal written counterpart to 'じゃありません'."
+          },
+          "examples": [
+            {
+              "text": "私はベトナム人です。",
+              "rubyText": "私[わたし]はベトナム人[じん]です。",
+              "reading": "watashi wa Betonamu-jin desu.",
+              "meaning": {
+                "vi": "Tôi là người Việt Nam.",
+                "en": "I am Vietnamese."
+              }
+            },
+            {
+              "text": "ケンジさんは学生じゃありません。",
+              "rubyText": "ケンジさんは学生[がくせい]じゃありません。",
+              "reading": "Kenji-san wa gakusei ja arimasen.",
+              "meaning": {
+                "vi": "Anh Kenji không phải là sinh viên.",
+                "en": "Kenji is not a student."
+              }
+            }
+          ]
+        },
+        {
+          "id": "ja-n5-l1-g2",
+          "pattern": "N1 の N2 & Sentence + か",
+          "title": {
+            "vi": "Trợ từ sở hữu 'の' và trợ từ nghi vấn 'か'",
+            "en": "Possessive/Modifying の & Question Particle か"
+          },
+          "structure": "N1 の N2 (N2 thuộc về N1) | Câu trần thuật + か (câu hỏi)",
+          "explanation": {
+            "vi": "'の' nối hai danh từ theo thứ tự 'phạm vi/chủ sở hữu + danh từ chính'; thêm 'か' cuối câu biến câu trần thuật thành câu hỏi lịch sự.",
+            "en": "'の' links nouns ('N1's N2'), while appending 'か' turns any polite statement into a question."
+          },
+          "usageNote": {
+            "vi": "Trong tiếng Nhật chuẩn có 'か' ở cuối thường dùng dấu chấm tròn '。' (vẫn dùng '?' trong hội thoại thân mật).",
+            "en": "Traditional Japanese punctuation uses '。' even after 'か', though '?' appears casually."
+          },
+          "examples": [
+            {
+              "text": "これは日本語の本ですか。",
+              "rubyText": "これは日本語[にほんご]の本[ほん]ですか。",
+              "reading": "kore wa Nihongo no hon desu ka.",
+              "meaning": {
+                "vi": "Đây là sách tiếng Nhật phải không?",
+                "en": "Is this a Japanese book?"
+              }
+            },
+            {
+              "text": "私はさくら大学の学生です。",
+              "rubyText": "私[わたし]はさくら大学[だいがく]の学生[がくせい]です。",
+              "reading": "watashi wa Sakura Daigaku no gakusei desu.",
+              "meaning": {
+                "vi": "Tôi là sinh viên của Đại học Sakura.",
+                "en": "I am a student at Sakura University."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Chào hỏi lần đầu tại câu lạc bộ tiếng Nhật",
+          "en": "First Meeting at the Japanese Club"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Minh Anh và Kenji chào hỏi làm quen lần đầu.",
+          "en": "Minh Anh and Kenji introduce themselves for the first time."
+        },
+        "lines": [
+          {
+            "speaker": "Minh Anh",
+            "text": "はじめまして。ミンアンです。ベトナムから来ました。",
+            "rubyText": "はじめまして。ミンアンです。ベトナムから来[き]ました。",
+            "reading": "Hajimemashite. Min'an desu. Betonamu kara kimashita.",
+            "meaning": {
+              "vi": "Rất hân hạnh được gặp bạn. Mình là Minh Anh. Mình đến từ Việt Nam.",
+              "en": "Nice to meet you. I'm Minh Anh, from Vietnam."
+            }
+          },
+          {
+            "speaker": "Kenji",
+            "text": "はじめまして、ケンジです。ミンアンさんは学生ですか。",
+            "rubyText": "はじめまして、ケンジです。ミンアンさんは学生[がくせい]ですか。",
+            "reading": "Hajimemashite, Kenji desu. Min'an-san wa gakusei desu ka.",
+            "meaning": {
+              "vi": "Rất hân hạnh, mình là Kenji. Minh Anh là sinh viên phải không?",
+              "en": "Nice to meet you, I'm Kenji. Are you a student, Minh Anh?"
+            }
+          },
+          {
+            "speaker": "Minh Anh",
+            "text": "いいえ、会社員です。今、日本語を勉強しています。",
+            "rubyText": "いいえ、会社員[かいしゃいん]です。今[いま]、日本語[にほんご]を勉強[べんきょう]しています。",
+            "reading": "Iie, kaishain desu. Ima, Nihongo o benkyō shite imasu.",
+            "meaning": {
+              "vi": "Không, mình là nhân viên công ty. Hiện mình đang học tiếng Nhật.",
+              "en": "No, I'm a company employee. I'm studying Japanese right now."
+            }
+          },
+          {
+            "speaker": "Kenji",
+            "text": "そうですか。どうぞよろしくお願いします！",
+            "rubyText": "そうですか。どうぞよろしくお願[ねが]いします！",
+            "reading": "Sō desu ka. Dōzo yoroshiku onegai shimasu!",
+            "meaning": {
+              "vi": "Ra vậy ạ. Rất mong được giúp đỡ và cùng học tốt nhé!",
+              "en": "I see! Please treat me kindly / nice working with you!"
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Người Nhật không dùng '-さん (-san)' cho tên chính mình mà chỉ gắn sau tên người đối diện để tỏ ý lịch sự.",
+          "en": "Never attach '-さん' to your own name—use it only for others as a polite honorific."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "ja-n5-l1-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Từ '会社員' có nghĩa là gì?",
+            "en": "What does '会社員' mean?"
+          },
+          "targetText": "会社員",
+          "targetReading": "かいしゃいん (kaishain)",
+          "ttsText": "会社員",
+          "options": [
+            "Nhân viên công ty",
+            "Giáo viên",
+            "Sinh viên",
+            "Bạn bè"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'会社員 (かいしゃいん)' nghĩa là nhân viên công ty.",
+            "en": "'会社員 (kaishain)' means company employee."
+          }
+        },
+        {
+          "id": "ja-n5-l1-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn cách đọc Kana đúng cho '学生'.",
+            "en": "Select the correct Kana reading for '学生'."
+          },
+          "targetText": "学生",
+          "ttsText": "学生",
+          "options": [
+            "がくせい",
+            "せんせい",
+            "なまえ",
+            "ともだち"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'学生' đọc là がくせい (gakusei).",
+            "en": "'学生' is read がくせい (gakusei)."
+          }
+        },
+        {
+          "id": "ja-n5-l1-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn trợ từ sở hữu nối hai danh từ:",
+            "en": "Choose the linking particle between two nouns:"
+          },
+          "targetText": "これは私___本です。",
+          "ttsText": "これは私の本です。",
+          "options": [
+            "は",
+            "の",
+            "か",
+            "を"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "vi": "Dùng 'の' để nối '私 (tôi)' và '本 (sách)' thành 'sách của tôi'.",
+            "en": "Use 'の' to connect '私' and '本' ('my book')."
+          }
+        },
+        {
+          "id": "ja-n5-l1-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp các thẻ từ thành câu giới thiệu hoàn chỉnh.",
+            "en": "Order the Japanese tokens into a polite introduction."
+          },
+          "targetMeaning": {
+            "vi": "Tôi là sinh viên.",
+            "en": "I am a student."
+          },
+          "tokens": [
+            "学生",
+            "私は",
+            "です。"
+          ],
+          "correctOrder": [
+            "私は",
+            "学生",
+            "です。"
+          ],
+          "correctSentence": "私は学生です。",
+          "explanation": {
+            "vi": "Trật tự: Chủ đề (私は) + Danh từ (学生) + です。",
+            "en": "Word order: 私は + 学生 + です。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ja-n5-l2",
+      "levelId": "ja-n5",
+      "order": 2,
+      "title": {
+        "native": "毎日の行動・時間と存在",
+        "vi": "Hành động hằng ngày, giờ giấc và tồn tại",
+        "en": "Actions, Time & Existence"
+      },
+      "topic": "daily-actions",
+      "summary": {
+        "vi": "Chia động từ thể 'ます' (hiện tại/quá khứ), phân biệt trợ từ に/で/へ/を và あります/います.",
+        "en": "Use ます-form verbs, location particles に/で/へ/を, and existence verbs あります/います."
+      },
+      "xpReward": 50,
+      "vocabulary": [
+        {
+          "id": "ja-n5-l2-v1",
+          "term": "毎日",
+          "reading": "まいにち",
+          "romaji": "mainichi",
+          "rubyText": "毎日[まいにち]",
+          "partOfSpeech": "adverb",
+          "meaning": {
+            "vi": "mỗi ngày, hằng ngày",
+            "en": "every day"
+          },
+          "example": {
+            "text": "毎日七時に起きます。",
+            "rubyText": "毎日[まいにち]七時[しちじ]に起[お]きます。",
+            "reading": "mainichi shichi-ji ni okimasu.",
+            "meaning": {
+              "vi": "Mỗi ngày tôi thức dậy lúc 7 giờ.",
+              "en": "I wake up at seven every day."
+            }
+          },
+          "note": {
+            "vi": "Không cần thêm 'に' sau '毎日'.",
+            "en": "Do not attach the time particle 'に' after '毎日'."
+          }
+        },
+        {
+          "id": "ja-n5-l2-v2",
+          "term": "図書館",
+          "reading": "としょかん",
+          "romaji": "toshokan",
+          "rubyText": "図書館[としょかん]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "thư viện",
+            "en": "library"
+          },
+          "example": {
+            "text": "図書館で本を読みます。",
+            "rubyText": "図書館[としょかん]で本[ほん]を読[よ]みます。",
+            "reading": "toshokan de hon o yomimasu.",
+            "meaning": {
+              "vi": "Tôi đọc sách ở thư viện.",
+              "en": "I read books at the library."
+            }
+          },
+          "note": {
+            "vi": "Nơi diễn ra hành động ('đọc sách tại thư viện') dùng trợ từ 'で'.",
+            "en": "Use particle 'で' for the place where an action happens."
+          }
+        },
+        {
+          "id": "ja-n5-l2-v3",
+          "term": "駅",
+          "reading": "えき",
+          "romaji": "eki",
+          "rubyText": "駅[えき]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "nhà ga",
+            "en": "train station"
+          },
+          "example": {
+            "text": "駅の中にパン屋があります。",
+            "rubyText": "駅[えき]の中[なか]にパン屋[や]があります。",
+            "reading": "eki no naka ni pan-ya ga arimasu.",
+            "meaning": {
+              "vi": "Bên trong nhà ga có tiệm bánh mì.",
+              "en": "There is a bakery inside the station."
+            }
+          },
+          "note": {
+            "vi": "Chỉ vị trí tồn tại dùng 'に' + あります/います.",
+            "en": "Existence location takes 'に' + あります/います."
+          }
+        },
+        {
+          "id": "ja-n5-l2-v4",
+          "term": "電車",
+          "reading": "でんしゃ",
+          "romaji": "densha",
+          "rubyText": "電車[でんしゃ]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "tàu điện",
+            "en": "train"
+          },
+          "example": {
+            "text": "電車で会社へ行きます。",
+            "rubyText": "電車[でんしゃ]で会社[かいしゃ]へ行[い]きます。",
+            "reading": "densha de kaisha e ikimasu.",
+            "meaning": {
+              "vi": "Tôi đi làm bằng tàu điện.",
+              "en": "I go to the company by train."
+            }
+          },
+          "note": {
+            "vi": "'で' cũng chỉ phương tiện di chuyển: 電車で (bằng tàu điện), バスで (bằng xe buýt).",
+            "en": "'で' also marks means of transport: 電車で (by train)."
+          }
+        },
+        {
+          "id": "ja-n5-l2-v5",
+          "term": "コーヒー",
+          "reading": "こーひー",
+          "romaji": "kōhī",
+          "rubyText": "コーヒー",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "cà phê",
+            "en": "coffee"
+          },
+          "example": {
+            "text": "朝、喫茶店でコーヒーを飲みました。",
+            "rubyText": "朝[あさ]、喫茶店[きっさてん]でコーヒーを飲[の]みました。",
+            "reading": "asa, kissaten de kōhī o nomimashita.",
+            "meaning": {
+              "vi": "Buổi sáng tôi đã uống cà phê ở quán nước.",
+              "en": "This morning I drank coffee at a café."
+            }
+          },
+          "note": {
+            "vi": "Từ Katakana có hai dấu trường âm 'ー' kéo dài âm 'ō' và 'ī'.",
+            "en": "Katakana loanword with two long vowels marked by 'ー'."
+          }
+        },
+        {
+          "id": "ja-n5-l2-v6",
+          "term": "猫",
+          "reading": "ねこ",
+          "romaji": "neko",
+          "rubyText": "猫[ねこ]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "con mèo",
+            "en": "cat"
+          },
+          "example": {
+            "text": "いすの下に猫がいます。",
+            "rubyText": "いすの下[した]に猫[ねこ]がいます。",
+            "reading": "isu no shita ni neko ga imasu.",
+            "meaning": {
+              "vi": "Dưới chiếc ghế có một con mèo.",
+              "en": "There is a cat under the chair."
+            }
+          },
+          "note": {
+            "vi": "Vì mèo là sinh vật sống tự di chuyển được nên dùng 'います' thay cho 'あります'.",
+            "en": "Living beings like cats take 'います', not 'あります'."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "ja-n5-l2-g1",
+          "pattern": "Time に / Place で / Destination へ / Object を + V-ます/ました",
+          "title": {
+            "vi": "Các trợ từ cốt lõi (に, で, へ, を) và thể ます",
+            "en": "Core Particles に/で/へ/を & ます Verb Forms"
+          },
+          "structure": "Giờ に | Nơi hành động で | Đích đến へ | Tân ngữ を + V-ます (hiện tại/tương lai) / V-ました (quá khứ)",
+          "explanation": {
+            "vi": "'に' gắn với mốc giờ cụ thể; 'で' chỉ nơi diễn ra hành động hoặc phương tiện; 'へ' (đọc là 'e') chỉ hướng đi tới; 'を' (đọc là 'o') chỉ tân ngữ trực tiếp.",
+            "en": "'に' marks exact time; 'で' marks action location or transport; 'へ' (read 'e') marks direction; 'を' (read 'o') marks direct objects."
+          },
+          "usageNote": {
+            "vi": "Phủ định hiện tại: V-ません; phủ định quá khứ: V-ませんでした.",
+            "en": "Negative forms: V-ません (present/future) and V-ませんでした (past)."
+          },
+          "examples": [
+            {
+              "text": "昨日、八時に学校へ行きました。",
+              "rubyText": "昨日[きのう]、八時[はちじ]に学校[がっこう]へ行[い]きました。",
+              "reading": "kinō, hachi-ji ni gakkō e ikimashita.",
+              "meaning": {
+                "vi": "Hôm qua tôi đã đến trường lúc tám giờ.",
+                "en": "Yesterday I went to school at eight o'clock."
+              }
+            },
+            {
+              "text": "部屋で音楽を聞きます。",
+              "rubyText": "部屋[へや]で音楽[おんがく]を聞[き]きます。",
+              "reading": "heya de ongaku o kikimasu.",
+              "meaning": {
+                "vi": "Tôi nghe nhạc trong phòng.",
+                "en": "I listen to music in my room."
+              }
+            }
+          ]
+        },
+        {
+          "id": "ja-n5-l2-g2",
+          "pattern": "Place に Thing が あります / Person・Animal が います",
+          "title": {
+            "vi": "Diễn tả sự tồn tại: あります và います",
+            "en": "Existence: あります (Objects) vs. います (Living)"
+          },
+          "structure": "[Địa điểm] に + [Vật vô tri] が あります | [Người/Động vật] が います",
+          "explanation": {
+            "vi": "'あります' dùng cho đồ vật, cây cối, tòa nhà; 'います' dùng cho con người và động vật.",
+            "en": "Use 'あります' for inanimate objects/plants/places, and 'います' for people and animals."
+          },
+          "usageNote": {
+            "vi": "Trợ từ đi với địa điểm tồn tại luôn là 'に' (không dùng 'で').",
+            "en": "Static existence always uses 'に' for location, never 'で'."
+          },
+          "examples": [
+            {
+              "text": "机の上に辞書があります。",
+              "rubyText": "机[つくえ]の上[うえ]に辞書[じしょ]があります。",
+              "reading": "tsukue no ue ni jisho ga arimasu.",
+              "meaning": {
+                "vi": "Trên bàn có cuốn từ điển.",
+                "en": "There is a dictionary on the desk."
+              }
+            },
+            {
+              "text": "教室に先生がいます。",
+              "rubyText": "教室[きょうしつ]に先生[せんせい]がいます。",
+              "reading": "kyōshitsu ni sensei ga imasu.",
+              "meaning": {
+                "vi": "Trong lớp học có thầy/cô giáo.",
+                "en": "There is a teacher in the classroom."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Hỏi lịch sinh hoạt và quán gần ga",
+          "en": "Daily Routine & Nearby Café"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Kenji hỏi Minh Anh về giờ học buổi sáng và địa điểm thư viện.",
+          "en": "Kenji asks Minh Anh about her morning schedule and the library."
+        },
+        "lines": [
+          {
+            "speaker": "Kenji",
+            "text": "ミンアンさんは毎日何時に起きますか。",
+            "rubyText": "ミンアンさんは毎日[まいにち]何時[なんじ]に起[お]きますか。",
+            "reading": "Min'an-san wa mainichi nan-ji ni okimasu ka.",
+            "meaning": {
+              "vi": "Minh Anh ơi, mỗi ngày bạn thức dậy lúc mấy giờ?",
+              "en": "Minh Anh, what time do you wake up every day?"
+            }
+          },
+          {
+            "speaker": "Minh Anh",
+            "text": "六時半に起きます。それから、電車で大学へ行きます。",
+            "rubyText": "六時半[ろくじはん]に起[お]きます。それから、電車[でんしゃ]で大学[だいがく]へ行[い]きます。",
+            "reading": "Roku-ji han ni okimasu. Sorekara, densha de daigaku e ikimasu.",
+            "meaning": {
+              "vi": "Mình dậy lúc 6 giờ rưỡi. Sau đó đi tàu điện đến trường đại học.",
+              "en": "I wake up at six-thirty. After that, I go to university by train."
+            }
+          },
+          {
+            "speaker": "Kenji",
+            "text": "大学の近くに静かなカフェがありますか。",
+            "rubyText": "大学[だいがく]の近[ちか]くに静[しず]かなカフェがありますか。",
+            "reading": "Daigaku no chikaku ni shizuka na kafe ga arimasu ka.",
+            "meaning": {
+              "vi": "Gần trường đại học có quán cà phê nào yên tĩnh không?",
+              "en": "Is there a quiet café near the university?"
+            }
+          },
+          {
+            "speaker": "Minh Anh",
+            "text": "はい、駅の前にあります。昨日そこで友達とコーヒーを飲みました。",
+            "rubyText": "はい、駅[えき]の前[まえ]にあります。昨日[きのう]そこで友達[ともだち]とコーヒーを飲[の]みました。",
+            "reading": "Hai, eki no mae ni arimasu. Kinō soko de tomodachi to kōhī o nomimashita.",
+            "meaning": {
+              "vi": "Có chứ, ở phía trước nhà ga ấy. Hôm qua mình vừa uống cà phê với bạn ở đó.",
+              "en": "Yes, in front of the station. Yesterday I had coffee there with a friend."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Hậu tố '〜半 (はん)' nghĩa là 'rưỡi' (30 phút): 六時半 (6 giờ 30).",
+          "en": "Add '半 (han)' after the hour for half past: 六時半 (6:30)."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "ja-n5-l2-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Động từ tồn tại nào dùng cho người và động vật?",
+            "en": "Which existence verb is used for people and animals?"
+          },
+          "targetText": "公園に猫が___。",
+          "options": [
+            "います",
+            "あります",
+            "します",
+            "いきます"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Con mèo là động vật sống nên dùng 'います'.",
+            "en": "Use 'います' for living beings such as cats."
+          }
+        },
+        {
+          "id": "ja-n5-l2-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn cách đọc Kana đúng cho '図書館'.",
+            "en": "Select the Kana reading for '図書館'."
+          },
+          "targetText": "図書館",
+          "ttsText": "図書館",
+          "options": [
+            "としょかん",
+            "でんしゃ",
+            "まいにち",
+            "えき"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'図書館' đọc là としょかん (toshokan).",
+            "en": "'図書館' is read としょかん (toshokan)."
+          }
+        },
+        {
+          "id": "ja-n5-l2-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn trợ từ chỉ nơi diễn ra hành động 'đọc sách tại thư viện':",
+            "en": "Select the particle marking where an action takes place:"
+          },
+          "targetText": "図書館___本を読みます。",
+          "ttsText": "図書館で本を読みます。",
+          "options": [
+            "で",
+            "に",
+            "へ",
+            "が"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "Nơi thực hiện hành động dùng trợ từ 'で'.",
+            "en": "Active action locations require the particle 'で'."
+          }
+        },
+        {
+          "id": "ja-n5-l2-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu chỉ phương tiện di chuyển đúng.",
+            "en": "Arrange the tokens into a sentence about commuting by train."
+          },
+          "targetMeaning": {
+            "vi": "Tôi đi đến nhà ga bằng tàu điện.",
+            "en": "I go to the station by train."
+          },
+          "tokens": [
+            "駅へ",
+            "行きます。",
+            "電車で"
+          ],
+          "correctOrder": [
+            "電車で",
+            "駅へ",
+            "行きます。"
+          ],
+          "correctSentence": "電車で駅へ行きます。",
+          "explanation": {
+            "vi": "Phương tiện (電車で) + đích đến (駅へ) + động từ (行きます)。",
+            "en": "Order: means (電車で) + destination (駅へ) + verb (行きます)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ja-n5-l3",
+      "levelId": "ja-n5",
+      "order": 3,
+      "title": {
+        "native": "形容詞・好きとお願い",
+        "vi": "Tính từ, sở thích và lời nhờ lịch sự",
+        "en": "Adjectives, Likes & Requests"
+      },
+      "topic": "adjectives-requests",
+      "summary": {
+        "vi": "Phân biệt tính từ đuôi い và な, nói thích/muốn với が好きです / 〜たいです và nhờ vả 〜てください.",
+        "en": "Use い/な-adjectives, express preferences with が好き/〜たい, and make polite requests with 〜てください."
+      },
+      "xpReward": 50,
+      "vocabulary": [
+        {
+          "id": "ja-n5-l3-v1",
+          "term": "美味しい",
+          "reading": "おいしい",
+          "romaji": "oishii",
+          "rubyText": "美味[おい]しい",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "ngon",
+            "en": "delicious"
+          },
+          "example": {
+            "text": "この店のラーメンはとても美味しいです。",
+            "rubyText": "この店[みせ]のラーメンはとても美味[おい]しいです。",
+            "reading": "kono mise no rāmen wa totemo oishii desu.",
+            "meaning": {
+              "vi": "Mì ramen của quán này rất ngon.",
+              "en": "The ramen at this shop is very delicious."
+            }
+          },
+          "note": {
+            "vi": "Tính từ đuôi い: phủ định là おいしくないです; quá khứ là おいしかったです.",
+            "en": "い-adjective: negative 'おいしくないです', past 'おいしかったです'."
+          }
+        },
+        {
+          "id": "ja-n5-l3-v2",
+          "term": "静か",
+          "reading": "しずか",
+          "romaji": "shizuka",
+          "rubyText": "静[しず]か",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "yên tĩnh",
+            "en": "quiet"
+          },
+          "example": {
+            "text": "静かな部屋で勉強したいです。",
+            "rubyText": "静[しず]かな部屋[へや]で勉強[べんきょう]したいです。",
+            "reading": "shizuka na heya de benkyō shitai desu.",
+            "meaning": {
+              "vi": "Tôi muốn học trong một căn phòng yên tĩnh.",
+              "en": "I want to study in a quiet room."
+            }
+          },
+          "note": {
+            "vi": "Tính từ đuôi な: khi bổ nghĩa cho danh từ cần thêm 'な' (静かな部屋).",
+            "en": "な-adjective: requires 'な' before a noun ('静かな部屋')."
+          }
+        },
+        {
+          "id": "ja-n5-l3-v3",
+          "term": "好き",
+          "reading": "すき",
+          "romaji": "suki",
+          "rubyText": "好[す]き",
+          "partOfSpeech": "adjective",
+          "meaning": {
+            "vi": "thích",
+            "en": "to like / fond of"
+          },
+          "example": {
+            "text": "私は抹茶のお茶が好きです。",
+            "rubyText": "私[わたし]は抹茶[まっちゃ]のお茶[ちゃ]が好[す]きです。",
+            "reading": "watashi wa matcha no o-cha ga suki desu.",
+            "meaning": {
+              "vi": "Tôi thích trà xanh matcha.",
+              "en": "I like matcha green tea."
+            }
+          },
+          "note": {
+            "vi": "Trong tiếng Nhật '好き' là tính từ đuôi な và đi với trợ từ 'が' (〜が好きです), không dùng 'を'.",
+            "en": "'好き' is a な-adjective taking particle 'が' (〜が好きです), not 'を'."
+          }
+        },
+        {
+          "id": "ja-n5-l3-v4",
+          "term": "音楽",
+          "reading": "おんがく",
+          "romaji": "ongaku",
+          "rubyText": "音楽[おんがく]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "âm nhạc",
+            "en": "music"
+          },
+          "example": {
+            "text": "どんな音楽が好きですか。",
+            "rubyText": "どんな音楽[おんがく]が好[す]きですか。",
+            "reading": "donna ongaku ga suki desu ka.",
+            "meaning": {
+              "vi": "Bạn thích thể loại nhạc nào?",
+              "en": "What kind of music do you like?"
+            }
+          },
+          "note": {
+            "vi": "Hỏi 'thể loại/kiểu như thế nào' dùng 'どんな + Danh từ'.",
+            "en": "Ask 'what kind of...' with 'どんな + Noun'."
+          }
+        },
+        {
+          "id": "ja-n5-l3-v5",
+          "term": "写真",
+          "reading": "しゃしん",
+          "romaji": "shashin",
+          "rubyText": "写真[しゃしん]",
+          "partOfSpeech": "noun",
+          "meaning": {
+            "vi": "bức ảnh",
+            "en": "photograph"
+          },
+          "example": {
+            "text": "ここで写真を撮ってもいいですか。",
+            "rubyText": "ここで写真[しゃしん]を撮[と]ってもいいですか。",
+            "reading": "koko de shashin o totte mo ii desu ka.",
+            "meaning": {
+              "vi": "Ở đây tôi chụp ảnh có được không?",
+              "en": "May I take photos here?"
+            }
+          },
+          "note": {
+            "vi": "Chụp ảnh là '写真を撮る (しゃしんをとる)'.",
+            "en": "Collocation: 写真を撮る (to take a photo)."
+          }
+        },
+        {
+          "id": "ja-n5-l3-v6",
+          "term": "ゆっくり",
+          "reading": "ゆっくり",
+          "romaji": "yukkuri",
+          "rubyText": "ゆっくり",
+          "partOfSpeech": "adverb",
+          "meaning": {
+            "vi": "chậm rãi, thong thả",
+            "en": "slowly / at ease"
+          },
+          "example": {
+            "text": "すみません、もう少しゆっくり話してください。",
+            "rubyText": "すみません、もう少[すこ]しゆっくり話[はな]してください。",
+            "reading": "sumimasen, mō sukoshi yukkuri hanashite kudasai.",
+            "meaning": {
+              "vi": "Xin lỗi, làm ơn nói chậm hơn một chút được không ạ?",
+              "en": "Excuse me, please speak a little more slowly."
+            }
+          },
+          "note": {
+            "vi": "Âm ngắt 'っ' tạo nhịp dừng ngắn trước 'く'.",
+            "en": "The small 'っ' doubles the 'k' consonant sound."
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "id": "ja-n5-l3-g1",
+          "pattern": "い-Adj + N / な-Adj + な + N",
+          "title": {
+            "vi": "Tính từ đuôi い và tính từ đuôi な",
+            "en": "い-Adjectives vs. な-Adjectives"
+          },
+          "structure": "い-Adj + N (新しい本) | な-Adj + な + N (きれいな町)",
+          "explanation": {
+            "vi": "Tính từ đuôi い gắn trực tiếp trước danh từ và chia phủ định thành '〜くないです'; tính từ đuôi な cần thêm 'な' trước danh từ và phủ định thành '〜じゃありません'.",
+            "en": "い-adjectives attach directly before nouns and negate to 〜くないです; な-adjectives take な before nouns and negate to 〜じゃありません."
+          },
+          "usageNote": {
+            "vi": "Chú ý ngoại lệ: 'きれい (đẹp/sạch)' và '有名 (nổi tiếng)' kết thúc bằng âm 'い' nhưng là tính từ đuôi な!",
+            "en": "Watch out for 'きれい (pretty/clean)' and '有名 (famous)'—they end in 'i' but are な-adjectives!"
+          },
+          "examples": [
+            {
+              "text": "これは新しい日本語のアプリです。",
+              "rubyText": "これは新[あたら]しい日本語[にほんご]のアプリです。",
+              "reading": "kore wa atarashii Nihongo no apuri desu.",
+              "meaning": {
+                "vi": "Đây là ứng dụng tiếng Nhật mới.",
+                "en": "This is a new Japanese app."
+              }
+            },
+            {
+              "text": "京都は静かできれいな町です。",
+              "rubyText": "京都[きょうと]は静[しず]かできれいな町[まち]です。",
+              "reading": "Kyōto wa shizuka de kirei na machi desu.",
+              "meaning": {
+                "vi": "Kyoto là một thành phố yên tĩnh và xinh đẹp.",
+                "en": "Kyoto is a quiet and beautiful city."
+              }
+            }
+          ]
+        },
+        {
+          "id": "ja-n5-l3-g2",
+          "pattern": "V-ます (bỏ ます) + たいです | V-て + ください",
+          "title": {
+            "vi": "Mong muốn '〜たいです' và yêu cầu lịch sự '〜てください'",
+            "en": "Desire 〜たいです & Polite Request 〜てください"
+          },
+          "structure": "Thân động từ + たいです (muốn làm gì) | Thể て + ください (xin hãy làm gì)",
+          "explanation": {
+            "vi": "'V-たいです' diễn tả mong muốn của bản thân; 'V-てください' dùng để nhờ vả hoặc hướng dẫn một cách lịch sự.",
+            "en": "'V-たいです' expresses what you want to do; 'V-てください' makes polite requests or instructions."
+          },
+          "usageNote": {
+            "vi": "Trước 'たいです' có thể dùng 'が' hoặc 'を' cho tân ngữ (お茶が/を飲みたいです).",
+            "en": "Objects with 〜たいです can take either 'を' or 'が'."
+          },
+          "examples": [
+            {
+              "text": "来年、日本へ行きたいです。",
+              "rubyText": "来年[らいねん]、日本[にほん]へ行[い]きたいです。",
+              "reading": "rainen, Nihon e ikitai desu.",
+              "meaning": {
+                "vi": "Năm sau tôi muốn đi Nhật Bản.",
+                "en": "Next year I want to go to Japan."
+              }
+            },
+            {
+              "text": "ここに名前を書いてください。",
+              "rubyText": "ここに名前[なまえ]を書[か]いてください。",
+              "reading": "koko ni namae o kaite kudasai.",
+              "meaning": {
+                "vi": "Xin hãy viết tên vào đây.",
+                "en": "Please write your name here."
+              }
+            }
+          ]
+        }
+      ],
+      "dialogue": {
+        "title": {
+          "vi": "Ở quán ăn và nhờ nói chậm lại",
+          "en": "Ordering Food & Asking Politely"
+        },
+        "mode": "dialogue",
+        "context": {
+          "vi": "Minh Anh hỏi Kenji về món ngon và nhờ anh nói chậm hơn khi luyện tiếng Nhật.",
+          "en": "Minh Anh asks Kenji about Japanese dishes and practices polite requests."
+        },
+        "lines": [
+          {
+            "speaker": "Minh Anh",
+            "text": "ケンジさんはどんな日本料理が好きですか。",
+            "rubyText": "ケンジさんはどんな日本料理[にほんりょうり]が好[す]きですか。",
+            "reading": "Kenji-san wa donna Nihon ryōri ga suki desu ka.",
+            "meaning": {
+              "vi": "Kenji thích món Nhật nào nhất?",
+              "en": "What kind of Japanese food do you like, Kenji?"
+            }
+          },
+          {
+            "speaker": "Kenji",
+            "text": "お寿司が好きです。あそこのお店は安くて美味しいですよ。",
+            "rubyText": "お寿司[すし]が好[す]きです。あそこのお店[みせ]は安[やす]くて美味[おい]しいですよ。",
+            "reading": "O-sushi ga suki desu. Asoko no o-mise wa yasukute oishii desu yo.",
+            "meaning": {
+              "vi": "Mình thích sushi. Quán đằng kia vừa rẻ vừa ngon lắm đấy.",
+              "en": "I like sushi. That restaurant over there is inexpensive and delicious."
+            }
+          },
+          {
+            "speaker": "Minh Anh",
+            "text": "わあ、行きたいです！すみません、そのお店の名前をもう一度ゆっくり言ってください。",
+            "rubyText": "わあ、行[い]きたいです！すみません、そのお店[みせ]の名前[なまえ]をもう一度[いちど]ゆっくり言[い]ってください。",
+            "reading": "Wā, ikitai desu! Sumimasen, sono o-mise no namae o mō ichido yukkuri itte kudasai.",
+            "meaning": {
+              "vi": "Ôi mình muốn đi quá! Xin lỗi, bạn đọc lại tên quán chậm một chút giúp mình được không?",
+              "en": "Wow, I want to go! Excuse me, please say that restaurant's name once more slowly."
+            }
+          },
+          {
+            "speaker": "Kenji",
+            "text": "『さくら食堂』です。メモに書きますね。",
+            "rubyText": "『さくら食堂[しょくどう]』です。メモに書[か]きますね。",
+            "reading": "'Sakura Shokudō' desu. Memo ni kakimasu ne.",
+            "meaning": {
+              "vi": "Là 'Sakura Shokudo' nhé. Để mình viết vào giấy ghi chú cho bạn.",
+              "en": "It's 'Sakura Shokudo'. I'll jot it down in a note for you."
+            }
+          }
+        ],
+        "culturalNote": {
+          "vi": "Đuôi câu '〜ね' ở cuối ('書きますね') tạo cảm giác ân cần, xác nhận mình đang làm giúp người nghe.",
+          "en": "Ending with 'ね' ('書きますね') adds warmth and reassurance."
+        }
+      },
+      "quizzes": [
+        {
+          "id": "ja-n5-l3-q1",
+          "type": "multiple_choice",
+          "prompt": {
+            "vi": "Cụm nào nối tính từ '静か' (yên tĩnh) với danh từ '町' (thành phố) ĐÚNG ngữ pháp?",
+            "en": "Which phrase grammatically links '静か (quiet)' to '町 (town)'?"
+          },
+          "targetText": "a quiet town",
+          "options": [
+            "静かな町",
+            "静かの町",
+            "静かい町",
+            "静か町"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'静か' là tính từ đuôi な nên cần thêm 'な' trước danh từ.",
+            "en": "'静か' is a な-adjective and requires 'な' before a noun."
+          }
+        },
+        {
+          "id": "ja-n5-l3-q2",
+          "type": "reading_match",
+          "prompt": {
+            "vi": "Chọn cách đọc Kana đúng cho '美味しい'.",
+            "en": "Choose the Kana reading for '美味しい'."
+          },
+          "targetText": "美味しい",
+          "ttsText": "美味しい",
+          "options": [
+            "おいしい",
+            "しずか",
+            "しゃしん",
+            "おんがく"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'美味しい' đọc là おいしい (oishii).",
+            "en": "'美味しい' is read おいしい (oishii)."
+          }
+        },
+        {
+          "id": "ja-n5-l3-q3",
+          "type": "fill_blank",
+          "prompt": {
+            "vi": "Chọn trợ từ đi với '好きです':",
+            "en": "Select the particle required by '好きです':"
+          },
+          "targetText": "私は音楽___好きです。",
+          "ttsText": "私は音楽が好きです。",
+          "options": [
+            "が",
+            "を",
+            "で",
+            "へ"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "vi": "'好きです' luôn đi với trợ từ 'が' (〜が好きです).",
+            "en": "Use particle 'が' before '好きです'."
+          }
+        },
+        {
+          "id": "ja-n5-l3-q4",
+          "type": "sentence_order",
+          "prompt": {
+            "vi": "Sắp xếp thành câu đề nghị lịch sự hoàn chỉnh.",
+            "en": "Order the tokens into a polite request sentence."
+          },
+          "targetMeaning": {
+            "vi": "Xin hãy nói chậm rãi.",
+            "en": "Please speak slowly."
+          },
+          "tokens": [
+            "話して",
+            "ください。",
+            "ゆっくり"
+          ],
+          "correctOrder": [
+            "ゆっくり",
+            "話して",
+            "ください。"
+          ],
+          "correctSentence": "ゆっくり話してください。",
+          "explanation": {
+            "vi": "Trật tự: Trạng từ (ゆっくり) + V-て (話して) + ください。",
+            "en": "Order: adverb (ゆっくり) + て-form (話して) + ください。"
+          }
+        }
+      ]
+    }
+  ]
+}
